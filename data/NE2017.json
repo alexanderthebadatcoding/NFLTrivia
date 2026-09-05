@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '17",
+      "stats": {
+        "yds": 4577,
+        "td": 32,
+        "int": 8
+      }
+    },
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '17",
+      "stats": {
+        "yds": 1287,
+        "td": 4,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Develin",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dion Lewis",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 896,
+        "rtd": 6,
+        "recyds": 214,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rex Burkhead",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 264,
+        "rtd": 5,
+        "recyds": 254,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Mike Gillislee",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 383,
+        "rtd": 5,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '17",
+      "stats": {
+        "ryds": 171,
+        "rtd": 0,
+        "recyds": 429,
+        "rectd": 3,
+        "rec": 56
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 659,
+        "rectd": 2,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Kenny Britt",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 256,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Chris Hogan",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 439,
+        "rectd": 5,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Bernard Reedy",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 1082,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Phillip Dorsett",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 194,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Martellus Bennett",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 286,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 1084,
+        "rectd": 8,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Dwayne Allen",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 86,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jacob Hollister",
+      "team": "NE '17",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

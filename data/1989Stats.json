@@ -1,0 +1,690 @@
+{
+  "QB": [
+    {
+      "name": "Don Majkowski",
+      "team": "GB '89",
+      "stats": {
+        "yds": 4318,
+        "td": 27,
+        "int": 20
+      }
+    },
+    {
+      "name": "Jim Everett",
+      "team": "LOS '89",
+      "stats": {
+        "yds": 4310,
+        "td": 29,
+        "int": 17
+      }
+    },
+    {
+      "name": "Dan Marino",
+      "team": "MIA '89",
+      "stats": {
+        "yds": 3997,
+        "td": 24,
+        "int": 22
+      }
+    },
+    {
+      "name": "Mark Rypien",
+      "team": "WSH '89",
+      "stats": {
+        "yds": 3768,
+        "td": 22,
+        "int": 13
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "HOU '89",
+      "stats": {
+        "yds": 3631,
+        "td": 23,
+        "int": 14
+      }
+    },
+    {
+      "name": "Bernie Kosar",
+      "team": "CLE '89",
+      "stats": {
+        "yds": 3533,
+        "td": 18,
+        "int": 14
+      }
+    },
+    {
+      "name": "Boomer Esiason",
+      "team": "CIN '89",
+      "stats": {
+        "yds": 3525,
+        "td": 28,
+        "int": 11
+      }
+    },
+    {
+      "name": "Joe Montana",
+      "team": "SF '89",
+      "stats": {
+        "yds": 3521,
+        "td": 26,
+        "int": 8
+      }
+    },
+    {
+      "name": "Chris Miller",
+      "team": "ATL '89",
+      "stats": {
+        "yds": 3459,
+        "td": 16,
+        "int": 10
+      }
+    },
+    {
+      "name": "Randall Cunningham",
+      "team": "PHI '89",
+      "stats": {
+        "yds": 3400,
+        "td": 21,
+        "int": 15
+      }
+    },
+    {
+      "name": "Kenneth John O'Brien Jr.",
+      "team": "NYJ '89",
+      "stats": {
+        "yds": 3346,
+        "td": 12,
+        "int": 18
+      }
+    },
+    {
+      "name": "Dave Krieg",
+      "team": "SEA '89",
+      "stats": {
+        "yds": 3309,
+        "td": 21,
+        "int": 20
+      }
+    },
+    {
+      "name": "Vinny Testaverde",
+      "team": "TB '89",
+      "stats": {
+        "yds": 3133,
+        "td": 20,
+        "int": 22
+      }
+    },
+    {
+      "name": "Jim Kelly",
+      "team": "BUF '89",
+      "stats": {
+        "yds": 3130,
+        "td": 25,
+        "int": 18
+      }
+    },
+    {
+      "name": "Phil Simms",
+      "team": "NYG '89",
+      "stats": {
+        "yds": 3061,
+        "td": 14,
+        "int": 14
+      }
+    },
+    {
+      "name": "John Elway",
+      "team": "DEN '89",
+      "stats": {
+        "yds": 3051,
+        "td": 18,
+        "int": 18
+      }
+    },
+    {
+      "name": "Bobby Hebert",
+      "team": "NO '89",
+      "stats": {
+        "yds": 2686,
+        "td": 15,
+        "int": 15
+      }
+    },
+    {
+      "name": "Wade Wilson",
+      "team": "MIN '89",
+      "stats": {
+        "yds": 2543,
+        "td": 9,
+        "int": 12
+      }
+    },
+    {
+      "name": "Steve DeBerg",
+      "team": "KC '89",
+      "stats": {
+        "yds": 2529,
+        "td": 11,
+        "int": 16
+      }
+    },
+    {
+      "name": "Bubby Brister",
+      "team": "PIT '89",
+      "stats": {
+        "yds": 2365,
+        "td": 9,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jack Trudeau",
+      "team": "IND '89",
+      "stats": {
+        "yds": 2317,
+        "td": 15,
+        "int": 13
+      }
+    },
+    {
+      "name": "James Robert McMahon",
+      "team": "SD '89",
+      "stats": {
+        "yds": 2132,
+        "td": 10,
+        "int": 10
+      }
+    },
+    {
+      "name": "Mike Tomczak",
+      "team": "CHI '89",
+      "stats": {
+        "yds": 2058,
+        "td": 16,
+        "int": 16
+      }
+    },
+    {
+      "name": "Troy Aikman",
+      "team": "DAL '89",
+      "stats": {
+        "yds": 1749,
+        "td": 9,
+        "int": 18
+      }
+    },
+    {
+      "name": "Steve Beuerlein",
+      "team": "LOS '89",
+      "stats": {
+        "yds": 1677,
+        "td": 13,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Barry Sanders",
+      "team": "DET '89",
+      "stats": {
+        "ryds": 1470,
+        "rtd": 14,
+        "recyds": 282,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Eric Dickerson",
+      "team": "IND '89",
+      "stats": {
+        "ryds": 1311,
+        "rtd": 7,
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Neal Anderson",
+      "team": "CHI '89",
+      "stats": {
+        "ryds": 1275,
+        "rtd": 11,
+        "recyds": 434,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Dalton Hilliard",
+      "team": "NO '89",
+      "stats": {
+        "ryds": 1262,
+        "rtd": 13,
+        "recyds": 514,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "BUF '89",
+      "stats": {
+        "ryds": 1244,
+        "rtd": 6,
+        "recyds": 669,
+        "rectd": 6,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Bobby Humphrey",
+      "team": "DEN '89",
+      "stats": {
+        "ryds": 1151,
+        "rtd": 7,
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Roger Craig",
+      "team": "SF '89",
+      "stats": {
+        "ryds": 1054,
+        "rtd": 6,
+        "recyds": 473,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Herschel Walker",
+      "team": "MIN '89",
+      "stats": {
+        "ryds": 915,
+        "rtd": 7,
+        "recyds": 423,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "John Stephens",
+      "team": "NE '89",
+      "stats": {
+        "ryds": 833,
+        "rtd": 7,
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tim Worley",
+      "team": "PIT '89",
+      "stats": {
+        "ryds": 770,
+        "rtd": 5,
+        "recyds": 113,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Marion Stevenson Butts Jr.",
+      "team": "SD '89",
+      "stats": {
+        "ryds": 683,
+        "rtd": 9,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Merril Hoge",
+      "team": "PIT '89",
+      "stats": {
+        "ryds": 621,
+        "rtd": 8,
+        "recyds": 271,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Earnest Byner",
+      "team": "WSH '89",
+      "stats": {
+        "ryds": 580,
+        "rtd": 7,
+        "recyds": 458,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "John L. Williams",
+      "team": "SEA '89",
+      "stats": {
+        "ryds": 499,
+        "rtd": 1,
+        "recyds": 657,
+        "rectd": 6,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "LOS '89",
+      "stats": {
+        "ryds": 471,
+        "rtd": 1,
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Keith Byars",
+      "team": "PHI '89",
+      "stats": {
+        "ryds": 452,
+        "rtd": 5,
+        "recyds": 721,
+        "rectd": 0,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Eric Ball",
+      "team": "CIN '89",
+      "stats": {
+        "ryds": 391,
+        "rtd": 3,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Robert Lewis Delpino",
+      "team": "LOS '89",
+      "stats": {
+        "ryds": 368,
+        "rtd": 1,
+        "recyds": 334,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Lorenzo White",
+      "team": "HOU '89",
+      "stats": {
+        "ryds": 349,
+        "rtd": 5,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Brad Muster",
+      "team": "CHI '89",
+      "stats": {
+        "ryds": 327,
+        "rtd": 5,
+        "recyds": 259,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Tom Rathman",
+      "team": "SF '89",
+      "stats": {
+        "ryds": 305,
+        "rtd": 1,
+        "recyds": 616,
+        "rectd": 1,
+        "rec": 73
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerry Rice",
+      "team": "SF '89",
+      "stats": {
+        "recyds": 1483,
+        "rectd": 17,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Sterling Sharpe",
+      "team": "GB '89",
+      "stats": {
+        "recyds": 1423,
+        "rectd": 12,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Mark Carrier",
+      "team": "TB '89",
+      "stats": {
+        "recyds": 1422,
+        "rectd": 9,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Henry Ellard",
+      "team": "LOS '89",
+      "stats": {
+        "recyds": 1382,
+        "rectd": 8,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "BUF '89",
+      "stats": {
+        "recyds": 1312,
+        "rectd": 9,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "SD '89",
+      "stats": {
+        "recyds": 1252,
+        "rectd": 10,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Webster Slaughter",
+      "team": "CLE '89",
+      "stats": {
+        "recyds": 1236,
+        "rectd": 6,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Gary Clark",
+      "team": "WSH '89",
+      "stats": {
+        "recyds": 1229,
+        "rectd": 9,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Tim McGee",
+      "team": "CIN '89",
+      "stats": {
+        "recyds": 1211,
+        "rectd": 8,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Art Monk",
+      "team": "WSH '89",
+      "stats": {
+        "recyds": 1186,
+        "rectd": 8,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Flipper Anderson",
+      "team": "LOS '89",
+      "stats": {
+        "recyds": 1146,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Ricky Sanders",
+      "team": "WSH '89",
+      "stats": {
+        "recyds": 1138,
+        "rectd": 4,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Vance Johnson",
+      "team": "DEN '89",
+      "stats": {
+        "recyds": 1095,
+        "rectd": 7,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Eric Martin",
+      "team": "NO '89",
+      "stats": {
+        "recyds": 1090,
+        "rectd": 8,
+        "rec": 68
+      }
+    },
+    {
+      "name": "John Taylor",
+      "team": "SF '89",
+      "stats": {
+        "recyds": 1077,
+        "rectd": 10,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Anthony Carter",
+      "team": "MIN '89",
+      "stats": {
+        "recyds": 1066,
+        "rectd": 4,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Brian Blades",
+      "team": "SEA '89",
+      "stats": {
+        "recyds": 1063,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Mark Clayton",
+      "team": "MIA '89",
+      "stats": {
+        "recyds": 1011,
+        "rectd": 9,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Drew Hill",
+      "team": "HOU '89",
+      "stats": {
+        "recyds": 938,
+        "rectd": 8,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Bill Brooks",
+      "team": "IND '89",
+      "stats": {
+        "recyds": 919,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Shawn Collins",
+      "team": "ATL '89",
+      "stats": {
+        "recyds": 862,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Ernie Jones",
+      "team": "PHO '89",
+      "stats": {
+        "recyds": 838,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Andre Rison",
+      "team": "IND '89",
+      "stats": {
+        "recyds": 820,
+        "rectd": 4,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Ernest Pastell Givins Jr.",
+      "team": "HOU '89",
+      "stats": {
+        "recyds": 794,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Reggie Langhorne",
+      "team": "CLE '89",
+      "stats": {
+        "recyds": 749,
+        "rectd": 2,
+        "rec": 60
+      }
+    }
+  ],
+  "TE": []
+}

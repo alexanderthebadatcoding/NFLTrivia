@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Davis Mills",
+      "team": "HOU '25",
+      "stats": {
+        "yds": 915,
+        "td": 5,
+        "int": 1
+      }
+    },
+    {
+      "name": "C.J. Stroud",
+      "team": "HOU '25",
+      "stats": {
+        "yds": 3041,
+        "td": 19,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dare Ogunbowale",
+      "team": "HOU '25",
+      "stats": {
+        "ryds": 25,
+        "rtd": 1,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "HOU '25",
+      "stats": {
+        "ryds": 506,
+        "rtd": 3,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jawhar Jordan",
+      "team": "HOU '25",
+      "stats": {
+        "ryds": 193,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "British Brooks",
+      "team": "HOU '25",
+      "stats": {
+        "ryds": 78,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Woody Marks",
+      "team": "HOU '25",
+      "stats": {
+        "ryds": 703,
+        "rtd": 2,
+        "recyds": 208,
+        "rectd": 3,
+        "rec": 24
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Justin Watson",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Braxton Berrios",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 1117,
+        "rectd": 6,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Xavier Hutchinson",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 428,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jared Wayne",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jayden Higgins",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 525,
+        "rectd": 6,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jaylin Noel",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 292,
+        "rectd": 2,
+        "rec": 26
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dalton Schultz",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 777,
+        "rectd": 3,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Harrison Bryant",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cade Stover",
+      "team": "HOU '25",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ]
+}

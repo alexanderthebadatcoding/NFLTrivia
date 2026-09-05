@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Joe Webb",
+      "team": "BUF '17",
+      "stats": {
+        "yds": 35,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tyrod Taylor",
+      "team": "BUF '17",
+      "stats": {
+        "yds": 2799,
+        "td": 14,
+        "int": 4
+      }
+    },
+    {
+      "name": "Nathan Peterman",
+      "team": "BUF '17",
+      "stats": {
+        "yds": 231,
+        "td": 2,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Tolbert",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": 247,
+        "rtd": 1,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": 1138,
+        "rtd": 6,
+        "recyds": 448,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Taiwan Jones",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Travaris Cadet",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": 96,
+        "rtd": 0,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Marcus Murphy",
+      "team": "BUF '17",
+      "stats": {
+        "ryds": 41,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Tate",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 81,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Andre Holmes",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 120,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Deonte Thompson",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 555,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 282,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kelvin Benjamin",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 671,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 316,
+        "rectd": 2,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Charles Clay",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 558,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Logan Thomas",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Nick O'Leary",
+      "team": "BUF '17",
+      "stats": {
+        "recyds": 322,
+        "rectd": 2,
+        "rec": 22
+      }
+    }
+  ]
+}

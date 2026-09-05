@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Kevin Hogan",
+      "team": "CLE '17",
+      "stats": {
+        "yds": 517,
+        "td": 4,
+        "int": 5
+      }
+    },
+    {
+      "name": "Cody Kessler",
+      "team": "CLE '17",
+      "stats": {
+        "yds": 126,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "DeShone Kizer",
+      "team": "CLE '17",
+      "stats": {
+        "yds": 2894,
+        "td": 11,
+        "int": 22
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Isaiah Crowell",
+      "team": "CLE '17",
+      "stats": {
+        "ryds": 853,
+        "rtd": 2,
+        "recyds": 182,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Duke Johnson",
+      "team": "CLE '17",
+      "stats": {
+        "ryds": 348,
+        "rtd": 4,
+        "recyds": 693,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Danny Vitale",
+      "team": "CLE '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Matt Dayes",
+      "team": "CLE '17",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Josh Gordon",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 335,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Jordan Leslie",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Sammie Coates",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kasen Williams",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Bryce Treggs",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Corey Coleman",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 305,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Rashard Higgins",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 312,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Ricardo Louis",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 357,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Randall Telfer",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Seth DeValve",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 395,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '17",
+      "stats": {
+        "recyds": 386,
+        "rectd": 4,
+        "rec": 32
+      }
+    }
+  ]
+}

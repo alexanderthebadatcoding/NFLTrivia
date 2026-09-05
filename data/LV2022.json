@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Derek Carr",
+      "team": "LV '22",
+      "stats": {
+        "yds": 3522,
+        "td": 24,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jarrett Stidham",
+      "team": "LV '22",
+      "stats": {
+        "yds": 656,
+        "td": 4,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bolden",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 66,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Ameer Abdullah",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 1653,
+        "rtd": 12,
+        "recyds": 400,
+        "rectd": 0,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Zamir White",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 1516,
+        "rectd": 14,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 690,
+        "rectd": 4,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Keelan Cole",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 141,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 330,
+        "rectd": 2,
+        "rec": 36
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Waller",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 388,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Foster Moreau",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 420,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jesper Horsted",
+      "team": "LV '22",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

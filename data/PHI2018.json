@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Nick Foles",
+      "team": "PHI '18",
+      "stats": {
+        "yds": 1413,
+        "td": 7,
+        "int": 4
+      }
+    },
+    {
+      "name": "Nate Sudfeld",
+      "team": "PHI '18",
+      "stats": {
+        "yds": 22,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '18",
+      "stats": {
+        "yds": 3074,
+        "td": 21,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 120,
+        "rtd": 1,
+        "recyds": 160,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jay Ajayi",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 184,
+        "rtd": 3,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Wendell Smallwood",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 364,
+        "rtd": 3,
+        "recyds": 230,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Corey Clement",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 259,
+        "rtd": 2,
+        "recyds": 192,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Josh Adams",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 511,
+        "rtd": 3,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Golden Tate",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 795,
+        "rectd": 4,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Kamar Aiken",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 843,
+        "rectd": 6,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 300,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 736,
+        "rectd": 4,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Shelton Gibson",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 1163,
+        "rectd": 8,
+        "rec": 116
+      }
+    },
+    {
+      "name": "Richard Rodgers",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Josh Perkins",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 334,
+        "rectd": 4,
+        "rec": 33
+      }
+    }
+  ]
+}

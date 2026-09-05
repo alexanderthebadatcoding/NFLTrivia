@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "ATL '25",
+      "stats": {
+        "yds": 1721,
+        "td": 10,
+        "int": 5
+      }
+    },
+    {
+      "name": "Michael Penix Jr.",
+      "team": "ATL '25",
+      "stats": {
+        "yds": 1982,
+        "td": 9,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tyler Allgeier",
+      "team": "ATL '25",
+      "stats": {
+        "ryds": 514,
+        "rtd": 8,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL '25",
+      "stats": {
+        "ryds": 1478,
+        "rtd": 7,
+        "recyds": 820,
+        "rectd": 4,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Nate Carter",
+      "team": "ATL '25",
+      "stats": {
+        "ryds": 60,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "KhaDarel Hodge",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Sills",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 191,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 443,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Drake London",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 919,
+        "rectd": 7,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Deven Thompkins",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dylan Drummond",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Casey Washington",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Charlie Woerner",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Kyle Pitts",
+      "team": "ATL '25",
+      "stats": {
+        "recyds": 928,
+        "rectd": 5,
+        "rec": 88
+      }
+    }
+  ]
+}

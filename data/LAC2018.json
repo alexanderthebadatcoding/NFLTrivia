@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Philip Rivers",
+      "team": "LAC '18",
+      "stats": {
+        "yds": 4308,
+        "td": 32,
+        "int": 12
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "LAC '18",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Melvin Gordon",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 885,
+        "rtd": 10,
+        "recyds": 490,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Derek Watt",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 554,
+        "rtd": 3,
+        "recyds": 404,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Justin Jackson",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 206,
+        "rtd": 2,
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Detrez Newsome",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Travis Benjamin",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 1196,
+        "rectd": 6,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Tyrell Williams",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 653,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 664,
+        "rectd": 10,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Antonio Gates",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Virgil Green",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 210,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Sean Culkin",
+      "team": "LAC '18",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

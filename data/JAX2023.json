@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "C.J. Beathard",
+      "team": "JAX '23",
+      "stats": {
+        "yds": 349,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '23",
+      "stats": {
+        "yds": 4016,
+        "td": 21,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D'Ernest Johnson",
+      "team": "JAX '23",
+      "stats": {
+        "ryds": 108,
+        "rtd": 0,
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "JAX '23",
+      "stats": {
+        "ryds": 1008,
+        "rtd": 11,
+        "recyds": 476,
+        "rectd": 1,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Tank Bigsby",
+      "team": "JAX '23",
+      "stats": {
+        "ryds": 132,
+        "rtd": 2,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jamal Agnew",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 225,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 321,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 787,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 1016,
+        "rectd": 8,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Tim Jones",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 132,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Elijah Cooks",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Evan Engram",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 963,
+        "rectd": 4,
+        "rec": 114
+      }
+    },
+    {
+      "name": "Luke Farrell",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

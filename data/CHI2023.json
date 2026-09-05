@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Justin Fields",
+      "team": "CHI '23",
+      "stats": {
+        "yds": 2562,
+        "td": 16,
+        "int": 9
+      }
+    },
+    {
+      "name": "Tyson Bagent",
+      "team": "CHI '23",
+      "stats": {
+        "yds": 859,
+        "td": 3,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D'Onta Foreman",
+      "team": "CHI '23",
+      "stats": {
+        "ryds": 425,
+        "rtd": 4,
+        "recyds": 77,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Khari Blasingame",
+      "team": "CHI '23",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Khalil Herbert",
+      "team": "CHI '23",
+      "stats": {
+        "ryds": 611,
+        "rtd": 2,
+        "recyds": 134,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Roschon Johnson",
+      "team": "CHI '23",
+      "stats": {
+        "ryds": 352,
+        "rtd": 2,
+        "recyds": 209,
+        "rectd": 0,
+        "rec": 34
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 1364,
+        "rectd": 8,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Collin Johnson",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 414,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tyler Scott",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 168,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 29,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 719,
+        "rectd": 6,
+        "rec": 73
+      }
+    }
+  ]
+}

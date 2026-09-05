@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "DEN '19",
+      "stats": {
+        "yds": 1822,
+        "td": 6,
+        "int": 5
+      }
+    },
+    {
+      "name": "Brandon Allen",
+      "team": "DEN '19",
+      "stats": {
+        "yds": 515,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "DEN '19",
+      "stats": {
+        "yds": 1020,
+        "td": 7,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Andy Janovich",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 1,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Phillip Lindsay",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 1011,
+        "rtd": 7,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 496,
+        "rtd": 3,
+        "recyds": 256,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Diontae Spencer",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 218,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Fred Brown",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 1112,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeff Heuerman",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Troy Fumagalli",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 562,
+        "rectd": 3,
+        "rec": 40
+      }
+    }
+  ]
+}

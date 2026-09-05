@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Taylor Heinicke",
+      "team": "LAC '24",
+      "stats": {
+        "yds": 28,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC '24",
+      "stats": {
+        "yds": 3870,
+        "td": 23,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Gus Edwards",
+      "team": "LAC '24",
+      "stats": {
+        "ryds": 365,
+        "rtd": 4,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "LAC '24",
+      "stats": {
+        "ryds": 905,
+        "rtd": 9,
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Hassan Haskins",
+      "team": "LAC '24",
+      "stats": {
+        "ryds": 89,
+        "rtd": 2,
+        "recyds": 49,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Scott Matlock",
+      "team": "LAC '24",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kimani Vidal",
+      "team": "LAC '24",
+      "stats": {
+        "ryds": 155,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DJ Chark",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jalen Reagor",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Simi Fehoko",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Josh Palmer",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 584,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Quentin Johnston",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 711,
+        "rectd": 8,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Derius Davis",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 112,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ladd McConkey",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 1149,
+        "rectd": 7,
+        "rec": 82
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Tomlinson",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Will Dissly",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 481,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Stone Smartt",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 208,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Tucker Fisk",
+      "team": "LAC '24",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

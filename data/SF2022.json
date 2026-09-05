@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Josh Johnson",
+      "team": "SF '22",
+      "stats": {
+        "yds": 10,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '22",
+      "stats": {
+        "yds": 2437,
+        "td": 16,
+        "int": 4
+      }
+    },
+    {
+      "name": "Trey Lance",
+      "team": "SF '22",
+      "stats": {
+        "yds": 194,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF '22",
+      "stats": {
+        "yds": 1374,
+        "td": 13,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 200,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 1139,
+        "rtd": 8,
+        "recyds": 741,
+        "rectd": 5,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Elijah Mitchell",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 279,
+        "rtd": 2,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 258,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tyrion Davis-Price",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 99,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 243,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 632,
+        "rectd": 2,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 416,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 1015,
+        "rectd": 8,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Danny Gray",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Kroft",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 765,
+        "rectd": 11,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ]
+}

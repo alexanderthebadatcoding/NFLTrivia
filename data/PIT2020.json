@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '20",
+      "stats": {
+        "yds": 3803,
+        "td": 33,
+        "int": 10
+      }
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "PIT '20",
+      "stats": {
+        "yds": 2,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mason Rudolph",
+      "team": "PIT '20",
+      "stats": {
+        "yds": 324,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Conner",
+      "team": "PIT '20",
+      "stats": {
+        "ryds": 721,
+        "rtd": 6,
+        "recyds": 215,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jaylen Samuels",
+      "team": "PIT '20",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Benny Snell",
+      "team": "PIT '20",
+      "stats": {
+        "ryds": 368,
+        "rtd": 4,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Anthony McFarland",
+      "team": "PIT '20",
+      "stats": {
+        "ryds": 113,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 831,
+        "rectd": 9,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "James Washington",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 392,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 923,
+        "rectd": 7,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Chase Claypool",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 873,
+        "rectd": 9,
+        "rec": 62
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vance McDonald",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Eric Ebron",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 558,
+        "rectd": 5,
+        "rec": 56
+      }
+    }
+  ]
+}

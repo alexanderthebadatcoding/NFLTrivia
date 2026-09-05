@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Carson Wentz",
+      "team": "IND '21",
+      "stats": {
+        "yds": 3563,
+        "td": 27,
+        "int": 7
+      }
+    },
+    {
+      "name": "Jacob Eason",
+      "team": "IND '21",
+      "stats": {
+        "yds": 25,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marlon Mack",
+      "team": "IND '21",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Nyheim Hines",
+      "team": "IND '21",
+      "stats": {
+        "ryds": 276,
+        "rtd": 2,
+        "recyds": 310,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '21",
+      "stats": {
+        "ryds": 1811,
+        "rtd": 18,
+        "recyds": 360,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Deon Jackson",
+      "team": "IND '21",
+      "stats": {
+        "ryds": 31,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "T.Y. Hilton",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 331,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Zach Pascal",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 384,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Keke Coutee",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ashton Dulin",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 173,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Parris Campbell",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 162,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Dezmon Patmon",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 1082,
+        "rectd": 6,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Mike Strachan",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jack Doyle",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 302,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Mo Alie-Cox",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 316,
+        "rectd": 4,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Kylen Granson",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ]
+}

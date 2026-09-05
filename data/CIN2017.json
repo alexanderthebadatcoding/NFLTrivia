@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '17",
+      "stats": {
+        "yds": 3320,
+        "td": 25,
+        "int": 12
+      }
+    },
+    {
+      "name": "AJ McCarron",
+      "team": "CIN '17",
+      "stats": {
+        "yds": 66,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '17",
+      "stats": {
+        "ryds": 458,
+        "rtd": 2,
+        "recyds": 389,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Jeremy Hill",
+      "team": "CIN '17",
+      "stats": {
+        "ryds": 116,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "CIN '17",
+      "stats": {
+        "ryds": 37,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '17",
+      "stats": {
+        "ryds": 626,
+        "rtd": 4,
+        "recyds": 287,
+        "rectd": 0,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon LaFell",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 548,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "A.J. Green",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 1078,
+        "rectd": 8,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Alex Erickson",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 225,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Josh Malone",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 63,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Eifert",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ryan Hewitt",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "CIN '17",
+      "stats": {
+        "recyds": 404,
+        "rectd": 7,
+        "rec": 42
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR '24",
+      "stats": {
+        "yds": 3762,
+        "td": 20,
+        "int": 8
+      }
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "LAR '24",
+      "stats": {
+        "yds": 334,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ronnie Rivers",
+      "team": "LAR '24",
+      "stats": {
+        "ryds": 99,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LAR '24",
+      "stats": {
+        "ryds": 1299,
+        "rtd": 14,
+        "recyds": 182,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Cody Schrader",
+      "team": "LAR '24",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Blake Corum",
+      "team": "LAR '24",
+      "stats": {
+        "ryds": 207,
+        "rtd": 0,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Demarcus Robinson",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 505,
+        "rectd": 7,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 710,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Tyler Johnson",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 291,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 562,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Xavier Smith",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 990,
+        "rectd": 3,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Jordan Whittington",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 293,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 66,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Hunter Long",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Davis Allen",
+      "team": "LAR '24",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Jacoby Brissett",
+      "team": "WSH '23",
+      "stats": {
+        "yds": 224,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Sam Howell",
+      "team": "WSH '23",
+      "stats": {
+        "yds": 3946,
+        "td": 21,
+        "int": 21
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jonathan Williams",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Alex Armah",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Derrick Gore",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": 265,
+        "rtd": 1,
+        "recyds": 389,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": 733,
+        "rtd": 5,
+        "recyds": 368,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Chris Rodriguez Jr.",
+      "team": "WSH '23",
+      "stats": {
+        "ryds": 247,
+        "rtd": 2,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 613,
+        "rectd": 4,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Byron Pringle",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 161,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 1002,
+        "rectd": 4,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 168,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 518,
+        "rectd": 4,
+        "rec": 49
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Thomas",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 496,
+        "rectd": 4,
+        "rec": 55
+      }
+    },
+    {
+      "name": "John Bates",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Cole Turner",
+      "team": "WSH '23",
+      "stats": {
+        "recyds": 120,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ]
+}

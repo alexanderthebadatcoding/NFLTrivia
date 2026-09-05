@@ -1,0 +1,195 @@
+{
+  "QB": [
+    {
+      "name": "Mike Glennon",
+      "team": "TB '16",
+      "stats": {
+        "yds": 75,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jameis Winston",
+      "team": "TB '16",
+      "stats": {
+        "yds": 4090,
+        "td": 28,
+        "int": 18
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Antone Smith",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 47,
+        "rtd": 0,
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 560,
+        "rtd": 2,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Doug Martin",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 421,
+        "rtd": 3,
+        "recyds": 134,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Mike James",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Charles Sims",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 149,
+        "rtd": 1,
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Peyton Barber",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 223,
+        "rtd": 1,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Alan Cross",
+      "team": "TB '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Jackson",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 173,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Cecil Shorts",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Russell Shepard",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 341,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Freddie Martino",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Josh Huff",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 113,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 1321,
+        "rectd": 12,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Adam Humphries",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 622,
+        "rectd": 2,
+        "rec": 55
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brandon Myers",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 660,
+        "rectd": 8,
+        "rec": 57
+      }
+    }
+  ]
+}

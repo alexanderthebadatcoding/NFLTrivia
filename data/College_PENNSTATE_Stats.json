@@ -1,0 +1,2294 @@
+{
+  "QB": [
+    {
+      "name": "Sean Clifford",
+      "team": "GB '23",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trace McSorley",
+      "team": "ARI '22",
+      "stats": {
+        "yds": 412,
+        "td": 0,
+        "int": 5
+      }
+    },
+    {
+      "name": "Trace McSorley",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 90,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt McGloin",
+      "team": "LV '16",
+      "stats": {
+        "yds": 50,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt McGloin",
+      "team": "LV '15",
+      "stats": {
+        "yds": 142,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Matt McGloin",
+      "team": "LV '14",
+      "stats": {
+        "yds": 129,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Matt McGloin",
+      "team": "LV '13",
+      "stats": {
+        "yds": 1547,
+        "td": 8,
+        "int": 8
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "IND '11",
+      "stats": {
+        "yds": 481,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "TEN '10",
+      "stats": {
+        "yds": 1823,
+        "td": 14,
+        "int": 8
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "TEN '09",
+      "stats": {
+        "yds": 1225,
+        "td": 6,
+        "int": 8
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "TEN '08",
+      "stats": {
+        "yds": 2681,
+        "td": 12,
+        "int": 7
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "TEN '07",
+      "stats": {
+        "yds": 531,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "TEN '06",
+      "stats": {
+        "yds": 549,
+        "td": 1,
+        "int": 6
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "LV '05",
+      "stats": {
+        "yds": 3759,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "LV '04",
+      "stats": {
+        "yds": 3495,
+        "td": 21,
+        "int": 20
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '03",
+      "stats": {
+        "yds": 3110,
+        "td": 13,
+        "int": 16
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '02",
+      "stats": {
+        "yds": 4073,
+        "td": 19,
+        "int": 14
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '01",
+      "stats": {
+        "yds": 3764,
+        "td": 19,
+        "int": 16
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '00",
+      "stats": {
+        "yds": 3610,
+        "td": 22,
+        "int": 13
+      }
+    },
+    {
+      "name": "Kevin Thompson",
+      "team": "CLE '00",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '99",
+      "stats": {
+        "yds": 2318,
+        "td": 8,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Saquon Barkley",
+      "team": "PHI '25",
+      "stats": {
+        "ryds": 1140,
+        "rtd": 7,
+        "recyds": 273,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 117,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "PHI '24",
+      "stats": {
+        "ryds": 2005,
+        "rtd": 13,
+        "recyds": 278,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 205,
+        "rtd": 2,
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 962,
+        "rtd": 6,
+        "recyds": 280,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "CAR '23",
+      "stats": {
+        "ryds": 432,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jason Cabinda",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '22",
+      "stats": {
+        "ryds": 1312,
+        "rtd": 10,
+        "recyds": 338,
+        "rectd": 0,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '22",
+      "stats": {
+        "ryds": 1269,
+        "rtd": 11,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jason Cabinda",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '21",
+      "stats": {
+        "ryds": 593,
+        "rtd": 2,
+        "recyds": 263,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '21",
+      "stats": {
+        "ryds": 754,
+        "rtd": 0,
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jason Cabinda",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 867,
+        "rtd": 6,
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 1003,
+        "rtd": 6,
+        "recyds": 438,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 818,
+        "rtd": 3,
+        "recyds": 509,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '18",
+      "stats": {
+        "ryds": 1307,
+        "rtd": 11,
+        "recyds": 721,
+        "rectd": 4,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Evan Royster",
+      "team": "WAS '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '12",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Evan Royster",
+      "team": "WAS '12",
+      "stats": {
+        "ryds": 88,
+        "rtd": 2,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "MIA '11",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '11",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 74,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Evan Royster",
+      "team": "WAS '11",
+      "stats": {
+        "ryds": 328,
+        "rtd": 0,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "WAS '10",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '10",
+      "stats": {
+        "ryds": 77,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "CIN '09",
+      "stats": {
+        "ryds": 562,
+        "rtd": 0,
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '09",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "CIN '08",
+      "stats": {
+        "ryds": 55,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 874,
+        "rtd": 5,
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '08",
+      "stats": {
+        "ryds": 50,
+        "rtd": 0,
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tony Hunt",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 9,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "CIN '07",
+      "stats": {
+        "ryds": 763,
+        "rtd": 7,
+        "recyds": 373,
+        "rectd": 0,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 559,
+        "rtd": 3,
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '07",
+      "stats": {
+        "ryds": 121,
+        "rtd": 0,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tony Hunt",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 16,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 138,
+        "rtd": 1,
+        "recyds": 213,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 1789,
+        "rtd": 17,
+        "recyds": 410,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 116,
+        "rtd": 2,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '05",
+      "stats": {
+        "ryds": 1750,
+        "rtd": 20,
+        "recyds": 343,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "DAL '04",
+      "stats": {
+        "ryds": 246,
+        "rtd": 1,
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "NO '04",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "CIN '04",
+      "stats": {
+        "ryds": 158,
+        "rtd": 0,
+        "recyds": 171,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Eric McCoo",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 581,
+        "rtd": 9,
+        "recyds": 278,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 306,
+        "rtd": 1,
+        "recyds": 493,
+        "rectd": 4,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "NO '03",
+      "stats": {
+        "ryds": 72,
+        "rtd": 1,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Sam Gash",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 85,
+        "rtd": 1,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '02",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 257,
+        "rectd": 1,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "WAS '02",
+      "stats": {
+        "ryds": 534,
+        "rtd": 1,
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '01",
+      "stats": {
+        "ryds": 102,
+        "rtd": 0,
+        "recyds": 252,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "WAS '01",
+      "stats": {
+        "ryds": 308,
+        "rtd": 3,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Sam Gash",
+      "team": "BAL '01",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '00",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 853,
+        "rectd": 2,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Curtis Enis",
+      "team": "CHI '00",
+      "stats": {
+        "ryds": 84,
+        "rtd": 1,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Sam Gash",
+      "team": "BAL '00",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Brian Milne",
+      "team": "NO '00",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '99",
+      "stats": {
+        "ryds": 84,
+        "rtd": 0,
+        "recyds": 302,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Gary Brown",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 177,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 15,
+        "rtd": 1,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Curtis Enis",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 916,
+        "rtd": 3,
+        "recyds": 340,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Sam Gash",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 163,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Brian Milne",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 360,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 262,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 847,
+        "rectd": 5,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '24",
+      "stats": {
+        "recyds": 576,
+        "rectd": 5,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Dan Chisena",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 390,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 280,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 1024,
+        "rectd": 2,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "WAS '23",
+      "stats": {
+        "recyds": 518,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 132,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "LA '22",
+      "stats": {
+        "recyds": 339,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 1023,
+        "rectd": 3,
+        "rec": 104
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "WAS '22",
+      "stats": {
+        "recyds": 523,
+        "rectd": 7,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 410,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '21",
+      "stats": {
+        "recyds": 1103,
+        "rectd": 5,
+        "rec": 98
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 1250,
+        "rectd": 6,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 840,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 293,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 381,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 1147,
+        "rectd": 7,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 1333,
+        "rectd": 9,
+        "rec": 86
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 754,
+        "rectd": 4,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '18",
+      "stats": {
+        "recyds": 842,
+        "rectd": 7,
+        "rec": 59
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 243,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '17",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '17",
+      "stats": {
+        "recyds": 525,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Jordan Norwood",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 232,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 883,
+        "rectd": 6,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Jordan Norwood",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 1400,
+        "rectd": 14,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 548,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Derek Moye",
+      "team": "PIT '13",
+      "stats": {
+        "recyds": 20,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jordan Norwood",
+      "team": "CLE '12",
+      "stats": {
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "HOU '11",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Norwood",
+      "team": "CLE '11",
+      "stats": {
+        "recyds": 268,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Deon Butler",
+      "team": "SEA '11",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Derrick Williams",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Deon Butler",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 385,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "KC '09",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 426,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Derrick Williams",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Deon Butler",
+      "team": "SEA '09",
+      "stats": {
+        "recyds": 175,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 489,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 546,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '07",
+      "stats": {
+        "recyds": 1147,
+        "rectd": 6,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "CLE '07",
+      "stats": {
+        "recyds": 614,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "ARI '07",
+      "stats": {
+        "recyds": 525,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '06",
+      "stats": {
+        "recyds": 290,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "CLE '06",
+      "stats": {
+        "recyds": 495,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Eddie Drummond",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "ARI '06",
+      "stats": {
+        "recyds": 740,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 774,
+        "rectd": 3,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 694,
+        "rectd": 10,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "ARI '05",
+      "stats": {
+        "recyds": 432,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 499,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "TB '04",
+      "stats": {
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "ARI '04",
+      "stats": {
+        "recyds": 537,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '03",
+      "stats": {
+        "recyds": 640,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 118,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "ARI '03",
+      "stats": {
+        "recyds": 438,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 619,
+        "rectd": 0,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 423,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Eddie Drummond",
+      "team": "DET '02",
+      "stats": {
+        "recyds": -3,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 400,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 706,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 272,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "O.J. McDuffie",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 947,
+        "rectd": 4,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 318,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "O.J. McDuffie",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 516,
+        "rectd": 2,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mike Gesicki",
+      "team": "CIN '25",
+      "stats": {
+        "recyds": 307,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 486,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 540,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Theo Johnson",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 528,
+        "rectd": 5,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Tyler Warren",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 817,
+        "rectd": 4,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 665,
+        "rectd": 2,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '24",
+      "stats": {
+        "recyds": 653,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 411,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Theo Johnson",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 331,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "NE '23",
+      "stats": {
+        "recyds": 244,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 308,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 362,
+        "rectd": 5,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 732,
+        "rectd": 2,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 780,
+        "rectd": 2,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 497,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 129,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 703,
+        "rectd": 6,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Ross Travis",
+      "team": "IND '19",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 570,
+        "rectd": 5,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 423,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '17",
+      "stats": {
+        "recyds": 372,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Ross Travis",
+      "team": "IND '17",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '16",
+      "stats": {
+        "recyds": 338,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Ross Travis",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 323,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 312,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "NO '11",
+      "stats": {
+        "recyds": 20,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 238,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Mickey Shuler",
+      "team": "MIA '10",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "LV '09",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "TB '09",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "LV '08",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Sean McHugh",
+      "team": "PIT '08",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "NE '07",
+      "stats": {
+        "recyds": 70,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Sean McHugh",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 252,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Isaac Smolko",
+      "team": "JAX '07",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '06",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 38,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Sean McHugh",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "John Bronson",
+      "team": "ARI '06",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '05",
+      "stats": {
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Matt Kranchick",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '04",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '04",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 281,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 212,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 461,
+        "rectd": 4,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '02",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '02",
+      "stats": {
+        "recyds": 130,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '01",
+      "stats": {
+        "recyds": 386,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "PHI '01",
+      "stats": {
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 729,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Troy Drayton",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '99",
+      "stats": {
+        "recyds": 346,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Troy Drayton",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 32
+      }
+    }
+  ]
+}

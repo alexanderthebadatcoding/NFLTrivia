@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jacoby Brissett",
+      "team": "CLE '22",
+      "stats": {
+        "yds": 2608,
+        "td": 12,
+        "int": 6
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "CLE '22",
+      "stats": {
+        "yds": 1102,
+        "td": 7,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": 468,
+        "rtd": 3,
+        "recyds": 210,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": 1525,
+        "rtd": 12,
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "D'Ernest Johnson",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Demetric Felton",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": -4,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amari Cooper",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 1160,
+        "rectd": 9,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Donovan Peoples-Jones",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 839,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Jaelon Darden",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony Schwartz",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "David Bell",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Mike Woods",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Daylen Baldwin",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Pharaoh Brown",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 628,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Harrison Bryant",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ]
+}

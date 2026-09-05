@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Mitchell Trubisky",
+      "team": "BUF '24",
+      "stats": {
+        "yds": 179,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mike White",
+      "team": "BUF '24",
+      "stats": {
+        "yds": 28,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '24",
+      "stats": {
+        "yds": 3731,
+        "td": 28,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ty Johnson",
+      "team": "BUF '24",
+      "stats": {
+        "ryds": 213,
+        "rtd": 1,
+        "recyds": 284,
+        "rectd": 3,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Reggie Gilliam",
+      "team": "BUF '24",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF '24",
+      "stats": {
+        "ryds": 1009,
+        "rtd": 16,
+        "recyds": 258,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Ray Davis",
+      "team": "BUF '24",
+      "stats": {
+        "ryds": 442,
+        "rtd": 3,
+        "recyds": 189,
+        "rectd": 3,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amari Cooper",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 547,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 378,
+        "rectd": 5,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Khalil Shakir",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 821,
+        "rectd": 4,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Tyrell Shavers",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Keon Coleman",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 556,
+        "rectd": 4,
+        "rec": 29
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 311,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Quintin Morris",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Zach Davidson",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dalton Kincaid",
+      "team": "BUF '24",
+      "stats": {
+        "recyds": 448,
+        "rectd": 2,
+        "rec": 44
+      }
+    }
+  ]
+}

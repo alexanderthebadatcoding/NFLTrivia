@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Gardner Minshew",
+      "team": "IND '23",
+      "stats": {
+        "yds": 3305,
+        "td": 15,
+        "int": 9
+      }
+    },
+    {
+      "name": "Anthony Richardson",
+      "team": "IND '23",
+      "stats": {
+        "yds": 577,
+        "td": 3,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 741,
+        "rtd": 7,
+        "recyds": 153,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Zack Moss",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 794,
+        "rtd": 5,
+        "recyds": 192,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jake Funk",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Trey Sermon",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 160,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tyler Goodson",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 87,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Evan Hull",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Isaiah McKenzie",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "D.J. Montgomery",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 1152,
+        "rectd": 4,
+        "rec": 109
+      }
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 514,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Josh Downs",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 771,
+        "rectd": 2,
+        "rec": 68
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mo Alie-Cox",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 161,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kylen Granson",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 368,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Andrew Ogletree",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 147,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Will Mallory",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ]
+}

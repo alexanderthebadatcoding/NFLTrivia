@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "AJ McCarron",
+      "team": "HOU '20",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "HOU '20",
+      "stats": {
+        "yds": 4823,
+        "td": 33,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "David Johnson",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 691,
+        "rtd": 6,
+        "recyds": 314,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Duke Johnson",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 235,
+        "rtd": 1,
+        "recyds": 249,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "C.J. Prosise",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dontrell Hilliard",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Buddy Howell",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 64,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cullen Gillaspia",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Scottie Phillips",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 441,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Kenny Stills",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 144,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 1150,
+        "rectd": 6,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Will Fuller",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 879,
+        "rectd": 8,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Chad Hansen",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Steven Mitchell",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Keke Coutee",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 400,
+        "rectd": 3,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Fells",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 312,
+        "rectd": 4,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Pharaoh Brown",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 163,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 403,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Kahale Warring",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

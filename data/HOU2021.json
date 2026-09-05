@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "HOU '21",
+      "stats": {
+        "yds": 966,
+        "td": 5,
+        "int": 5
+      }
+    },
+    {
+      "name": "Davis Mills",
+      "team": "HOU '21",
+      "stats": {
+        "yds": 2664,
+        "td": 16,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rex Burkhead",
+      "team": "HOU '21",
+      "stats": {
+        "ryds": 427,
+        "rtd": 3,
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "David Johnson",
+      "team": "HOU '21",
+      "stats": {
+        "ryds": 228,
+        "rtd": 0,
+        "recyds": 225,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Jaylen Samuels",
+      "team": "HOU '21",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "HOU '21",
+      "stats": {
+        "ryds": 169,
+        "rtd": 0,
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Scottie Phillips",
+      "team": "HOU '21",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 248,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 1037,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 323,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Phillip Dorsett",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 227,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Davion Davis",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 446,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Antony Auclair",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Pharaoh Brown",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 171,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Brevin Jordan",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 178,
+        "rectd": 3,
+        "rec": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Mac Jones",
+      "team": "SF '25",
+      "stats": {
+        "yds": 2151,
+        "td": 13,
+        "int": 6
+      }
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF '25",
+      "stats": {
+        "yds": 2167,
+        "td": 20,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '25",
+      "stats": {
+        "ryds": -3,
+        "rtd": 0,
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF '25",
+      "stats": {
+        "ryds": 1202,
+        "rtd": 10,
+        "recyds": 924,
+        "rectd": 7,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "SF '25",
+      "stats": {
+        "ryds": 400,
+        "rtd": 2,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Demarcus Robinson",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 276,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 551,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 643,
+        "rectd": 9,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Skyy Moore",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Ricky Pearsall",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 528,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jordan Watkins",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "George Kittle",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 628,
+        "rectd": 7,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Luke Farrell",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 85,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jake Tonges",
+      "team": "SF '25",
+      "stats": {
+        "recyds": 293,
+        "rectd": 5,
+        "rec": 34
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Sam Bradford",
+      "team": "MIN '17",
+      "stats": {
+        "yds": 382,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Case Keenum",
+      "team": "MIN '17",
+      "stats": {
+        "yds": 3547,
+        "td": 22,
+        "int": 7
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "MIN '17",
+      "stats": {
+        "yds": 0,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Latavius Murray",
+      "team": "MIN '17",
+      "stats": {
+        "ryds": 842,
+        "rtd": 8,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jerick McKinnon",
+      "team": "MIN '17",
+      "stats": {
+        "ryds": 570,
+        "rtd": 3,
+        "recyds": 421,
+        "rectd": 2,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Mack Brown",
+      "team": "MIN '17",
+      "stats": {
+        "ryds": 29,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '17",
+      "stats": {
+        "ryds": 13,
+        "rtd": 1,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '17",
+      "stats": {
+        "ryds": 354,
+        "rtd": 2,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jarius Wright",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 198,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Michael Floyd",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 1276,
+        "rectd": 4,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 849,
+        "rectd": 8,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 200,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 532,
+        "rectd": 8,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Morgan",
+      "team": "MIN '17",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

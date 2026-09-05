@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '22",
+      "stats": {
+        "yds": 3695,
+        "td": 26,
+        "int": 12
+      }
+    },
+    {
+      "name": "Jordan Love",
+      "team": "GB '22",
+      "stats": {
+        "yds": 195,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aaron Jones",
+      "team": "GB '22",
+      "stats": {
+        "ryds": 1121,
+        "rtd": 2,
+        "recyds": 395,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Patrick Taylor",
+      "team": "GB '22",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "GB '22",
+      "stats": {
+        "ryds": 770,
+        "rtd": 7,
+        "recyds": 206,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Kylin Hill",
+      "team": "GB '22",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 417,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 788,
+        "rectd": 6,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Juwann Winfree",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Samori Toure",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Romeo Doubs",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 425,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Christian Watson",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 611,
+        "rectd": 7,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 66,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 470,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Tyler Davis",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Josiah Deguara",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ]
+}

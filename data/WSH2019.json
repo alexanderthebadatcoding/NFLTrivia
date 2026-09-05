@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "WSH '19",
+      "stats": {
+        "yds": 122,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Case Keenum",
+      "team": "WSH '19",
+      "stats": {
+        "yds": 1707,
+        "td": 11,
+        "int": 5
+      }
+    },
+    {
+      "name": "Dwayne Haskins",
+      "team": "WSH '19",
+      "stats": {
+        "yds": 1365,
+        "td": 7,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "WSH '19",
+      "stats": {
+        "ryds": 898,
+        "rtd": 5,
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '19",
+      "stats": {
+        "ryds": 138,
+        "rtd": 0,
+        "recyds": 378,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Josh Ferguson",
+      "team": "WSH '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Wendell Smallwood",
+      "team": "WSH '19",
+      "stats": {
+        "ryds": 81,
+        "rtd": 0,
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Derrius Guice",
+      "team": "WSH '19",
+      "stats": {
+        "ryds": 245,
+        "rtd": 2,
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Paul Richardson",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 245,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Cam Sims",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Trey Quinn",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 198,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Steven Sims",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 310,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Kelvin Harmon",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 365,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 919,
+        "rectd": 7,
+        "rec": 58
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 123,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jeremy Sprinkle",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 241,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Hale Hentges",
+      "team": "WSH '19",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ]
+}

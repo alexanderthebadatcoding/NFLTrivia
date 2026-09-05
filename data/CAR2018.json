@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Cam Newton",
+      "team": "CAR '18",
+      "stats": {
+        "yds": 3395,
+        "td": 24,
+        "int": 13
+      }
+    },
+    {
+      "name": "Garrett Gilbert",
+      "team": "CAR '18",
+      "stats": {
+        "yds": 40,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Taylor Heinicke",
+      "team": "CAR '18",
+      "stats": {
+        "yds": 320,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "CAR '18",
+      "stats": {
+        "yds": 266,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Travaris Cadet",
+      "team": "CAR '18",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kenjon Barner",
+      "team": "CAR '18",
+      "stats": {
+        "ryds": 71,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cameron Artis-Payne",
+      "team": "CAR '18",
+      "stats": {
+        "ryds": 69,
+        "rtd": 1,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "CAR '18",
+      "stats": {
+        "ryds": 1098,
+        "rtd": 7,
+        "recyds": 867,
+        "rectd": 6,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Alex Armah",
+      "team": "CAR '18",
+      "stats": {
+        "ryds": 15,
+        "rtd": 2,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Torrey Smith",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 190,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jarius Wright",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 447,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Funchess",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 549,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 494,
+        "rectd": 5,
+        "rec": 39
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 788,
+        "rectd": 2,
+        "rec": 55
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 291,
+        "rectd": 4,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Chris Manhertz",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 36
+      }
+    }
+  ]
+}

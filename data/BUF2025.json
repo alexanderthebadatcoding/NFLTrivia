@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Mitchell Trubisky",
+      "team": "BUF '25",
+      "stats": {
+        "yds": 313,
+        "td": 4,
+        "int": 0
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '25",
+      "stats": {
+        "yds": 3668,
+        "td": 25,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ty Johnson",
+      "team": "BUF '25",
+      "stats": {
+        "ryds": 200,
+        "rtd": 3,
+        "recyds": 263,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Reggie Gilliam",
+      "team": "BUF '25",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF '25",
+      "stats": {
+        "ryds": 1621,
+        "rtd": 12,
+        "recyds": 291,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Ray Davis",
+      "team": "BUF '25",
+      "stats": {
+        "ryds": 275,
+        "rtd": 0,
+        "recyds": 86,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandin Cooks",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 279,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 81,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Gabe Davis",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 129,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Elijah Moore",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Josh Palmer",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 303,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Khalil Shakir",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 719,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Tyrell Shavers",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 245,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Keon Coleman",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 404,
+        "rectd": 4,
+        "rec": 38
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 417,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Dalton Kincaid",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 571,
+        "rectd": 5,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jackson Hawes",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 187,
+        "rectd": 3,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Keleki Latu",
+      "team": "BUF '25",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "QB": [
+    {
+      "name": "Dan Marino",
+      "team": "MIA '86",
+      "stats": {
+        "yds": 4746,
+        "td": 44,
+        "int": 23
+      }
+    },
+    {
+      "name": "Jay Schroeder",
+      "team": "WSH '86",
+      "stats": {
+        "yds": 4109,
+        "td": 22,
+        "int": 22
+      }
+    },
+    {
+      "name": "Boomer Esiason",
+      "team": "CIN '86",
+      "stats": {
+        "yds": 3959,
+        "td": 24,
+        "int": 17
+      }
+    },
+    {
+      "name": "Bernie Kosar",
+      "team": "CLE '86",
+      "stats": {
+        "yds": 3854,
+        "td": 17,
+        "int": 10
+      }
+    },
+    {
+      "name": "Kenneth John O'Brien Jr.",
+      "team": "NYJ '86",
+      "stats": {
+        "yds": 3690,
+        "td": 25,
+        "int": 20
+      }
+    },
+    {
+      "name": "Jim Kelly",
+      "team": "BUF '86",
+      "stats": {
+        "yds": 3593,
+        "td": 22,
+        "int": 17
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "HOU '86",
+      "stats": {
+        "yds": 3489,
+        "td": 13,
+        "int": 26
+      }
+    },
+    {
+      "name": "Phil Simms",
+      "team": "NYG '86",
+      "stats": {
+        "yds": 3487,
+        "td": 21,
+        "int": 22
+      }
+    },
+    {
+      "name": "John Elway",
+      "team": "DEN '86",
+      "stats": {
+        "yds": 3485,
+        "td": 19,
+        "int": 13
+      }
+    },
+    {
+      "name": "Dave Krieg",
+      "team": "SEA '86",
+      "stats": {
+        "yds": 2921,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "Steve Young",
+      "team": "TB '86",
+      "stats": {
+        "yds": 2282,
+        "td": 8,
+        "int": 13
+      }
+    },
+    {
+      "name": "Joe Montana",
+      "team": "SF '86",
+      "stats": {
+        "yds": 2236,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Jack Trudeau",
+      "team": "IND '86",
+      "stats": {
+        "yds": 2225,
+        "td": 8,
+        "int": 18
+      }
+    },
+    {
+      "name": "Randall Cunningham",
+      "team": "PHI '86",
+      "stats": {
+        "yds": 1391,
+        "td": 8,
+        "int": 7
+      }
+    },
+    {
+      "name": "Wade Wilson",
+      "team": "MIN '86",
+      "stats": {
+        "yds": 1165,
+        "td": 7,
+        "int": 5
+      }
+    },
+    {
+      "name": "Mike Tomczak",
+      "team": "CHI '86",
+      "stats": {
+        "yds": 1105,
+        "td": 2,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jim Everett",
+      "team": "LOS '86",
+      "stats": {
+        "yds": 1018,
+        "td": 8,
+        "int": 8
+      }
+    },
+    {
+      "name": "James Robert McMahon",
+      "team": "CHI '86",
+      "stats": {
+        "yds": 995,
+        "td": 5,
+        "int": 8
+      }
+    },
+    {
+      "name": "Steve DeBerg",
+      "team": "TB '86",
+      "stats": {
+        "yds": 610,
+        "td": 5,
+        "int": 12
+      }
+    },
+    {
+      "name": "Bobby Hebert",
+      "team": "NO '86",
+      "stats": {
+        "yds": 498,
+        "td": 2,
+        "int": 8
+      }
+    },
+    {
+      "name": "Gale Gilbert",
+      "team": "SEA '86",
+      "stats": {
+        "yds": 485,
+        "td": 3,
+        "int": 3
+      }
+    },
+    {
+      "name": "Doug Flutie",
+      "team": "CHI '86",
+      "stats": {
+        "yds": 361,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Bubby Brister",
+      "team": "PIT '86",
+      "stats": {
+        "yds": 291,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Chuck Long",
+      "team": "DET '86",
+      "stats": {
+        "yds": 247,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Frank Reich",
+      "team": "BUF '86",
+      "stats": {
+        "yds": 104,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eric Dickerson",
+      "team": "LOS '86",
+      "stats": {
+        "ryds": 1821,
+        "rtd": 11,
+        "recyds": 205,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Rueben Mayes",
+      "team": "NO '86",
+      "stats": {
+        "ryds": 1353,
+        "rtd": 8,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "DET '86",
+      "stats": {
+        "ryds": 903,
+        "rtd": 8,
+        "recyds": 334,
+        "rectd": 1,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Roger Craig",
+      "team": "SF '86",
+      "stats": {
+        "ryds": 830,
+        "rtd": 7,
+        "recyds": 624,
+        "rectd": 0,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Marcus Allen",
+      "team": "LOS '86",
+      "stats": {
+        "ryds": 759,
+        "rtd": 5,
+        "recyds": 453,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Herschel Walker",
+      "team": "DAL '86",
+      "stats": {
+        "ryds": 737,
+        "rtd": 12,
+        "recyds": 837,
+        "rectd": 2,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Kevin Mack",
+      "team": "CLE '86",
+      "stats": {
+        "ryds": 665,
+        "rtd": 10,
+        "recyds": 292,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Keith Byars",
+      "team": "PHI '86",
+      "stats": {
+        "ryds": 577,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "John L. Williams",
+      "team": "SEA '86",
+      "stats": {
+        "ryds": 538,
+        "rtd": 0,
+        "recyds": 219,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Napoleon McCallum",
+      "team": "LOS '86",
+      "stats": {
+        "ryds": 536,
+        "rtd": 1,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kenneth Davis",
+      "team": "GB '86",
+      "stats": {
+        "ryds": 519,
+        "rtd": 0,
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Gary Anderson",
+      "team": "SD '86",
+      "stats": {
+        "ryds": 442,
+        "rtd": 1,
+        "recyds": 871,
+        "rectd": 8,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Dalton Hilliard",
+      "team": "NO '86",
+      "stats": {
+        "ryds": 425,
+        "rtd": 5,
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Earnest Byner",
+      "team": "CLE '86",
+      "stats": {
+        "ryds": 277,
+        "rtd": 2,
+        "recyds": 328,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Ronnie Harmon",
+      "team": "BUF '86",
+      "stats": {
+        "ryds": 172,
+        "rtd": 0,
+        "recyds": 185,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Neal Anderson",
+      "team": "CHI '86",
+      "stats": {
+        "ryds": 146,
+        "rtd": 0,
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tom Rathman",
+      "team": "SF '86",
+      "stats": {
+        "ryds": 138,
+        "rtd": 1,
+        "recyds": 121,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerry Rice",
+      "team": "SF '86",
+      "stats": {
+        "recyds": 1570,
+        "rectd": 15,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Gary Clark",
+      "team": "WSH '86",
+      "stats": {
+        "recyds": 1265,
+        "rectd": 7,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Mark Clayton",
+      "team": "MIA '86",
+      "stats": {
+        "recyds": 1150,
+        "rectd": 10,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Bill Brooks",
+      "team": "IND '86",
+      "stats": {
+        "recyds": 1131,
+        "rectd": 8,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Drew Hill",
+      "team": "HOU '86",
+      "stats": {
+        "recyds": 1112,
+        "rectd": 5,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Art Monk",
+      "team": "WSH '86",
+      "stats": {
+        "recyds": 1068,
+        "rectd": 4,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Ernest Pastell Givins Jr.",
+      "team": "HOU '86",
+      "stats": {
+        "recyds": 1062,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "James Lofton",
+      "team": "GB '86",
+      "stats": {
+        "recyds": 840,
+        "rectd": 4,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Willie Gault",
+      "team": "CHI '86",
+      "stats": {
+        "recyds": 818,
+        "rectd": 5,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Chris Burkett",
+      "team": "BUF '86",
+      "stats": {
+        "recyds": 778,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Mike Sherrard",
+      "team": "DAL '86",
+      "stats": {
+        "recyds": 744,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "BUF '86",
+      "stats": {
+        "recyds": 739,
+        "rectd": 7,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Mark Jackson",
+      "team": "DEN '86",
+      "stats": {
+        "recyds": 738,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Irving Fryar",
+      "team": "NE '86",
+      "stats": {
+        "recyds": 737,
+        "rectd": 6,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Anthony Carter",
+      "team": "MIN '86",
+      "stats": {
+        "recyds": 686,
+        "rectd": 7,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Reggie Langhorne",
+      "team": "CLE '86",
+      "stats": {
+        "recyds": 678,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Eric Martin",
+      "team": "NO '86",
+      "stats": {
+        "recyds": 675,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Jessie Hester",
+      "team": "LOS '86",
+      "stats": {
+        "recyds": 632,
+        "rectd": 6,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Webster Slaughter",
+      "team": "CLE '86",
+      "stats": {
+        "recyds": 577,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Hassan Jones",
+      "team": "MIN '86",
+      "stats": {
+        "recyds": 570,
+        "rectd": 4,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bavaro",
+      "team": "NYG '86",
+      "stats": {
+        "recyds": 1001,
+        "rectd": 4,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Steve Jordan",
+      "team": "MIN '86",
+      "stats": {
+        "recyds": 859,
+        "rectd": 6,
+        "rec": 58
+      }
+    }
+  ]
+}

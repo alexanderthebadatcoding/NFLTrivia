@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "DET '18",
+      "stats": {
+        "yds": 59,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '18",
+      "stats": {
+        "yds": 3777,
+        "td": 21,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeGarrette Blount",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 418,
+        "rtd": 5,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Nick Bellore",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Theo Riddick",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 171,
+        "rtd": 0,
+        "recyds": 384,
+        "rectd": 0,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Zach Zenner",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 265,
+        "rtd": 3,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Kerryon Johnson",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 641,
+        "rtd": 3,
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 32
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marvin Jones",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 508,
+        "rectd": 5,
+        "rec": 35
+      }
+    },
+    {
+      "name": "T.J. Jones",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 190,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Bruce Ellington",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 224,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Andy Jones",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 1063,
+        "rectd": 5,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Brandon Powell",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luke Willson",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Levine Toilolo",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 263,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Hakeem Valles",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Roberts",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 100,
+        "rectd": 3,
+        "rec": 9
+      }
+    }
+  ]
+}

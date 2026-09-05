@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '25",
+      "stats": {
+        "yds": 4552,
+        "td": 30,
+        "int": 10
+      }
+    },
+    {
+      "name": "Joe Milton III",
+      "team": "DAL '25",
+      "stats": {
+        "yds": 183,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Miles Sanders",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 117,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 1201,
+        "rtd": 11,
+        "recyds": 137,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Malik Davis",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 250,
+        "rtd": 2,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Hunter Luepke",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 71,
+        "rtd": 0,
+        "recyds": 109,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Phil Mafah",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 18,
+        "rtd": 1,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jaydon Blue",
+      "team": "DAL '25",
+      "stats": {
+        "ryds": 129,
+        "rtd": 1,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 1077,
+        "rectd": 3,
+        "rec": 75
+      }
+    },
+    {
+      "name": "George Pickens",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 1429,
+        "rectd": 9,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Jalen Tolbert",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 203,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "KaVontae Turpin",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 396,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jonathan Mingo",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ryan Flournoy",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 475,
+        "rectd": 4,
+        "rec": 40
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 600,
+        "rectd": 8,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Luke Schoonmaker",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Brevyn Spann-Ford",
+      "team": "DAL '25",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

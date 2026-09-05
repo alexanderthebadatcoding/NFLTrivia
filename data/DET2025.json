@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "DET '25",
+      "stats": {
+        "yds": 4564,
+        "td": 34,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Craig Reynolds",
+      "team": "DET '25",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "DET '25",
+      "stats": {
+        "ryds": 716,
+        "rtd": 8,
+        "recyds": 192,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jacob Saylors",
+      "team": "DET '25",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "DET '25",
+      "stats": {
+        "ryds": 1223,
+        "rtd": 13,
+        "recyds": 616,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Sione Vaki",
+      "team": "DET '25",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kalif Raymond",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 289,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Tom Kennedy",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 1401,
+        "rectd": 11,
+        "rec": 117
+      }
+    },
+    {
+      "name": "Jameson Williams",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 1117,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Isaac TeSlaa",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 239,
+        "rectd": 6,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Firkser",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Shane Zylstra",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Brock Wright",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 108,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Sam LaPorta",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 489,
+        "rectd": 3,
+        "rec": 40
+      }
+    }
+  ]
+}

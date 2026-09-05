@@ -1,0 +1,178 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "WSH '20",
+      "stats": {
+        "yds": 1582,
+        "td": 6,
+        "int": 8
+      }
+    },
+    {
+      "name": "Taylor Heinicke",
+      "team": "WSH '20",
+      "stats": {
+        "yds": 137,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "WSH '20",
+      "stats": {
+        "yds": 610,
+        "td": 4,
+        "int": 1
+      }
+    },
+    {
+      "name": "Dwayne Haskins",
+      "team": "WSH '20",
+      "stats": {
+        "yds": 1439,
+        "td": 5,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "J.D. McKissic",
+      "team": "WSH '20",
+      "stats": {
+        "ryds": 365,
+        "rtd": 1,
+        "recyds": 589,
+        "rectd": 2,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Peyton Barber",
+      "team": "WSH '20",
+      "stats": {
+        "ryds": 258,
+        "rtd": 4,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WSH '20",
+      "stats": {
+        "ryds": 795,
+        "rtd": 11,
+        "recyds": 247,
+        "rectd": 0,
+        "rec": 36
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dontrelle Inman",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 163,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Cam Sims",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 477,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Robert Foster",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Steven Sims",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 1118,
+        "rectd": 4,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Isaiah Wright",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Antonio Gandy-Golden",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Thomas",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 670,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Temarrick Hemingway",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeremy Sprinkle",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marcus Baugh",
+      "team": "WSH '20",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

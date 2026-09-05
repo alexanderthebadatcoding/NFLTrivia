@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Brandon Allen",
+      "team": "CIN '22",
+      "stats": {
+        "yds": 22,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '22",
+      "stats": {
+        "yds": 4475,
+        "td": 35,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Samaje Perine",
+      "team": "CIN '22",
+      "stats": {
+        "ryds": 394,
+        "rtd": 2,
+        "recyds": 287,
+        "rectd": 4,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '22",
+      "stats": {
+        "ryds": 814,
+        "rtd": 7,
+        "recyds": 441,
+        "rectd": 2,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Trayveon Williams",
+      "team": "CIN '22",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chris Evans",
+      "team": "CIN '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 762,
+        "rectd": 5,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Trent Taylor",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Trenton Irwin",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 231,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 1029,
+        "rectd": 7,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 1046,
+        "rectd": 9,
+        "rec": 87
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hayden Hurst",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 414,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mitchell Wilcox",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 139,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Devin Asiasi",
+      "team": "CIN '22",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

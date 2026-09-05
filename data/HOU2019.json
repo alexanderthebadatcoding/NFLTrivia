@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "AJ McCarron",
+      "team": "HOU '19",
+      "stats": {
+        "yds": 225,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "HOU '19",
+      "stats": {
+        "yds": 3852,
+        "td": 26,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Taiwan Jones",
+      "team": "HOU '19",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "HOU '19",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 6,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Duke Johnson",
+      "team": "HOU '19",
+      "stats": {
+        "ryds": 410,
+        "rtd": 2,
+        "recyds": 410,
+        "rectd": 3,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Buddy Howell",
+      "team": "HOU '19",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kenny Stills",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 561,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 1165,
+        "rectd": 7,
+        "rec": 104
+      }
+    },
+    {
+      "name": "DeAndre Carter",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Will Fuller",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 670,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Steven Mitchell",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Keke Coutee",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 254,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Fells",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 341,
+        "rectd": 7,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 418,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jordan Thomas",
+      "team": "HOU '19",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

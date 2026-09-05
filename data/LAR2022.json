@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR '22",
+      "stats": {
+        "yds": 2087,
+        "td": 10,
+        "int": 8
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "LAR '22",
+      "stats": {
+        "yds": 2163,
+        "td": 10,
+        "int": 8
+      }
+    },
+    {
+      "name": "John Wolford",
+      "team": "LAR '22",
+      "stats": {
+        "yds": 390,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Bryce Perkins",
+      "team": "LAR '22",
+      "stats": {
+        "yds": 161,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '22",
+      "stats": {
+        "ryds": 81,
+        "rtd": 1,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LAR '22",
+      "stats": {
+        "ryds": 283,
+        "rtd": 3,
+        "recyds": 102,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "LAR '22",
+      "stats": {
+        "ryds": 786,
+        "rtd": 7,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ronnie Rivers",
+      "team": "LAR '22",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LAR '22",
+      "stats": {
+        "ryds": 139,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Allen Robinson",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 339,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 812,
+        "rectd": 6,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Brandon Powell",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Van Jefferson",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 369,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Austin Trammell",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 298,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Ben Skowronek",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 376,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jacob Harris",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 620,
+        "rectd": 3,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Kendall Blanton",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brycen Hopkins",
+      "team": "LAR '22",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

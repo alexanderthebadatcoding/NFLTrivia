@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Chase Daniel",
+      "team": "CHI '18",
+      "stats": {
+        "yds": 515,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Mitchell Trubisky",
+      "team": "CHI '18",
+      "stats": {
+        "yds": 3223,
+        "td": 24,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Benny Cunningham",
+      "team": "CHI '18",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Burton",
+      "team": "CHI '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jordan Howard",
+      "team": "CHI '18",
+      "stats": {
+        "ryds": 935,
+        "rtd": 9,
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Taquan Mizzell",
+      "team": "CHI '18",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tarik Cohen",
+      "team": "CHI '18",
+      "stats": {
+        "ryds": 444,
+        "rtd": 3,
+        "recyds": 725,
+        "rectd": 5,
+        "rec": 71
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Josh Bellamy",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Taylor Gabriel",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 688,
+        "rectd": 2,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 754,
+        "rectd": 4,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Kevin White",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 423,
+        "rectd": 7,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Javon Wims",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dion Sims",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Trey Burton",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 569,
+        "rectd": 6,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Ben Braunecker",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Adam Shaheen",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

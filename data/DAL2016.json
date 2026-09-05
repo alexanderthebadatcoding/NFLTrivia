@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Tony Romo",
+      "team": "DAL '16",
+      "stats": {
+        "yds": 29,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mark Sanchez",
+      "team": "DAL '16",
+      "stats": {
+        "yds": 93,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '16",
+      "stats": {
+        "yds": 3667,
+        "td": 23,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren McFadden",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 87,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Lance Dunbar",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 31,
+        "rtd": 1,
+        "recyds": 122,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 243,
+        "rtd": 2,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keith Smith",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '16",
+      "stats": {
+        "ryds": 1631,
+        "rtd": 15,
+        "recyds": 363,
+        "rectd": 1,
+        "rec": 32
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 796,
+        "rectd": 8,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 833,
+        "rectd": 5,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Brice Butler",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 219,
+        "rectd": 3,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Terrance Williams",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 594,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Lucky Whitehead",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 673,
+        "rectd": 3,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Gavin Escobar",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Geoff Swaim",
+      "team": "DAL '16",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

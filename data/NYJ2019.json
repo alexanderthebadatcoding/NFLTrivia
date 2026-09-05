@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Trevor Siemian",
+      "team": "NYJ '19",
+      "stats": {
+        "yds": 3,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Luke Falk",
+      "team": "NYJ '19",
+      "stats": {
+        "yds": 416,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "NYJ '19",
+      "stats": {
+        "yds": 3024,
+        "td": 19,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '19",
+      "stats": {
+        "ryds": 229,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Le'Veon Bell",
+      "team": "NYJ '19",
+      "stats": {
+        "ryds": 789,
+        "rtd": 3,
+        "recyds": 461,
+        "rectd": 1,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Ty Montgomery",
+      "team": "NYJ '19",
+      "stats": {
+        "ryds": 103,
+        "rtd": 0,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Josh Adams",
+      "team": "NYJ '19",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Demaryius Thomas",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 433,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Josh Bellamy",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Quincy Enunwa",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": -4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 833,
+        "rectd": 6,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 779,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Braxton Berrios",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Vyncint Smith",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jeff Smith",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 320,
+        "rectd": 5,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Daniel Brown",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Herndon",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

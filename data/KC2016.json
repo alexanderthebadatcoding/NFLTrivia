@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "KC '16",
+      "stats": {
+        "yds": 3502,
+        "td": 15,
+        "int": 8
+      }
+    },
+    {
+      "name": "Nick Foles",
+      "team": "KC '16",
+      "stats": {
+        "yds": 410,
+        "td": 3,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '16",
+      "stats": {
+        "ryds": 40,
+        "rtd": 1,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Knile Davis",
+      "team": "KC '16",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Spencer Ware",
+      "team": "KC '16",
+      "stats": {
+        "ryds": 921,
+        "rtd": 3,
+        "recyds": 447,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Charcandrick West",
+      "team": "KC '16",
+      "stats": {
+        "ryds": 293,
+        "rtd": 1,
+        "recyds": 188,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jeremy Maclin",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 536,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Albert Wilson",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 279,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "De'Anthony Thomas",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 530,
+        "rectd": 0,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 593,
+        "rectd": 6,
+        "rec": 61
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Demetrius Harris",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 123,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 1125,
+        "rectd": 4,
+        "rec": 85
+      }
+    },
+    {
+      "name": "James O'Shaughnessy",
+      "team": "KC '16",
+      "stats": {
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ross Travis",
+      "team": "KC '16",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

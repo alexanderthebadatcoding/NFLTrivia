@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Jay Cutler",
+      "team": "MIA '17",
+      "stats": {
+        "yds": 2666,
+        "td": 19,
+        "int": 14
+      }
+    },
+    {
+      "name": "Matt Moore",
+      "team": "MIA '17",
+      "stats": {
+        "yds": 861,
+        "td": 4,
+        "int": 5
+      }
+    },
+    {
+      "name": "David Fales",
+      "team": "MIA '17",
+      "stats": {
+        "yds": 265,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Damien Williams",
+      "team": "MIA '17",
+      "stats": {
+        "ryds": 181,
+        "rtd": 0,
+        "recyds": 155,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Senorise Perry",
+      "team": "MIA '17",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "MIA '17",
+      "stats": {
+        "ryds": 644,
+        "rtd": 3,
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "De'Veon Smith",
+      "team": "MIA '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kenny Stills",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 847,
+        "rectd": 6,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jarvis Landry",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 987,
+        "rectd": 9,
+        "rec": 112
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 670,
+        "rectd": 1,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Jakeem Grant",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 203,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Leonte Carroo",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Julius Thomas",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 388,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "MarQueis Gray",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "A.J. Derby",
+      "team": "MIA '17",
+      "stats": {
+        "recyds": 244,
+        "rectd": 2,
+        "rec": 21
+      }
+    }
+  ]
+}

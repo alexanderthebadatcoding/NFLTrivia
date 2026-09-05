@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "C.J. Beathard",
+      "team": "JAX '21",
+      "stats": {
+        "yds": 33,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '21",
+      "stats": {
+        "yds": 3641,
+        "td": 12,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Carlos Hyde",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 253,
+        "rtd": 1,
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Dare Ogunbowale",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 137,
+        "rtd": 1,
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ryquell Armstead",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 767,
+        "rtd": 8,
+        "recyds": 222,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Nathan Cottrell",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Mekhi Sargent",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marvin Jones",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 832,
+        "rectd": 4,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Tavon Austin",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 434,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jaydon Mickens",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jamal Agnew",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 229,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 154,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Laviska Shenault Jr.",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 619,
+        "rectd": 0,
+        "rec": 63
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "James O'Shaughnessy",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 244,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jacob Hollister",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 55,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dan Arnold",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 408,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Luke Farrell",
+      "team": "JAX '21",
+      "stats": {
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

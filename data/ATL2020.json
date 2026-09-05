@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '20",
+      "stats": {
+        "yds": 4581,
+        "td": 26,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Keith Smith",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Todd Gurley",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 678,
+        "rtd": 9,
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 465,
+        "rtd": 1,
+        "recyds": 199,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Ito Smith",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 268,
+        "rtd": 1,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Qadree Ollison",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tony Brooks-James",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 771,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 49,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Christian Blake",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 786,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Brandon Powell",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 69,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 1374,
+        "rectd": 9,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 274,
+        "rectd": 1,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luke Stocker",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jaeden Graham",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 571,
+        "rectd": 6,
+        "rec": 56
+      }
+    }
+  ]
+}

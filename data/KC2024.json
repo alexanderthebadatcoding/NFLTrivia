@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Carson Wentz",
+      "team": "KC '24",
+      "stats": {
+        "yds": 118,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '24",
+      "stats": {
+        "yds": 3928,
+        "td": 26,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Samaje Perine",
+      "team": "KC '24",
+      "stats": {
+        "ryds": 92,
+        "rtd": 1,
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "KC '24",
+      "stats": {
+        "ryds": 728,
+        "rtd": 7,
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC '24",
+      "stats": {
+        "ryds": 310,
+        "rtd": 1,
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Carson Steele",
+      "team": "KC '24",
+      "stats": {
+        "ryds": 183,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeAndre Hopkins",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 610,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 231,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 289,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Nikko Remigio",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rashee Rice",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 288,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Xavier Worthy",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 638,
+        "rectd": 6,
+        "rec": 59
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 823,
+        "rectd": 3,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Joseph Fortson",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 437,
+        "rectd": 5,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Peyton Hendershot",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jared Wiley",
+      "team": "KC '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

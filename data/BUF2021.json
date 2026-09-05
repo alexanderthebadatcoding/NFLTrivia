@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Mitchell Trubisky",
+      "team": "BUF '21",
+      "stats": {
+        "yds": 43,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '21",
+      "stats": {
+        "yds": 4407,
+        "td": 36,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Breida",
+      "team": "BUF '21",
+      "stats": {
+        "ryds": 125,
+        "rtd": 1,
+        "recyds": 72,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "BUF '21",
+      "stats": {
+        "ryds": 870,
+        "rtd": 7,
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Reggie Gilliam",
+      "team": "BUF '21",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zack Moss",
+      "team": "BUF '21",
+      "stats": {
+        "ryds": 345,
+        "rtd": 4,
+        "recyds": 197,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Emmanuel Sanders",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 626,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 693,
+        "rectd": 1,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 1225,
+        "rectd": 10,
+        "rec": 103
+      }
+    },
+    {
+      "name": "Jake Kumerow",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Isaiah McKenzie",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 178,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Gabe Davis",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 549,
+        "rectd": 6,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tommy Sweeney",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 587,
+        "rectd": 9,
+        "rec": 49
+      }
+    }
+  ]
+}

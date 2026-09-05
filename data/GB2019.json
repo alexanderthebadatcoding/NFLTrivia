@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '19",
+      "stats": {
+        "yds": 4002,
+        "td": 26,
+        "int": 4
+      }
+    },
+    {
+      "name": "Tim Boyle",
+      "team": "GB '19",
+      "stats": {
+        "yds": 15,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tyler Ervin",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Danny Vitale",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 1084,
+        "rtd": 16,
+        "recyds": 474,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Jamaal Williams",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 460,
+        "rtd": 1,
+        "recyds": 253,
+        "rectd": 5,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Dexter Williams",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 997,
+        "rectd": 5,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Jake Kumerow",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 219,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Geronimo Allison",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 287,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 477,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Darrius Shepherd",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jimmy Graham",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 447,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 100,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

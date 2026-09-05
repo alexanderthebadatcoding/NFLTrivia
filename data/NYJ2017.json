@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Josh McCown",
+      "team": "NYJ '17",
+      "stats": {
+        "yds": 2926,
+        "td": 18,
+        "int": 9
+      }
+    },
+    {
+      "name": "Bryce Petty",
+      "team": "NYJ '17",
+      "stats": {
+        "yds": 544,
+        "td": 1,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Forte",
+      "team": "NYJ '17",
+      "stats": {
+        "ryds": 381,
+        "rtd": 2,
+        "recyds": 293,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '17",
+      "stats": {
+        "ryds": 772,
+        "rtd": 5,
+        "recyds": 170,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Lawrence Thomas",
+      "team": "NYJ '17",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Elijah McGuire",
+      "team": "NYJ '17",
+      "stats": {
+        "ryds": 315,
+        "rtd": 1,
+        "recyds": 177,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jeremy Kerley",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 217,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 810,
+        "rectd": 5,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Neal Sterling",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 941,
+        "rectd": 7,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Charone Peake",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "JoJo Natson",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chad Hansen",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "ArDarius Stewart",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Austin Seferian-Jenkins",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 357,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Eric Tomlinson",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 121,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Will Tye",
+      "team": "NYJ '17",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

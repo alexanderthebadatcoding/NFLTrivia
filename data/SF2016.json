@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Blaine Gabbert",
+      "team": "SF '16",
+      "stats": {
+        "yds": 925,
+        "td": 5,
+        "int": 6
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '16",
+      "stats": {
+        "yds": 2241,
+        "td": 16,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shaun Draughn",
+      "team": "SF '16",
+      "stats": {
+        "ryds": 196,
+        "rtd": 4,
+        "recyds": 263,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "DuJuan Harris",
+      "team": "SF '16",
+      "stats": {
+        "ryds": 138,
+        "rtd": 0,
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "SF '16",
+      "stats": {
+        "ryds": 988,
+        "rtd": 6,
+        "recyds": 163,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '16",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "team": "SF '16",
+      "stats": {
+        "ryds": 50,
+        "rtd": 1,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Torrey Smith",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 267,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jeremy Kerley",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 667,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Rod Streater",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 191,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Quinton Patton",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 408,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Chris Harper",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "DeAndre Smelter",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Aaron Burbridge",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Garrett Celek",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 350,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Vance McDonald",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 391,
+        "rectd": 4,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Je'Ron Hamm",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "SF '16",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

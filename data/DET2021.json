@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "DET '21",
+      "stats": {
+        "yds": 3245,
+        "td": 19,
+        "int": 8
+      }
+    },
+    {
+      "name": "Tim Boyle",
+      "team": "DET '21",
+      "stats": {
+        "yds": 526,
+        "td": 3,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Williams",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 601,
+        "rtd": 3,
+        "recyds": 157,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jason Cabinda",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Godwin Igwebuike",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 118,
+        "rtd": 1,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Craig Reynolds",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 230,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 617,
+        "rtd": 5,
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Jermar Jefferson",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 74,
+        "rtd": 2,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyrell Williams",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 576,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 396,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 157,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Trinity Benson",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Tom Kennedy",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Quintez Cephus",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 204,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 912,
+        "rectd": 5,
+        "rec": 90
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Fells",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 583,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Shane Zylstra",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Brock Wright",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 117,
+        "rectd": 2,
+        "rec": 12
+      }
+    }
+  ]
+}

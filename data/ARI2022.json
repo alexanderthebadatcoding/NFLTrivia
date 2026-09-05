@@ -1,0 +1,209 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "ARI '22",
+      "stats": {
+        "yds": 780,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "David Blough",
+      "team": "ARI '22",
+      "stats": {
+        "yds": 402,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Trace McSorley",
+      "team": "ARI '22",
+      "stats": {
+        "yds": 412,
+        "td": 0,
+        "int": 5
+      }
+    },
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '22",
+      "stats": {
+        "yds": 2368,
+        "td": 14,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Conner",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 782,
+        "rtd": 7,
+        "recyds": 300,
+        "rectd": 1,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Corey Clement",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 55,
+        "rtd": 1,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 102,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ty'Son Williams",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Keaontay Ingram",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 60,
+        "rtd": 1,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Green",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 236,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 717,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 282,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Greg Dortch",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 467,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 709,
+        "rectd": 3,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Andre Baccellia",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Rondale Moore",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 414,
+        "rectd": 1,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 406,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Maxx Williams",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Stephen Anderson",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ]
+}

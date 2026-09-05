@@ -1,0 +1,209 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '19",
+      "stats": {
+        "yds": 1042,
+        "td": 6,
+        "int": 5
+      }
+    },
+    {
+      "name": "Alex Tanney",
+      "team": "NYG '19",
+      "stats": {
+        "yds": 1,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '19",
+      "stats": {
+        "yds": 3027,
+        "td": 24,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Javorius Allen",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 36,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Elijhaa Penny",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Wayne Gallman",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 110,
+        "rtd": 2,
+        "recyds": 102,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 1003,
+        "rtd": 6,
+        "recyds": 438,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Jon Hilliman",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 91,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Golden Tate",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 676,
+        "rectd": 6,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Russell Shepard",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bennie Fowler",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 193,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "T.J. Jones",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cody Latimer",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 300,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 576,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Cody Core",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Da'Mari Scott",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 740,
+        "rectd": 8,
+        "rec": 48
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rhett Ellison",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 167,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Scott Simonson",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 467,
+        "rectd": 3,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Kaden Smith",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 268,
+        "rectd": 3,
+        "rec": 31
+      }
+    }
+  ]
+}

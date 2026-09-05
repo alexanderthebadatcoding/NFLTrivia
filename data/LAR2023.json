@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR '23",
+      "stats": {
+        "yds": 3965,
+        "td": 24,
+        "int": 11
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "LAR '23",
+      "stats": {
+        "yds": 163,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Brett Rypien",
+      "team": "LAR '23",
+      "stats": {
+        "yds": 172,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Royce Freeman",
+      "team": "LAR '23",
+      "stats": {
+        "ryds": 319,
+        "rtd": 2,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LAR '23",
+      "stats": {
+        "ryds": 112,
+        "rtd": 2,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Ronnie Rivers",
+      "team": "LAR '23",
+      "stats": {
+        "ryds": 129,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LAR '23",
+      "stats": {
+        "ryds": 1144,
+        "rtd": 12,
+        "recyds": 206,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Zach Evans",
+      "team": "LAR '23",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Demarcus Robinson",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 371,
+        "rectd": 4,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 737,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Tyler Johnson",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 8,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Austin Trammell",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 483,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Ben Skowronek",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 1486,
+        "rectd": 6,
+        "rec": 105
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 495,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Brycen Hopkins",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Davis Allen",
+      "team": "LAR '23",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

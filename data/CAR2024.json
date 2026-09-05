@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CAR '24",
+      "stats": {
+        "yds": 989,
+        "td": 7,
+        "int": 6
+      }
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR '24",
+      "stats": {
+        "yds": 2403,
+        "td": 15,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Boone",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 205,
+        "rtd": 2,
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Chuba Hubbard",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 1195,
+        "rtd": 10,
+        "recyds": 171,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Raheem Blackshear",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jonathon Brooks",
+      "team": "CAR '24",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 615,
+        "rectd": 5,
+        "rec": 48
+      }
+    },
+    {
+      "name": "David Moore",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 351,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Dan Chisena",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Deven Thompkins",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Xavier Legette",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 497,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Jalen Coker",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 478,
+        "rectd": 2,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Feleipe Franks",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tommy Tremble",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 234,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Ja'Tavion Sanders",
+      "team": "CAR '24",
+      "stats": {
+        "recyds": 342,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ]
+}

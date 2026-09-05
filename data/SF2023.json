@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Sam Darnold",
+      "team": "SF '23",
+      "stats": {
+        "yds": 297,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF '23",
+      "stats": {
+        "yds": 4280,
+        "td": 31,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 119,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 1459,
+        "rtd": 14,
+        "recyds": 564,
+        "rectd": 7,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Elijah Mitchell",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 281,
+        "rtd": 2,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 206,
+        "rtd": 3,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tyrion Davis-Price",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Willie Snead",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 892,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 1342,
+        "rectd": 7,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Ronnie Bell",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 68,
+        "rectd": 3,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "George Kittle",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 1020,
+        "rectd": 6,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charlie Woerner",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

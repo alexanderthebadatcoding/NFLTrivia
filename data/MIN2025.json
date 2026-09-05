@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Carson Wentz",
+      "team": "MIN '25",
+      "stats": {
+        "yds": 1216,
+        "td": 6,
+        "int": 5
+      }
+    },
+    {
+      "name": "J.J. McCarthy",
+      "team": "MIN '25",
+      "stats": {
+        "yds": 1632,
+        "td": 11,
+        "int": 12
+      }
+    },
+    {
+      "name": "Max Brosmer",
+      "team": "MIN '25",
+      "stats": {
+        "yds": 328,
+        "td": 0,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '25",
+      "stats": {
+        "ryds": 5,
+        "rtd": 2,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "MIN '25",
+      "stats": {
+        "ryds": 548,
+        "rtd": 2,
+        "recyds": 199,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Ty Chandler",
+      "team": "MIN '25",
+      "stats": {
+        "ryds": 47,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "MIN '25",
+      "stats": {
+        "ryds": 758,
+        "rtd": 6,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Zavier Scott",
+      "team": "MIN '25",
+      "stats": {
+        "ryds": 114,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 1048,
+        "rectd": 2,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Jalen Nailor",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 444,
+        "rectd": 4,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jordan Addison",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 610,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Tai Felton",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "T.J. Hockenson",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 438,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 160,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ben Sims",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ben Yurosek",
+      "team": "MIN '25",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Marcus Mariota",
+      "team": "PHI '23",
+      "stats": {
+        "yds": 164,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '23",
+      "stats": {
+        "yds": 3858,
+        "td": 23,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Boston Scott",
+      "team": "PHI '23",
+      "stats": {
+        "ryds": 86,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "PHI '23",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "PHI '23",
+      "stats": {
+        "ryds": 1049,
+        "rtd": 5,
+        "recyds": 214,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Kenny Gainwell",
+      "team": "PHI '23",
+      "stats": {
+        "ryds": 364,
+        "rtd": 2,
+        "recyds": 183,
+        "rectd": 0,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 74,
+        "rectd": 3,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 164,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 1456,
+        "rectd": 7,
+        "rec": 106
+      }
+    },
+    {
+      "name": "Quez Watkins",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "DeVonta Smith",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 1066,
+        "rectd": 7,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Britain Covey",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 592,
+        "rectd": 3,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Jack Stoll",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Grant Calcaterra",
+      "team": "PHI '23",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

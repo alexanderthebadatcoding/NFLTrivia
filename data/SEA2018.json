@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '18",
+      "stats": {
+        "yds": 3448,
+        "td": 35,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Davis",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 514,
+        "rtd": 4,
+        "recyds": 214,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "C.J. Prosise",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": -3,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tre Madden",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "J.D. McKissic",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Chris Carson",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 1151,
+        "rtd": 9,
+        "recyds": 163,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 419,
+        "rtd": 2,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Marshall",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 618,
+        "rectd": 5,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Jaron Brown",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 166,
+        "rectd": 5,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 965,
+        "rectd": 10,
+        "rec": 57
+      }
+    },
+    {
+      "name": "David Moore",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 445,
+        "rectd": 5,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Malik Turner",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ed Dickson",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 143,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Nick Vannett",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 269,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Tyrone Swoopes",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Will Dissly",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 156,
+        "rectd": 2,
+        "rec": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Mitchell Trubisky",
+      "team": "PIT '22",
+      "stats": {
+        "yds": 1252,
+        "td": 4,
+        "int": 5
+      }
+    },
+    {
+      "name": "Kenny Pickett",
+      "team": "PIT '22",
+      "stats": {
+        "yds": 2404,
+        "td": 7,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derek Watt",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 21,
+        "rtd": 1,
+        "recyds": 11,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Benny Snell",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 90,
+        "rtd": 1,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony McFarland",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Najee Harris",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 1034,
+        "rtd": 7,
+        "recyds": 229,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 379,
+        "rtd": 1,
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 28
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Steven Sims",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 882,
+        "rectd": 0,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cody White",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "George Pickens",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 801,
+        "rectd": 4,
+        "rec": 52
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Gentry",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 732,
+        "rectd": 2,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Connor Heyward",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ]
+}

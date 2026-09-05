@@ -1,0 +1,211 @@
+{
+  "QB": [
+    {
+      "name": "T.J. Yates",
+      "team": "HOU '17",
+      "stats": {
+        "yds": 523,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Tom Savage",
+      "team": "HOU '17",
+      "stats": {
+        "yds": 1412,
+        "td": 5,
+        "int": 6
+      }
+    },
+    {
+      "name": "Taylor Heinicke",
+      "team": "HOU '17",
+      "stats": {
+        "yds": 10,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "HOU '17",
+      "stats": {
+        "yds": 1699,
+        "td": 19,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lamar Miller",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 888,
+        "rtd": 3,
+        "recyds": 327,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Andre Ellington",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 55,
+        "rtd": 1,
+        "recyds": 369,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Alfred Blue",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 262,
+        "rtd": 1,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jay Prosch",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tyler Ervin",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "D'Onta Foreman",
+      "team": "HOU '17",
+      "stats": {
+        "ryds": 327,
+        "rtd": 2,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cobi Hamilton",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 1378,
+        "rectd": 13,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Bruce Ellington",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 330,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "DeAndrew White",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Braxton Miller",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 162,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Will Fuller",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 423,
+        "rectd": 7,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "C.J. Fiedorowicz",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 127,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ryan Malleck",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Stephen Anderson",
+      "team": "HOU '17",
+      "stats": {
+        "recyds": 342,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ]
+}

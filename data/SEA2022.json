@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Geno Smith",
+      "team": "SEA '22",
+      "stats": {
+        "yds": 4282,
+        "td": 30,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Godwin Igwebuike",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 346,
+        "rtd": 2,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Travis Homer",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Tony Jones",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "DeeJay Dallas",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 186,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 1050,
+        "rtd": 9,
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marquise Goodwin",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 387,
+        "rectd": 4,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 1033,
+        "rectd": 9,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Penny Hart",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 1048,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Dee Eskridge",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cade Johnson",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dareke Young",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Will Dissly",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 349,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 486,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Tyler Mabry",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 322,
+        "rectd": 2,
+        "rec": 25
+      }
+    }
+  ]
+}

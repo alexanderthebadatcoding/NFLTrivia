@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Blaine Gabbert",
+      "team": "KC '23",
+      "stats": {
+        "yds": 185,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '23",
+      "stats": {
+        "yds": 4183,
+        "td": 27,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerick McKinnon",
+      "team": "KC '23",
+      "stats": {
+        "ryds": 60,
+        "rtd": 1,
+        "recyds": 192,
+        "rectd": 4,
+        "rec": 25
+      }
+    },
+    {
+      "name": "La'Mical Perine",
+      "team": "KC '23",
+      "stats": {
+        "ryds": 77,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '23",
+      "stats": {
+        "ryds": 223,
+        "rtd": 1,
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC '23",
+      "stats": {
+        "ryds": 935,
+        "rtd": 7,
+        "recyds": 244,
+        "rectd": 2,
+        "rec": 44
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 460,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kadarius Toney",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 169,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Justyn Ross",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Skyy Moore",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 244,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Rashee Rice",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 938,
+        "rectd": 7,
+        "rec": 79
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 984,
+        "rectd": 5,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 26,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 305,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ]
+}

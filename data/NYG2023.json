@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "NYG '23",
+      "stats": {
+        "yds": 1341,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '23",
+      "stats": {
+        "yds": 909,
+        "td": 2,
+        "int": 6
+      }
+    },
+    {
+      "name": "Tommy DeVito",
+      "team": "NYG '23",
+      "stats": {
+        "yds": 1101,
+        "td": 8,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Breida",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 151,
+        "rtd": 1,
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 962,
+        "rtd": 6,
+        "recyds": 280,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Deon Jackson",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Gary Brightwell",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jashaun Corbin",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Eric Gray",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 770,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Parris Campbell",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaiah Hodgins",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 230,
+        "rectd": 3,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 525,
+        "rectd": 1,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jalin Hyatt",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 373,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Waller",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 552,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Lawrence Cager",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Daniel Bellinger",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 255,
+        "rectd": 0,
+        "rec": 25
+      }
+    }
+  ]
+}

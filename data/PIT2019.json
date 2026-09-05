@@ -1,0 +1,222 @@
+{
+  "QB": [
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '19",
+      "stats": {
+        "yds": 351,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Mason Rudolph",
+      "team": "PIT '19",
+      "stats": {
+        "yds": 1765,
+        "td": 13,
+        "int": 9
+      }
+    },
+    {
+      "name": "Devlin Hodges",
+      "team": "PIT '19",
+      "stats": {
+        "yds": 1063,
+        "td": 5,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Roosevelt Nix",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Conner",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 464,
+        "rtd": 4,
+        "recyds": 251,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Trey Edmunds",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 92,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jaylen Samuels",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 175,
+        "rtd": 1,
+        "recyds": 305,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Benny Snell",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 426,
+        "rtd": 2,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tony Brooks-James",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kerrith Whyte",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 122,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donte Moncrief",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tevin Jones",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Johnny Holton",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ryan Switzer",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Deon Cain",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "James Washington",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 735,
+        "rectd": 3,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 680,
+        "rectd": 5,
+        "rec": 59
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vance McDonald",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 273,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Xavier Grimble",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nick Vannett",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Zach Gentry",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

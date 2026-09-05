@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR '25",
+      "stats": {
+        "yds": 4707,
+        "td": 46,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ronnie Rivers",
+      "team": "LAR '25",
+      "stats": {
+        "ryds": 46,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LAR '25",
+      "stats": {
+        "ryds": 1252,
+        "rtd": 10,
+        "recyds": 281,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Blake Corum",
+      "team": "LAR '25",
+      "stats": {
+        "ryds": 746,
+        "rtd": 6,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 789,
+        "rectd": 14,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 192,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Xavier Smith",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 303,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 1715,
+        "rectd": 10,
+        "rec": 129
+      }
+    },
+    {
+      "name": "Jordan Whittington",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 171,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Konata Mumpfield",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 281,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 408,
+        "rectd": 8,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Davis Allen",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 208,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Terrance Ferguson",
+      "team": "LAR '25",
+      "stats": {
+        "recyds": 231,
+        "rectd": 3,
+        "rec": 11
+      }
+    }
+  ]
+}

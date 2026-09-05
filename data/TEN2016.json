@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "TEN '16",
+      "stats": {
+        "yds": 284,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "TEN '16",
+      "stats": {
+        "yds": 3426,
+        "td": 26,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeMarco Murray",
+      "team": "TEN '16",
+      "stats": {
+        "ryds": 1287,
+        "rtd": 9,
+        "recyds": 377,
+        "rectd": 3,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Antonio Andrews",
+      "team": "TEN '16",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jalston Fowler",
+      "team": "TEN '16",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '16",
+      "stats": {
+        "ryds": 490,
+        "rtd": 5,
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Johnson",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 85,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Rishard Matthews",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 945,
+        "rectd": 9,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Kendall Wright",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 416,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Tajae Sharpe",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 522,
+        "rectd": 2,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 83,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 800,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Phillip Supernaw",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jace Amaro",
+      "team": "TEN '16",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

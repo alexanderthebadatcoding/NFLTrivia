@@ -1,0 +1,195 @@
+{
+  "QB": [
+    {
+      "name": "Sam Darnold",
+      "team": "SEA '25",
+      "stats": {
+        "yds": 4048,
+        "td": 25,
+        "int": 14
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "SEA '25",
+      "stats": {
+        "yds": 15,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Myles Gaskin",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 1027,
+        "rtd": 5,
+        "recyds": 282,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Zach Charbonnet",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 730,
+        "rtd": 12,
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "George Holani",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 73,
+        "rtd": 1,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jacardia Wright",
+      "team": "SEA '25",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cooper Kupp",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 593,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Cody White",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dareke Young",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rashid Shaheed",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 687,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 1793,
+        "rectd": 10,
+        "rec": 119
+      }
+    },
+    {
+      "name": "Jake Bobo",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tory Horton",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 161,
+        "rectd": 5,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Saubert",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "AJ Barner",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 519,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Elijah Arroyo",
+      "team": "SEA '25",
+      "stats": {
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ]
+}

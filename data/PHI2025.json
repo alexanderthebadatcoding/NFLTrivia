@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '25",
+      "stats": {
+        "yds": 3224,
+        "td": 25,
+        "int": 6
+      }
+    },
+    {
+      "name": "Tanner McKee",
+      "team": "PHI '25",
+      "stats": {
+        "yds": 274,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Saquon Barkley",
+      "team": "PHI '25",
+      "stats": {
+        "ryds": 1140,
+        "rtd": 7,
+        "recyds": 273,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "PHI '25",
+      "stats": {
+        "ryds": 60,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tank Bigsby",
+      "team": "PHI '25",
+      "stats": {
+        "ryds": 356,
+        "rtd": 2,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Will Shipley",
+      "team": "PHI '25",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Brown",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 1003,
+        "rectd": 7,
+        "rec": 78
+      }
+    },
+    {
+      "name": "DeVonta Smith",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 4,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Britain Covey",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 262,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Xavier Gipson",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Darius Cooper",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 591,
+        "rectd": 11,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Kylen Granson",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Grant Calcaterra",
+      "team": "PHI '25",
+      "stats": {
+        "recyds": 76,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

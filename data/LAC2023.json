@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Easton Stick",
+      "team": "LAC '23",
+      "stats": {
+        "yds": 1129,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC '23",
+      "stats": {
+        "yds": 3134,
+        "td": 20,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '23",
+      "stats": {
+        "ryds": 628,
+        "rtd": 5,
+        "recyds": 436,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Joshua Kelley",
+      "team": "LAC '23",
+      "stats": {
+        "ryds": 405,
+        "rtd": 2,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Isaiah Spiller",
+      "team": "LAC '23",
+      "stats": {
+        "ryds": 96,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Elijah Dotson",
+      "team": "LAC '23",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 1243,
+        "rectd": 7,
+        "rec": 108
+      }
+    },
+    {
+      "name": "Alex Erickson",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 232,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 249,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Keelan Doss",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jalen Guyton",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Simi Fehoko",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 9,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Josh Palmer",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 581,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Quentin Johnston",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 431,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Derius Davis",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nick Vannett",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 411,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Donald Parham",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 285,
+        "rectd": 4,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Stone Smartt",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 155,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

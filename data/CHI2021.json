@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CHI '21",
+      "stats": {
+        "yds": 1515,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Nick Foles",
+      "team": "CHI '21",
+      "stats": {
+        "yds": 250,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Justin Fields",
+      "team": "CHI '21",
+      "stats": {
+        "yds": 1870,
+        "td": 7,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Damien Williams",
+      "team": "CHI '21",
+      "stats": {
+        "ryds": 164,
+        "rtd": 2,
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Ryan Nall",
+      "team": "CHI '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '21",
+      "stats": {
+        "ryds": 849,
+        "rtd": 7,
+        "recyds": 301,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Khalil Herbert",
+      "team": "CHI '21",
+      "stats": {
+        "ryds": 433,
+        "rtd": 2,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marquise Goodwin",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 313,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 410,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 329,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jakeem Grant",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 132,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 1055,
+        "rectd": 4,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Dazz Newsome",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Graham",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 167,
+        "rectd": 3,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jesper Horsted",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 21,
+        "rectd": 2,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 612,
+        "rectd": 0,
+        "rec": 60
+      }
+    }
+  ]
+}

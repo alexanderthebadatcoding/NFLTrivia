@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '16",
+      "stats": {
+        "yds": 4027,
+        "td": 26,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rashad Jennings",
+      "team": "NYG '16",
+      "stats": {
+        "ryds": 593,
+        "rtd": 3,
+        "recyds": 201,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Shane Vereen",
+      "team": "NYG '16",
+      "stats": {
+        "ryds": 158,
+        "rtd": 1,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Bobby Rainey",
+      "team": "NYG '16",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Orleans Darkwa",
+      "team": "NYG '16",
+      "stats": {
+        "ryds": 111,
+        "rtd": 2,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Paul Perkins",
+      "team": "NYG '16",
+      "stats": {
+        "ryds": 456,
+        "rtd": 0,
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Victor Cruz",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 586,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Dwayne Harris",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 13,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tavarres King",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 1367,
+        "rectd": 10,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 683,
+        "rectd": 8,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Roger Lewis",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 97,
+        "rectd": 2,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Larry Donnell",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Will Tye",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 395,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Jerell Adams",
+      "team": "NYG '16",
+      "stats": {
+        "recyds": 122,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ]
+}

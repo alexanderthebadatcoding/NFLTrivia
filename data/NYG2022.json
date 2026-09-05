@@ -1,0 +1,187 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "NYG '22",
+      "stats": {
+        "yds": 58,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Davis Webb",
+      "team": "NYG '22",
+      "stats": {
+        "yds": 168,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '22",
+      "stats": {
+        "yds": 3205,
+        "td": 15,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Breida",
+      "team": "NYG '22",
+      "stats": {
+        "ryds": 220,
+        "rtd": 1,
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '22",
+      "stats": {
+        "ryds": 1312,
+        "rtd": 10,
+        "recyds": 338,
+        "rectd": 0,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Gary Brightwell",
+      "team": "NYG '22",
+      "stats": {
+        "ryds": 141,
+        "rtd": 1,
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Marcus Johnson",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 81,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 569,
+        "rectd": 4,
+        "rec": 57
+      }
+    },
+    {
+      "name": "David Sills",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 724,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Isaiah Hodgins",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 392,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 227,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nick Vannett",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tanner Hudson",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Myarick",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 65,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Lawrence Cager",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 118,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Daniel Bellinger",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ]
+}

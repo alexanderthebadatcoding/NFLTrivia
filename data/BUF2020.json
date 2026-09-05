@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Matt Barkley",
+      "team": "BUF '20",
+      "stats": {
+        "yds": 197,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '20",
+      "stats": {
+        "yds": 4544,
+        "td": 37,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "T.J. Yeldon",
+      "team": "BUF '20",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "BUF '20",
+      "stats": {
+        "ryds": 687,
+        "rtd": 2,
+        "recyds": 269,
+        "rectd": 0,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Antonio Williams",
+      "team": "BUF '20",
+      "stats": {
+        "ryds": 63,
+        "rtd": 2,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Zack Moss",
+      "team": "BUF '20",
+      "stats": {
+        "ryds": 481,
+        "rtd": 4,
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Roberts",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 967,
+        "rectd": 4,
+        "rec": 82
+      }
+    },
+    {
+      "name": "John Brown",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 458,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 1535,
+        "rectd": 8,
+        "rec": 127
+      }
+    },
+    {
+      "name": "Jake Kumerow",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaiah McKenzie",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 282,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Gabe Davis",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 599,
+        "rectd": 7,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lee Smith",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 35,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 119,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 288,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Reggie Gilliam",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

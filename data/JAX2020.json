@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Mike Glennon",
+      "team": "JAX '20",
+      "stats": {
+        "yds": 1072,
+        "td": 7,
+        "int": 5
+      }
+    },
+    {
+      "name": "Gardner Minshew",
+      "team": "JAX '20",
+      "stats": {
+        "yds": 2259,
+        "td": 16,
+        "int": 5
+      }
+    },
+    {
+      "name": "Jake Luton",
+      "team": "JAX '20",
+      "stats": {
+        "yds": 624,
+        "td": 2,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bruce Miller",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 146,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Dare Ogunbowale",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 145,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Devine Ozigbo",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Craig Reynolds",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 7,
+        "recyds": 344,
+        "rectd": 3,
+        "rec": 49
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Conley",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 471,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Keelan Cole",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 642,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Dede Westbrook",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 706,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Terry Godwin",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Collin Johnson",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 272,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Laviska Shenault Jr.",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 600,
+        "rectd": 5,
+        "rec": 58
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Eifert",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 349,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "James O'Shaughnessy",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 262,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Eric Saubert",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ben Ellefson",
+      "team": "JAX '20",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

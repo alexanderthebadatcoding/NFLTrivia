@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Baker Mayfield",
+      "team": "TB '23",
+      "stats": {
+        "yds": 4044,
+        "td": 28,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chase Edmonds",
+      "team": "TB '23",
+      "stats": {
+        "ryds": 176,
+        "rtd": 0,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ke'Shawn Vaughn",
+      "team": "TB '23",
+      "stats": {
+        "ryds": 42,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rachaad White",
+      "team": "TB '23",
+      "stats": {
+        "ryds": 990,
+        "rtd": 6,
+        "recyds": 549,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Sean Tucker",
+      "team": "TB '23",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Evans",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 1255,
+        "rectd": 13,
+        "rec": 79
+      }
+    },
+    {
+      "name": "David Moore",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 1024,
+        "rectd": 2,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Deven Thompkins",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 83,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Rakim Jarrett",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Trey Palmer",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 385,
+        "rectd": 3,
+        "rec": 39
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "David Wells",
+      "team": "TB '23",
+      "stats": {
+        "recyds": -10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ko Kieft",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 2,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cade Otton",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 455,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Payne Durham",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

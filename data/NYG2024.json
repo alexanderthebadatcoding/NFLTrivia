@@ -1,0 +1,160 @@
+{
+  "QB": [
+    {
+      "name": "Tim Boyle",
+      "team": "NYG '24",
+      "stats": {
+        "yds": 276,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "NYG '24",
+      "stats": {
+        "yds": 1071,
+        "td": 6,
+        "int": 5
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '24",
+      "stats": {
+        "yds": 2070,
+        "td": 8,
+        "int": 7
+      }
+    },
+    {
+      "name": "Tommy DeVito",
+      "team": "NYG '24",
+      "stats": {
+        "yds": 257,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Devin Singletary",
+      "team": "NYG '24",
+      "stats": {
+        "ryds": 437,
+        "rtd": 4,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Eric Gray",
+      "team": "NYG '24",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Tyrone Tracy Jr.",
+      "team": "NYG '24",
+      "stats": {
+        "ryds": 839,
+        "rtd": 5,
+        "recyds": 284,
+        "rectd": 1,
+        "rec": 38
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 573,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Isaiah Hodgins",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 699,
+        "rectd": 3,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Jalin Hyatt",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Malik Nabers",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 1204,
+        "rectd": 7,
+        "rec": 109
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Greg Dulcich",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Daniel Bellinger",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Theo Johnson",
+      "team": "NYG '24",
+      "stats": {
+        "recyds": 331,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Davis Mills",
+      "team": "HOU '24",
+      "stats": {
+        "yds": 212,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "C.J. Stroud",
+      "team": "HOU '24",
+      "stats": {
+        "yds": 3727,
+        "td": 20,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dare Ogunbowale",
+      "team": "HOU '24",
+      "stats": {
+        "ryds": 112,
+        "rtd": 0,
+        "recyds": 198,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "HOU '24",
+      "stats": {
+        "ryds": 1016,
+        "rtd": 11,
+        "recyds": 309,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "J.J. Taylor",
+      "team": "HOU '24",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dameon Pierce",
+      "team": "HOU '24",
+      "stats": {
+        "ryds": 293,
+        "rtd": 2,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "British Brooks",
+      "team": "HOU '24",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 496,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 375,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 1006,
+        "rectd": 7,
+        "rec": 68
+      }
+    },
+    {
+      "name": "John Metchie III",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 254,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Xavier Hutchinson",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Tank Dell",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 667,
+        "rectd": 3,
+        "rec": 51
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dalton Schultz",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 532,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Brevin Jordan",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cade Stover",
+      "team": "HOU '24",
+      "stats": {
+        "recyds": 133,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ]
+}

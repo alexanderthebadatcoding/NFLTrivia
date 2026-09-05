@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '24",
+      "stats": {
+        "yds": 2903,
+        "td": 18,
+        "int": 5
+      }
+    },
+    {
+      "name": "Kenny Pickett",
+      "team": "PHI '24",
+      "stats": {
+        "yds": 291,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tanner McKee",
+      "team": "PHI '24",
+      "stats": {
+        "yds": 323,
+        "td": 4,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Saquon Barkley",
+      "team": "PHI '24",
+      "stats": {
+        "ryds": 2005,
+        "rtd": 13,
+        "recyds": 278,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Kenny Gainwell",
+      "team": "PHI '24",
+      "stats": {
+        "ryds": 290,
+        "rtd": 1,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Tyrion Davis-Price",
+      "team": "PHI '24",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Will Shipley",
+      "team": "PHI '24",
+      "stats": {
+        "ryds": 82,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "John Ross",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Parris Campbell",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 1079,
+        "rectd": 7,
+        "rec": 67
+      }
+    },
+    {
+      "name": "DeVonta Smith",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 833,
+        "rectd": 8,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Britain Covey",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Johnny Wilson",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Ainias Smith",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 496,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jack Stoll",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Grant Calcaterra",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 298,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "E.J. Jenkins",
+      "team": "PHI '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "NYJ '21",
+      "stats": {
+        "yds": 338,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mike White",
+      "team": "NYJ '21",
+      "stats": {
+        "yds": 953,
+        "td": 5,
+        "int": 8
+      }
+    },
+    {
+      "name": "Zach Wilson",
+      "team": "NYJ '21",
+      "stats": {
+        "yds": 2334,
+        "td": 9,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tevin Coleman",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 356,
+        "rtd": 0,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Nick Bawden",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Austin Walter",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 101,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 238,
+        "rtd": 2,
+        "recyds": 372,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "La'Mical Perine",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Michael Carter",
+      "team": "NYJ '21",
+      "stats": {
+        "ryds": 639,
+        "rtd": 4,
+        "recyds": 325,
+        "rectd": 0,
+        "rec": 36
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jamison Crowder",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 447,
+        "rectd": 2,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Keelan Cole",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 449,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Corey Davis",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 492,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Braxton Berrios",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 431,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "D.J. Montgomery",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jeff Smith",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 113,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Denzel Mims",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tarik Black",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Elijah Moore",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 538,
+        "rectd": 5,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 261,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Daniel Brown",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kenny Yeboah",
+      "team": "NYJ '21",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

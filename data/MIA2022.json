@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Teddy Bridgewater",
+      "team": "MIA '22",
+      "stats": {
+        "yds": 683,
+        "td": 4,
+        "int": 4
+      }
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "MIA '22",
+      "stats": {
+        "yds": 3548,
+        "td": 25,
+        "int": 8
+      }
+    },
+    {
+      "name": "Skylar Thompson",
+      "team": "MIA '22",
+      "stats": {
+        "yds": 534,
+        "td": 1,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Raheem Mostert",
+      "team": "MIA '22",
+      "stats": {
+        "ryds": 891,
+        "rtd": 3,
+        "recyds": 202,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "MIA '22",
+      "stats": {
+        "ryds": 860,
+        "rtd": 5,
+        "recyds": 185,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Alec Ingold",
+      "team": "MIA '22",
+      "stats": {
+        "ryds": 8,
+        "rtd": 1,
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '22",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Salvon Ahmed",
+      "team": "MIA '22",
+      "stats": {
+        "ryds": 64,
+        "rtd": 1,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyreek Hill",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 1710,
+        "rectd": 7,
+        "rec": 119
+      }
+    },
+    {
+      "name": "River Cracraft",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 102,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 417,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 1356,
+        "rectd": 8,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Braylon Sanders",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Erik Ezukanma",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 129,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 362,
+        "rectd": 5,
+        "rec": 32
+      }
+    }
+  ]
+}

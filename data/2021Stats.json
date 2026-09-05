@@ -1,0 +1,960 @@
+{
+  "QB": [
+    {
+      "name": "Josh Allen",
+      "team": "BUF '21",
+      "stats": {
+        "yds": 4407,
+        "td": 36,
+        "int": 15
+      }
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC '21",
+      "stats": {
+        "yds": 5014,
+        "td": 38,
+        "int": 15
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "TB '21",
+      "stats": {
+        "yds": 5316,
+        "td": 43,
+        "int": 12
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '21",
+      "stats": {
+        "yds": 4839,
+        "td": 37,
+        "int": 13
+      }
+    },
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '21",
+      "stats": {
+        "yds": 4115,
+        "td": 37,
+        "int": 4
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "LA '21",
+      "stats": {
+        "yds": 4886,
+        "td": 41,
+        "int": 17
+      }
+    },
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '21",
+      "stats": {
+        "yds": 4449,
+        "td": 37,
+        "int": 10
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '21",
+      "stats": {
+        "yds": 4611,
+        "td": 34,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '21",
+      "stats": {
+        "yds": 3144,
+        "td": 16,
+        "int": 9
+      }
+    },
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '21",
+      "stats": {
+        "yds": 3787,
+        "td": 24,
+        "int": 10
+      }
+    },
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '21",
+      "stats": {
+        "yds": 4221,
+        "td": 33,
+        "int": 7
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '21",
+      "stats": {
+        "yds": 3734,
+        "td": 21,
+        "int": 14
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "IND '21",
+      "stats": {
+        "yds": 3563,
+        "td": 27,
+        "int": 7
+      }
+    },
+    {
+      "name": "Derek Carr",
+      "team": "LV '21",
+      "stats": {
+        "yds": 4804,
+        "td": 23,
+        "int": 14
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '21",
+      "stats": {
+        "yds": 3113,
+        "td": 25,
+        "int": 6
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '21",
+      "stats": {
+        "yds": 2882,
+        "td": 16,
+        "int": 13
+      }
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '21",
+      "stats": {
+        "yds": 3810,
+        "td": 20,
+        "int": 12
+      }
+    },
+    {
+      "name": "Mac Jones",
+      "team": "NE '21",
+      "stats": {
+        "yds": 3801,
+        "td": 22,
+        "int": 13
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '21",
+      "stats": {
+        "yds": 3968,
+        "td": 20,
+        "int": 12
+      }
+    },
+    {
+      "name": "Taylor Heinicke",
+      "team": "WAS '21",
+      "stats": {
+        "yds": 3419,
+        "td": 20,
+        "int": 15
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '21",
+      "stats": {
+        "yds": 3740,
+        "td": 22,
+        "int": 10
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "DEN '21",
+      "stats": {
+        "yds": 3052,
+        "td": 18,
+        "int": 7
+      }
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '21",
+      "stats": {
+        "yds": 3641,
+        "td": 12,
+        "int": 17
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "DET '21",
+      "stats": {
+        "yds": 3245,
+        "td": 19,
+        "int": 8
+      }
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "MIA '21",
+      "stats": {
+        "yds": 2653,
+        "td": 16,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '21",
+      "stats": {
+        "ryds": 1811,
+        "rtd": 18,
+        "recyds": 360,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '21",
+      "stats": {
+        "ryds": 911,
+        "rtd": 12,
+        "recyds": 647,
+        "rectd": 8,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Najee Harris",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 1200,
+        "rtd": 7,
+        "recyds": 467,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '21",
+      "stats": {
+        "ryds": 1205,
+        "rtd": 13,
+        "recyds": 314,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "James Conner",
+      "team": "ARI '21",
+      "stats": {
+        "ryds": 752,
+        "rtd": 15,
+        "recyds": 375,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Leonard Fournette",
+      "team": "TB '21",
+      "stats": {
+        "ryds": 812,
+        "rtd": 8,
+        "recyds": 454,
+        "rectd": 2,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 1002,
+        "rtd": 10,
+        "recyds": 287,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Alvin Kamara",
+      "team": "NO '21",
+      "stats": {
+        "ryds": 898,
+        "rtd": 4,
+        "recyds": 439,
+        "rectd": 5,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "ATL '21",
+      "stats": {
+        "ryds": 618,
+        "rtd": 6,
+        "recyds": 548,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WAS '21",
+      "stats": {
+        "ryds": 1037,
+        "rtd": 7,
+        "recyds": 294,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 799,
+        "rtd": 4,
+        "recyds": 391,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 872,
+        "rtd": 9,
+        "recyds": 348,
+        "rectd": 0,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 1259,
+        "rtd": 8,
+        "recyds": 174,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 929,
+        "rtd": 15,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "DET '21",
+      "stats": {
+        "ryds": 617,
+        "rtd": 5,
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 1159,
+        "rtd": 6,
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 903,
+        "rtd": 4,
+        "recyds": 316,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "BUF '21",
+      "stats": {
+        "ryds": 870,
+        "rtd": 7,
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 558,
+        "rtd": 6,
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Melvin Gordon",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 918,
+        "rtd": 8,
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '21",
+      "stats": {
+        "ryds": 849,
+        "rtd": 7,
+        "recyds": 301,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '21",
+      "stats": {
+        "ryds": 937,
+        "rtd": 10,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 803,
+        "rtd": 5,
+        "recyds": 313,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "JAX '21",
+      "stats": {
+        "ryds": 767,
+        "rtd": 8,
+        "recyds": 222,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 612,
+        "rtd": 3,
+        "recyds": 234,
+        "rectd": 4,
+        "rec": 49
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cooper Kupp",
+      "team": "LA '21",
+      "stats": {
+        "recyds": 1947,
+        "rectd": 16,
+        "rec": 145
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 1553,
+        "rectd": 11,
+        "rec": 123
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 1405,
+        "rectd": 6,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 1616,
+        "rectd": 10,
+        "rec": 108
+      }
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 1455,
+        "rectd": 13,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 1239,
+        "rectd": 9,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 1225,
+        "rectd": 10,
+        "rec": 103
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 1161,
+        "rectd": 8,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '21",
+      "stats": {
+        "recyds": 1035,
+        "rectd": 14,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 1038,
+        "rectd": 9,
+        "rec": 103
+      }
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '21",
+      "stats": {
+        "recyds": 1138,
+        "rectd": 6,
+        "rec": 106
+      }
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 1015,
+        "rectd": 6,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '21",
+      "stats": {
+        "recyds": 1146,
+        "rectd": 9,
+        "rec": 76
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '21",
+      "stats": {
+        "recyds": 967,
+        "rectd": 12,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '21",
+      "stats": {
+        "recyds": 1103,
+        "rectd": 5,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '21",
+      "stats": {
+        "recyds": 1175,
+        "rectd": 8,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "IND '21",
+      "stats": {
+        "recyds": 1082,
+        "rectd": 6,
+        "rec": 88
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '21",
+      "stats": {
+        "recyds": 1157,
+        "rectd": 4,
+        "rec": 93
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 1102,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "HOU '21",
+      "stats": {
+        "recyds": 1037,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 6,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 912,
+        "rectd": 5,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 1055,
+        "rectd": 4,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 1091,
+        "rectd": 6,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WAS '21",
+      "stats": {
+        "recyds": 1053,
+        "rectd": 5,
+        "rec": 77
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 1361,
+        "rectd": 9,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 1125,
+        "rectd": 9,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 808,
+        "rectd": 8,
+        "rec": 78
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 910,
+        "rectd": 6,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 763,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Kyle Pitts",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 1026,
+        "rectd": 1,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "TB '21",
+      "stats": {
+        "recyds": 802,
+        "rectd": 6,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '21",
+      "stats": {
+        "recyds": 830,
+        "rectd": 4,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 780,
+        "rectd": 2,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 603,
+        "rectd": 9,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '21",
+      "stats": {
+        "recyds": 587,
+        "rectd": 9,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 670,
+        "rectd": 4,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 497,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LA '21",
+      "stats": {
+        "recyds": 560,
+        "rectd": 5,
+        "rec": 61
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '21",
+      "stats": {
+        "recyds": 583,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 593,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 665,
+        "rectd": 2,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jared Cook",
+      "team": "LAC '21",
+      "stats": {
+        "recyds": 564,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 493,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Taysom Hill",
+      "team": "NO '21",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '21",
+      "stats": {
+        "recyds": 612,
+        "rectd": 0,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "SEA '21",
+      "stats": {
+        "recyds": 478,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 475,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 408,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 345,
+        "rectd": 3,
+        "rec": 38
+      }
+    }
+  ]
+}

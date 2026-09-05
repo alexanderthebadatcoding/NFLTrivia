@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "TB '20",
+      "stats": {
+        "yds": 4633,
+        "td": 40,
+        "int": 12
+      }
+    },
+    {
+      "name": "Blaine Gabbert",
+      "team": "TB '20",
+      "stats": {
+        "yds": 143,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeSean McCoy",
+      "team": "TB '20",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Leonard Fournette",
+      "team": "TB '20",
+      "stats": {
+        "ryds": 367,
+        "rtd": 6,
+        "recyds": 233,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Ronald Jones",
+      "team": "TB '20",
+      "stats": {
+        "ryds": 978,
+        "rtd": 7,
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Ke'Shawn Vaughn",
+      "team": "TB '20",
+      "stats": {
+        "ryds": 109,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Antonio Brown",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 483,
+        "rectd": 4,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 1006,
+        "rectd": 13,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Jaydon Mickens",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 840,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 501,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Tyler Johnson",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 169,
+        "rectd": 2,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rob Gronkowski",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 623,
+        "rectd": 7,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 282,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "O.J. Howard",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 146,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tanner Hudson",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

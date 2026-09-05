@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '18",
+      "stats": {
+        "yds": 3885,
+        "td": 22,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamize Olawale",
+      "team": "DAL '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DAL '18",
+      "stats": {
+        "ryds": 127,
+        "rtd": 1,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '18",
+      "stats": {
+        "ryds": 1434,
+        "rtd": 6,
+        "recyds": 567,
+        "rectd": 3,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Darius Jackson",
+      "team": "DAL '18",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cole Beasley",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 672,
+        "rectd": 3,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Tavon Austin",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 140,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Terrance Williams",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Allen Hurns",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 295,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Amari Cooper",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 1005,
+        "rectd": 7,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 507,
+        "rectd": 2,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Geoff Swaim",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 242,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Rico Gathers",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Blake Jarwin",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 307,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ]
+}

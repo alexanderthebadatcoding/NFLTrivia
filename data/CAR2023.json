@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CAR '23",
+      "stats": {
+        "yds": 361,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR '23",
+      "stats": {
+        "yds": 2877,
+        "td": 11,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Miles Sanders",
+      "team": "CAR '23",
+      "stats": {
+        "ryds": 432,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Chuba Hubbard",
+      "team": "CAR '23",
+      "stats": {
+        "ryds": 902,
+        "rtd": 5,
+        "recyds": 233,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Raheem Blackshear",
+      "team": "CAR '23",
+      "stats": {
+        "ryds": 46,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 1014,
+        "rectd": 4,
+        "rec": 103
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 525,
+        "rectd": 5,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Laviska Shenault Jr.",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Mike Strachan",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ihmir Smith-Marsette",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Terrace Marshall Jr.",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jonathan Mingo",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 418,
+        "rectd": 0,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Giovanni Ricci",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Stephen Sullivan",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Tommy Tremble",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 194,
+        "rectd": 3,
+        "rec": 23
+      }
+    }
+  ]
+}

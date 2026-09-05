@@ -1,0 +1,960 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '14",
+      "stats": {
+        "yds": 4381,
+        "td": 38,
+        "int": 5
+      }
+    },
+    {
+      "name": "Andrew Luck",
+      "team": "IND '14",
+      "stats": {
+        "yds": 4761,
+        "td": 40,
+        "int": 16
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '14",
+      "stats": {
+        "yds": 3475,
+        "td": 20,
+        "int": 7
+      }
+    },
+    {
+      "name": "Peyton Manning",
+      "team": "DEN '14",
+      "stats": {
+        "yds": 4727,
+        "td": 39,
+        "int": 15
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '14",
+      "stats": {
+        "yds": 4952,
+        "td": 32,
+        "int": 9
+      }
+    },
+    {
+      "name": "Drew Brees",
+      "team": "NO '14",
+      "stats": {
+        "yds": 4952,
+        "td": 33,
+        "int": 17
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '14",
+      "stats": {
+        "yds": 4694,
+        "td": 28,
+        "int": 14
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "MIA '14",
+      "stats": {
+        "yds": 4045,
+        "td": 27,
+        "int": 12
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "NE '14",
+      "stats": {
+        "yds": 4109,
+        "td": 33,
+        "int": 9
+      }
+    },
+    {
+      "name": "Eli Manning",
+      "team": "NYG '14",
+      "stats": {
+        "yds": 4410,
+        "td": 30,
+        "int": 14
+      }
+    },
+    {
+      "name": "Tony Romo",
+      "team": "DAL '14",
+      "stats": {
+        "yds": 3705,
+        "td": 34,
+        "int": 9
+      }
+    },
+    {
+      "name": "Philip Rivers",
+      "team": "LAC '14",
+      "stats": {
+        "yds": 4286,
+        "td": 31,
+        "int": 18
+      }
+    },
+    {
+      "name": "Joe Flacco",
+      "team": "BAL '14",
+      "stats": {
+        "yds": 3986,
+        "td": 27,
+        "int": 12
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '14",
+      "stats": {
+        "yds": 3812,
+        "td": 28,
+        "int": 18
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '14",
+      "stats": {
+        "yds": 4257,
+        "td": 22,
+        "int": 12
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '14",
+      "stats": {
+        "yds": 3369,
+        "td": 19,
+        "int": 10
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "CAR '14",
+      "stats": {
+        "yds": 3127,
+        "td": 18,
+        "int": 12
+      }
+    },
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '14",
+      "stats": {
+        "yds": 3398,
+        "td": 19,
+        "int": 17
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "KC '14",
+      "stats": {
+        "yds": 3265,
+        "td": 18,
+        "int": 6
+      }
+    },
+    {
+      "name": "Derek Carr",
+      "team": "LV '14",
+      "stats": {
+        "yds": 3270,
+        "td": 21,
+        "int": 12
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "HOU '14",
+      "stats": {
+        "yds": 2483,
+        "td": 17,
+        "int": 8
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "MIN '14",
+      "stats": {
+        "yds": 2919,
+        "td": 14,
+        "int": 12
+      }
+    },
+    {
+      "name": "Kyle Orton",
+      "team": "BUF '14",
+      "stats": {
+        "yds": 3018,
+        "td": 18,
+        "int": 10
+      }
+    },
+    {
+      "name": "Blake Bortles",
+      "team": "JAX '14",
+      "stats": {
+        "yds": 2908,
+        "td": 11,
+        "int": 17
+      }
+    },
+    {
+      "name": "Brian Hoyer",
+      "team": "CLE '14",
+      "stats": {
+        "yds": 3326,
+        "td": 12,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Le'Veon Bell",
+      "team": "PIT '14",
+      "stats": {
+        "ryds": 1361,
+        "rtd": 8,
+        "recyds": 854,
+        "rectd": 3,
+        "rec": 83
+      }
+    },
+    {
+      "name": "DeMarco Murray",
+      "team": "DAL '14",
+      "stats": {
+        "ryds": 1845,
+        "rtd": 13,
+        "recyds": 416,
+        "rectd": 0,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Matt Forte",
+      "team": "CHI '14",
+      "stats": {
+        "ryds": 1038,
+        "rtd": 6,
+        "recyds": 808,
+        "rectd": 4,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "SEA '14",
+      "stats": {
+        "ryds": 1306,
+        "rtd": 13,
+        "recyds": 367,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Arian Foster",
+      "team": "HOU '14",
+      "stats": {
+        "ryds": 1246,
+        "rtd": 8,
+        "recyds": 327,
+        "rectd": 5,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Eddie Lacy",
+      "team": "GB '14",
+      "stats": {
+        "ryds": 1139,
+        "rtd": 9,
+        "recyds": 427,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 1033,
+        "rtd": 9,
+        "recyds": 291,
+        "rectd": 5,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Justin Forsett",
+      "team": "BAL '14",
+      "stats": {
+        "ryds": 1266,
+        "rtd": 8,
+        "recyds": 263,
+        "rectd": 0,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Lamar Miller",
+      "team": "MIA '14",
+      "stats": {
+        "ryds": 1099,
+        "rtd": 8,
+        "recyds": 275,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "C.J. Anderson",
+      "team": "DEN '14",
+      "stats": {
+        "ryds": 849,
+        "rtd": 8,
+        "recyds": 324,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Jeremy Hill",
+      "team": "CIN '14",
+      "stats": {
+        "ryds": 1124,
+        "rtd": 9,
+        "recyds": 215,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "PHI '14",
+      "stats": {
+        "ryds": 1319,
+        "rtd": 5,
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Joique Bell",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 860,
+        "rtd": 7,
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Matt Asiata",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 570,
+        "rtd": 9,
+        "recyds": 312,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Mark Ingram",
+      "team": "NO '14",
+      "stats": {
+        "ryds": 964,
+        "rtd": 9,
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '14",
+      "stats": {
+        "ryds": 525,
+        "rtd": 2,
+        "recyds": 501,
+        "rectd": 1,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "WAS '14",
+      "stats": {
+        "ryds": 1074,
+        "rtd": 8,
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '14",
+      "stats": {
+        "ryds": 680,
+        "rtd": 5,
+        "recyds": 349,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Andre Ellington",
+      "team": "ARI '14",
+      "stats": {
+        "ryds": 660,
+        "rtd": 3,
+        "recyds": 395,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Shane Vereen",
+      "team": "NE '14",
+      "stats": {
+        "ryds": 391,
+        "rtd": 2,
+        "recyds": 447,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Frank Gore",
+      "team": "SF '14",
+      "stats": {
+        "ryds": 1106,
+        "rtd": 4,
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '14",
+      "stats": {
+        "ryds": 329,
+        "rtd": 6,
+        "recyds": 387,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "IND '14",
+      "stats": {
+        "ryds": 425,
+        "rtd": 2,
+        "recyds": 300,
+        "rectd": 6,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Chris Ivory",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 821,
+        "rtd": 6,
+        "recyds": 123,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Jonathan Stewart",
+      "team": "CAR '14",
+      "stats": {
+        "ryds": 809,
+        "rtd": 3,
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Antonio Brown",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 1698,
+        "rectd": 13,
+        "rec": 129
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '14",
+      "stats": {
+        "recyds": 1619,
+        "rectd": 11,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 1519,
+        "rectd": 13,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 1320,
+        "rectd": 16,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Emmanuel Sanders",
+      "team": "DEN '14",
+      "stats": {
+        "recyds": 1404,
+        "rectd": 9,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 1593,
+        "rectd": 6,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "NYG '14",
+      "stats": {
+        "recyds": 1305,
+        "rectd": 12,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 1287,
+        "rectd": 12,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 1318,
+        "rectd": 10,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 1133,
+        "rectd": 10,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 1331,
+        "rectd": 4,
+        "rec": 99
+      }
+    },
+    {
+      "name": "T.Y. Hilton",
+      "team": "IND '14",
+      "stats": {
+        "recyds": 1345,
+        "rectd": 7,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 1051,
+        "rectd": 12,
+        "rec": 68
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "HOU '14",
+      "stats": {
+        "recyds": 1210,
+        "rectd": 6,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Julian Edelman",
+      "team": "NE '14",
+      "stats": {
+        "recyds": 972,
+        "rectd": 4,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 1077,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Kelvin Benjamin",
+      "team": "CAR '14",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 9,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Anquan Boldin",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 1062,
+        "rectd": 5,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "BAL '14",
+      "stats": {
+        "recyds": 1065,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Mike Wallace",
+      "team": "MIA '14",
+      "stats": {
+        "recyds": 862,
+        "rectd": 10,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 921,
+        "rectd": 7,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Brandon LaFell",
+      "team": "NE '14",
+      "stats": {
+        "recyds": 953,
+        "rectd": 7,
+        "rec": 74
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "WAS '14",
+      "stats": {
+        "recyds": 1169,
+        "rectd": 6,
+        "rec": 56
+      }
+    },
+    {
+      "name": "A.J. Green",
+      "team": "CIN '14",
+      "stats": {
+        "recyds": 1041,
+        "rectd": 6,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 962,
+        "rectd": 5,
+        "rec": 74
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '14",
+      "stats": {
+        "recyds": 1124,
+        "rectd": 12,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Jimmy Graham",
+      "team": "NO '14",
+      "stats": {
+        "recyds": 889,
+        "rectd": 10,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Antonio Gates",
+      "team": "LAC '14",
+      "stats": {
+        "recyds": 821,
+        "rectd": 12,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Martellus Bennett",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 916,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '14",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 6,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 872,
+        "rectd": 8,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 862,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Coby Fleener",
+      "team": "IND '14",
+      "stats": {
+        "recyds": 774,
+        "rectd": 8,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '14",
+      "stats": {
+        "recyds": 890,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Jason Witten",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 703,
+        "rectd": 5,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Julius Thomas",
+      "team": "DEN '14",
+      "stats": {
+        "recyds": 489,
+        "rectd": 12,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Heath Miller",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 761,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Larry Donnell",
+      "team": "NYG '14",
+      "stats": {
+        "recyds": 623,
+        "rectd": 6,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 702,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jermaine Gresham",
+      "team": "CIN '14",
+      "stats": {
+        "recyds": 460,
+        "rectd": 5,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Charles Clay",
+      "team": "MIA '14",
+      "stats": {
+        "recyds": 605,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jared Cook",
+      "team": "LA '14",
+      "stats": {
+        "recyds": 634,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Mychal Rivera",
+      "team": "LV '14",
+      "stats": {
+        "recyds": 534,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Owen Daniels",
+      "team": "BAL '14",
+      "stats": {
+        "recyds": 527,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Dwayne Allen",
+      "team": "IND '14",
+      "stats": {
+        "recyds": 395,
+        "rectd": 8,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Scott Chandler",
+      "team": "BUF '14",
+      "stats": {
+        "recyds": 497,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WAS '14",
+      "stats": {
+        "recyds": 465,
+        "rectd": 0,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Niles Paul",
+      "team": "WAS '14",
+      "stats": {
+        "recyds": 507,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Timothy Wright",
+      "team": "NE '14",
+      "stats": {
+        "recyds": 259,
+        "rectd": 6,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jace Amaro",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 345,
+        "rectd": 2,
+        "rec": 38
+      }
+    }
+  ]
+}

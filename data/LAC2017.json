@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Philip Rivers",
+      "team": "LAC '17",
+      "stats": {
+        "yds": 4515,
+        "td": 28,
+        "int": 10
+      }
+    },
+    {
+      "name": "Kellen Clemens",
+      "team": "LAC '17",
+      "stats": {
+        "yds": 36,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Andre Williams",
+      "team": "LAC '17",
+      "stats": {
+        "ryds": 25,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Branden Oliver",
+      "team": "LAC '17",
+      "stats": {
+        "ryds": 83,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Melvin Gordon",
+      "team": "LAC '17",
+      "stats": {
+        "ryds": 1105,
+        "rtd": 8,
+        "recyds": 476,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Derek Watt",
+      "team": "LAC '17",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '17",
+      "stats": {
+        "ryds": 260,
+        "rtd": 2,
+        "recyds": 279,
+        "rectd": 3,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Travis Benjamin",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 567,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 1393,
+        "rectd": 6,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Tyrell Williams",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 728,
+        "rectd": 4,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 95,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Antonio Gates",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 316,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Jeff Cumberland",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sean McGrath",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "LAC '17",
+      "stats": {
+        "recyds": 579,
+        "rectd": 4,
+        "rec": 45
+      }
+    }
+  ]
+}

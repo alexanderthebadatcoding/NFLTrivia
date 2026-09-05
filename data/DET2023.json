@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "DET '23",
+      "stats": {
+        "yds": 4575,
+        "td": 30,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Devine Ozigbo",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Craig Reynolds",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 179,
+        "rtd": 1,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 1015,
+        "rtd": 13,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Bam Knight",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 945,
+        "rtd": 10,
+        "recyds": 316,
+        "rectd": 1,
+        "rec": 52
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marvin Jones",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 489,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 608,
+        "rectd": 5,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Donovan Peoples-Jones",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 1515,
+        "rectd": 10,
+        "rec": 119
+      }
+    },
+    {
+      "name": "Jameson Williams",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 354,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Antoine Green",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brock Wright",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "James Mitchell",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sam LaPorta",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 889,
+        "rectd": 10,
+        "rec": 86
+      }
+    }
+  ]
+}

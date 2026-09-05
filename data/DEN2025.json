@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Bo Nix",
+      "team": "DEN '25",
+      "stats": {
+        "yds": 3931,
+        "td": 25,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "J.K. Dobbins",
+      "team": "DEN '25",
+      "stats": {
+        "ryds": 772,
+        "rtd": 4,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Adam Prentice",
+      "team": "DEN '25",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tyler Badie",
+      "team": "DEN '25",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jaleel McLaughlin",
+      "team": "DEN '25",
+      "stats": {
+        "ryds": 187,
+        "rtd": 1,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "RJ Harvey",
+      "team": "DEN '25",
+      "stats": {
+        "ryds": 540,
+        "rtd": 7,
+        "recyds": 356,
+        "rectd": 5,
+        "rec": 47
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 1017,
+        "rectd": 7,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Michael Bandy",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Marvin Mims Jr.",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Troy Franklin",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 709,
+        "rectd": 6,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Pat Bryant",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 378,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Evan Engram",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 461,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Adam Trautman",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 195,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Lucas Krull",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Nate Adkins",
+      "team": "DEN '25",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ]
+}

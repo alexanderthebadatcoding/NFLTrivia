@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Robert Griffin III",
+      "team": "BAL '19",
+      "stats": {
+        "yds": 225,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '19",
+      "stats": {
+        "yds": 3127,
+        "td": 36,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mark Ingram",
+      "team": "BAL '19",
+      "stats": {
+        "ryds": 1018,
+        "rtd": 10,
+        "recyds": 247,
+        "rectd": 5,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '19",
+      "stats": {
+        "ryds": 711,
+        "rtd": 2,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '19",
+      "stats": {
+        "ryds": 225,
+        "rtd": 2,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Willie Snead",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 339,
+        "rectd": 5,
+        "rec": 31
+      }
+    },
+    {
+      "name": "De'Anthony Thomas",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Seth Roberts",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 271,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jaleel Scott",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 584,
+        "rectd": 7,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 198,
+        "rectd": 3,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 321,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 852,
+        "rectd": 10,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 349,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ]
+}

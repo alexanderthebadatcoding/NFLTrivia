@@ -1,0 +1,160 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CAR '25",
+      "stats": {
+        "yds": 293,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR '25",
+      "stats": {
+        "yds": 3011,
+        "td": 23,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rico Dowdle",
+      "team": "CAR '25",
+      "stats": {
+        "ryds": 1076,
+        "rtd": 6,
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Chuba Hubbard",
+      "team": "CAR '25",
+      "stats": {
+        "ryds": 511,
+        "rtd": 1,
+        "recyds": 223,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Trevor Etienne",
+      "team": "CAR '25",
+      "stats": {
+        "ryds": 94,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Moore",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 89,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Brycen Tremayne",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 160,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Xavier Legette",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 363,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jalen Coker",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 394,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Tetairoa McMillan",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 1014,
+        "rectd": 7,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Jimmy Horn Jr.",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 108,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tommy Tremble",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 249,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "James Mitchell",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ja'Tavion Sanders",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Mitchell Evans",
+      "team": "CAR '25",
+      "stats": {
+        "recyds": 171,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ]
+}

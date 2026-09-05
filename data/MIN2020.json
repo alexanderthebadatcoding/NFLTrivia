@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '20",
+      "stats": {
+        "yds": 4265,
+        "td": 35,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ameer Abdullah",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 42,
+        "rtd": 0,
+        "recyds": 58,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 97,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 1557,
+        "rtd": 16,
+        "recyds": 361,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 59,
+        "rtd": 1,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 434,
+        "rtd": 2,
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 925,
+        "rectd": 14,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Chad Beebe",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 201,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Bisi Johnson",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 189,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 1400,
+        "rectd": 7,
+        "rec": 88
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 334,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 194,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 365,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Brandon Dillon",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

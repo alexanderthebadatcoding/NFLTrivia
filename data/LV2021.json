@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Derek Carr",
+      "team": "LV '21",
+      "stats": {
+        "yds": 4804,
+        "td": 23,
+        "int": 14
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "LV '21",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Peyton Barber",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 212,
+        "rtd": 2,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jalen Richard",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 254,
+        "rtd": 2,
+        "recyds": 291,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Alec Ingold",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 85,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 872,
+        "rtd": 9,
+        "recyds": 348,
+        "rectd": 0,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Trey Ragas",
+      "team": "LV '21",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 454,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 546,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 1038,
+        "rectd": 9,
+        "rec": 103
+      }
+    },
+    {
+      "name": "Tyron Johnson",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Henry Ruggs III",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 469,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Bryan Edwards",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 571,
+        "rectd": 3,
+        "rec": 34
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Derek Carrier",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 665,
+        "rectd": 2,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Foster Moreau",
+      "team": "LV '21",
+      "stats": {
+        "recyds": 373,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Daniel Helm",
+      "team": "LV '21",
+      "stats": {
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

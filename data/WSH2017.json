@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "WSH '17",
+      "stats": {
+        "yds": 4093,
+        "td": 27,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 294,
+        "rtd": 2,
+        "recyds": 510,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Kapri Bibbs",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 79,
+        "rtd": 0,
+        "recyds": 128,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Rob Kelley",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 194,
+        "rtd": 3,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Byron Marshall",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "LeShun Daniels",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "WSH '17",
+      "stats": {
+        "ryds": 603,
+        "rtd": 1,
+        "recyds": 182,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrelle Pryor",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 240,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Brian Quick",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ryan Grant",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 573,
+        "rectd": 4,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 789,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Maurice Harris",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Josh Doctson",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 502,
+        "rectd": 6,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 648,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Niles Paul",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 211,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jeremy Sprinkle",
+      "team": "WSH '17",
+      "stats": {
+        "recyds": 13,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

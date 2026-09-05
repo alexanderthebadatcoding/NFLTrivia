@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Shedeur Sanders",
+      "team": "CLE '25",
+      "stats": {
+        "yds": 1400,
+        "td": 7,
+        "int": 10
+      }
+    },
+    {
+      "name": "Dillon Gabriel",
+      "team": "CLE '25",
+      "stats": {
+        "yds": 937,
+        "td": 7,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Trayveon Williams",
+      "team": "CLE '25",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "CLE '25",
+      "stats": {
+        "ryds": 73,
+        "rtd": 0,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Dylan Sampson",
+      "team": "CLE '25",
+      "stats": {
+        "ryds": 175,
+        "rtd": 0,
+        "recyds": 271,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Raheim Sanders",
+      "team": "CLE '25",
+      "stats": {
+        "ryds": 92,
+        "rtd": 1,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Quinshon Judkins",
+      "team": "CLE '25",
+      "stats": {
+        "ryds": 827,
+        "rtd": 7,
+        "recyds": 171,
+        "rectd": 0,
+        "rec": 26
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerry Jeudy",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 602,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Cedric Tillman",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 270,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jamari Thrash",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Malachi Corley",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Gage Larvadain",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Isaiah Bond",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 338,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "David Njoku",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 293,
+        "rectd": 4,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Sal Cannella",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Blake Whiteheart",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brenden Bates",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Harold Fannin Jr.",
+      "team": "CLE '25",
+      "stats": {
+        "recyds": 731,
+        "rectd": 6,
+        "rec": 72
+      }
+    }
+  ]
+}

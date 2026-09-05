@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Nick Mullens",
+      "team": "JAX '25",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '25",
+      "stats": {
+        "yds": 4007,
+        "td": 29,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeeJay Dallas",
+      "team": "JAX '25",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "JAX '25",
+      "stats": {
+        "ryds": 1107,
+        "rtd": 7,
+        "recyds": 292,
+        "rectd": 6,
+        "rec": 36
+      }
+    },
+    {
+      "name": "LeQuint Allen Jr.",
+      "team": "JAX '25",
+      "stats": {
+        "ryds": 94,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Bhayshul Tuten",
+      "team": "JAX '25",
+      "stats": {
+        "ryds": 307,
+        "rtd": 5,
+        "recyds": 79,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tim Patrick",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 187,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 835,
+        "rectd": 3,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Tim Jones",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 227,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Austin Trammell",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 847,
+        "rectd": 5,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Brian Thomas Jr.",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 707,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Travis Hunter",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 298,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Johnny Mundt",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Quintin Morris",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 55,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Hunter Long",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 85,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '25",
+      "stats": {
+        "recyds": 540,
+        "rectd": 3,
+        "rec": 46
+      }
+    }
+  ]
+}

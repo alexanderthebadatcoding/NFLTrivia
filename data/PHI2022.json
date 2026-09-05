@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Gardner Minshew",
+      "team": "PHI '22",
+      "stats": {
+        "yds": 663,
+        "td": 3,
+        "int": 3
+      }
+    },
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '22",
+      "stats": {
+        "yds": 3701,
+        "td": 22,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Boston Scott",
+      "team": "PHI '22",
+      "stats": {
+        "ryds": 217,
+        "rtd": 3,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '22",
+      "stats": {
+        "ryds": 1269,
+        "rtd": 11,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Kenny Gainwell",
+      "team": "PHI '22",
+      "stats": {
+        "ryds": 240,
+        "rtd": 4,
+        "recyds": 169,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Trey Sermon",
+      "team": "PHI '22",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Zach Pascal",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 150,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 1496,
+        "rectd": 11,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Quez Watkins",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 354,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "DeVonta Smith",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 1196,
+        "rectd": 7,
+        "rec": 95
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 702,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jack Stoll",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 123,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Grant Calcaterra",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

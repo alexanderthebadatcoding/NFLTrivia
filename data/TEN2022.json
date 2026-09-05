@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '22",
+      "stats": {
+        "yds": 2536,
+        "td": 13,
+        "int": 6
+      }
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "TEN '22",
+      "stats": {
+        "yds": 411,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Malik Willis",
+      "team": "TEN '22",
+      "stats": {
+        "yds": 276,
+        "td": 0,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 1538,
+        "rtd": 13,
+        "recyds": 398,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Dontrell Hilliard",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 145,
+        "rtd": 0,
+        "recyds": 177,
+        "rectd": 4,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jonathan Ward",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 25,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Julius Chestnut",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Hassan Haskins",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 93,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 527,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "C.J. Board",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cody Hollister",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mason Kinsey",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nick Westbrook-Ikhine",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 397,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Racey McMath",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kyle Philips",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Treylon Burks",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 444,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Geoff Swaim",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 444,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Chig Okonkwo",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 450,
+        "rectd": 3,
+        "rec": 32
+      }
+    }
+  ]
+}

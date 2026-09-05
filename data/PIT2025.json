@@ -1,0 +1,160 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "PIT '25",
+      "stats": {
+        "yds": 3322,
+        "td": 24,
+        "int": 7
+      }
+    },
+    {
+      "name": "Mason Rudolph",
+      "team": "PIT '25",
+      "stats": {
+        "yds": 310,
+        "td": 2,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenny Gainwell",
+      "team": "PIT '25",
+      "stats": {
+        "ryds": 537,
+        "rtd": 5,
+        "recyds": 486,
+        "rectd": 3,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT '25",
+      "stats": {
+        "ryds": 958,
+        "rtd": 6,
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Kaleb Johnson",
+      "team": "PIT '25",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 850,
+        "rectd": 6,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Ben Skowronek",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Calvin Austin III",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 372,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Roman Wilson",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 166,
+        "rectd": 2,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jonnu Smith",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 222,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 486,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Connor Heyward",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Darnell Washington",
+      "team": "PIT '25",
+      "stats": {
+        "recyds": 364,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ]
+}

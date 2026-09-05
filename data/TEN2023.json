@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '23",
+      "stats": {
+        "yds": 1616,
+        "td": 4,
+        "int": 7
+      }
+    },
+    {
+      "name": "Malik Willis",
+      "team": "TEN '23",
+      "stats": {
+        "yds": 74,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Will Levis",
+      "team": "TEN '23",
+      "stats": {
+        "yds": 1808,
+        "td": 8,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '23",
+      "stats": {
+        "ryds": 1167,
+        "rtd": 12,
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Jonathan Ward",
+      "team": "TEN '23",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tyjae Spears",
+      "team": "TEN '23",
+      "stats": {
+        "ryds": 453,
+        "rtd": 2,
+        "recyds": 385,
+        "rectd": 1,
+        "rec": 52
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeAndre Hopkins",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 1057,
+        "rectd": 7,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 424,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Mason Kinsey",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nick Westbrook-Ikhine",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 370,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Kyle Philips",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 181,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Treylon Burks",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 221,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Colton Dowell",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kevin Rader",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chig Okonkwo",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 528,
+        "rectd": 1,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Josh Whyle",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

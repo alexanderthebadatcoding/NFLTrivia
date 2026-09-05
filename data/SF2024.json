@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Brandon Allen",
+      "team": "SF '24",
+      "stats": {
+        "yds": 199,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "SF '24",
+      "stats": {
+        "yds": 361,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF '24",
+      "stats": {
+        "yds": 3864,
+        "td": 20,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 200,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 202,
+        "rtd": 0,
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Patrick Taylor",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 183,
+        "rtd": 1,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ke'Shawn Vaughn",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 789,
+        "rtd": 3,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Isaac Guerendo",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 420,
+        "rtd": 4,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Conley",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Trent Taylor",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 670,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 975,
+        "rectd": 6,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 374,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Ronnie Bell",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jacob Cowing",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ricky Pearsall",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 400,
+        "rectd": 3,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "George Kittle",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 1106,
+        "rectd": 8,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Eric Saubert",
+      "team": "SF '24",
+      "stats": {
+        "recyds": 97,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

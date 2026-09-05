@@ -1,0 +1,207 @@
+{
+  "QB": [
+    {
+      "name": "Josh Johnson",
+      "team": "WSH '25",
+      "stats": {
+        "yds": 372,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "WSH '25",
+      "stats": {
+        "yds": 1695,
+        "td": 10,
+        "int": 7
+      }
+    },
+    {
+      "name": "Jayden Daniels",
+      "team": "WSH '25",
+      "stats": {
+        "yds": 1262,
+        "td": 8,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Austin Ekeler",
+      "team": "WSH '25",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jeremy McNichols",
+      "team": "WSH '25",
+      "stats": {
+        "ryds": 221,
+        "rtd": 1,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Chris Rodriguez Jr.",
+      "team": "WSH '25",
+      "stats": {
+        "ryds": 500,
+        "rtd": 6,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "team": "WSH '25",
+      "stats": {
+        "ryds": 805,
+        "rtd": 8,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Moore",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 207,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 582,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 727,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Tay Martin",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Treylon Burks",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 130,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Luke McCaffrey",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 203,
+        "rectd": 3,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jaylin Lane",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jacoby Jones",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 504,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "John Bates",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Colson Yankoff",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ben Sinnott",
+      "team": "WSH '25",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

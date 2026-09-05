@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "NYG '25",
+      "stats": {
+        "yds": 831,
+        "td": 3,
+        "int": 3
+      }
+    },
+    {
+      "name": "Jameis Winston",
+      "team": "NYG '25",
+      "stats": {
+        "yds": 567,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jaxson Dart",
+      "team": "NYG '25",
+      "stats": {
+        "yds": 2272,
+        "td": 15,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Devin Singletary",
+      "team": "NYG '25",
+      "stats": {
+        "ryds": 437,
+        "rtd": 5,
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Tyrone Tracy Jr.",
+      "team": "NYG '25",
+      "stats": {
+        "ryds": 740,
+        "rtd": 2,
+        "recyds": 288,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Cam Skattebo",
+      "team": "NYG '25",
+      "stats": {
+        "ryds": 410,
+        "rtd": 5,
+        "recyds": 207,
+        "rectd": 2,
+        "rec": 24
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 538,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 145,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Isaiah Hodgins",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 1014,
+        "rectd": 4,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Jalin Hyatt",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Malik Nabers",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 271,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Beaux Collins",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Daniel Bellinger",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 286,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Theo Johnson",
+      "team": "NYG '25",
+      "stats": {
+        "recyds": 528,
+        "rectd": 5,
+        "rec": 45
+      }
+    }
+  ]
+}

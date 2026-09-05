@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Chad Henne",
+      "team": "KC '21",
+      "stats": {
+        "yds": 82,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '21",
+      "stats": {
+        "yds": 4839,
+        "td": 37,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerick McKinnon",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 62,
+        "rtd": 0,
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Michael Burton",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 558,
+        "rtd": 6,
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Derrick Gore",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 256,
+        "rtd": 2,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '21",
+      "stats": {
+        "ryds": 517,
+        "rtd": 4,
+        "recyds": 129,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Josh Gordon",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 32,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 264,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 1239,
+        "rectd": 9,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Marcus Kemp",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Byron Pringle",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 568,
+        "rectd": 5,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 693,
+        "rectd": 2,
+        "rec": 59
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 1125,
+        "rectd": 9,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Joseph Fortson",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 47,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC '21",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '20",
+      "stats": {
+        "yds": 4299,
+        "td": 48,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tyler Ervin",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 1104,
+        "rtd": 9,
+        "recyds": 355,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jamaal Williams",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 505,
+        "rtd": 2,
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Dexter Williams",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 242,
+        "rtd": 2,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tavon Austin",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 1374,
+        "rectd": 18,
+        "rec": 115
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 690,
+        "rectd": 6,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 451,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Darrius Shepherd",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Malik Taylor",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 107,
+        "rectd": 3,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 586,
+        "rectd": 11,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Jace Sternberger",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Josiah Deguara",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dominique Dafney",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 26,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

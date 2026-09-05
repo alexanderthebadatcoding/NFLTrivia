@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '17",
+      "stats": {
+        "yds": 1560,
+        "td": 7,
+        "int": 5
+      }
+    },
+    {
+      "name": "C.J. Beathard",
+      "team": "SF '17",
+      "stats": {
+        "yds": 1430,
+        "td": 4,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '17",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "SF '17",
+      "stats": {
+        "ryds": 938,
+        "rtd": 8,
+        "recyds": 350,
+        "rectd": 0,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '17",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Matt Breida",
+      "team": "SF '17",
+      "stats": {
+        "ryds": 465,
+        "rtd": 2,
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Pierre Garcon",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 500,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Louis Murphy",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 121,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Aldrick Robinson",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 260,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 962,
+        "rectd": 2,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Trent Taylor",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 430,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 257,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Garrett Celek",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 336,
+        "rectd": 4,
+        "rec": 21
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 515,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Cole Hikutini",
+      "team": "SF '17",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

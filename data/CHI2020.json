@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Nick Foles",
+      "team": "CHI '20",
+      "stats": {
+        "yds": 1852,
+        "td": 10,
+        "int": 8
+      }
+    },
+    {
+      "name": "Tyler Bray",
+      "team": "CHI '20",
+      "stats": {
+        "yds": 18,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mitchell Trubisky",
+      "team": "CHI '20",
+      "stats": {
+        "yds": 2055,
+        "td": 16,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lamar Miller",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tarik Cohen",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ryan Nall",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 8,
+        "recyds": 438,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Artavis Pierce",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 34,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ted Ginn",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 1250,
+        "rectd": 6,
+        "rec": 102
+      }
+    },
+    {
+      "name": "DeAndre Carter",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 485,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Javon Wims",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Riley Ridley",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 631,
+        "rectd": 4,
+        "rec": 61
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Graham",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 456,
+        "rectd": 8,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Demetrius Harris",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 243,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ]
+}

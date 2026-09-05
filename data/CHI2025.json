@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Tyson Bagent",
+      "team": "CHI '25",
+      "stats": {
+        "yds": 47,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Caleb Williams",
+      "team": "CHI '25",
+      "stats": {
+        "yds": 3942,
+        "td": 27,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Travis Homer",
+      "team": "CHI '25",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "CHI '25",
+      "stats": {
+        "ryds": 1087,
+        "rtd": 9,
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Brittain Brown",
+      "team": "CHI '25",
+      "stats": {
+        "ryds": 37,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Roschon Johnson",
+      "team": "CHI '25",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kyle Monangai",
+      "team": "CHI '25",
+      "stats": {
+        "ryds": 783,
+        "rtd": 5,
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DJ Moore",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 682,
+        "rectd": 6,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 313,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rome Odunze",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 661,
+        "rectd": 6,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Jahdae Walker",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 87,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Luther Burden III",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 652,
+        "rectd": 2,
+        "rec": 47
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Durham Smythe",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 347,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Colston Loveland",
+      "team": "CHI '25",
+      "stats": {
+        "recyds": 713,
+        "rectd": 6,
+        "rec": 58
+      }
+    }
+  ]
+}

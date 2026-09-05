@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '17",
+      "stats": {
+        "yds": 4446,
+        "td": 29,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jake Rudock",
+      "team": "DET '17",
+      "stats": {
+        "yds": 24,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Theo Riddick",
+      "team": "DET '17",
+      "stats": {
+        "ryds": 286,
+        "rtd": 3,
+        "recyds": 444,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Zach Zenner",
+      "team": "DET '17",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ameer Abdullah",
+      "team": "DET '17",
+      "stats": {
+        "ryds": 552,
+        "rtd": 4,
+        "recyds": 162,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Dwayne Washington",
+      "team": "DET '17",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tion Green",
+      "team": "DET '17",
+      "stats": {
+        "ryds": 165,
+        "rtd": 2,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Golden Tate",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 1003,
+        "rectd": 5,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 1101,
+        "rectd": 9,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Jared Abbrederis",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "T.J. Jones",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 399,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 477,
+        "rectd": 3,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Fells",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 177,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Eric Ebron",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 574,
+        "rectd": 4,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Michael Roberts",
+      "team": "DET '17",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

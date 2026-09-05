@@ -1,0 +1,891 @@
+{
+  "QB": [
+    {
+      "name": "Kenny Pickett",
+      "team": "PIT '22",
+      "stats": {
+        "yds": 2404,
+        "td": 7,
+        "int": 9
+      }
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF '22",
+      "stats": {
+        "yds": 1374,
+        "td": 13,
+        "int": 4
+      }
+    },
+    {
+      "name": "Bailey Zappe",
+      "team": "NE '22",
+      "stats": {
+        "yds": 781,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Desmond Ridder",
+      "team": "ATL '22",
+      "stats": {
+        "yds": 708,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Malik Willis",
+      "team": "TEN '22",
+      "stats": {
+        "yds": 276,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Sam Howell",
+      "team": "WAS '22",
+      "stats": {
+        "yds": 169,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Skylar Thompson",
+      "team": "MIA '22",
+      "stats": {
+        "yds": 534,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Anthony Brown",
+      "team": "BAL '22",
+      "stats": {
+        "yds": 302,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenneth Walker III",
+      "team": "SEA '22",
+      "stats": {
+        "ryds": 1050,
+        "rtd": 9,
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Dameon Pierce",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 939,
+        "rtd": 4,
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Tyler Allgeier",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 1035,
+        "rtd": 3,
+        "recyds": 139,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Rachaad White",
+      "team": "TB '22",
+      "stats": {
+        "ryds": 481,
+        "rtd": 1,
+        "recyds": 290,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 830,
+        "rtd": 5,
+        "recyds": 130,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Breece Hall",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 463,
+        "rtd": 4,
+        "recyds": 218,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "WAS '22",
+      "stats": {
+        "ryds": 797,
+        "rtd": 2,
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF '22",
+      "stats": {
+        "ryds": 507,
+        "rtd": 2,
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 379,
+        "rtd": 1,
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Bam Knight",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 300,
+        "rtd": 1,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Raheem Blackshear",
+      "team": "CAR '22",
+      "stats": {
+        "ryds": 77,
+        "rtd": 3,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Connor Heyward",
+      "team": "PIT '22",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Malik Davis",
+      "team": "DAL '22",
+      "stats": {
+        "ryds": 161,
+        "rtd": 1,
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 258,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LA '22",
+      "stats": {
+        "ryds": 139,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Pierre Strong",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 100,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Hassan Haskins",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 93,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Zander Horvath",
+      "team": "LAC '22",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Keaontay Ingram",
+      "team": "ARI '22",
+      "stats": {
+        "ryds": 60,
+        "rtd": 1,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kevin Harris",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 52,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Snoop Conner",
+      "team": "JAX '22",
+      "stats": {
+        "ryds": 42,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ronnie Rivers",
+      "team": "LA '22",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tyrion Davis-Price",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 99,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tyler Badie",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaiah Spiller",
+      "team": "LAC '22",
+      "stats": {
+        "ryds": 41,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Julius Chestnut",
+      "team": "TEN '22",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zamir White",
+      "team": "LV '22",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Troy Hairston",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Trestan Ebner",
+      "team": "CHI '22",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ty Chandler",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "CLE '22",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 1103,
+        "rectd": 4,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Chris Olave",
+      "team": "NO '22",
+      "stats": {
+        "recyds": 1042,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Drake London",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 866,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "George Pickens",
+      "team": "PIT '22",
+      "stats": {
+        "recyds": 801,
+        "rectd": 4,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Christian Watson",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 611,
+        "rectd": 7,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "WAS '22",
+      "stats": {
+        "recyds": 523,
+        "rectd": 7,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND '22",
+      "stats": {
+        "recyds": 593,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Romeo Doubs",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 425,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Rashid Shaheed",
+      "team": "NO '22",
+      "stats": {
+        "recyds": 488,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Treylon Burks",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 444,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Tyquan Thornton",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 247,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 227,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Skyy Moore",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 250,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "David Bell",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Khalil Shakir",
+      "team": "BUF '22",
+      "stats": {
+        "recyds": 161,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jalen Nailor",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Samori Toure",
+      "team": "GB '22",
+      "stats": {
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Brandon Johnson",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kyle Philips",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jalen Virgil",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jameson Williams",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Deven Thompkins",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Mike Woods",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Montrell Washington",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Daylen Baldwin",
+      "team": "CLE '22",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dareke Young",
+      "team": "SEA '22",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dennis Houston",
+      "team": "DAL '22",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "KaVontae Turpin",
+      "team": "DAL '22",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jalen Tolbert",
+      "team": "DAL '22",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Danny Gray",
+      "team": "SF '22",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Braylon Sanders",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Maurice Alexander",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Erik Ezukanma",
+      "team": "MIA '22",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chig Okonkwo",
+      "team": "TEN '22",
+      "stats": {
+        "recyds": 450,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Cade Otton",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 391,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Isaiah Likely",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 373,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Greg Dulcich",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 411,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Daniel Bellinger",
+      "team": "NYG '22",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Jelani Woods",
+      "team": "IND '22",
+      "stats": {
+        "recyds": 312,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARI '22",
+      "stats": {
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL '22",
+      "stats": {
+        "recyds": 174,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Peyton Hendershot",
+      "team": "DAL '22",
+      "stats": {
+        "recyds": 103,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Teagan Quitoriano",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 113,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "James Mitchell",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 113,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Ko Kieft",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Armani Rogers",
+      "team": "WAS '22",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Grant Calcaterra",
+      "team": "PHI '22",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Stone Smartt",
+      "team": "LAC '22",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cole Turner",
+      "team": "WAS '22",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jeremy Ruckert",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

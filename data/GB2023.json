@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Jordan Love",
+      "team": "GB '23",
+      "stats": {
+        "yds": 4159,
+        "td": 32,
+        "int": 11
+      }
+    },
+    {
+      "name": "Sean Clifford",
+      "team": "GB '23",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenyan Drake",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 656,
+        "rtd": 2,
+        "recyds": 233,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Patrick Taylor",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 141,
+        "rtd": 0,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 613,
+        "rtd": 2,
+        "recyds": 223,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Emanuel Wilson",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 85,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bo Melton",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 218,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Samori Toure",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Romeo Doubs",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 674,
+        "rectd": 8,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Christian Watson",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 422,
+        "rectd": 5,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 581,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Malik Heath",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jayden Reed",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 793,
+        "rectd": 8,
+        "rec": 64
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Josiah Deguara",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ben Sims",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tucker Kraft",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 355,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Luke Musgrave",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 352,
+        "rectd": 1,
+        "rec": 34
+      }
+    }
+  ]
+}

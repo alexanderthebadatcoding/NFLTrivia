@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '23",
+      "stats": {
+        "yds": 1799,
+        "td": 10,
+        "int": 5
+      }
+    },
+    {
+      "name": "Clayton Tune",
+      "team": "ARI '23",
+      "stats": {
+        "yds": 62,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Damien Williams",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Conner",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 1040,
+        "rtd": 7,
+        "recyds": 165,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Tony Jones",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 95,
+        "rtd": 2,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Michael Carter",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 187,
+        "rtd": 0,
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Keaontay Ingram",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Emari Demercado",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 284,
+        "rtd": 2,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Zach Pascal",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Greg Dortch",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 280,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 574,
+        "rectd": 4,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Rondale Moore",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 352,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 565,
+        "rectd": 3,
+        "rec": 38
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Geoff Swaim",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 825,
+        "rectd": 3,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Elijah Higgins",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 163,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ]
+}

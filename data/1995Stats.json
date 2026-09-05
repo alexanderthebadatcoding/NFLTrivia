@@ -1,0 +1,725 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '95",
+      "stats": {
+        "yds": 4413,
+        "td": 38,
+        "int": 13
+      }
+    },
+    {
+      "name": "Scott Mitchell",
+      "team": "DET '95",
+      "stats": {
+        "yds": 4338,
+        "td": 32,
+        "int": 12
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "MIN '95",
+      "stats": {
+        "yds": 4228,
+        "td": 33,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jeff George",
+      "team": "ATL '95",
+      "stats": {
+        "yds": 4143,
+        "td": 24,
+        "int": 11
+      }
+    },
+    {
+      "name": "Jim Everett",
+      "team": "NO '95",
+      "stats": {
+        "yds": 3970,
+        "td": 26,
+        "int": 14
+      }
+    },
+    {
+      "name": "John Elway",
+      "team": "DEN '95",
+      "stats": {
+        "yds": 3970,
+        "td": 26,
+        "int": 14
+      }
+    },
+    {
+      "name": "Erik Kramer",
+      "team": "CHI '95",
+      "stats": {
+        "yds": 3838,
+        "td": 29,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jeff Blake",
+      "team": "CIN '95",
+      "stats": {
+        "yds": 3822,
+        "td": 28,
+        "int": 17
+      }
+    },
+    {
+      "name": "Dan Marino",
+      "team": "MIA '95",
+      "stats": {
+        "yds": 3668,
+        "td": 24,
+        "int": 15
+      }
+    },
+    {
+      "name": "Dave Krieg",
+      "team": "ARI '95",
+      "stats": {
+        "yds": 3554,
+        "td": 16,
+        "int": 21
+      }
+    },
+    {
+      "name": "Drew Bledsoe",
+      "team": "NE '95",
+      "stats": {
+        "yds": 3507,
+        "td": 13,
+        "int": 16
+      }
+    },
+    {
+      "name": "Stan Humphries",
+      "team": "SD '95",
+      "stats": {
+        "yds": 3381,
+        "td": 17,
+        "int": 14
+      }
+    },
+    {
+      "name": "Troy Aikman",
+      "team": "DAL '95",
+      "stats": {
+        "yds": 3304,
+        "td": 16,
+        "int": 7
+      }
+    },
+    {
+      "name": "Steve Young",
+      "team": "SF '95",
+      "stats": {
+        "yds": 3200,
+        "td": 20,
+        "int": 11
+      }
+    },
+    {
+      "name": "Jim Kelly",
+      "team": "BUF '95",
+      "stats": {
+        "yds": 3130,
+        "td": 22,
+        "int": 13
+      }
+    },
+    {
+      "name": "Steve Bono",
+      "team": "KC '95",
+      "stats": {
+        "yds": 3121,
+        "td": 21,
+        "int": 10
+      }
+    },
+    {
+      "name": "Neil O'Donnell",
+      "team": "PIT '95",
+      "stats": {
+        "yds": 2970,
+        "td": 17,
+        "int": 7
+      }
+    },
+    {
+      "name": "Vinny Testaverde",
+      "team": "CLE '95",
+      "stats": {
+        "yds": 2883,
+        "td": 17,
+        "int": 10
+      }
+    },
+    {
+      "name": "Dave Brown",
+      "team": "NYG '95",
+      "stats": {
+        "yds": 2814,
+        "td": 11,
+        "int": 10
+      }
+    },
+    {
+      "name": "Trent Dilfer",
+      "team": "TB '95",
+      "stats": {
+        "yds": 2774,
+        "td": 4,
+        "int": 18
+      }
+    },
+    {
+      "name": "Gus Frerotte",
+      "team": "WSH '95",
+      "stats": {
+        "yds": 2751,
+        "td": 13,
+        "int": 13
+      }
+    },
+    {
+      "name": "Kerry Collins",
+      "team": "CAR '95",
+      "stats": {
+        "yds": 2717,
+        "td": 14,
+        "int": 19
+      }
+    },
+    {
+      "name": "Chris Miller",
+      "team": "STL '95",
+      "stats": {
+        "yds": 2623,
+        "td": 18,
+        "int": 15
+      }
+    },
+    {
+      "name": "Jim Harbaugh",
+      "team": "IND '95",
+      "stats": {
+        "yds": 2575,
+        "td": 17,
+        "int": 5
+      }
+    },
+    {
+      "name": "Rick Mirer",
+      "team": "SEA '95",
+      "stats": {
+        "yds": 2564,
+        "td": 13,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '95",
+      "stats": {
+        "ryds": 1773,
+        "rtd": 25,
+        "recyds": 375,
+        "rectd": 0,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Barry Sanders",
+      "team": "DET '95",
+      "stats": {
+        "ryds": 1500,
+        "rtd": 11,
+        "recyds": 398,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Curtis Martin",
+      "team": "NE '95",
+      "stats": {
+        "ryds": 1487,
+        "rtd": 14,
+        "recyds": 261,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Chris Warren",
+      "team": "SEA '95",
+      "stats": {
+        "ryds": 1346,
+        "rtd": 15,
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Terry Allen",
+      "team": "WSH '95",
+      "stats": {
+        "ryds": 1309,
+        "rtd": 10,
+        "recyds": 232,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Ricky Watters",
+      "team": "PHI '95",
+      "stats": {
+        "ryds": 1273,
+        "rtd": 11,
+        "recyds": 434,
+        "rectd": 1,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Errict Rhett",
+      "team": "TB '95",
+      "stats": {
+        "ryds": 1207,
+        "rtd": 11,
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Rodney Hampton",
+      "team": "NYG '95",
+      "stats": {
+        "ryds": 1182,
+        "rtd": 10,
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Terrell Davis",
+      "team": "DEN '95",
+      "stats": {
+        "ryds": 1117,
+        "rtd": 7,
+        "recyds": 367,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Harvey Williams",
+      "team": "OAK '95",
+      "stats": {
+        "ryds": 1114,
+        "rtd": 9,
+        "recyds": 375,
+        "rectd": 0,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Craig Heyward",
+      "team": "ATL '95",
+      "stats": {
+        "ryds": 1083,
+        "rtd": 6,
+        "recyds": 350,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Marshall Faulk",
+      "team": "IND '95",
+      "stats": {
+        "ryds": 1078,
+        "rtd": 11,
+        "recyds": 475,
+        "rectd": 3,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Rashaan Salaam",
+      "team": "CHI '95",
+      "stats": {
+        "ryds": 1074,
+        "rtd": 10,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Garrison Hearst",
+      "team": "ARI '95",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 1,
+        "recyds": 243,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Edgar Bennett",
+      "team": "GB '95",
+      "stats": {
+        "ryds": 1067,
+        "rtd": 3,
+        "recyds": 648,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "BUF '95",
+      "stats": {
+        "ryds": 1005,
+        "rtd": 6,
+        "recyds": 220,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Mario Bates",
+      "team": "NO '95",
+      "stats": {
+        "ryds": 951,
+        "rtd": 7,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Rodney Thomas",
+      "team": "HOU '95",
+      "stats": {
+        "ryds": 947,
+        "rtd": 5,
+        "recyds": 204,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Marcus Allen",
+      "team": "KC '95",
+      "stats": {
+        "ryds": 890,
+        "rtd": 5,
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Bernie Parmalee",
+      "team": "MIA '95",
+      "stats": {
+        "ryds": 878,
+        "rtd": 9,
+        "recyds": 345,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Erric Pegram",
+      "team": "PIT '95",
+      "stats": {
+        "ryds": 813,
+        "rtd": 5,
+        "recyds": 206,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Adrian Murrell",
+      "team": "NYJ '95",
+      "stats": {
+        "ryds": 795,
+        "rtd": 1,
+        "recyds": 465,
+        "rectd": 2,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Derrick Moore",
+      "team": "CAR '95",
+      "stats": {
+        "ryds": 740,
+        "rtd": 4,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Natrone Means",
+      "team": "SD '95",
+      "stats": {
+        "ryds": 730,
+        "rtd": 5,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Derek Loville",
+      "team": "SF '95",
+      "stats": {
+        "ryds": 723,
+        "rtd": 10,
+        "recyds": 662,
+        "rectd": 3,
+        "rec": 87
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerry Rice",
+      "team": "SF '95",
+      "stats": {
+        "recyds": 1848,
+        "rectd": 15,
+        "rec": 122
+      }
+    },
+    {
+      "name": "Isaac Bruce",
+      "team": "STL '95",
+      "stats": {
+        "recyds": 1781,
+        "rectd": 13,
+        "rec": 119
+      }
+    },
+    {
+      "name": "Herman Moore",
+      "team": "DET '95",
+      "stats": {
+        "recyds": 1686,
+        "rectd": 14,
+        "rec": 123
+      }
+    },
+    {
+      "name": "Michael Irvin",
+      "team": "DAL '95",
+      "stats": {
+        "recyds": 1603,
+        "rectd": 10,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Robert Brooks",
+      "team": "GB '95",
+      "stats": {
+        "recyds": 1497,
+        "rectd": 13,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Brett Perriman",
+      "team": "DET '95",
+      "stats": {
+        "recyds": 1488,
+        "rectd": 9,
+        "rec": 108
+      }
+    },
+    {
+      "name": "Cris Carter",
+      "team": "MIN '95",
+      "stats": {
+        "recyds": 1371,
+        "rectd": 17,
+        "rec": 122
+      }
+    },
+    {
+      "name": "Tim Brown",
+      "team": "OAK '95",
+      "stats": {
+        "recyds": 1342,
+        "rectd": 10,
+        "rec": 89
+      }
+    },
+    {
+      "name": "Yancey Thigpen",
+      "team": "PIT '95",
+      "stats": {
+        "recyds": 1307,
+        "rectd": 5,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Jeff Graham",
+      "team": "CHI '95",
+      "stats": {
+        "recyds": 1301,
+        "rectd": 4,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Carl Pickens",
+      "team": "CIN '95",
+      "stats": {
+        "recyds": 1234,
+        "rectd": 17,
+        "rec": 99
+      }
+    },
+    {
+      "name": "Tony Martin",
+      "team": "SD '95",
+      "stats": {
+        "recyds": 1224,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Eric Metcalf",
+      "team": "ATL '95",
+      "stats": {
+        "recyds": 1189,
+        "rectd": 8,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Jake Reed",
+      "team": "MIN '95",
+      "stats": {
+        "recyds": 1167,
+        "rectd": 9,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Quinn Early",
+      "team": "NO '95",
+      "stats": {
+        "recyds": 1087,
+        "rectd": 8,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "DEN '95",
+      "stats": {
+        "recyds": 1079,
+        "rectd": 14,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Terance Mathis",
+      "team": "ATL '95",
+      "stats": {
+        "recyds": 1039,
+        "rectd": 9,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Bert Emanuel",
+      "team": "ATL '95",
+      "stats": {
+        "recyds": 1039,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Joey Galloway",
+      "team": "SEA '95",
+      "stats": {
+        "recyds": 1039,
+        "rectd": 7,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Curtis Conway",
+      "team": "CHI '95",
+      "stats": {
+        "recyds": 1037,
+        "rectd": 12,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Henry Ellard",
+      "team": "WSH '95",
+      "stats": {
+        "recyds": 1005,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Mark Carrier",
+      "team": "CAR '95",
+      "stats": {
+        "recyds": 1002,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Brian Blades",
+      "team": "SEA '95",
+      "stats": {
+        "recyds": 1001,
+        "rectd": 4,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Vincent Brisby",
+      "team": "NE '95",
+      "stats": {
+        "recyds": 974,
+        "rectd": 3,
+        "rec": 66
+      }
+    }
+  ],
+  "TE": []
+}

@@ -1,0 +1,1653 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Blind Draft Challenge</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Draft a fantasy football team blind, then reveal the stats after you lock in."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Blind Draft Challenge" />
+    <meta
+      name="twitter:description"
+      content="Draft a fantasy football team blind, then reveal the stats after you lock in."
+    />
+    <meta
+      name="twitter:image"
+      content="https://draftchallenge.netlify.app/og-image.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --turf: #16302a;
+        --turf-dark: #0d211c;
+        --chalk: #f0ecdf;
+        --line: #cfc8b0;
+        --gold: #d1a13f;
+        --gold-bright: #e8bc5c;
+        --ink: #16211d;
+        --danger: #a8452f;
+        --good: #3f7a52;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--turf);
+        background-image: repeating-linear-gradient(
+          90deg,
+          rgba(240, 236, 223, 0.035) 0 2px,
+          transparent 2px 78px
+        );
+        color: var(--chalk);
+        font-family: "Inter", sans-serif;
+        min-height: 100vh;
+        padding-bottom: 60px;
+      }
+      header {
+        padding: 26px 20px 20px;
+        border-bottom: 3px solid var(--gold);
+        text-align: center;
+      }
+      header h1 {
+        font-family: "Anton", sans-serif;
+        font-size: clamp(24px, 5.5vw, 40px);
+        letter-spacing: 1px;
+        margin: 0 0 4px;
+        text-shadow: 3px 3px 0 var(--turf-dark);
+      }
+      header .twist-name {
+        font-family: "Space Mono", monospace;
+        color: var(--gold-bright);
+        font-size: 14px;
+        letter-spacing: 0.5px;
+      }
+      .rules {
+        max-width: 700px;
+        margin: 14px auto 0;
+        background: rgba(240, 236, 223, 0.06);
+        border: 1px solid rgba(240, 236, 223, 0.25);
+        border-radius: 4px;
+        padding: 12px 16px;
+        font-size: 13px;
+        text-align: left;
+        line-height: 1.55;
+      }
+      .rules b {
+        color: var(--gold-bright);
+      }
+      .blind-note {
+        max-width: 700px;
+        margin: 10px auto 0;
+        font-family: "Space Mono", monospace;
+        font-size: 12px;
+        color: var(--gold-bright);
+        text-align: center;
+      }
+
+      .scoreboard {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        background: var(--turf-dark);
+        border-bottom: 2px solid var(--gold);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 22px;
+        font-family: "Space Mono", monospace;
+      }
+      .scoreboard .picks {
+        font-size: 13px;
+        color: var(--line);
+      }
+      .scoreboard button.reroll {
+        background: none;
+        border: 1px solid var(--gold);
+        color: var(--gold-bright);
+        font-family: "Space Mono", monospace;
+        font-size: 12px;
+        padding: 6px 12px;
+        border-radius: 3px;
+        cursor: pointer;
+      }
+      .scoreboard button.reroll:hover {
+        background: var(--gold);
+        color: var(--turf-dark);
+      }
+
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 26px 16px;
+      }
+      .slot {
+        margin-bottom: 28px;
+      }
+      .slot-head {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+        margin-bottom: 10px;
+        border-bottom: 1px solid rgba(240, 236, 223, 0.25);
+        padding-bottom: 6px;
+      }
+      .slot-head .tag {
+        font-family: "Anton", sans-serif;
+        font-size: 20px;
+        color: var(--gold-bright);
+      }
+      .slot-head .need {
+        font-family: "Space Mono", monospace;
+        font-size: 12px;
+        color: var(--line);
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+        gap: 10px;
+      }
+      .card {
+        background: var(--chalk);
+        color: var(--ink);
+        border-radius: 3px;
+        border: 2px solid transparent;
+        padding: 14px 14px;
+        cursor: pointer;
+        transition:
+          transform 0.12s ease,
+          box-shadow 0.12s ease;
+        position: relative;
+        text-align: center;
+      }
+      @media (min-width: 601px) {
+        .card {
+          padding: 20px 18px;
+        }
+      }
+      .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 0 rgba(0, 0, 0, 0.25);
+      }
+      .card.picked {
+        border-color: var(--gold);
+        background: #fbf3e0;
+        box-shadow: 0 4px 0 var(--turf-dark);
+      }
+      .card.disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+      }
+      .card .name {
+        font-weight: 700;
+        font-size: 16px;
+      }
+      .card .team {
+        font-family: "Space Mono", monospace;
+        font-size: 11px;
+        color: #6b6252;
+        margin-top: 4px;
+      }
+      .card .revealed-stats {
+        display: none;
+        font-family: "Space Mono", monospace;
+        font-size: 11px;
+        color: var(--ink);
+        margin-top: 8px;
+        line-height: 1.6;
+        text-align: left;
+      }
+      .card .pts {
+        display: none;
+        position: absolute;
+        top: 8px;
+        right: 10px;
+        font-family: "Anton", sans-serif;
+        font-size: 13px;
+        color: var(--danger);
+      }
+      .card .best-badge {
+        display: none;
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        background: var(--good);
+        border-radius: 3px;
+        padding: 3px 5px;
+        font-family: "Space Mono", monospace;
+        font-size: 8px;
+        color: #ffffff;
+        font-weight: 700;
+        line-height: 1.2;
+      }
+      body.revealed .card .revealed-stats {
+        display: block;
+      }
+      body.revealed .card .pts {
+        display: block;
+      }
+      body.revealed .card.best {
+        border-color: var(--good);
+        box-shadow: 0 4px 0 var(--good);
+      }
+      body.revealed .card.best .best-badge {
+        display: block;
+      }
+
+      .draft-btn {
+        display: block;
+        margin: 30px auto 0;
+        font-family: "Anton", sans-serif;
+        font-size: 20px;
+        letter-spacing: 1px;
+        background: var(--gold);
+        color: var(--turf-dark);
+        border: none;
+        padding: 14px 34px;
+        border-radius: 3px;
+        cursor: pointer;
+      }
+      .draft-btn:disabled {
+        background: #6b6252;
+        color: #ccc;
+        cursor: not-allowed;
+      }
+      .draft-btn:not(:disabled):hover {
+        background: var(--gold-bright);
+      }
+
+      .result {
+        max-width: 720px;
+        margin: 20px auto 0;
+        background: var(--turf-dark);
+        border: 2px solid var(--gold);
+        border-radius: 4px;
+        padding: 22px 24px;
+        text-align: center;
+        display: none;
+      }
+      .result.show {
+        display: block;
+      }
+      .result .grade {
+        font-family: "Anton", sans-serif;
+        font-size: 60px;
+        color: var(--gold-bright);
+        line-height: 1;
+      }
+      .result .line {
+        font-family: "Space Mono", monospace;
+        font-size: 13px;
+        color: var(--line);
+        margin-top: 10px;
+      }
+      .result .verdict {
+        margin-top: 12px;
+        font-size: 15px;
+        color: var(--chalk);
+      }
+      .result button.reroll2 {
+        margin-top: 18px;
+        background: var(--gold);
+        border: none;
+        color: var(--turf-dark);
+        font-family: "Anton", sans-serif;
+        font-size: 15px;
+        padding: 10px 22px;
+        border-radius: 3px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 id="mainTitle">BLIND DRAFT CHALLENGE</h1>
+      <div class="twist-name" id="twistName">loading twist...</div>
+      <div class="rules" id="rulesBox"></div>
+      <div class="blind-note">
+        🕶️ STATS ARE HIDDEN. DRAFT ON KNOWLEDGE ALONE — THE SHEET REVEALS AFTER
+        YOU LOCK IN.
+      </div>
+    </header>
+
+    <div class="scoreboard">
+      <div class="picks" id="picksLabel">0 / 7 drafted</div>
+      <button class="reroll" id="rerollTop">🔀 NEW TWIST</button>
+    </div>
+
+    <main id="slotsContainer"></main>
+
+    <script>
+      // ---------- Team reference (stable ESPN team IDs) ----------
+      const TEAMS = {
+        1: { abbr: "ATL", conf: "NFC", division: "NFC South", name: "Falcons" },
+        2: { abbr: "BUF", conf: "AFC", division: "AFC East", name: "Bills" },
+        3: { abbr: "CHI", conf: "NFC", division: "NFC North", name: "Bears" },
+        4: { abbr: "CIN", conf: "AFC", division: "AFC North", name: "Bengals" },
+        5: { abbr: "CLE", conf: "AFC", division: "AFC North", name: "Browns" },
+        6: { abbr: "DAL", conf: "NFC", division: "NFC East", name: "Cowboys" },
+        7: { abbr: "DEN", conf: "AFC", division: "AFC West", name: "Broncos" },
+        8: { abbr: "DET", conf: "NFC", division: "NFC North", name: "Lions" },
+        9: { abbr: "GB", conf: "NFC", division: "NFC North", name: "Packers" },
+        10: { abbr: "TEN", conf: "AFC", division: "AFC South", name: "Titans" },
+        11: { abbr: "IND", conf: "AFC", division: "AFC South", name: "Colts" },
+        12: { abbr: "KC", conf: "AFC", division: "AFC West", name: "Chiefs" },
+        13: { abbr: "LV", conf: "AFC", division: "AFC West", name: "Raiders" },
+        14: { abbr: "LAR", conf: "NFC", division: "NFC West", name: "Rams" },
+        15: {
+          abbr: "MIA",
+          conf: "AFC",
+          division: "AFC East",
+          name: "Dolphins",
+        },
+        16: {
+          abbr: "MIN",
+          conf: "NFC",
+          division: "NFC North",
+          name: "Vikings",
+        },
+        17: { abbr: "NE", conf: "AFC", division: "AFC East", name: "Patriots" },
+        18: { abbr: "NO", conf: "NFC", division: "NFC South", name: "Saints" },
+        19: { abbr: "NYG", conf: "NFC", division: "NFC East", name: "Giants" },
+        20: { abbr: "NYJ", conf: "AFC", division: "AFC East", name: "Jets" },
+        21: { abbr: "PHI", conf: "NFC", division: "NFC East", name: "Eagles" },
+        22: {
+          abbr: "ARI",
+          conf: "NFC",
+          division: "NFC West",
+          name: "Cardinals",
+        },
+        23: {
+          abbr: "PIT",
+          conf: "AFC",
+          division: "AFC North",
+          name: "Steelers",
+        },
+        24: {
+          abbr: "LAC",
+          conf: "AFC",
+          division: "AFC West",
+          name: "Chargers",
+        },
+        25: { abbr: "SF", conf: "NFC", division: "NFC West", name: "49ers" },
+        26: {
+          abbr: "SEA",
+          conf: "NFC",
+          division: "NFC West",
+          name: "Seahawks",
+        },
+        27: {
+          abbr: "TB",
+          conf: "NFC",
+          division: "NFC South",
+          name: "Buccaneers",
+        },
+        28: {
+          abbr: "WSH",
+          conf: "NFC",
+          division: "NFC East",
+          name: "Commanders",
+        },
+        29: {
+          abbr: "CAR",
+          conf: "NFC",
+          division: "NFC South",
+          name: "Panthers",
+        },
+        30: {
+          abbr: "JAX",
+          conf: "AFC",
+          division: "AFC South",
+          name: "Jaguars",
+        },
+        33: { abbr: "BAL", conf: "AFC", division: "AFC North", name: "Ravens" },
+        34: { abbr: "HOU", conf: "AFC", division: "AFC South", name: "Texans" },
+      };
+
+      // ---------- Live ESPN leaders twist ----------
+      const CATEGORIES = [
+        { key: "passingYards", label: "Passing Yards", unit: "yds" },
+        { key: "passingTouchdowns", label: "Passing Touchdowns", unit: "TD" },
+        { key: "rushingYards", label: "Rushing Yards", unit: "yds" },
+        { key: "rushingTouchdowns", label: "Rushing Touchdowns", unit: "TD" },
+        { key: "receivingYards", label: "Receiving Yards", unit: "yds" },
+        { key: "receptions", label: "Receptions", unit: "rec" },
+        { key: "sacks", label: "Sacks", unit: "sacks" },
+        { key: "interceptions", label: "Interceptions", unit: "INT" },
+        { key: "totalTackles", label: "Total Tackles", unit: "tkl" },
+      ];
+
+      function leadersUrl(year) {
+        return (
+          "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/" +
+          year +
+          "/types/2/leaders?lang=en"
+        );
+      }
+
+      const CURRENT_YEAR = 2025;
+      const EARLIEST_YEAR = 1986;
+      const YEARS = Array.from(
+        { length: CURRENT_YEAR - EARLIEST_YEAR + 1 },
+        (_, i) => CURRENT_YEAR - i,
+      );
+      const POOL_SIZE = 25; // how many top leaders are eligible to be dealt into a round
+      const DEAL_SIZE = 6; // how many players are dealt as blind pick options per position
+      const OPTIONS_PER_POSITION = 6;
+      const MIN_CATEGORIES = 3; // a leaders twist needs at least this many usable categories to be worth playing
+      const MAX_YEAR_ATTEMPTS = 6; // how many different seasons to try before giving up on a live twist
+      const LIVE_TWIST_MARKER = { key: "live_espn_leaders", live: true };
+
+      function toHttps(url) {
+        return url.replace(/^http:\/\//, "https://");
+      }
+
+      function shuffle(arr) {
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+
+      // Older seasons don't carry every stat category ESPN tracks today (e.g. sacks
+      // weren't an official stat until 1982), so a category only counts as usable
+      // if the season actually returned a populated leaderboard for it.
+      function usableCategories(catByName) {
+        return CATEGORIES.filter((cat) => {
+          const espnCat = catByName[cat.key];
+          return (
+            espnCat &&
+            Array.isArray(espnCat.leaders) &&
+            espnCat.leaders.length > 0
+          );
+        });
+      }
+
+      async function fetchLeadersForYear(year) {
+        const res = await fetch(leadersUrl(year));
+        if (!res.ok)
+          throw new Error("ESPN leaders request failed: " + res.status);
+        const data = await res.json();
+        const catByName = {};
+        (data.categories || []).forEach((c) => {
+          catByName[c.name] = c;
+        });
+        return catByName;
+      }
+
+      async function buildLiveTwist() {
+        const triedYears = new Set();
+        let lastError = null;
+
+        for (let attempt = 0; attempt < MAX_YEAR_ATTEMPTS; attempt++) {
+          const remainingYears = YEARS.filter((y) => !triedYears.has(y));
+          if (remainingYears.length === 0) break;
+          const year =
+            remainingYears[Math.floor(Math.random() * remainingYears.length)];
+          triedYears.add(year);
+
+          try {
+            const catByName = await fetchLeadersForYear(year);
+            const usableCats = usableCategories(catByName);
+            if (usableCats.length < MIN_CATEGORIES) {
+              lastError = new Error(
+                `${year} only returned ${usableCats.length} usable categories`,
+              );
+              continue;
+            }
+
+            const idFromRef = (ref, resource) => {
+              const m = ref && ref.match(new RegExp(`/${resource}/(\\d+)\\?`));
+              return m ? Number(m[1]) : null;
+            };
+
+            const need = {};
+            const players = {};
+            const yy = String(year).slice(-2);
+
+            for (const cat of usableCats) {
+              need[cat.key] = 1;
+              const espnCat = catByName[cat.key];
+              const pool = espnCat.leaders.slice(0, POOL_SIZE);
+              const dealt = shuffle(
+                pool.map((leader, i) => ({ leader, rank: i + 1 })),
+              ).slice(0, Math.min(DEAL_SIZE, pool.length));
+
+              players[cat.key] = await Promise.all(
+                dealt.map(async ({ leader, rank }) => {
+                  let name = "Unknown Player";
+                  let team = "NFL '" + yy;
+                  let position = "";
+                  try {
+                    const aRes = await fetch(toHttps(leader.athlete.$ref));
+                    if (aRes.ok) {
+                      const aData = await aRes.json();
+                      name = aData.displayName || aData.fullName || name;
+                      position =
+                        (aData.position && aData.position.abbreviation) || "";
+                      const teamRef = aData.team && aData.team.$ref;
+                      const teamId = idFromRef(teamRef, "teams");
+                      const teamInfo = teamId !== null ? TEAMS[teamId] : null;
+                      if (teamRef) {
+                        const tRes = await fetch(toHttps(teamRef));
+                        if (tRes.ok) {
+                          const tData = await tRes.json();
+                          const teamName = tData.displayName || tData.name;
+                          const teamAbbr =
+                            tData.abbreviation || (teamInfo && teamInfo.abbr);
+                          if (teamName || teamAbbr) {
+                            team = `${teamName || teamAbbr || "NFL"} '${yy}`;
+                          }
+                        }
+                      }
+                      if (team === "NFL '" + yy && teamInfo) {
+                        team = `${teamInfo.name} '${yy}`;
+                      }
+                    }
+                  } catch (e) {
+                    /* keep fallback name */
+                  }
+                  return {
+                    name,
+                    position,
+                    team,
+                    stats: {
+                      displayValue: leader.displayValue,
+                      unit: cat.unit,
+                      rank,
+                    },
+                  };
+                }),
+              );
+            }
+
+            const twist = {
+              key: "live_" + year,
+              name: `${year} Season Leaders`,
+              live: true,
+              need,
+              lineupDesc: usableCats.map((c) => `1 ${c.label}`).join(" · "),
+              rule: `Pulled straight from ESPN's live <b>${year}</b> season leaderboards. For each category, one of the real top ${POOL_SIZE} leaders is dealt in — you're picking blind on reputation alone.${usableCats.length < CATEGORIES.length ? ` (${CATEGORIES.length - usableCats.length} categor${CATEGORIES.length - usableCats.length === 1 ? "y wasn't" : "ies weren't"} tracked yet in ${year}, so they're sitting out this round.)` : ""}`,
+              scoringNote: `Scoring (revealed after lock-in): each pick scores by its actual ESPN leaderboard rank — #1 of ${POOL_SIZE} = ${POOL_SIZE} pts, down to 1 pt for #${POOL_SIZE}.`,
+              players,
+            };
+
+            if (!twistIsValid(twist)) {
+              lastError = new Error(
+                `${year} twist failed post-build validation`,
+              );
+              continue;
+            }
+
+            return twist;
+          } catch (err) {
+            lastError = err;
+            continue;
+          }
+        }
+
+        throw (
+          lastError ||
+          new Error(
+            "Could not build a valid live twist for any attempted season.",
+          )
+        );
+      }
+
+      const TWISTS = [
+        {
+          key: "nfc_south_2019",
+          name: "2019 NFC SOUTH",
+          rule: "Every eligible player suited up for a <b>2019 NFC South</b> team — Saints, Falcons, Panthers, or Buccaneers, that season only.",
+          players: {
+            QB: [
+              {
+                name: "Jameis Winston",
+                team: "TB '19",
+                stats: { yds: 5109, td: 33, int: 30 },
+              },
+              {
+                name: "Matt Ryan",
+                team: "ATL '19",
+                stats: { yds: 4466, td: 26, int: 14 },
+              },
+              {
+                name: "Drew Brees",
+                team: "NO '19",
+                stats: { yds: 2979, td: 27, int: 4 },
+              },
+            ],
+            RB: [
+              {
+                name: "Christian McCaffrey",
+                team: "CAR '19",
+                stats: {
+                  ryds: 1387,
+                  rtd: 15,
+                  recyds: 1005,
+                  rectd: 4,
+                  rec: 116,
+                },
+              },
+              {
+                name: "Alvin Kamara",
+                team: "NO '19",
+                stats: { ryds: 797, rtd: 5, recyds: 533, rectd: 5, rec: 81 },
+              },
+              {
+                name: "Latavius Murray",
+                team: "NO '19",
+                stats: { ryds: 780, rtd: 5, recyds: 176, rectd: 0, rec: 27 },
+              },
+              {
+                name: "Devonta Freeman",
+                team: "ATL '19",
+                stats: { ryds: 656, rtd: 2, recyds: 410, rectd: 4, rec: 59 },
+              },
+              {
+                name: "Peyton Barber",
+                team: "TB '19",
+                stats: { ryds: 871, rtd: 5, recyds: 74, rectd: 0, rec: 16 },
+              },
+            ],
+            WR: [
+              {
+                name: "Michael Thomas",
+                team: "NO '19",
+                stats: { recyds: 1725, rectd: 9, rec: 149 },
+              },
+              {
+                name: "Julio Jones",
+                team: "ATL '19",
+                stats: { recyds: 1394, rectd: 6, rec: 99 },
+              },
+              {
+                name: "Chris Godwin",
+                team: "TB '19",
+                stats: { recyds: 1333, rectd: 9, rec: 86 },
+              },
+              {
+                name: "Mike Evans",
+                team: "TB '19",
+                stats: { recyds: 1157, rectd: 8, rec: 67 },
+              },
+              {
+                name: "D.J. Moore",
+                team: "CAR '19",
+                stats: { recyds: 1175, rectd: 4, rec: 87 },
+              },
+              {
+                name: "Calvin Ridley",
+                team: "ATL '19",
+                stats: { recyds: 866, rectd: 7, rec: 63 },
+              },
+            ],
+            TE: [
+              {
+                name: "Jared Cook",
+                team: "NO '19",
+                stats: { recyds: 705, rectd: 9, rec: 43 },
+              },
+              {
+                name: "Austin Hooper",
+                team: "ATL '19",
+                stats: { recyds: 787, rectd: 6, rec: 75 },
+              },
+              {
+                name: "Cameron Brate",
+                team: "TB '19",
+                stats: { recyds: 288, rectd: 4, rec: 29 },
+              },
+              {
+                name: "Greg Olsen",
+                team: "CAR '19",
+                stats: { recyds: 597, rectd: 2, rec: 52 },
+              },
+            ],
+          },
+        },
+        {
+          key: "afc_south_2019",
+          name: "2019 AFC SOUTH",
+          rule: "Every eligible player suited up for a <b>2019 AFC South</b> team — Texans, Colts, Jaguars, or Titans, that season only.",
+          players: {
+            QB: [
+              {
+                name: "Deshaun Watson",
+                team: "HOU '19",
+                stats: { yds: 3852, td: 26, int: 12 },
+              },
+              {
+                name: "Gardner Minshew",
+                team: "JAX '19",
+                stats: { yds: 3271, td: 21, int: 6 },
+              },
+              {
+                name: "Jacoby Brissett",
+                team: "IND '19",
+                stats: { yds: 2942, td: 18, int: 6 },
+              },
+              {
+                name: "Ryan Tannehill",
+                team: "TEN '19",
+                stats: { yds: 2742, td: 22, int: 6 },
+              },
+            ],
+            RB: [
+              {
+                name: "Derrick Henry",
+                team: "TEN '19",
+                stats: { ryds: 1540, rtd: 16, recyds: 206, rectd: 0, rec: 18 },
+              },
+              {
+                name: "Leonard Fournette",
+                team: "JAX '19",
+                stats: { ryds: 1152, rtd: 3, recyds: 522, rectd: 0, rec: 76 },
+              },
+              {
+                name: "Marlon Mack",
+                team: "IND '19",
+                stats: { ryds: 1091, rtd: 8, recyds: 137, rectd: 0, rec: 24 },
+              },
+              {
+                name: "Carlos Hyde",
+                team: "HOU '19",
+                stats: { ryds: 1070, rtd: 6, recyds: 155, rectd: 0, rec: 25 },
+              },
+            ],
+            WR: [
+              {
+                name: "DeAndre Hopkins",
+                team: "HOU '19",
+                stats: { recyds: 1165, rectd: 7, rec: 104 },
+              },
+              {
+                name: "A.J. Brown",
+                team: "TEN '19",
+                stats: { recyds: 1051, rectd: 8, rec: 52 },
+              },
+              {
+                name: "DJ Chark",
+                team: "JAX '19",
+                stats: { recyds: 1008, rectd: 8, rec: 73 },
+              },
+              {
+                name: "T.Y. Hilton",
+                team: "IND '19",
+                stats: { recyds: 501, rectd: 5, rec: 45 },
+              },
+            ],
+            TE: [
+              {
+                name: "Jonnu Smith",
+                team: "TEN '19",
+                stats: { recyds: 439, rectd: 8, rec: 39 },
+              },
+              {
+                name: "Darren Fells",
+                team: "HOU '19",
+                stats: { recyds: 349, rectd: 7, rec: 32 },
+              },
+              {
+                name: "Mo Alie-Cox",
+                team: "IND '19",
+                stats: { recyds: 280, rectd: 3, rec: 21 },
+              },
+              {
+                name: "James O'Shaughnessy",
+                team: "JAX '19",
+                stats: { recyds: 328, rectd: 2, rec: 31 },
+              },
+            ],
+          },
+        },
+        {
+          key: "nfc_east_2020",
+          name: "2020 NFC EAST",
+          rule: "Every eligible player suited up for a <b>2020 NFC East</b> team — Cowboys, Giants, Eagles, or Washington, that season only. (The division was so bad a 7-9 team won it.)",
+          players: {
+            QB: [
+              {
+                name: "Dak Prescott",
+                team: "DAL '20",
+                stats: { yds: 1856, td: 9, int: 4 },
+              },
+              {
+                name: "Daniel Jones",
+                team: "NYG '20",
+                stats: { yds: 2943, td: 11, int: 10 },
+              },
+              {
+                name: "Carson Wentz",
+                team: "PHI '20",
+                stats: { yds: 2620, td: 16, int: 15 },
+              },
+              {
+                name: "Alex Smith",
+                team: "WAS '20",
+                stats: { yds: 1617, td: 6, int: 8 },
+              },
+            ],
+            RB: [
+              {
+                name: "Ezekiel Elliott",
+                team: "DAL '20",
+                stats: { ryds: 979, rtd: 6, recyds: 338, rectd: 1, rec: 54 },
+              },
+              {
+                name: "Antonio Gibson",
+                team: "WAS '20",
+                stats: { ryds: 795, rtd: 11, recyds: 247, rectd: 1, rec: 36 },
+              },
+              {
+                name: "Miles Sanders",
+                team: "PHI '20",
+                stats: { ryds: 867, rtd: 6, recyds: 197, rectd: 1, rec: 28 },
+              },
+              {
+                name: "Wayne Gallman",
+                team: "NYG '20",
+                stats: { ryds: 682, rtd: 2, recyds: 139, rectd: 0, rec: 15 },
+              },
+            ],
+            WR: [
+              {
+                name: "Amari Cooper",
+                team: "DAL '20",
+                stats: { recyds: 1114, rectd: 5, rec: 92 },
+              },
+              {
+                name: "Terry McLaurin",
+                team: "WAS '20",
+                stats: { recyds: 1118, rectd: 4, rec: 87 },
+              },
+              {
+                name: "CeeDee Lamb",
+                team: "DAL '20",
+                stats: { recyds: 935, rectd: 5, rec: 74 },
+              },
+              {
+                name: "Travis Fulgham",
+                team: "PHI '20",
+                stats: { recyds: 539, rectd: 4, rec: 38 },
+              },
+            ],
+            TE: [
+              {
+                name: "Logan Thomas",
+                team: "WAS '20",
+                stats: { recyds: 670, rectd: 6, rec: 72 },
+              },
+              {
+                name: "Evan Engram",
+                team: "NYG '20",
+                stats: { recyds: 654, rectd: 1, rec: 63 },
+              },
+              {
+                name: "Dallas Goedert",
+                team: "PHI '20",
+                stats: { recyds: 524, rectd: 3, rec: 46 },
+              },
+              {
+                name: "Zach Ertz",
+                team: "PHI '20",
+                stats: { recyds: 335, rectd: 1, rec: 36 },
+              },
+            ],
+          },
+        },
+        {
+          key: "afc_west_2021",
+          name: "2021 AFC WEST",
+          rule: "Every eligible player suited up for a <b>2021 AFC West</b> team — Chiefs, Chargers, Raiders, or Broncos, that season only.",
+          players: {
+            QB: [
+              {
+                name: "Patrick Mahomes",
+                team: "KC '21",
+                stats: { yds: 4839, td: 37, int: 13 },
+              },
+              {
+                name: "Justin Herbert",
+                team: "LAC '21",
+                stats: { yds: 5014, td: 38, int: 15 },
+              },
+              {
+                name: "Derek Carr",
+                team: "LV '21",
+                stats: { yds: 4804, td: 23, int: 14 },
+              },
+              {
+                name: "Teddy Bridgewater",
+                team: "DEN '21",
+                stats: { yds: 3052, td: 18, int: 7 },
+              },
+            ],
+            RB: [
+              {
+                name: "Austin Ekeler",
+                team: "LAC '21",
+                stats: { ryds: 911, rtd: 12, recyds: 647, rectd: 8, rec: 70 },
+              },
+              {
+                name: "Josh Jacobs",
+                team: "LV '21",
+                stats: { ryds: 872, rtd: 9, recyds: 238, rectd: 0, rec: 54 },
+              },
+              {
+                name: "Javonte Williams",
+                team: "DEN '21",
+                stats: { ryds: 903, rtd: 4, recyds: 316, rectd: 3, rec: 43 },
+              },
+              {
+                name: "Clyde Edwards-Helaire",
+                team: "KC '21",
+                stats: { ryds: 517, rtd: 4, recyds: 129, rectd: 2, rec: 19 },
+              },
+            ],
+            WR: [
+              {
+                name: "Tyreek Hill",
+                team: "KC '21",
+                stats: { recyds: 1239, rectd: 9, rec: 111 },
+              },
+              {
+                name: "Keenan Allen",
+                team: "LAC '21",
+                stats: { recyds: 1138, rectd: 6, rec: 113 },
+              },
+              {
+                name: "Hunter Renfrow",
+                team: "LV '21",
+                stats: { recyds: 1038, rectd: 9, rec: 103 },
+              },
+              {
+                name: "Courtland Sutton",
+                team: "DEN '21",
+                stats: { recyds: 776, rectd: 2, rec: 58 },
+              },
+            ],
+            TE: [
+              {
+                name: "Travis Kelce",
+                team: "KC '21",
+                stats: { recyds: 1125, rectd: 9, rec: 92 },
+              },
+              {
+                name: "Darren Waller",
+                team: "LV '21",
+                stats: { recyds: 665, rectd: 2, rec: 55 },
+              },
+              {
+                name: "Noah Fant",
+                team: "DEN '21",
+                stats: { recyds: 670, rectd: 4, rec: 68 },
+              },
+              {
+                name: "Jared Cook",
+                team: "LAC '21",
+                stats: { recyds: 564, rectd: 4, rec: 48 },
+              },
+            ],
+          },
+        },
+        {
+          key: "nfc_west_2022",
+          name: "2022 NFC WEST",
+          rule: "Every eligible player suited up for a <b>2022 NFC West</b> team — 49ers, Rams, Seahawks, or Cardinals, that season only.",
+          players: {
+            QB: [
+              {
+                name: "Geno Smith",
+                team: "SEA '22",
+                stats: { yds: 4282, td: 30, int: 11 },
+              },
+              {
+                name: "Matthew Stafford",
+                team: "LAR '22",
+                stats: { yds: 2087, td: 10, int: 8 },
+              },
+              {
+                name: "Kyler Murray",
+                team: "ARI '22",
+                stats: { yds: 2368, td: 14, int: 7 },
+              },
+              {
+                name: "Jimmy Garoppolo",
+                team: "SF '22",
+                stats: { yds: 2437, td: 16, int: 4 },
+              },
+            ],
+            RB: [
+              {
+                name: "Christian McCaffrey",
+                team: "SF '22",
+                stats: { ryds: 1139, rtd: 8, recyds: 741, rectd: 5, rec: 85 },
+              },
+              {
+                name: "Kenneth Walker III",
+                team: "SEA '22",
+                stats: { ryds: 1050, rtd: 9, recyds: 165, rectd: 0, rec: 27 },
+              },
+              {
+                name: "James Conner",
+                team: "ARI '22",
+                stats: { ryds: 1050, rtd: 7, recyds: 300, rectd: 1, rec: 36 },
+              },
+              {
+                name: "Cam Akers",
+                team: "LAR '22",
+                stats: { ryds: 786, rtd: 7, recyds: 99, rectd: 0, rec: 13 },
+              },
+            ],
+            WR: [
+              {
+                name: "Cooper Kupp",
+                team: "LAR '22",
+                stats: { recyds: 812, rectd: 6, rec: 75 },
+              },
+              {
+                name: "DK Metcalf",
+                team: "SEA '22",
+                stats: { recyds: 1048, rectd: 6, rec: 90 },
+              },
+              {
+                name: "Deebo Samuel",
+                team: "SF '22",
+                stats: { recyds: 632, rectd: 3, rec: 56 },
+              },
+              {
+                name: "Marquise Brown",
+                team: "ARI '22",
+                stats: { recyds: 709, rectd: 3, rec: 67 },
+              },
+            ],
+            TE: [
+              {
+                name: "George Kittle",
+                team: "SF '22",
+                stats: { recyds: 765, rectd: 11, rec: 60 },
+              },
+              {
+                name: "Tyler Higbee",
+                team: "LAR '22",
+                stats: { recyds: 620, rectd: 3, rec: 72 },
+              },
+              {
+                name: "Noah Fant",
+                team: "SEA '22",
+                stats: { recyds: 486, rectd: 4, rec: 32 },
+              },
+              {
+                name: "Zach Ertz",
+                team: "ARI '22",
+                stats: { recyds: 406, rectd: 4, rec: 47 },
+              },
+            ],
+          },
+        },
+      ];
+      TWISTS.forEach((historicalTwist) => {
+        Object.entries(historicalTwist.players).forEach(
+          ([position, players]) => {
+            players.forEach((player) => {
+              player.position = player.position || position;
+            });
+          },
+        );
+        const historicalRB = historicalTwist.players.RB || [];
+        const historicalWR = historicalTwist.players.WR || [];
+        const historicalSkillNeed =
+          historicalRB.length <= 2 || historicalWR.length <= 2 ? 1 : 2;
+        historicalTwist.players.RB = (historicalTwist.players.RB || []).slice(
+          0,
+          OPTIONS_PER_POSITION,
+        );
+        historicalTwist.players.WR = (historicalTwist.players.WR || []).slice(
+          0,
+          OPTIONS_PER_POSITION,
+        );
+        historicalTwist.players.FLEX = [
+          ...historicalRB.slice(OPTIONS_PER_POSITION),
+          ...historicalWR.slice(OPTIONS_PER_POSITION),
+          ...(historicalTwist.players.TE || []),
+        ];
+        historicalTwist.need = {
+          QB: 1,
+          RB: historicalSkillNeed,
+          WR: historicalSkillNeed,
+          FLEX: 1,
+        };
+        historicalTwist.lineupDesc = Object.entries(historicalTwist.need)
+          .map(([position, amount]) => `${amount} ${position}`)
+          .join(" · ");
+      });
+      TWISTS.push(LIVE_TWIST_MARKER);
+
+      function rosterPositionPools(players) {
+        const qb = Array.isArray(players.QB) ? players.QB : [];
+        const rb = Array.isArray(players.RB) ? players.RB : [];
+        const wr = Array.isArray(players.WR) ? players.WR : [];
+        const te = Array.isArray(players.TE) ? players.TE : [];
+
+        return {
+          QB: qb,
+          RB: rb.slice(0, OPTIONS_PER_POSITION),
+          WR: wr.slice(0, OPTIONS_PER_POSITION),
+          FLEX: [
+            ...rb
+              .slice(OPTIONS_PER_POSITION)
+              .map((player) => ({ ...player, position: "RB" })),
+            ...wr
+              .slice(OPTIONS_PER_POSITION)
+              .map((player) => ({ ...player, position: "WR" })),
+            ...te.map((player) => ({ ...player, position: "TE" })),
+          ],
+        };
+      }
+
+      function buildRosterTwist({ key, name, rule, players, sourceLabel }) {
+        const rbCount = Array.isArray(players.RB) ? players.RB.length : 0;
+        const wrCount = Array.isArray(players.WR) ? players.WR.length : 0;
+        const skillNeed = rbCount <= 2 || wrCount <= 2 ? 1 : 2;
+        const requestedNeed = {
+          QB: 1,
+          RB: skillNeed,
+          WR: skillNeed,
+          FLEX: 1,
+        };
+        const need = {};
+        const positionPools = rosterPositionPools(players);
+
+        Object.entries(requestedNeed).forEach(([position, amount]) => {
+          const available = positionPools[position].length;
+          if (available > 0) need[position] = Math.min(amount, available);
+        });
+
+        const lineupDesc = Object.entries(need)
+          .map(([position, amount]) => `${amount} ${position}`)
+          .join(" · ");
+
+        return {
+          key,
+          name,
+          rule: `${rule}${sourceLabel ? ` (${sourceLabel})` : ""}`,
+          need,
+          lineupDesc,
+          scoringNote: DEFAULT_SCORING_NOTE,
+          players: positionPools,
+        };
+      }
+
+      async function loadManifest() {
+        const response = await fetch("data/challenge_manifest.json");
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      }
+
+      async function loadStaticRosterTwists() {
+        const manifest = await loadManifest();
+        const files = [
+          ...(Array.isArray(manifest.year_stats) ? manifest.year_stats : []),
+          ...(Array.isArray(manifest.team_season) ? manifest.team_season : []),
+          ...(Array.isArray(manifest.college) ? manifest.college : []),
+          ...(Array.isArray(manifest.rookies) ? manifest.rookies : []),
+        ];
+
+        const allTwists = await Promise.all(
+          files.map(async (fileName) => {
+            try {
+              const response = await fetch(`data/${fileName}`);
+              if (!response.ok) throw new Error(`HTTP ${response.status}`);
+              const players = await response.json();
+              const hasPlayers = ["QB", "RB", "WR", "TE"].some(
+                (position) =>
+                  Array.isArray(players[position]) &&
+                  players[position].length > 0,
+              );
+              if (!hasPlayers) return null;
+
+              if (/^Rookie\d{4}\.json$/.test(fileName)) {
+                const match = fileName.match(/^Rookie(\d{4})\.json$/);
+                const year = match ? Number(match[1]) : null;
+                return buildRosterTwist({
+                  key: `rookies_${year}`,
+                  name: year ? `Only rookies of ${year}` : "Only rookies",
+                  rule: year
+                    ? `Only players who were rookies in ${year} are eligible.`
+                    : "Only rookies are eligible.",
+                  players,
+                  sourceLabel: "",
+                });
+              }
+
+              if (/^[A-Z]{2,3}\d{4}\.json$/.test(fileName)) {
+                const match = fileName.match(/^([A-Z]{2,3})(\d{4})\.json$/);
+                const team = match ? match[1] : fileName;
+                const year = match ? Number(match[2]) : null;
+                const twist = buildRosterTwist({
+                  key: `team_${team}_${year}`,
+                  name: year ? `${team} ${year}` : `${team} roster`,
+                  rule: year
+                    ? `Only players from the ${team} ${year} roster are eligible.`
+                    : "Only players from this roster are eligible.",
+                  players,
+                  sourceLabel: "",
+                });
+                const teamInfo = Object.values(TEAMS).find(
+                  (candidate) => candidate.abbr === team,
+                );
+                if (teamInfo && year) {
+                  twist.teamAbbr = team;
+                  twist.year = year;
+                  twist.division = teamInfo.division;
+                }
+                return twist;
+              }
+
+              if (/^College_.*_Stats\.json$/.test(fileName)) {
+                const match = fileName.match(/^College_(.+)_Stats\.json$/);
+                const collegeSlug = match
+                  ? match[1].replace(/_/g, " ")
+                  : fileName;
+                const collegeName =
+                  {
+                    ARIZONASTATE: "Arizona State",
+                    FLORIDASTATE: "Florida State",
+                    IOWASTATE: "Iowa State",
+                    KANSASSTATE: "Kansas State",
+                    MICHIGANSTATE: "Michigan State",
+                    OHIOSTATE: "Ohio State",
+                    PENNSTATE: "Penn State",
+                  }[collegeSlug] || collegeSlug;
+                return buildRosterTwist({
+                  key: `college_${collegeName.replace(/\s+/g, "_")}`,
+                  name: `Only players that went to ${collegeName}`,
+                  rule: `Only players that went to ${collegeName} and appeared in the NFL are eligible.`,
+                  players,
+                  sourceLabel: "",
+                });
+              }
+
+              if (fileName.endsWith("Stats.json")) {
+                const yearMatch = fileName.match(/^(\d{4})Stats\.json$/);
+                const year = yearMatch ? Number(yearMatch[1]) : null;
+                return buildRosterTwist({
+                  key: `${fileName.replace(/\.json$/, "")}Stats`,
+                  name: year ? `${year} NFL Stats` : fileName,
+                  rule: year
+                    ? `Every player comes from the top-25 ${year} NFL statistical leaders loaded from /data/${fileName}.`
+                    : `Every player is drawn from /data/${fileName}.`,
+                  players,
+                  sourceLabel: `/data/${fileName}`,
+                });
+              }
+
+              return null;
+            } catch (error) {
+              console.warn(
+                `Could not load static challenge file ${fileName}:`,
+                error,
+              );
+              return null;
+            }
+          }),
+        );
+
+        const divisionGroups = new Map();
+        allTwists
+          .filter((twist) => twist && twist.division && twist.year)
+          .forEach((teamTwist) => {
+            const groupKey = `${teamTwist.division}_${teamTwist.year}`;
+            if (!divisionGroups.has(groupKey)) {
+              divisionGroups.set(groupKey, {
+                division: teamTwist.division,
+                year: teamTwist.year,
+                players: { QB: [], RB: [], WR: [], TE: [] },
+              });
+            }
+            const group = divisionGroups.get(groupKey);
+            Object.keys(group.players).forEach((position) => {
+              group.players[position].push(
+                ...(teamTwist.players[position] || []),
+              );
+            });
+          });
+
+        divisionGroups.forEach((group) => {
+          const divisionTwist = buildRosterTwist({
+            key: `division_${group.division.replace(/\s+/g, "_")}_${group.year}`,
+            name: `${group.division} ${group.year}`,
+            rule: `Only players from the ${group.year} ${group.division} teams are eligible.`,
+            players: group.players,
+            sourceLabel: "",
+          });
+          allTwists.push(divisionTwist);
+        });
+
+        const validTwists = allTwists.filter((twist) => {
+          if (!twist || !twist.players || !twist.need) return false;
+          return twistIsValid(twist);
+        });
+
+        TWISTS.push(...validTwists);
+      }
+
+      const DEFAULT_NEED = { QB: 1, RB: 2, WR: 2, FLEX: 1 };
+      const DEFAULT_LINEUP_DESC = "1 QB · 2 RB · 2 WR · 1 FLEX";
+      const DEFAULT_SCORING_NOTE =
+        "Scoring (revealed after lock-in, standard PPR): passing yds÷25 +4/TD −2/INT; rushing &amp; receiving yds÷10 +6/TD, +1/catch.";
+      let twist,
+        picked,
+        loadingTwist = false,
+        lastTwistKey = null,
+        lastTwistWasLive = false;
+
+      function scoreOf(s) {
+        if (s.rank !== undefined) return POOL_SIZE - s.rank + 1;
+        let pts = 0;
+        if (s.yds !== undefined) pts += s.yds / 25 + s.td * 4 - s.int * 2;
+        if (s.ryds !== undefined) pts += s.ryds / 10 + s.rtd * 6;
+        if (s.recyds !== undefined)
+          pts += s.recyds / 10 + s.rectd * 6 + (s.rec || 0) * 1;
+        return Math.round(pts * 10) / 10;
+      }
+
+      // Checks that a twist's data is actually playable: every required slot has
+      // enough distinct players to fill it, and every player's stats produce a
+      // real, finite score. Used both right after a live twist is built and again
+      // right before results are revealed, so a bad or partial ESPN response never
+      // makes it to the scoreboard.
+      function twistIsValid(t) {
+        if (!t || !t.players || !t.need) return false;
+        for (const pos of Object.keys(t.need)) {
+          const arr = t.players[pos];
+          if (!Array.isArray(arr) || arr.length < t.need[pos]) return false;
+          for (const p of arr) {
+            if (!p || typeof p.name !== "string" || !p.name || !p.stats)
+              return false;
+            const s = scoreOf(p.stats);
+            if (typeof s !== "number" || !Number.isFinite(s)) return false;
+          }
+        }
+        return true;
+      }
+      function statLine(s) {
+        if (s.rank !== undefined)
+          return `${s.displayValue} ${s.unit} · ESPN rank #${s.rank} of ${POOL_SIZE}`;
+        const parts = [];
+        if (s.yds !== undefined)
+          parts.push(`${s.yds} pass yds`, `${s.td} TD`, `${s.int} INT`);
+        if (s.ryds !== undefined)
+          parts.push(`${s.ryds} rush yds`, `${s.rtd} rush TD`);
+        if (s.recyds !== undefined)
+          parts.push(
+            `${s.recyds} rec yds`,
+            `${s.rectd} rec TD`,
+            `${s.rec} rec`,
+          );
+        return parts.join(" · ");
+      }
+
+      function slotLabel(pos) {
+        if (!twist.live) return pos;
+        const cat = CATEGORIES.find((c) => c.key === pos);
+        return cat ? cat.label : pos;
+      }
+
+      async function startNewTwist() {
+        if (loadingTwist) return;
+        loadingTwist = true;
+        document.body.classList.remove("revealed");
+        document.getElementById("twistName").textContent = "loading twist...";
+        document.getElementById("rulesBox").innerHTML = "";
+        document.getElementById("slotsContainer").innerHTML = "";
+        document.getElementById("rerollTop").disabled = true;
+
+        const availableTwists = TWISTS.filter((candidate) =>
+          candidate.live ? !lastTwistWasLive : candidate.key !== lastTwistKey,
+        );
+        const chosenPool =
+          availableTwists.length > 0 ? availableTwists : TWISTS;
+        const chosen =
+          chosenPool[Math.floor(Math.random() * chosenPool.length)];
+        if (chosen.live) {
+          try {
+            twist = await buildLiveTwist();
+          } catch (err) {
+            console.error(
+              "Live ESPN twist failed, falling back to a historical twist:",
+              err,
+            );
+            const fallback = TWISTS.filter(
+              (t) => !t.live && t.key !== lastTwistKey,
+            );
+            twist = fallback[Math.floor(Math.random() * fallback.length)];
+          }
+        } else {
+          twist = chosen;
+        }
+        if (!twist.need) {
+          twist.need = DEFAULT_NEED;
+          twist.lineupDesc = DEFAULT_LINEUP_DESC;
+        }
+
+        // Randomize the order players are dealt in for every slot, every twist
+        Object.keys(twist.players).forEach((pos) => {
+          twist.players[pos] = shuffle(twist.players[pos]).slice(
+            0,
+            OPTIONS_PER_POSITION,
+          );
+        });
+
+        // Final compatibility check: if anything about this twist (live or historical)
+        // isn't actually playable, fall back to a known-good historical twist rather
+        // than showing the user a broken board.
+        if (!twistIsValid(twist)) {
+          console.error(
+            "Twist failed compatibility check, falling back to a historical twist:",
+            twist && twist.key,
+          );
+          const fallback = TWISTS.filter(
+            (t) => !t.live && t.key !== lastTwistKey,
+          );
+          twist = fallback[Math.floor(Math.random() * fallback.length)];
+          Object.keys(twist.players).forEach((pos) => {
+            twist.players[pos] = shuffle(twist.players[pos]);
+          });
+        }
+
+        lastTwistKey = twist.key;
+        lastTwistWasLive = !!twist.live;
+
+        picked = {};
+        Object.keys(twist.need).forEach((pos) => {
+          picked[pos] = [];
+        });
+
+        document.getElementById("rerollTop").disabled = false;
+        document.getElementById("twistName").textContent =
+          "TWIST: " + twist.name;
+        const totalNeeded = Object.values(twist.need).reduce(
+          (a, b) => a + b,
+          0,
+        );
+        document.getElementById("rulesBox").innerHTML =
+          `<b>THE TWIST:</b> ${twist.rule} Build a ${totalNeeded}-pick lineup: <b>${twist.lineupDesc}</b>, picking blind. ${twist.scoringNote || DEFAULT_SCORING_NOTE}`;
+        const container = document.getElementById("slotsContainer");
+        container.innerHTML = "";
+        Object.keys(twist.need).forEach((pos) => {
+          const slotDiv = document.createElement("div");
+          slotDiv.className = "slot";
+          slotDiv.dataset.slot = pos;
+          slotDiv.innerHTML = `<div class="slot-head"><span class="tag">${slotLabel(pos)}</span><span class="need">pick ${twist.need[pos]}</span></div><div class="cards"></div>`;
+          container.appendChild(slotDiv);
+        });
+        const btn = document.createElement("button");
+        btn.className = "draft-btn";
+        btn.id = "lockBtn";
+        btn.textContent = "LOCK IN LINEUP";
+        btn.disabled = true;
+        container.appendChild(btn);
+
+        const resultDiv = document.createElement("div");
+        resultDiv.className = "result";
+        resultDiv.id = "result";
+        resultDiv.innerHTML = `<div class="grade" id="gradeText">-</div><div class="line" id="scoreLine"></div><div class="verdict" id="verdictText"></div><button class="reroll2" id="rerollBottom">🔀 TRY A NEW TWIST</button>`;
+        container.appendChild(resultDiv);
+
+        btn.onclick = lockIn;
+        document.getElementById("rerollBottom").onclick = startNewTwist;
+
+        loadingTwist = false;
+        render();
+      }
+
+      function render() {
+        document.querySelectorAll(".slot").forEach((slotEl) => {
+          const pos = slotEl.dataset.slot;
+          const cardsEl = slotEl.querySelector(".cards");
+          cardsEl.innerHTML = "";
+          const bestIndex = twist.players[pos].reduce(
+            (best, player, idx, players) =>
+              scoreOf(player.stats) > scoreOf(players[best].stats) ? idx : best,
+            0,
+          );
+          twist.players[pos].forEach((p, idx) => {
+            const isPicked = picked[pos].includes(idx);
+            const full = picked[pos].length >= twist.need[pos] && !isPicked;
+            const div = document.createElement("div");
+            div.className =
+              "card" +
+              (isPicked ? " picked" : "") +
+              (full ? " disabled" : "") +
+              (idx === bestIndex ? " best" : "");
+            div.innerHTML = `<div class="best-badge">BEST AVAILABLE</div>
+        <div class="pts">+${scoreOf(p.stats)}</div>
+        <div class="name">${p.name}</div>
+      <div class="team">${p.position ? `${p.position} · ` : ""}${p.team}</div>
+        <div class="revealed-stats">${statLine(p.stats)}</div>`;
+            div.onclick = () => {
+              if (document.body.classList.contains("revealed")) return;
+              if (isPicked) {
+                picked[pos] = picked[pos].filter((i) => i !== idx);
+              } else if (!full) {
+                picked[pos].push(idx);
+              }
+              render();
+            };
+            cardsEl.appendChild(div);
+          });
+        });
+
+        let totalPicks = 0;
+        Object.keys(picked).forEach(
+          (pos) => (totalPicks += picked[pos].length),
+        );
+        const totalNeeded = Object.values(twist.need).reduce(
+          (a, b) => a + b,
+          0,
+        );
+        document.getElementById("picksLabel").textContent =
+          `${totalPicks} / ${totalNeeded} drafted`;
+        document.getElementById("lockBtn").disabled =
+          totalPicks !== totalNeeded;
+      }
+
+      function lockIn() {
+        // Run a compatibility check before showing anything: confirm the twist's
+        // data is still sound and every picked player actually scores a real number.
+        const picksValid = Object.keys(picked).every((pos) =>
+          picked[pos].every((idx) => {
+            const p = twist.players[pos] && twist.players[pos][idx];
+            if (!p) return false;
+            const s = scoreOf(p.stats);
+            return typeof s === "number" && Number.isFinite(s);
+          }),
+        );
+
+        if (!twistIsValid(twist) || !picksValid) {
+          document.getElementById("gradeText").textContent = "⚠";
+          document.getElementById("scoreLine").textContent =
+            "This twist's stat feed came back incomplete.";
+          document.getElementById("verdictText").textContent =
+            "Something in this challenge's data didn't check out cleanly, so the score can't be trusted. Hit \"New Twist\" for a clean one.";
+          document.getElementById("result").classList.add("show");
+          document
+            .getElementById("result")
+            .scrollIntoView({ behavior: "smooth", block: "center" });
+          return;
+        }
+
+        document.body.classList.add("revealed");
+        let totalPts = 0;
+        Object.keys(picked).forEach((pos) => {
+          picked[pos].forEach(
+            (idx) => (totalPts += scoreOf(twist.players[pos][idx].stats)),
+          );
+        });
+        totalPts = Math.round(totalPts * 10) / 10;
+
+        const bestOf = (pos, n) => {
+          const scored = twist.players[pos]
+            .map((p) => scoreOf(p.stats))
+            .sort((a, b) => b - a);
+          return scored.slice(0, n).reduce((a, b) => a + b, 0);
+        };
+        const optimal =
+          Math.round(
+            Object.keys(twist.need).reduce(
+              (sum, pos) => sum + bestOf(pos, twist.need[pos]),
+              0,
+            ) * 10,
+          ) / 10;
+        const pct = totalPts / optimal;
+
+        let grade, verdict;
+        if (pct >= 0.97) {
+          grade = "S";
+          verdict =
+            "Optimal lineup. You knew exactly who balled out that season.";
+        } else if (pct >= 0.88) {
+          grade = "A";
+          verdict =
+            "Elite recall — you drafted the stat sheet, not the name value.";
+        } else if (pct >= 0.75) {
+          grade = "B";
+          verdict =
+            "Solid squad. A pick or two went off reputation instead of production.";
+        } else if (pct >= 0.6) {
+          grade = "C";
+          verdict =
+            "Middle of the pack — some name-brand picks underperformed the sleepers.";
+        } else {
+          grade = "D";
+          verdict = "Rebuilding year. The box score disagreed with your gut.";
+        }
+
+        document.getElementById("gradeText").textContent = grade;
+        document.getElementById("scoreLine").textContent =
+          `YOUR SCORE: ${totalPts} PTS   ·   OPTIMAL POSSIBLE: ${optimal} PTS   ·   ${Math.round(pct * 100)}%`;
+        document.getElementById("verdictText").textContent = verdict;
+        document.getElementById("result").classList.add("show");
+        document
+          .getElementById("result")
+          .scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+
+      document.getElementById("rerollTop").onclick = startNewTwist;
+      loadStaticRosterTwists().then(() => startNewTwist());
+    </script>
+  </body>
+</html>

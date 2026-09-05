@@ -1,0 +1,923 @@
+{
+  "QB": [
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '19",
+      "stats": {
+        "yds": 3722,
+        "td": 20,
+        "int": 12
+      }
+    },
+    {
+      "name": "Gardner Minshew",
+      "team": "JAX '19",
+      "stats": {
+        "yds": 3271,
+        "td": 21,
+        "int": 6
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '19",
+      "stats": {
+        "yds": 3027,
+        "td": 24,
+        "int": 12
+      }
+    },
+    {
+      "name": "Dwayne Haskins",
+      "team": "WAS '19",
+      "stats": {
+        "yds": 1365,
+        "td": 7,
+        "int": 7
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "DEN '19",
+      "stats": {
+        "yds": 1020,
+        "td": 7,
+        "int": 3
+      }
+    },
+    {
+      "name": "David Blough",
+      "team": "DET '19",
+      "stats": {
+        "yds": 984,
+        "td": 4,
+        "int": 6
+      }
+    },
+    {
+      "name": "Devlin Hodges",
+      "team": "PIT '19",
+      "stats": {
+        "yds": 1063,
+        "td": 5,
+        "int": 8
+      }
+    },
+    {
+      "name": "Ryan Finley",
+      "team": "CIN '19",
+      "stats": {
+        "yds": 474,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Will Grier",
+      "team": "CAR '19",
+      "stats": {
+        "yds": 228,
+        "td": 0,
+        "int": 4
+      }
+    },
+    {
+      "name": "Jarrett Stidham",
+      "team": "NE '19",
+      "stats": {
+        "yds": 14,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 818,
+        "rtd": 3,
+        "recyds": 509,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '19",
+      "stats": {
+        "ryds": 1150,
+        "rtd": 7,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '19",
+      "stats": {
+        "ryds": 889,
+        "rtd": 6,
+        "recyds": 185,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 775,
+        "rtd": 2,
+        "recyds": 194,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Tony Pollard",
+      "team": "DAL '19",
+      "stats": {
+        "ryds": 455,
+        "rtd": 2,
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 462,
+        "rtd": 1,
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Patrick Laird",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 168,
+        "rtd": 1,
+        "recyds": 204,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 273,
+        "rtd": 0,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Benny Snell",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 426,
+        "rtd": 2,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ryquell Armstead",
+      "team": "JAX '19",
+      "stats": {
+        "ryds": 108,
+        "rtd": 0,
+        "recyds": 144,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '19",
+      "stats": {
+        "ryds": 225,
+        "rtd": 2,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Darwin Thompson",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 128,
+        "rtd": 1,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 133,
+        "rtd": 1,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Qadree Ollison",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 50,
+        "rtd": 4,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Travis Homer",
+      "team": "SEA '19",
+      "stats": {
+        "ryds": 114,
+        "rtd": 0,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "team": "DEN '19",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LA '19",
+      "stats": {
+        "ryds": 147,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Alec Ingold",
+      "team": "LV '19",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Wes Hills",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 21,
+        "rtd": 2,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "D'Ernest Johnson",
+      "team": "CLE '19",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kerrith Whyte",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 122,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Khari Blasingame",
+      "team": "TEN '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jon Hilliman",
+      "team": "NYG '19",
+      "stats": {
+        "ryds": 91,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Devine Ozigbo",
+      "team": "JAX '19",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Dexter Williams",
+      "team": "GB '19",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jordan Scarlett",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tony Brooks-James",
+      "team": "PIT '19",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Brown",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 1051,
+        "rectd": 8,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WAS '19",
+      "stats": {
+        "recyds": 919,
+        "rectd": 7,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 802,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '19",
+      "stats": {
+        "recyds": 900,
+        "rectd": 7,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 740,
+        "rectd": 8,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 680,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 584,
+        "rectd": 7,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '19",
+      "stats": {
+        "recyds": 605,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 538,
+        "rectd": 6,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Steven Sims",
+      "team": "WAS '19",
+      "stats": {
+        "recyds": 310,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Preston Williams",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 428,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Bisi Johnson",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 294,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Kelvin Harmon",
+      "team": "WAS '19",
+      "stats": {
+        "recyds": 365,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 359,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "BAL '19",
+      "stats": {
+        "recyds": 198,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "KeeSean Johnson",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 200,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Parris Campbell",
+      "team": "IND '19",
+      "stats": {
+        "recyds": 127,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Andy Isabella",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 189,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Duke Williams",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 166,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "J.J. Arcega-Whiteside",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 169,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Keelan Doss",
+      "team": "LV '19",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Deonte Harty",
+      "team": "NO '19",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Damion Willis",
+      "team": "CIN '19",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Riley Ridley",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ventell Bryant",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Diontae Spencer",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Alexander Hollins",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jason Moore",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ishmael Hyman",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Stanley Morgan",
+      "team": "CIN '19",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ashton Dulin",
+      "team": "IND '19",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Walker",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jeff Smith",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Ursua",
+      "team": "SEA '19",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darrius Shepherd",
+      "team": "GB '19",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Noah Fant",
+      "team": "DEN '19",
+      "stats": {
+        "recyds": 562,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 367,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 311,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Kaden Smith",
+      "team": "NYG '19",
+      "stats": {
+        "recyds": 268,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Foster Moreau",
+      "team": "LV '19",
+      "stats": {
+        "recyds": 174,
+        "rectd": 5,
+        "rec": 21
+      }
+    },
+    {
+      "name": "N'Keal Harry",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 105,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Hale Hentges",
+      "team": "WAS '19",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jesper Horsted",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tommy Sweeney",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Stephen Carlson",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '19",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "NYJ '19",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Codey McElroy",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaac Nauta",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Charles Jones",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Zach Gentry",
+      "team": "PIT '19",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "DAL '20",
+      "stats": {
+        "yds": 2170,
+        "td": 14,
+        "int": 8
+      }
+    },
+    {
+      "name": "Garrett Gilbert",
+      "team": "DAL '20",
+      "stats": {
+        "yds": 243,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '20",
+      "stats": {
+        "yds": 1856,
+        "td": 9,
+        "int": 4
+      }
+    },
+    {
+      "name": "Ben DiNucci",
+      "team": "DAL '20",
+      "stats": {
+        "yds": 219,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '20",
+      "stats": {
+        "ryds": 979,
+        "rtd": 6,
+        "recyds": 338,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Tony Pollard",
+      "team": "DAL '20",
+      "stats": {
+        "ryds": 435,
+        "rtd": 4,
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Rico Dowdle",
+      "team": "DAL '20",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amari Cooper",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 1114,
+        "rectd": 5,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 189,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 843,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 935,
+        "rectd": 5,
+        "rec": 74
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Blake Bell",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Blake Jarwin",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 615,
+        "rectd": 4,
+        "rec": 63
+      }
+    }
+  ]
+}

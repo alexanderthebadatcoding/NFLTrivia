@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '24",
+      "stats": {
+        "yds": 2045,
+        "td": 11,
+        "int": 7
+      }
+    },
+    {
+      "name": "Mac Jones",
+      "team": "JAX '24",
+      "stats": {
+        "yds": 1672,
+        "td": 8,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D'Ernest Johnson",
+      "team": "JAX '24",
+      "stats": {
+        "ryds": 143,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "JAX '24",
+      "stats": {
+        "ryds": 558,
+        "rtd": 2,
+        "recyds": 254,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Tank Bigsby",
+      "team": "JAX '24",
+      "stats": {
+        "ryds": 766,
+        "rtd": 7,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Josh Reynolds",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 194,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 379,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Gabe Davis",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 239,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tim Jones",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Austin Trammell",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 390,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Brian Thomas Jr.",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 1282,
+        "rectd": 10,
+        "rec": 87
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Evan Engram",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 365,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Josiah Deguara",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Luke Farrell",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '24",
+      "stats": {
+        "recyds": 411,
+        "rectd": 2,
+        "rec": 40
+      }
+    }
+  ]
+}

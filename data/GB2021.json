@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '21",
+      "stats": {
+        "yds": 4115,
+        "td": 37,
+        "int": 4
+      }
+    },
+    {
+      "name": "Jordan Love",
+      "team": "GB '21",
+      "stats": {
+        "yds": 411,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aaron Jones",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 799,
+        "rtd": 4,
+        "recyds": 391,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Patrick Taylor",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 89,
+        "rtd": 1,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "AJ Dillon",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 803,
+        "rtd": 5,
+        "recyds": 313,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Kylin Hill",
+      "team": "GB '21",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 375,
+        "rectd": 5,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 1553,
+        "rectd": 11,
+        "rec": 123
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 430,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 513,
+        "rectd": 8,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Malik Taylor",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Juwann Winfree",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Amari Rodgers",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 204,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Tyler Davis",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Josiah Deguara",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 245,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Dominique Dafney",
+      "team": "GB '21",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

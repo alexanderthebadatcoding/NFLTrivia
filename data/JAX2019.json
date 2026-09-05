@@ -1,0 +1,187 @@
+{
+  "QB": [
+    {
+      "name": "Nick Foles",
+      "team": "JAX '19",
+      "stats": {
+        "yds": 736,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Gardner Minshew",
+      "team": "JAX '19",
+      "stats": {
+        "yds": 3271,
+        "td": 21,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Leonard Fournette",
+      "team": "JAX '19",
+      "stats": {
+        "ryds": 1152,
+        "rtd": 3,
+        "recyds": 522,
+        "rectd": 0,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Devine Ozigbo",
+      "team": "JAX '19",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ryquell Armstead",
+      "team": "JAX '19",
+      "stats": {
+        "ryds": 108,
+        "rtd": 0,
+        "recyds": 144,
+        "rectd": 2,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marqise Lee",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 775,
+        "rectd": 5,
+        "rec": 47
+      }
+    },
+    {
+      "name": "C.J. Board",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Keelan Cole",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 361,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Dede Westbrook",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 660,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 8,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Michael Walker",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "James O'Shaughnessy",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 153,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Nick O'Leary",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 109,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ben Koyack",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Geoff Swaim",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Seth DeValve",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Charles Jones",
+      "team": "JAX '19",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

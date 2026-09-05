@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Carson Palmer",
+      "team": "ARI '16",
+      "stats": {
+        "yds": 4233,
+        "td": 26,
+        "int": 14
+      }
+    },
+    {
+      "name": "Drew Stanton",
+      "team": "ARI '16",
+      "stats": {
+        "yds": 192,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Johnson",
+      "team": "ARI '16",
+      "stats": {
+        "ryds": 95,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kerwynn Williams",
+      "team": "ARI '16",
+      "stats": {
+        "ryds": 157,
+        "rtd": 2,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Stepfan Taylor",
+      "team": "ARI '16",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Andre Ellington",
+      "team": "ARI '16",
+      "stats": {
+        "ryds": 96,
+        "rtd": 0,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "David Johnson",
+      "team": "ARI '16",
+      "stats": {
+        "ryds": 1239,
+        "rtd": 16,
+        "recyds": 879,
+        "rectd": 4,
+        "rec": 80
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Larry Fitzgerald",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 1023,
+        "rectd": 6,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Jeremy Ross",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brittan Golden",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jaron Brown",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "John Brown",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 517,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "J.J. Nelson",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 568,
+        "rectd": 6,
+        "rec": 34
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jermaine Gresham",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 391,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Darren Fells",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ifeanyi Momah",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Troy Niklas",
+      "team": "ARI '16",
+      "stats": {
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

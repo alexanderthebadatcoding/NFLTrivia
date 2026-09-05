@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "CLE '18",
+      "stats": {
+        "yds": 473,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '18",
+      "stats": {
+        "yds": 3725,
+        "td": 27,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Duke Johnson",
+      "team": "CLE '18",
+      "stats": {
+        "ryds": 201,
+        "rtd": 0,
+        "recyds": 429,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Dontrell Hilliard",
+      "team": "CLE '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '18",
+      "stats": {
+        "ryds": 996,
+        "rtd": 8,
+        "recyds": 149,
+        "rectd": 2,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jarvis Landry",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 976,
+        "rectd": 4,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 340,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Rashard Higgins",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 572,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Derrick Willies",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Damion Ratley",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Antonio Callaway",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 586,
+        "rectd": 5,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Orson Charles",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Darren Fells",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 117,
+        "rectd": 3,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Seth DeValve",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 74,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 639,
+        "rectd": 4,
+        "rec": 56
+      }
+    }
+  ]
+}

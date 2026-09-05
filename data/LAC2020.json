@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "LAC '20",
+      "stats": {
+        "yds": 208,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Easton Stick",
+      "team": "LAC '20",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC '20",
+      "stats": {
+        "yds": 4336,
+        "td": 31,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Troymaine Pope",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 76,
+        "rtd": 0,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 530,
+        "rtd": 1,
+        "recyds": 403,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Justin Jackson",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 270,
+        "rtd": 0,
+        "recyds": 173,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kalen Ballage",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 303,
+        "rtd": 3,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Gabe Nabers",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Joshua Kelley",
+      "team": "LAC '20",
+      "stats": {
+        "ryds": 354,
+        "rtd": 2,
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 992,
+        "rectd": 8,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 756,
+        "rectd": 5,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Jalen Guyton",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 511,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Tyron Johnson",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 398,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "K.J. Hill",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Virgil Green",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Stephen Anderson",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 613,
+        "rectd": 4,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Donald Parham",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 159,
+        "rectd": 3,
+        "rec": 10
+      }
+    }
+  ]
+}

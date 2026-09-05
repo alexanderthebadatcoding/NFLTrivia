@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "C.J. Beathard",
+      "team": "JAX '22",
+      "stats": {
+        "yds": 35,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAX '22",
+      "stats": {
+        "yds": 4113,
+        "td": 25,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "JaMycal Hasty",
+      "team": "JAX '22",
+      "stats": {
+        "ryds": 194,
+        "rtd": 2,
+        "recyds": 126,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "JAX '22",
+      "stats": {
+        "ryds": 1125,
+        "rtd": 5,
+        "recyds": 316,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Snoop Conner",
+      "team": "JAX '22",
+      "stats": {
+        "ryds": 42,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marvin Jones",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 529,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Jamal Agnew",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 187,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 823,
+        "rectd": 5,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 1108,
+        "rectd": 8,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Tim Jones",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 766,
+        "rectd": 4,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Dan Arnold",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Luke Farrell",
+      "team": "JAX '22",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

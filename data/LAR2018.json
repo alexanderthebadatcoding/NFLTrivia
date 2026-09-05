@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Sean Mannion",
+      "team": "LAR '18",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "LAR '18",
+      "stats": {
+        "yds": 4688,
+        "td": 32,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Anderson",
+      "team": "LAR '18",
+      "stats": {
+        "ryds": 403,
+        "rtd": 2,
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '18",
+      "stats": {
+        "ryds": 212,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Todd Gurley",
+      "team": "LAR '18",
+      "stats": {
+        "ryds": 1251,
+        "rtd": 17,
+        "recyds": 580,
+        "rectd": 4,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Justin Davis",
+      "team": "LAR '18",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "John Kelly",
+      "team": "LAR '18",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nick Williams",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Robert Woods",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 1219,
+        "rectd": 6,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 1204,
+        "rectd": 5,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 566,
+        "rectd": 6,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 402,
+        "rectd": 5,
+        "rec": 29
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 292,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Johnny Mundt",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LAR '18",
+      "stats": {
+        "recyds": 320,
+        "rectd": 3,
+        "rec": 33
+      }
+    }
+  ]
+}

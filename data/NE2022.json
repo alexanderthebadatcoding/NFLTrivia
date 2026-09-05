@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '22",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mac Jones",
+      "team": "NE '22",
+      "stats": {
+        "yds": 2997,
+        "td": 14,
+        "int": 11
+      }
+    },
+    {
+      "name": "Bailey Zappe",
+      "team": "NE '22",
+      "stats": {
+        "yds": 781,
+        "td": 5,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Damien Harris",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 462,
+        "rtd": 3,
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "J.J. Taylor",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 1040,
+        "rtd": 5,
+        "recyds": 421,
+        "rectd": 1,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Kevin Harris",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 52,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Pierre Strong",
+      "team": "NE '22",
+      "stats": {
+        "ryds": 100,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeVante Parker",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 539,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 362,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Ty Montgomery",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 15,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 434,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 804,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tyquan Thornton",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 247,
+        "rectd": 2,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hunter Henry",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 509,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "NE '22",
+      "stats": {
+        "recyds": 245,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Brian Hoyer",
+      "team": "LV '23",
+      "stats": {
+        "yds": 231,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "LV '23",
+      "stats": {
+        "yds": 1205,
+        "td": 7,
+        "int": 9
+      }
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV '23",
+      "stats": {
+        "yds": 2218,
+        "td": 12,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bolden",
+      "team": "LV '23",
+      "stats": {
+        "ryds": 31,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ameer Abdullah",
+      "team": "LV '23",
+      "stats": {
+        "ryds": 89,
+        "rtd": 0,
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '23",
+      "stats": {
+        "ryds": 805,
+        "rtd": 6,
+        "recyds": 296,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "LV '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Zamir White",
+      "team": "LV '23",
+      "stats": {
+        "ryds": 451,
+        "rtd": 1,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 1144,
+        "rectd": 8,
+        "rec": 103
+      }
+    },
+    {
+      "name": "DeAndre Carter",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 807,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 255,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Tre Tucker",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 331,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Austin Hooper",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 234,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Jesper Horsted",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cole Fotheringham",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Mayer",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 304,
+        "rectd": 2,
+        "rec": 27
+      }
+    }
+  ]
+}

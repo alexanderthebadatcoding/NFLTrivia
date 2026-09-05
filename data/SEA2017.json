@@ -1,0 +1,168 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '17",
+      "stats": {
+        "yds": 3983,
+        "td": 34,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eddie Lacy",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 179,
+        "rtd": 0,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Thomas Rawls",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 157,
+        "rtd": 0,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 240,
+        "rtd": 0,
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "C.J. Prosise",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tre Madden",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "J.D. McKissic",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 187,
+        "rtd": 1,
+        "recyds": 266,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Chris Carson",
+      "team": "SEA '17",
+      "stats": {
+        "ryds": 208,
+        "rtd": 0,
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 991,
+        "rectd": 8,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Paul Richardson",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 703,
+        "rectd": 6,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 555,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Tanner McEvoy",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 113,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Amara Darboh",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Graham",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 520,
+        "rectd": 10,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Luke Willson",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 153,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Nick Vannett",
+      "team": "SEA '17",
+      "stats": {
+        "recyds": 124,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ]
+}

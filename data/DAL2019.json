@@ -1,0 +1,131 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '19",
+      "stats": {
+        "yds": 4902,
+        "td": 30,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '19",
+      "stats": {
+        "ryds": 1357,
+        "rtd": 12,
+        "recyds": 420,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Tony Pollard",
+      "team": "DAL '19",
+      "stats": {
+        "ryds": 455,
+        "rtd": 2,
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 828,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Tavon Austin",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 177,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Amari Cooper",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 1189,
+        "rectd": 8,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Devin Smith",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 113,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 1107,
+        "rectd": 6,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Ventell Bryant",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 15,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 529,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Blake Jarwin",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 365,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '19",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

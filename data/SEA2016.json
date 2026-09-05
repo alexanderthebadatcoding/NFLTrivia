@@ -1,0 +1,208 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '16",
+      "stats": {
+        "yds": 4219,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "Trevone Boykin",
+      "team": "SEA '16",
+      "stats": {
+        "yds": 145,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marcel Reece",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Will Tukuafu",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "George Farmer",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Terrence Magee",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Thomas Rawls",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 349,
+        "rtd": 3,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "C.J. Prosise",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 172,
+        "rtd": 1,
+        "recyds": 208,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Alex Collins",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 125,
+        "rtd": 1,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "J.D. McKissic",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Troymaine Pope",
+      "team": "SEA '16",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 1128,
+        "rectd": 7,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 510,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Paul Richardson",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 288,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 597,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Tanner McEvoy",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 140,
+        "rectd": 2,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Graham",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 923,
+        "rectd": 6,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Brandon Williams",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Luke Willson",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 129,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Nick Vannett",
+      "team": "SEA '16",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

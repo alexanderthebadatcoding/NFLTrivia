@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 1616,
+        "td": 13,
+        "int": 8
+      }
+    },
+    {
+      "name": "Jeff Driskel",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 166,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "PJ Walker",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 674,
+        "td": 1,
+        "int": 5
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 1115,
+        "td": 7,
+        "int": 4
+      }
+    },
+    {
+      "name": "Dorian Thompson-Robinson",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 440,
+        "td": 1,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '23",
+      "stats": {
+        "ryds": 411,
+        "rtd": 9,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '23",
+      "stats": {
+        "ryds": 170,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "CLE '23",
+      "stats": {
+        "ryds": 813,
+        "rtd": 4,
+        "recyds": 319,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Pierre Strong",
+      "team": "CLE '23",
+      "stats": {
+        "ryds": 291,
+        "rtd": 1,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marquise Goodwin",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Amari Cooper",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 1250,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Elijah Moore",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 640,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "David Bell",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 167,
+        "rectd": 3,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Cedric Tillman",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "David Njoku",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 882,
+        "rectd": 6,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Harrison Bryant",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 81,
+        "rectd": 3,
+        "rec": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "QB": [],
+  "RB": [
+    {
+      "name": "Brian Hill",
+      "team": "ATL '20",
+      "stats": {
+        "ryds": 465,
+        "rtd": 1,
+        "recyds": 199,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 323,
+        "rtd": 2,
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 157,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "CIN '17",
+      "stats": {
+        "ryds": 37,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Devin Moore",
+      "team": "IND '10",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tanner Gentry",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '15",
+      "stats": {
+        "recyds": 561,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '14",
+      "stats": {
+        "recyds": 856,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Robert Herron",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '13",
+      "stats": {
+        "recyds": 149,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '12",
+      "stats": {
+        "recyds": 814,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '11",
+      "stats": {
+        "recyds": 856,
+        "rectd": 5,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '10",
+      "stats": {
+        "recyds": 717,
+        "rectd": 6,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '09",
+      "stats": {
+        "recyds": 776,
+        "rectd": 1,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '08",
+      "stats": {
+        "recyds": 465,
+        "rectd": 4,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '07",
+      "stats": {
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '06",
+      "stats": {
+        "recyds": 210,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Malcom Floyd",
+      "team": "LAC '04",
+      "stats": {
+        "recyds": 49,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": []
+}

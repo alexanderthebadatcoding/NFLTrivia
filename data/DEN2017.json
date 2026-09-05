@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Brock Osweiler",
+      "team": "DEN '17",
+      "stats": {
+        "yds": 1088,
+        "td": 5,
+        "int": 5
+      }
+    },
+    {
+      "name": "Trevor Siemian",
+      "team": "DEN '17",
+      "stats": {
+        "yds": 2285,
+        "td": 12,
+        "int": 14
+      }
+    },
+    {
+      "name": "Paxton Lynch",
+      "team": "DEN '17",
+      "stats": {
+        "yds": 295,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "DEN '17",
+      "stats": {
+        "ryds": 296,
+        "rtd": 1,
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "C.J. Anderson",
+      "team": "DEN '17",
+      "stats": {
+        "ryds": 1007,
+        "rtd": 3,
+        "recyds": 224,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Andy Janovich",
+      "team": "DEN '17",
+      "stats": {
+        "ryds": 12,
+        "rtd": 1,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "DEN '17",
+      "stats": {
+        "ryds": 299,
+        "rtd": 1,
+        "recyds": 275,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "De'Angelo Henderson Sr.",
+      "team": "DEN '17",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Emmanuel Sanders",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 555,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 949,
+        "rectd": 5,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Bennie Fowler",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 350,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Cody Latimer",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 287,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jordan Taylor",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Isaiah McKenzie",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Virgil Green",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 191,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jeff Heuerman",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 142,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Austin Traylor",
+      "team": "DEN '17",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

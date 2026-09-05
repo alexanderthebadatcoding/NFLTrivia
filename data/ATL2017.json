@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '17",
+      "stats": {
+        "yds": 4095,
+        "td": 20,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Coleman",
+      "team": "ATL '17",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '17",
+      "stats": {
+        "ryds": 865,
+        "rtd": 7,
+        "recyds": 317,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Terron Ward",
+      "team": "ATL '17",
+      "stats": {
+        "ryds": 129,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "ATL '17",
+      "stats": {
+        "ryds": 628,
+        "rtd": 5,
+        "recyds": 299,
+        "rectd": 3,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Roberts",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 1444,
+        "rectd": 3,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 703,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Nick Williams",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Taylor Gabriel",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 378,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Justin Hardy",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 221,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Marvin Hall",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Levine Toilolo",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 122,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "ATL '17",
+      "stats": {
+        "recyds": 526,
+        "rectd": 3,
+        "rec": 49
+      }
+    }
+  ]
+}

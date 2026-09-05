@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '21",
+      "stats": {
+        "yds": 3740,
+        "td": 22,
+        "int": 10
+      }
+    },
+    {
+      "name": "Mason Rudolph",
+      "team": "PIT '21",
+      "stats": {
+        "yds": 277,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derek Watt",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kalen Ballage",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Benny Snell",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 98,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony McFarland",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Najee Harris",
+      "team": "PIT '21",
+      "stats": {
+        "ryds": 1200,
+        "rtd": 7,
+        "recyds": 467,
+        "rectd": 3,
+        "rec": 74
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 25,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 277,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "James Washington",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 285,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 1161,
+        "rectd": 8,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Cody White",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chase Claypool",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 860,
+        "rectd": 2,
+        "rec": 59
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Ebron",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 84,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kevin Rader",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Zach Gentry",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '21",
+      "stats": {
+        "recyds": 497,
+        "rectd": 7,
+        "rec": 60
+      }
+    }
+  ]
+}

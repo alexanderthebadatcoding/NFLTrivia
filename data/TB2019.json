@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Griffin",
+      "team": "TB '19",
+      "stats": {
+        "yds": 18,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jameis Winston",
+      "team": "TB '19",
+      "stats": {
+        "yds": 5109,
+        "td": 33,
+        "int": 30
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Peyton Barber",
+      "team": "TB '19",
+      "stats": {
+        "ryds": 470,
+        "rtd": 6,
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "T.J. Logan",
+      "team": "TB '19",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dare Ogunbowale",
+      "team": "TB '19",
+      "stats": {
+        "ryds": 17,
+        "rtd": 2,
+        "recyds": 286,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Ronald Jones",
+      "team": "TB '19",
+      "stats": {
+        "ryds": 724,
+        "rtd": 6,
+        "recyds": 309,
+        "rectd": 0,
+        "rec": 31
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Evans",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 1157,
+        "rectd": 8,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 645,
+        "rectd": 6,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Cyril Grayson",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Bobo Wilson",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 1333,
+        "rectd": 9,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 159,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ishmael Hyman",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 200,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Cameron Brate",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 311,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Antony Auclair",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "O.J. Howard",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 459,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Tanner Hudson",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Codey McElroy",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

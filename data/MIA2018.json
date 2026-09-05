@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Brock Osweiler",
+      "team": "MIA '18",
+      "stats": {
+        "yds": 1247,
+        "td": 6,
+        "int": 4
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "MIA '18",
+      "stats": {
+        "yds": 1979,
+        "td": 17,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "MIA '18",
+      "stats": {
+        "ryds": 722,
+        "rtd": 0,
+        "recyds": 124,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "MIA '18",
+      "stats": {
+        "ryds": 91,
+        "rtd": 2,
+        "recyds": 13,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "MIA '18",
+      "stats": {
+        "ryds": 535,
+        "rtd": 4,
+        "recyds": 477,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Kalen Ballage",
+      "team": "MIA '18",
+      "stats": {
+        "ryds": 191,
+        "rtd": 1,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 575,
+        "rectd": 1,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Kenny Stills",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 553,
+        "rectd": 6,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Brice Butler",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Albert Wilson",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 391,
+        "rectd": 4,
+        "rec": 26
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 309,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jakeem Grant",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Leonte Carroo",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "A.J. Derby",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Nick O'Leary",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 86,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ]
+}

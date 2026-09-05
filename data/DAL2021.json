@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '21",
+      "stats": {
+        "yds": 4449,
+        "td": 37,
+        "int": 10
+      }
+    },
+    {
+      "name": "Cooper Rush",
+      "team": "DAL '21",
+      "stats": {
+        "yds": 422,
+        "td": 3,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 1002,
+        "rtd": 10,
+        "recyds": 287,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Corey Clement",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 140,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ito Smith",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tony Pollard",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 719,
+        "rtd": 2,
+        "recyds": 337,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "JaQuan Hardy",
+      "team": "DAL '21",
+      "stats": {
+        "ryds": 29,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amari Cooper",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 865,
+        "rectd": 8,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 184,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 602,
+        "rectd": 6,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 445,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Malik Turner",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 149,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 1102,
+        "rectd": 6,
+        "rec": 79
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeremy Sprinkle",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Blake Jarwin",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 96,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 808,
+        "rectd": 8,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Sean McKeon",
+      "team": "DAL '21",
+      "stats": {
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

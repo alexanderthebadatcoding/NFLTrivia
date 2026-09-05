@@ -1,0 +1,195 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "MIA '20",
+      "stats": {
+        "yds": 2091,
+        "td": 13,
+        "int": 8
+      }
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "MIA '20",
+      "stats": {
+        "yds": 1814,
+        "td": 11,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeAndre Washington",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 91,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Matt Breida",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 254,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chandler Cox",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 584,
+        "rtd": 3,
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Patrick Laird",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Salvon Ahmed",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 319,
+        "rtd": 3,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Malcolm Perry",
+      "team": "MIA '20",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 793,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Jakeem Grant",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 373,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Isaiah Ford",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 276,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 176,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Antonio Callaway",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Preston Williams",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 288,
+        "rectd": 4,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Lynn Bowden",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 211,
+        "rectd": 0,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Adam Shaheen",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 150,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 208,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 703,
+        "rectd": 6,
+        "rec": 53
+      }
+    }
+  ]
+}

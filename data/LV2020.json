@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Derek Carr",
+      "team": "LV '20",
+      "stats": {
+        "yds": 4103,
+        "td": 27,
+        "int": 9
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "LV '20",
+      "stats": {
+        "yds": 226,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Nathan Peterman",
+      "team": "LV '20",
+      "stats": {
+        "yds": 25,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Theo Riddick",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 423,
+        "rtd": 3,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jalen Richard",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 123,
+        "rtd": 1,
+        "recyds": 138,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Alec Ingold",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 110,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 1065,
+        "rtd": 12,
+        "recyds": 238,
+        "rectd": 0,
+        "rec": 33
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nelson Agholor",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 896,
+        "rectd": 8,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Hunter Renfrow",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 656,
+        "rectd": 2,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Henry Ruggs III",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Bryan Edwards",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 69,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Derek Carrier",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 1196,
+        "rectd": 9,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Foster Moreau",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 140,
+        "rectd": 2,
+        "rec": 7
+      }
+    }
+  ]
+}

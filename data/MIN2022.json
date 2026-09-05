@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '22",
+      "stats": {
+        "yds": 4547,
+        "td": 29,
+        "int": 14
+      }
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "MIN '22",
+      "stats": {
+        "yds": 224,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 7,
+        "rtd": 2,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 1173,
+        "rtd": 8,
+        "recyds": 295,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 283,
+        "rtd": 5,
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kene Nwangwu",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ty Chandler",
+      "team": "MIN '22",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 716,
+        "rectd": 6,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 1809,
+        "rectd": 8,
+        "rec": 128
+      }
+    },
+    {
+      "name": "K.J. Osborn",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 650,
+        "rectd": 5,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jalen Reagor",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 104,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jalen Nailor",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Johnny Mundt",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 140,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 182,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 914,
+        "rectd": 6,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Ben Ellefson",
+      "team": "MIN '22",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

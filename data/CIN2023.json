@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "AJ McCarron",
+      "team": "CIN '23",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jake Browning",
+      "team": "CIN '23",
+      "stats": {
+        "yds": 1936,
+        "td": 12,
+        "int": 7
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '23",
+      "stats": {
+        "yds": 2309,
+        "td": 15,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '23",
+      "stats": {
+        "ryds": 1034,
+        "rtd": 9,
+        "recyds": 376,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Trayveon Williams",
+      "team": "CIN '23",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Evans",
+      "team": "CIN '23",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chase Brown",
+      "team": "CIN '23",
+      "stats": {
+        "ryds": 179,
+        "rtd": 0,
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 667,
+        "rectd": 2,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Trenton Irwin",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 316,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 656,
+        "rectd": 5,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 1216,
+        "rectd": 7,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Kwamie Lassiter II",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charlie Jones",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Andrei Iosivas",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 116,
+        "rectd": 4,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tanner Hudson",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 352,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 163,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Mitchell Wilcox",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

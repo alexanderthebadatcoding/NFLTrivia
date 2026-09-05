@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '16",
+      "stats": {
+        "yds": 4206,
+        "td": 18,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Cedric Peerman",
+      "team": "CIN '16",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Rex Burkhead",
+      "team": "CIN '16",
+      "stats": {
+        "ryds": 344,
+        "rtd": 2,
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '16",
+      "stats": {
+        "ryds": 337,
+        "rtd": 2,
+        "recyds": 336,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jeremy Hill",
+      "team": "CIN '16",
+      "stats": {
+        "ryds": 839,
+        "rtd": 9,
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon LaFell",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 862,
+        "rectd": 6,
+        "rec": 64
+      }
+    },
+    {
+      "name": "A.J. Green",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 964,
+        "rectd": 4,
+        "rec": 66
+      }
+    },
+    {
+      "name": "James Wright",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Alex Erickson",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Cody Core",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 200,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 603,
+        "rectd": 1,
+        "rec": 54
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Eifert",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 394,
+        "rectd": 5,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Ryan Hewitt",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 234,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "CIN '16",
+      "stats": {
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

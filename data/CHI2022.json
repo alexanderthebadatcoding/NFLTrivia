@@ -1,0 +1,198 @@
+{
+  "QB": [
+    {
+      "name": "Trevor Siemian",
+      "team": "CHI '22",
+      "stats": {
+        "yds": 184,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Nathan Peterman",
+      "team": "CHI '22",
+      "stats": {
+        "yds": 139,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tim Boyle",
+      "team": "CHI '22",
+      "stats": {
+        "yds": 33,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Justin Fields",
+      "team": "CHI '22",
+      "stats": {
+        "yds": 2242,
+        "td": 17,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "David Montgomery",
+      "team": "CHI '22",
+      "stats": {
+        "ryds": 801,
+        "rtd": 5,
+        "recyds": 316,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Darrynton Evans",
+      "team": "CHI '22",
+      "stats": {
+        "ryds": 64,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Khalil Herbert",
+      "team": "CHI '22",
+      "stats": {
+        "ryds": 731,
+        "rtd": 4,
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Trestan Ebner",
+      "team": "CHI '22",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 323,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Byron Pringle",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 135,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 245,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Nsimba Webster",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "N'Keal Harry",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Darnell Mooney",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 493,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Chase Claypool",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 451,
+        "rectd": 1,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Ihmir Smith-Marsette",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI '22",
+      "stats": {
+        "recyds": 544,
+        "rectd": 7,
+        "rec": 50
+      }
+    }
+  ]
+}

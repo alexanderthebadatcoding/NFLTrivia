@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Case Keenum",
+      "team": "HOU '23",
+      "stats": {
+        "yds": 291,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Davis Mills",
+      "team": "HOU '23",
+      "stats": {
+        "yds": 173,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "C.J. Stroud",
+      "team": "HOU '23",
+      "stats": {
+        "yds": 4108,
+        "td": 23,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dare Ogunbowale",
+      "team": "HOU '23",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "HOU '23",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "team": "HOU '23",
+      "stats": {
+        "ryds": 3,
+        "rtd": 1,
+        "recyds": 55,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "HOU '23",
+      "stats": {
+        "ryds": 898,
+        "rtd": 4,
+        "recyds": 193,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Dameon Pierce",
+      "team": "HOU '23",
+      "stats": {
+        "ryds": 416,
+        "rtd": 2,
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 426,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 567,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Steven Sims",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 1297,
+        "rectd": 8,
+        "rec": 80
+      }
+    },
+    {
+      "name": "John Metchie III",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Xavier Hutchinson",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tank Dell",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 709,
+        "rectd": 7,
+        "rec": 47
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Saubert",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 635,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Brevin Jordan",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 219,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Teagan Quitoriano",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

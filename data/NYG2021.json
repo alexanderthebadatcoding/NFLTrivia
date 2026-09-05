@@ -1,0 +1,207 @@
+{
+  "QB": [
+    {
+      "name": "Mike Glennon",
+      "team": "NYG '21",
+      "stats": {
+        "yds": 790,
+        "td": 4,
+        "int": 10
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '21",
+      "stats": {
+        "yds": 2428,
+        "td": 10,
+        "int": 7
+      }
+    },
+    {
+      "name": "Jake Fromm",
+      "team": "NYG '21",
+      "stats": {
+        "yds": 210,
+        "td": 1,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Elijhaa Penny",
+      "team": "NYG '21",
+      "stats": {
+        "ryds": 99,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "NYG '21",
+      "stats": {
+        "ryds": 593,
+        "rtd": 2,
+        "recyds": 268,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '21",
+      "stats": {
+        "ryds": 593,
+        "rtd": 2,
+        "recyds": 263,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Gary Brightwell",
+      "team": "NYG '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 366,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "C.J. Board",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "John Ross",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 224,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 521,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "David Sills",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 339,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Collin Johnson",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Kadarius Toney",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 420,
+        "rectd": 0,
+        "rec": 39
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 257,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 408,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Kaden Smith",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Myarick",
+      "team": "NYG '21",
+      "stats": {
+        "recyds": 17,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Derek Anderson",
+      "team": "CAR '17",
+      "stats": {
+        "yds": 17,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "CAR '17",
+      "stats": {
+        "yds": 3302,
+        "td": 22,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jonathan Stewart",
+      "team": "CAR '17",
+      "stats": {
+        "ryds": 680,
+        "rtd": 6,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Fozzy Whittaker",
+      "team": "CAR '17",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cameron Artis-Payne",
+      "team": "CAR '17",
+      "stats": {
+        "ryds": 95,
+        "rtd": 1,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "CAR '17",
+      "stats": {
+        "ryds": 435,
+        "rtd": 2,
+        "recyds": 651,
+        "rectd": 5,
+        "rec": 80
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brenton Bersin",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 128,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Russell Shepard",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 202,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 105,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Devin Funchess",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 840,
+        "rectd": 8,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Kaelin Clay",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 191,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Ed Dickson",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 437,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Chris Manhertz",
+      "team": "CAR '17",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

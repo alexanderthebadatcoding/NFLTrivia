@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Mitchell Trubisky",
+      "team": "PIT '23",
+      "stats": {
+        "yds": 632,
+        "td": 4,
+        "int": 5
+      }
+    },
+    {
+      "name": "Mason Rudolph",
+      "team": "PIT '23",
+      "stats": {
+        "yds": 719,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kenny Pickett",
+      "team": "PIT '23",
+      "stats": {
+        "yds": 2070,
+        "td": 6,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Anthony McFarland",
+      "team": "PIT '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Najee Harris",
+      "team": "PIT '23",
+      "stats": {
+        "ryds": 1035,
+        "rtd": 8,
+        "recyds": 170,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT '23",
+      "stats": {
+        "ryds": 784,
+        "rtd": 4,
+        "recyds": 370,
+        "rectd": 0,
+        "rec": 61
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Allen Robinson",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 280,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 717,
+        "rectd": 5,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "George Pickens",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 1140,
+        "rectd": 5,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Calvin Austin III",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Pat Freiermuth",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 308,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Connor Heyward",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Darnell Washington",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

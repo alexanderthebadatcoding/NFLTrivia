@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '21",
+      "stats": {
+        "yds": 3968,
+        "td": 20,
+        "int": 12
+      }
+    },
+    {
+      "name": "Josh Rosen",
+      "team": "ATL '21",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Feleipe Franks",
+      "team": "ATL '21",
+      "stats": {
+        "yds": 0,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "ATL '21",
+      "stats": {
+        "ryds": 618,
+        "rtd": 6,
+        "recyds": 548,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Keith Smith",
+      "team": "ATL '21",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "team": "ATL '21",
+      "stats": {
+        "ryds": 503,
+        "rtd": 3,
+        "recyds": 259,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Qadree Ollison",
+      "team": "ATL '21",
+      "stats": {
+        "ryds": 105,
+        "rtd": 1,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tajae Sharpe",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 230,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Marvin Hall",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Christian Blake",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 770,
+        "rectd": 4,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 281,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 406,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Frank Darby",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lee Smith",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 65,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 221,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Parker Hesse",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kyle Pitts",
+      "team": "ATL '21",
+      "stats": {
+        "recyds": 1026,
+        "rectd": 1,
+        "rec": 68
+      }
+    }
+  ]
+}

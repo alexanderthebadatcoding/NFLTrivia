@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '23",
+      "stats": {
+        "yds": 2331,
+        "td": 18,
+        "int": 5
+      }
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "MIN '23",
+      "stats": {
+        "yds": 1306,
+        "td": 7,
+        "int": 8
+      }
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "MIN '23",
+      "stats": {
+        "yds": 2464,
+        "td": 13,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jaren Hall",
+      "team": "MIN '23",
+      "stats": {
+        "yds": 168,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '23",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '23",
+      "stats": {
+        "ryds": 700,
+        "rtd": 0,
+        "recyds": 192,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "MIN '23",
+      "stats": {
+        "ryds": 167,
+        "rtd": 2,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Kene Nwangwu",
+      "team": "MIN '23",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ty Chandler",
+      "team": "MIN '23",
+      "stats": {
+        "ryds": 461,
+        "rtd": 3,
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Powell",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 324,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Trishton Jackson",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 1074,
+        "rectd": 5,
+        "rec": 68
+      }
+    },
+    {
+      "name": "K.J. Osborn",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 540,
+        "rectd": 3,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Jalen Nailor",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jordan Addison",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 911,
+        "rectd": 10,
+        "rec": 70
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Johnny Mundt",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 172,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 960,
+        "rectd": 5,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Nick Muse",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Josh McCown",
+      "team": "PHI '19",
+      "stats": {
+        "yds": 24,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '19",
+      "stats": {
+        "yds": 4039,
+        "td": 27,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 66,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jay Ajayi",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jordan Howard",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 525,
+        "rtd": 6,
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Boston Scott",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 245,
+        "rtd": 5,
+        "recyds": 204,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '19",
+      "stats": {
+        "ryds": 818,
+        "rtd": 3,
+        "recyds": 509,
+        "rectd": 3,
+        "rec": 50
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 159,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 490,
+        "rectd": 4,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 363,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Robert Davis",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Greg Ward",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 254,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Deontay Burnett",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "J.J. Arcega-Whiteside",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 169,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 916,
+        "rectd": 6,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Josh Perkins",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '19",
+      "stats": {
+        "recyds": 607,
+        "rectd": 5,
+        "rec": 58
+      }
+    }
+  ]
+}

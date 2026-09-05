@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '19",
+      "stats": {
+        "yds": 3827,
+        "td": 22,
+        "int": 21
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '19",
+      "stats": {
+        "ryds": 179,
+        "rtd": 2,
+        "recyds": 285,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Dontrell Hilliard",
+      "team": "CLE '19",
+      "stats": {
+        "ryds": 49,
+        "rtd": 2,
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '19",
+      "stats": {
+        "ryds": 1494,
+        "rtd": 8,
+        "recyds": 278,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "D'Ernest Johnson",
+      "team": "CLE '19",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 1035,
+        "rectd": 4,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Jarvis Landry",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 1174,
+        "rectd": 6,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Rashard Higgins",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 55,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Damion Ratley",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 200,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Antonio Callaway",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Demetrius Harris",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 149,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Pharaoh Brown",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ricky Seals-Jones",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 229,
+        "rectd": 4,
+        "rec": 14
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Stephen Carlson",
+      "team": "CLE '19",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

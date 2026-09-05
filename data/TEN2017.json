@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "TEN '17",
+      "stats": {
+        "yds": 162,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "TEN '17",
+      "stats": {
+        "yds": 3232,
+        "td": 13,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeMarco Murray",
+      "team": "TEN '17",
+      "stats": {
+        "ryds": 659,
+        "rtd": 6,
+        "recyds": 266,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "David Fluellen",
+      "team": "TEN '17",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jalston Fowler",
+      "team": "TEN '17",
+      "stats": {
+        "ryds": 4,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '17",
+      "stats": {
+        "ryds": 744,
+        "rtd": 5,
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eric Weems",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 563,
+        "rectd": 1,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Rishard Matthews",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 795,
+        "rectd": 4,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Corey Davis",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 375,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Taywan Taylor",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 231,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 807,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Phillip Supernaw",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "TEN '17",
+      "stats": {
+        "recyds": 157,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Teddy Bridgewater",
+      "team": "CAR '20",
+      "stats": {
+        "yds": 3733,
+        "td": 15,
+        "int": 11
+      }
+    },
+    {
+      "name": "PJ Walker",
+      "team": "CAR '20",
+      "stats": {
+        "yds": 368,
+        "td": 1,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Davis",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 642,
+        "rtd": 6,
+        "recyds": 373,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 225,
+        "rtd": 5,
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Alex Armah",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Trenton Cannon",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Reggie Bonnafon",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rodney Smith",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 156,
+        "rtd": 1,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Seth Roberts",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 1096,
+        "rectd": 3,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 851,
+        "rectd": 3,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Brandon Zylstra",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keith Kirkwood",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 1193,
+        "rectd": 4,
+        "rec": 66
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Colin Thompson",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 145,
+        "rectd": 1,
+        "rec": 20
+      }
+    }
+  ]
+}

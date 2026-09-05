@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "PJ Walker",
+      "team": "CAR '22",
+      "stats": {
+        "yds": 731,
+        "td": 3,
+        "int": 3
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "CAR '22",
+      "stats": {
+        "yds": 1143,
+        "td": 7,
+        "int": 3
+      }
+    },
+    {
+      "name": "Jacob Eason",
+      "team": "CAR '22",
+      "stats": {
+        "yds": 59,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D'Onta Foreman",
+      "team": "CAR '22",
+      "stats": {
+        "ryds": 914,
+        "rtd": 5,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Spencer Brown",
+      "team": "CAR '22",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chuba Hubbard",
+      "team": "CAR '22",
+      "stats": {
+        "ryds": 466,
+        "rtd": 2,
+        "recyds": 171,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Raheem Blackshear",
+      "team": "CAR '22",
+      "stats": {
+        "ryds": 77,
+        "rtd": 3,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DJ Moore",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 888,
+        "rectd": 7,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Laviska Shenault Jr.",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 272,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Shi Smith",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 296,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Terrace Marshall Jr.",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 490,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Giovanni Ricci",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Stephen Sullivan",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tommy Tremble",
+      "team": "CAR '22",
+      "stats": {
+        "recyds": 174,
+        "rectd": 3,
+        "rec": 19
+      }
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "QB": [
+    {
+      "name": "Dan Marino",
+      "team": "MIA '88",
+      "stats": {
+        "yds": 4434,
+        "td": 28,
+        "int": 23
+      }
+    },
+    {
+      "name": "Jim Everett",
+      "team": "LOS '88",
+      "stats": {
+        "yds": 3964,
+        "td": 31,
+        "int": 18
+      }
+    },
+    {
+      "name": "Randall Cunningham",
+      "team": "PHI '88",
+      "stats": {
+        "yds": 3808,
+        "td": 24,
+        "int": 16
+      }
+    },
+    {
+      "name": "Boomer Esiason",
+      "team": "CIN '88",
+      "stats": {
+        "yds": 3572,
+        "td": 28,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jim Kelly",
+      "team": "BUF '88",
+      "stats": {
+        "yds": 3380,
+        "td": 15,
+        "int": 17
+      }
+    },
+    {
+      "name": "Phil Simms",
+      "team": "NYG '88",
+      "stats": {
+        "yds": 3359,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "John Elway",
+      "team": "DEN '88",
+      "stats": {
+        "yds": 3309,
+        "td": 17,
+        "int": 19
+      }
+    },
+    {
+      "name": "Vinny Testaverde",
+      "team": "TB '88",
+      "stats": {
+        "yds": 3240,
+        "td": 13,
+        "int": 35
+      }
+    },
+    {
+      "name": "Bobby Hebert",
+      "team": "NO '88",
+      "stats": {
+        "yds": 3156,
+        "td": 20,
+        "int": 15
+      }
+    },
+    {
+      "name": "Joe Montana",
+      "team": "SF '88",
+      "stats": {
+        "yds": 2981,
+        "td": 18,
+        "int": 10
+      }
+    },
+    {
+      "name": "Steve DeBerg",
+      "team": "KC '88",
+      "stats": {
+        "yds": 2935,
+        "td": 16,
+        "int": 16
+      }
+    },
+    {
+      "name": "Wade Wilson",
+      "team": "MIN '88",
+      "stats": {
+        "yds": 2746,
+        "td": 15,
+        "int": 9
+      }
+    },
+    {
+      "name": "Bubby Brister",
+      "team": "PIT '88",
+      "stats": {
+        "yds": 2634,
+        "td": 11,
+        "int": 14
+      }
+    },
+    {
+      "name": "Kenneth John O'Brien Jr.",
+      "team": "NYJ '88",
+      "stats": {
+        "yds": 2567,
+        "td": 15,
+        "int": 7
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "HOU '88",
+      "stats": {
+        "yds": 2327,
+        "td": 17,
+        "int": 8
+      }
+    },
+    {
+      "name": "Chris Miller",
+      "team": "ATL '88",
+      "stats": {
+        "yds": 2133,
+        "td": 11,
+        "int": 12
+      }
+    },
+    {
+      "name": "Don Majkowski",
+      "team": "GB '88",
+      "stats": {
+        "yds": 2119,
+        "td": 9,
+        "int": 11
+      }
+    },
+    {
+      "name": "Bernie Kosar",
+      "team": "CLE '88",
+      "stats": {
+        "yds": 1890,
+        "td": 10,
+        "int": 7
+      }
+    },
+    {
+      "name": "Jay Schroeder",
+      "team": "LOS '88",
+      "stats": {
+        "yds": 1839,
+        "td": 13,
+        "int": 13
+      }
+    },
+    {
+      "name": "Dave Krieg",
+      "team": "SEA '88",
+      "stats": {
+        "yds": 1741,
+        "td": 18,
+        "int": 8
+      }
+    },
+    {
+      "name": "Mark Rypien",
+      "team": "WSH '88",
+      "stats": {
+        "yds": 1730,
+        "td": 18,
+        "int": 13
+      }
+    },
+    {
+      "name": "Steve Beuerlein",
+      "team": "LOS '88",
+      "stats": {
+        "yds": 1643,
+        "td": 8,
+        "int": 7
+      }
+    },
+    {
+      "name": "Chris Chandler",
+      "team": "IND '88",
+      "stats": {
+        "yds": 1619,
+        "td": 8,
+        "int": 12
+      }
+    },
+    {
+      "name": "James Robert McMahon",
+      "team": "CHI '88",
+      "stats": {
+        "yds": 1346,
+        "td": 6,
+        "int": 7
+      }
+    },
+    {
+      "name": "Mike Tomczak",
+      "team": "CHI '88",
+      "stats": {
+        "yds": 1310,
+        "td": 7,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eric Dickerson",
+      "team": "IND '88",
+      "stats": {
+        "ryds": 1659,
+        "rtd": 14,
+        "recyds": 377,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Herschel Walker",
+      "team": "DAL '88",
+      "stats": {
+        "ryds": 1514,
+        "rtd": 5,
+        "recyds": 505,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Roger Craig",
+      "team": "SF '88",
+      "stats": {
+        "ryds": 1502,
+        "rtd": 9,
+        "recyds": 534,
+        "rectd": 1,
+        "rec": 76
+      }
+    },
+    {
+      "name": "John Stephens",
+      "team": "NE '88",
+      "stats": {
+        "ryds": 1168,
+        "rtd": 4,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Gary Anderson",
+      "team": "SD '88",
+      "stats": {
+        "ryds": 1119,
+        "rtd": 3,
+        "recyds": 182,
+        "rectd": 0,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Neal Anderson",
+      "team": "CHI '88",
+      "stats": {
+        "ryds": 1106,
+        "rtd": 12,
+        "recyds": 371,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "BUF '88",
+      "stats": {
+        "ryds": 881,
+        "rtd": 2,
+        "recyds": 208,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "John L. Williams",
+      "team": "SEA '88",
+      "stats": {
+        "ryds": 877,
+        "rtd": 4,
+        "recyds": 651,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Marcus Allen",
+      "team": "LOS '88",
+      "stats": {
+        "ryds": 831,
+        "rtd": 7,
+        "recyds": 303,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Dalton Hilliard",
+      "team": "NO '88",
+      "stats": {
+        "ryds": 823,
+        "rtd": 5,
+        "recyds": 335,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Merril Hoge",
+      "team": "PIT '88",
+      "stats": {
+        "ryds": 705,
+        "rtd": 3,
+        "recyds": 487,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Rueben Mayes",
+      "team": "NO '88",
+      "stats": {
+        "ryds": 628,
+        "rtd": 3,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Earnest Byner",
+      "team": "CLE '88",
+      "stats": {
+        "ryds": 576,
+        "rtd": 3,
+        "recyds": 576,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Keith Byars",
+      "team": "PHI '88",
+      "stats": {
+        "ryds": 517,
+        "rtd": 6,
+        "recyds": 705,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Kevin Mack",
+      "team": "CLE '88",
+      "stats": {
+        "ryds": 485,
+        "rtd": 3,
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tom Rathman",
+      "team": "SF '88",
+      "stats": {
+        "ryds": 427,
+        "rtd": 2,
+        "recyds": 382,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Warren Williams",
+      "team": "PIT '88",
+      "stats": {
+        "ryds": 409,
+        "rtd": 0,
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Craig Heyward",
+      "team": "NO '88",
+      "stats": {
+        "ryds": 355,
+        "rtd": 1,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "DET '88",
+      "stats": {
+        "ryds": 314,
+        "rtd": 0,
+        "recyds": 259,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "James Elijah Saxon",
+      "team": "KC '88",
+      "stats": {
+        "ryds": 236,
+        "rtd": 2,
+        "recyds": 177,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Ronnie Harmon",
+      "team": "BUF '88",
+      "stats": {
+        "ryds": 212,
+        "rtd": 1,
+        "recyds": 427,
+        "rectd": 3,
+        "rec": 37
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Henry Ellard",
+      "team": "LOS '88",
+      "stats": {
+        "recyds": 1414,
+        "rectd": 10,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Jerry Rice",
+      "team": "SF '88",
+      "stats": {
+        "recyds": 1306,
+        "rectd": 9,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Anthony Carter",
+      "team": "MIN '88",
+      "stats": {
+        "recyds": 1225,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Ricky Sanders",
+      "team": "WSH '88",
+      "stats": {
+        "recyds": 1148,
+        "rectd": 12,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Drew Hill",
+      "team": "HOU '88",
+      "stats": {
+        "recyds": 1141,
+        "rectd": 10,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Mark Clayton",
+      "team": "MIA '88",
+      "stats": {
+        "recyds": 1129,
+        "rectd": 14,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Eric Martin",
+      "team": "NO '88",
+      "stats": {
+        "recyds": 1083,
+        "rectd": 7,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Ernest Pastell Givins Jr.",
+      "team": "HOU '88",
+      "stats": {
+        "recyds": 976,
+        "rectd": 5,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Mark Carrier",
+      "team": "TB '88",
+      "stats": {
+        "recyds": 970,
+        "rectd": 5,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "BUF '88",
+      "stats": {
+        "recyds": 968,
+        "rectd": 6,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Art Monk",
+      "team": "WSH '88",
+      "stats": {
+        "recyds": 946,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Vance Johnson",
+      "team": "DEN '88",
+      "stats": {
+        "recyds": 896,
+        "rectd": 5,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Gary Clark",
+      "team": "WSH '88",
+      "stats": {
+        "recyds": 892,
+        "rectd": 7,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Bill Brooks",
+      "team": "IND '88",
+      "stats": {
+        "recyds": 867,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Mark Jackson",
+      "team": "DEN '88",
+      "stats": {
+        "recyds": 852,
+        "rectd": 6,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Sterling Sharpe",
+      "team": "GB '88",
+      "stats": {
+        "recyds": 791,
+        "rectd": 1,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Reggie Langhorne",
+      "team": "CLE '88",
+      "stats": {
+        "recyds": 780,
+        "rectd": 7,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Hassan Jones",
+      "team": "MIN '88",
+      "stats": {
+        "recyds": 778,
+        "rectd": 5,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Cris Carter",
+      "team": "PHI '88",
+      "stats": {
+        "recyds": 761,
+        "rectd": 6,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Tim Brown",
+      "team": "LOS '88",
+      "stats": {
+        "recyds": 725,
+        "rectd": 5,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Tim McGee",
+      "team": "CIN '88",
+      "stats": {
+        "recyds": 686,
+        "rectd": 6,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Brian Blades",
+      "team": "SEA '88",
+      "stats": {
+        "recyds": 682,
+        "rectd": 8,
+        "rec": 40
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Keith Jackson",
+      "team": "PHI '88",
+      "stats": {
+        "recyds": 869,
+        "rectd": 6,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Steve Jordan",
+      "team": "MIN '88",
+      "stats": {
+        "recyds": 756,
+        "rectd": 5,
+        "rec": 57
+      }
+    }
+  ]
+}

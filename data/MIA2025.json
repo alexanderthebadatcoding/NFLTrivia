@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Tua Tagovailoa",
+      "team": "MIA '25",
+      "stats": {
+        "yds": 2660,
+        "td": 20,
+        "int": 15
+      }
+    },
+    {
+      "name": "Zach Wilson",
+      "team": "MIA '25",
+      "stats": {
+        "yds": 32,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Quinn Ewers",
+      "team": "MIA '25",
+      "stats": {
+        "yds": 622,
+        "td": 3,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Alec Ingold",
+      "team": "MIA '25",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "De'Von Achane",
+      "team": "MIA '25",
+      "stats": {
+        "ryds": 1350,
+        "rtd": 8,
+        "recyds": 488,
+        "rectd": 4,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Jaylen Wright",
+      "team": "MIA '25",
+      "stats": {
+        "ryds": 288,
+        "rtd": 2,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Ollie Gordon II",
+      "team": "MIA '25",
+      "stats": {
+        "ryds": 199,
+        "rtd": 3,
+        "recyds": 32,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyreek Hill",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Nick Westbrook-Ikhine",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 910,
+        "rectd": 6,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Dee Eskridge",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Malik Washington",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 317,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Tahj Washington",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Theo Wease Jr.",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 139,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darren Waller",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 283,
+        "rectd": 6,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Greg Dulcich",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 335,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Tanner Conner",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Julian Hill",
+      "team": "MIA '25",
+      "stats": {
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ]
+}

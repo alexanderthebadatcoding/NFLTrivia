@@ -1,0 +1,218 @@
+{
+  "QB": [
+    {
+      "name": "Derek Anderson",
+      "team": "BUF '18",
+      "stats": {
+        "yds": 465,
+        "td": 0,
+        "int": 4
+      }
+    },
+    {
+      "name": "Matt Barkley",
+      "team": "BUF '18",
+      "stats": {
+        "yds": 232,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Nathan Peterman",
+      "team": "BUF '18",
+      "stats": {
+        "yds": 296,
+        "td": 1,
+        "int": 7
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '18",
+      "stats": {
+        "yds": 2044,
+        "td": 10,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeSean McCoy",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 514,
+        "rtd": 3,
+        "recyds": 238,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Chris Ivory",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 385,
+        "rtd": 1,
+        "recyds": 175,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Marcus Murphy",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 250,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Keith Ford",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 79,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jeremy Kerley",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Terrelle Pryor",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 252,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Deonte Thompson",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 161,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Victor Bolden",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaiah McKenzie",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 179,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Zay Jones",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 652,
+        "rectd": 7,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Robert Foster",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 541,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Cam Phillips",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Charles Clay",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 184,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Logan Thomas",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Khari Lee",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jason Croom",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 259,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ]
+}

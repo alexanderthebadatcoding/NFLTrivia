@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Geno Smith",
+      "team": "SEA '24",
+      "stats": {
+        "yds": 4320,
+        "td": 21,
+        "int": 15
+      }
+    },
+    {
+      "name": "Sam Howell",
+      "team": "SEA '24",
+      "stats": {
+        "yds": 24,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenneth Walker III",
+      "team": "SEA '24",
+      "stats": {
+        "ryds": 573,
+        "rtd": 7,
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Kenny McIntosh",
+      "team": "SEA '24",
+      "stats": {
+        "ryds": 172,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zach Charbonnet",
+      "team": "SEA '24",
+      "stats": {
+        "ryds": 569,
+        "rtd": 8,
+        "recyds": 340,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "George Holani",
+      "team": "SEA '24",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 600,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 992,
+        "rectd": 5,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Cody White",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Laviska Shenault Jr.",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jaelon Darden",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 1130,
+        "rectd": 6,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Jake Bobo",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Pharaoh Brown",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 500,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "AJ Barner",
+      "team": "SEA '24",
+      "stats": {
+        "recyds": 245,
+        "rectd": 4,
+        "rec": 30
+      }
+    }
+  ]
+}

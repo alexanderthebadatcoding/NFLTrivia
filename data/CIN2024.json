@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '24",
+      "stats": {
+        "yds": 4918,
+        "td": 43,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Zack Moss",
+      "team": "CIN '24",
+      "stats": {
+        "ryds": 242,
+        "rtd": 2,
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Khalil Herbert",
+      "team": "CIN '24",
+      "stats": {
+        "ryds": 130,
+        "rtd": 1,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chase Brown",
+      "team": "CIN '24",
+      "stats": {
+        "ryds": 990,
+        "rtd": 7,
+        "recyds": 360,
+        "rectd": 4,
+        "rec": 54
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Trenton Irwin",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 911,
+        "rectd": 10,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 1708,
+        "rectd": 17,
+        "rec": 127
+      }
+    },
+    {
+      "name": "Kendric Pryor",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charlie Jones",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Andrei Iosivas",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 479,
+        "rectd": 6,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Isaiah Williams",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jermaine Burton",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tanner Hudson",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 665,
+        "rectd": 2,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 109,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Cam Grandy",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Erick All",
+      "team": "CIN '24",
+      "stats": {
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ]
+}

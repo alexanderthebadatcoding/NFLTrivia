@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '20",
+      "stats": {
+        "yds": 1096,
+        "td": 7,
+        "int": 5
+      }
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "SF '20",
+      "stats": {
+        "yds": 2437,
+        "td": 12,
+        "int": 12
+      }
+    },
+    {
+      "name": "C.J. Beathard",
+      "team": "SF '20",
+      "stats": {
+        "yds": 787,
+        "td": 6,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 64,
+        "rtd": 2,
+        "recyds": 202,
+        "rectd": 4,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jerick McKinnon",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 319,
+        "rtd": 5,
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 521,
+        "rtd": 2,
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 53,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 600,
+        "rtd": 7,
+        "recyds": 133,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Austin Walter",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "JaMycal Hasty",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 148,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Trent Taylor",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 667,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "River Cracraft",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 394,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 391,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 748,
+        "rectd": 5,
+        "rec": 60
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jordan Reed",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 231,
+        "rectd": 4,
+        "rec": 26
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 634,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 245,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Charlie Woerner",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

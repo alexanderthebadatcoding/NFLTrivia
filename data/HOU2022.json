@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Driskel",
+      "team": "HOU '22",
+      "stats": {
+        "yds": 108,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "HOU '22",
+      "stats": {
+        "yds": 416,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Davis Mills",
+      "team": "HOU '22",
+      "stats": {
+        "yds": 3118,
+        "td": 17,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rex Burkhead",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 204,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Dare Ogunbowale",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 123,
+        "rtd": 1,
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 117,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dameon Pierce",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 939,
+        "rtd": 4,
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Troy Hairston",
+      "team": "HOU '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandin Cooks",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 699,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Phillip Dorsett",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 257,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 548,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Tyron Johnson",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 481,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Jalen Camp",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Amari Rodgers",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 204,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mason Schreck",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "O.J. Howard",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 145,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 495,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Brevin Jordan",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 128,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Teagan Quitoriano",
+      "team": "HOU '22",
+      "stats": {
+        "recyds": 113,
+        "rectd": 2,
+        "rec": 7
+      }
+    }
+  ]
+}

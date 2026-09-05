@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '19",
+      "stats": {
+        "yds": 3603,
+        "td": 26,
+        "int": 6
+      }
+    },
+    {
+      "name": "Sean Mannion",
+      "team": "MIN '19",
+      "stats": {
+        "yds": 126,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ameer Abdullah",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 115,
+        "rtd": 0,
+        "recyds": 88,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 1135,
+        "rtd": 13,
+        "recyds": 519,
+        "rectd": 0,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 273,
+        "rtd": 3,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '19",
+      "stats": {
+        "ryds": 462,
+        "rtd": 1,
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 418,
+        "rectd": 6,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 1130,
+        "rectd": 6,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chad Beebe",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bisi Johnson",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 294,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Alexander Hollins",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 367,
+        "rectd": 6,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "MIN '19",
+      "stats": {
+        "recyds": 311,
+        "rectd": 2,
+        "rec": 36
+      }
+    }
+  ]
+}

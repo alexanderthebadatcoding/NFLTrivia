@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '19",
+      "stats": {
+        "yds": 2742,
+        "td": 22,
+        "int": 6
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "TEN '19",
+      "stats": {
+        "yds": 1203,
+        "td": 7,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dion Lewis",
+      "team": "TEN '19",
+      "stats": {
+        "ryds": 209,
+        "rtd": 0,
+        "recyds": 164,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '19",
+      "stats": {
+        "ryds": 1540,
+        "rtd": 16,
+        "recyds": 206,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Dalyn Dawkins",
+      "team": "TEN '19",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Khari Blasingame",
+      "team": "TEN '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darius Jennings",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Adam Humphries",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 374,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Tajae Sharpe",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 329,
+        "rectd": 4,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Cody Hollister",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Corey Davis",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 601,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Rashard Davis",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 1051,
+        "rectd": 8,
+        "rec": 52
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 215,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "MyCole Pruitt",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 204,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 439,
+        "rectd": 3,
+        "rec": 35
+      }
+    }
+  ]
+}

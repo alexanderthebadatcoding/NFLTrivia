@@ -1,0 +1,916 @@
+{
+  "QB": [
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '18",
+      "stats": {
+        "yds": 3725,
+        "td": 27,
+        "int": 14
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '18",
+      "stats": {
+        "yds": 2044,
+        "td": 10,
+        "int": 12
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "NYJ '18",
+      "stats": {
+        "yds": 2865,
+        "td": 17,
+        "int": 15
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '18",
+      "stats": {
+        "yds": 1201,
+        "td": 6,
+        "int": 3
+      }
+    },
+    {
+      "name": "Josh Rosen",
+      "team": "ARI '18",
+      "stats": {
+        "yds": 2278,
+        "td": 11,
+        "int": 14
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "CAR '18",
+      "stats": {
+        "yds": 266,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kyle Lauletta",
+      "team": "NYG '18",
+      "stats": {
+        "yds": 0,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '18",
+      "stats": {
+        "ryds": 1307,
+        "rtd": 11,
+        "recyds": 721,
+        "rectd": 4,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Phillip Lindsay",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 1037,
+        "rtd": 9,
+        "recyds": 241,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '18",
+      "stats": {
+        "ryds": 996,
+        "rtd": 8,
+        "recyds": 149,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Nyheim Hines",
+      "team": "IND '18",
+      "stats": {
+        "ryds": 314,
+        "rtd": 2,
+        "recyds": 425,
+        "rectd": 2,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Kerryon Johnson",
+      "team": "DET '18",
+      "stats": {
+        "ryds": 641,
+        "rtd": 3,
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Sony Michel",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 931,
+        "rtd": 6,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 521,
+        "rtd": 5,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ito Smith",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 315,
+        "rtd": 4,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 718,
+        "rtd": 2,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jaylen Samuels",
+      "team": "PIT '18",
+      "stats": {
+        "ryds": 256,
+        "rtd": 0,
+        "recyds": 199,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Josh Adams",
+      "team": "PHI '18",
+      "stats": {
+        "ryds": 511,
+        "rtd": 3,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "SEA '18",
+      "stats": {
+        "ryds": 419,
+        "rtd": 2,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "ARI '18",
+      "stats": {
+        "ryds": 208,
+        "rtd": 2,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Justin Jackson",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 206,
+        "rtd": 2,
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jordan Wilkins",
+      "team": "IND '18",
+      "stats": {
+        "ryds": 336,
+        "rtd": 1,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Trenton Cannon",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 113,
+        "rtd": 1,
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 266,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kalen Ballage",
+      "team": "MIA '18",
+      "stats": {
+        "ryds": 191,
+        "rtd": 1,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Ronald Jones",
+      "team": "TB '18",
+      "stats": {
+        "ryds": 44,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Dontrell Hilliard",
+      "team": "CLE '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "KC '18",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keith Ford",
+      "team": "BUF '18",
+      "stats": {
+        "ryds": 79,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mark Walton",
+      "team": "CIN '18",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "John Kelly",
+      "team": "LA '18",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Detrez Newsome",
+      "team": "LAC '18",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Roc Thomas",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 47,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Shaun Wilson",
+      "team": "TB '18",
+      "stats": {
+        "ryds": 29,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "De'Lance Turner",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dave Williams",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 821,
+        "rectd": 10,
+        "rec": 64
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 788,
+        "rectd": 2,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 704,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Antonio Callaway",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 586,
+        "rectd": 5,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 590,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 423,
+        "rectd": 7,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 581,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 467,
+        "rectd": 5,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Tre'Quan Smith",
+      "team": "NO '18",
+      "stats": {
+        "recyds": 427,
+        "rectd": 5,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Robert Foster",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 541,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 507,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 243,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Keke Coutee",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 287,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 328,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 210,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Keith Kirkwood",
+      "team": "NO '18",
+      "stats": {
+        "recyds": 209,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "James Washington",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 217,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Marcell Ateman",
+      "team": "LV '18",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 130,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Damion Ratley",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Brandon Powell",
+      "team": "DET '18",
+      "stats": {
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Deontay Burnett",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Trey Quinn",
+      "team": "WAS '18",
+      "stats": {
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Vyncint Smith",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cameron Batson",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Derrick Willies",
+      "team": "CLE '18",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ray-Ray McCloud",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jawill Davis",
+      "team": "NYG '18",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Chad Beebe",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Auden Tate",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Javon Wims",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jalen Tolliver",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Malik Turner",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "LA '18",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "J'Mon Moore",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandon Zylstra",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cam Phillips",
+      "team": "BUF '18",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darvin Kidsy",
+      "team": "WAS '18",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "TB '18",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "J.J. Jones",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Herndon",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 502,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '18",
+      "stats": {
+        "recyds": 334,
+        "rectd": 4,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '18",
+      "stats": {
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Will Dissly",
+      "team": "SEA '18",
+      "stats": {
+        "recyds": 156,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 163,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '18",
+      "stats": {
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '18",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Franks",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Matt Flanagan",
+      "team": "WAS '18",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

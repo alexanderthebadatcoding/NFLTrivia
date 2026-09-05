@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "DEN '23",
+      "stats": {
+        "yds": 3070,
+        "td": 26,
+        "int": 8
+      }
+    },
+    {
+      "name": "Jarrett Stidham",
+      "team": "DEN '23",
+      "stats": {
+        "yds": 496,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Burton",
+      "team": "DEN '23",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "DEN '23",
+      "stats": {
+        "ryds": 238,
+        "rtd": 1,
+        "recyds": 455,
+        "rectd": 0,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DEN '23",
+      "stats": {
+        "ryds": 774,
+        "rtd": 3,
+        "recyds": 228,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jaleel McLaughlin",
+      "team": "DEN '23",
+      "stats": {
+        "ryds": 410,
+        "rtd": 1,
+        "recyds": 160,
+        "rectd": 2,
+        "rec": 31
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 772,
+        "rectd": 10,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 162,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 758,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Brandon Johnson",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 284,
+        "rectd": 4,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Marvin Mims Jr.",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 377,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Manhertz",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Adam Trautman",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 204,
+        "rectd": 3,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Greg Dulcich",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Lucas Krull",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Nate Adkins",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

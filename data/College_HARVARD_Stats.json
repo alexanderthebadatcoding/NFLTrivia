@@ -1,0 +1,449 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "WAS '21",
+      "stats": {
+        "yds": 13,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "MIA '20",
+      "stats": {
+        "yds": 2091,
+        "td": 13,
+        "int": 8
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "MIA '19",
+      "stats": {
+        "yds": 3529,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "TB '18",
+      "stats": {
+        "yds": 2366,
+        "td": 17,
+        "int": 12
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "TB '17",
+      "stats": {
+        "yds": 1103,
+        "td": 7,
+        "int": 3
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "NYJ '16",
+      "stats": {
+        "yds": 2710,
+        "td": 12,
+        "int": 17
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "NYJ '15",
+      "stats": {
+        "yds": 3905,
+        "td": 31,
+        "int": 15
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "HOU '14",
+      "stats": {
+        "yds": 2483,
+        "td": 17,
+        "int": 8
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "TEN '13",
+      "stats": {
+        "yds": 2454,
+        "td": 14,
+        "int": 12
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '12",
+      "stats": {
+        "yds": 3400,
+        "td": 24,
+        "int": 16
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '11",
+      "stats": {
+        "yds": 3832,
+        "td": 24,
+        "int": 23
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '10",
+      "stats": {
+        "yds": 2992,
+        "td": 23,
+        "int": 15
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '09",
+      "stats": {
+        "yds": 1422,
+        "td": 9,
+        "int": 10
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "CIN '08",
+      "stats": {
+        "yds": 1905,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "LA '05",
+      "stats": {
+        "yds": 777,
+        "td": 4,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '25",
+      "stats": {
+        "ryds": -3,
+        "rtd": 0,
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '24",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 200,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Aaron Shampklin",
+      "team": "PIT '24",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '23",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 119,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '22",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 200,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '20",
+      "stats": {
+        "ryds": 64,
+        "rtd": 2,
+        "recyds": 202,
+        "rectd": 4,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 324,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '17",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 266,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "BAL '15",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 321,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "BAL '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 182,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [],
+  "TE": [
+    {
+      "name": "Anthony Firkser",
+      "team": "DET '25",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '21",
+      "stats": {
+        "recyds": 245,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '21",
+      "stats": {
+        "recyds": 291,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 282,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 387,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '19",
+      "stats": {
+        "recyds": 311,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Ben Braunecker",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '19",
+      "stats": {
+        "recyds": 204,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '18",
+      "stats": {
+        "recyds": 289,
+        "rectd": 6,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Ben Braunecker",
+      "team": "CHI '18",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 225,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '17",
+      "stats": {
+        "recyds": 591,
+        "rectd": 6,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '16",
+      "stats": {
+        "recyds": 660,
+        "rectd": 8,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Ben Braunecker",
+      "team": "CHI '16",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 288,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

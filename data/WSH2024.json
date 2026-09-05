@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Marcus Mariota",
+      "team": "WSH '24",
+      "stats": {
+        "yds": 364,
+        "td": 4,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jayden Daniels",
+      "team": "WSH '24",
+      "stats": {
+        "yds": 3568,
+        "td": 25,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Austin Ekeler",
+      "team": "WSH '24",
+      "stats": {
+        "ryds": 367,
+        "rtd": 4,
+        "recyds": 366,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jeremy McNichols",
+      "team": "WSH '24",
+      "stats": {
+        "ryds": 261,
+        "rtd": 4,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "WSH '24",
+      "stats": {
+        "ryds": 799,
+        "rtd": 8,
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Chris Rodriguez Jr.",
+      "team": "WSH '24",
+      "stats": {
+        "ryds": 173,
+        "rtd": 2,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 72,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Noah Brown",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 453,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 506,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 1096,
+        "rectd": 13,
+        "rec": 82
+      }
+    },
+    {
+      "name": "K.J. Osborn",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 308,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Brycen Tremayne",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Luke McCaffrey",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 168,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 654,
+        "rectd": 7,
+        "rec": 66
+      }
+    },
+    {
+      "name": "John Bates",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ben Sinnott",
+      "team": "WSH '24",
+      "stats": {
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Cam Newton",
+      "team": "CAR '19",
+      "stats": {
+        "yds": 572,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "CAR '19",
+      "stats": {
+        "yds": 3322,
+        "td": 17,
+        "int": 16
+      }
+    },
+    {
+      "name": "Will Grier",
+      "team": "CAR '19",
+      "stats": {
+        "yds": 228,
+        "td": 0,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Davis",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 1387,
+        "rtd": 15,
+        "recyds": 1005,
+        "rectd": 4,
+        "rec": 116
+      }
+    },
+    {
+      "name": "Alex Armah",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 11,
+        "rtd": 1,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Reggie Bonnafon",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 116,
+        "rtd": 1,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Scarlett",
+      "team": "CAR '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Hogan",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jarius Wright",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 296,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "DeAndrew White",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 627,
+        "rectd": 6,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Brandon Zylstra",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 1175,
+        "rectd": 4,
+        "rec": 87
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 597,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Chris Manhertz",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ian Thomas",
+      "team": "CAR '19",
+      "stats": {
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ]
+}

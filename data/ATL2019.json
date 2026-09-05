@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '19",
+      "stats": {
+        "yds": 580,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '19",
+      "stats": {
+        "yds": 4466,
+        "td": 26,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenjon Barner",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Keith Smith",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 656,
+        "rtd": 2,
+        "recyds": 410,
+        "rectd": 4,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 323,
+        "rtd": 2,
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Ito Smith",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 106,
+        "rtd": 1,
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Qadree Ollison",
+      "team": "ATL '19",
+      "stats": {
+        "ryds": 50,
+        "rtd": 4,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 1394,
+        "rectd": 6,
+        "rec": 99
+      }
+    },
+    {
+      "name": "Justin Hardy",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 195,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Christian Blake",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 446,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 866,
+        "rectd": 7,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luke Stocker",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 787,
+        "rectd": 6,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Jaeden Graham",
+      "team": "ATL '19",
+      "stats": {
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

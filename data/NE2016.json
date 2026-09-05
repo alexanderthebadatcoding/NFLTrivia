@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '16",
+      "stats": {
+        "yds": 3554,
+        "td": 28,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "NE '16",
+      "stats": {
+        "yds": 502,
+        "td": 4,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jacoby Brissett",
+      "team": "NE '16",
+      "stats": {
+        "yds": 400,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeGarrette Blount",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 1161,
+        "rtd": 18,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "James Develin",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dion Lewis",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 283,
+        "rtd": 0,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 166,
+        "rtd": 0,
+        "recyds": 551,
+        "rectd": 5,
+        "rec": 60
+      }
+    },
+    {
+      "name": "D.J. Foster",
+      "team": "NE '16",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 243,
+        "rectd": 4,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Julian Edelman",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 1106,
+        "rectd": 3,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Chris Hogan",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 680,
+        "rectd": 4,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Michael Floyd",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 488,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Malcolm Mitchell",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 401,
+        "rectd": 4,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Martellus Bennett",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 701,
+        "rectd": 7,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 540,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Matt Lengel",
+      "team": "NE '16",
+      "stats": {
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

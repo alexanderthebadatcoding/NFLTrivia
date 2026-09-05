@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Josh Allen",
+      "team": "BUF '23",
+      "stats": {
+        "yds": 4306,
+        "td": 29,
+        "int": 18
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Latavius Murray",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 300,
+        "rtd": 4,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Leonard Fournette",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 132,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 94,
+        "rtd": 1,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Reggie Gilliam",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF '23",
+      "stats": {
+        "ryds": 1122,
+        "rtd": 2,
+        "recyds": 445,
+        "rectd": 4,
+        "rec": 44
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Stefon Diggs",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 1183,
+        "rectd": 8,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 86,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Deonte Harty",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 150,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Gabe Davis",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 746,
+        "rectd": 7,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Khalil Shakir",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 611,
+        "rectd": 2,
+        "rec": 39
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 186,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Quintin Morris",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 26,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dalton Kincaid",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 673,
+        "rectd": 2,
+        "rec": 73
+      }
+    }
+  ]
+}

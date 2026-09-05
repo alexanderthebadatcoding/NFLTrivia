@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Brandon Allen",
+      "team": "CIN '20",
+      "stats": {
+        "yds": 925,
+        "td": 5,
+        "int": 4
+      }
+    },
+    {
+      "name": "Ryan Finley",
+      "team": "CIN '20",
+      "stats": {
+        "yds": 164,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '20",
+      "stats": {
+        "yds": 2688,
+        "td": 13,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '20",
+      "stats": {
+        "ryds": 416,
+        "rtd": 3,
+        "recyds": 355,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "CIN '20",
+      "stats": {
+        "ryds": 301,
+        "rtd": 3,
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '20",
+      "stats": {
+        "ryds": 428,
+        "rtd": 3,
+        "recyds": 138,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Trayveon Williams",
+      "team": "CIN '20",
+      "stats": {
+        "ryds": 157,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Green",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 523,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Alex Erickson",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 841,
+        "rectd": 4,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 132,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "John Ross",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Auden Tate",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Trenton Irwin",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 908,
+        "rectd": 6,
+        "rec": 67
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Cethan Carter",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '20",
+      "stats": {
+        "recyds": 349,
+        "rectd": 1,
+        "rec": 40
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Jameis Winston",
+      "team": "CLE '24",
+      "stats": {
+        "yds": 2121,
+        "td": 13,
+        "int": 12
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "CLE '24",
+      "stats": {
+        "yds": 1148,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Bailey Zappe",
+      "team": "CLE '24",
+      "stats": {
+        "yds": 170,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Dorian Thompson-Robinson",
+      "team": "CLE '24",
+      "stats": {
+        "yds": 440,
+        "td": 0,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D'Onta Foreman",
+      "team": "CLE '24",
+      "stats": {
+        "ryds": 232,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '24",
+      "stats": {
+        "ryds": 332,
+        "rtd": 3,
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "CLE '24",
+      "stats": {
+        "ryds": 565,
+        "rtd": 3,
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Pierre Strong",
+      "team": "CLE '24",
+      "stats": {
+        "ryds": 108,
+        "rtd": 0,
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jacob Kibodi",
+      "team": "CLE '24",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "James Proche",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 1229,
+        "rectd": 4,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Elijah Moore",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 538,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "David Bell",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mike Woods",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cedric Tillman",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 339,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jamari Thrash",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Geoff Swaim",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 505,
+        "rectd": 5,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 390,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Blake Whiteheart",
+      "team": "CLE '24",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ]
+}

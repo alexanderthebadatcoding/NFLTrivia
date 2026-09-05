@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '16",
+      "stats": {
+        "yds": 16,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '16",
+      "stats": {
+        "yds": 4944,
+        "td": 38,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Stevan Ridley",
+      "team": "ATL '16",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "ATL '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '16",
+      "stats": {
+        "ryds": 1079,
+        "rtd": 11,
+        "recyds": 462,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Terron Ward",
+      "team": "ATL '16",
+      "stats": {
+        "ryds": 151,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "ATL '16",
+      "stats": {
+        "ryds": 520,
+        "rtd": 8,
+        "recyds": 421,
+        "rectd": 3,
+        "rec": 31
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 1409,
+        "rectd": 6,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Aldrick Robinson",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 323,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 653,
+        "rectd": 4,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Nick Williams",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Taylor Gabriel",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 579,
+        "rectd": 6,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Justin Hardy",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 203,
+        "rectd": 4,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jacob Tamme",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 210,
+        "rectd": 3,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Levine Toilolo",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 264,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "D.J. Tialavea",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 271,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Josh Perkins",
+      "team": "ATL '16",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ]
+}

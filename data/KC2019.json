@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Matt Moore",
+      "team": "KC '19",
+      "stats": {
+        "yds": 659,
+        "td": 4,
+        "int": 0
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '19",
+      "stats": {
+        "yds": 4031,
+        "td": 26,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeSean McCoy",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 465,
+        "rtd": 4,
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Spencer Ware",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Damien Williams",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 498,
+        "rtd": 5,
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 141,
+        "rtd": 3,
+        "recyds": 167,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Darwin Thompson",
+      "team": "KC '19",
+      "stats": {
+        "ryds": 128,
+        "rtd": 1,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sammy Watkins",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 673,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 449,
+        "rectd": 4,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 860,
+        "rectd": 7,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Byron Pringle",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 538,
+        "rectd": 6,
+        "rec": 26
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 1229,
+        "rectd": 5,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Deon Yelder",
+      "team": "KC '19",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Josh Johnson",
+      "team": "BAL '24",
+      "stats": {
+        "yds": 17,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '24",
+      "stats": {
+        "yds": 4172,
+        "td": 41,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Henry",
+      "team": "BAL '24",
+      "stats": {
+        "ryds": 1921,
+        "rtd": 16,
+        "recyds": 193,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '24",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '24",
+      "stats": {
+        "ryds": 228,
+        "rtd": 1,
+        "recyds": 383,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Keaton Mitchell",
+      "team": "BAL '24",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rasheen Ali",
+      "team": "BAL '24",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nelson Agholor",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 231,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rashod Bateman",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 756,
+        "rectd": 9,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Tylan Wallace",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Zay Flowers",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 1059,
+        "rectd": 4,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Devontez Walker",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 673,
+        "rectd": 11,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Isaiah Likely",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 477,
+        "rectd": 6,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "BAL '24",
+      "stats": {
+        "recyds": 131,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

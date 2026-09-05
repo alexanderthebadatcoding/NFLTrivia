@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '17",
+      "stats": {
+        "yds": 1675,
+        "td": 16,
+        "int": 6
+      }
+    },
+    {
+      "name": "Brett Hundley",
+      "team": "GB '17",
+      "stats": {
+        "yds": 1836,
+        "td": 9,
+        "int": 12
+      }
+    },
+    {
+      "name": "Joe Callahan",
+      "team": "GB '17",
+      "stats": {
+        "yds": 11,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aaron Ripkowski",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ty Montgomery",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 273,
+        "rtd": 3,
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Joe Kerridge",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 448,
+        "rtd": 4,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Devante Mays",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jamaal Williams",
+      "team": "GB '17",
+      "stats": {
+        "ryds": 556,
+        "rtd": 4,
+        "recyds": 262,
+        "rectd": 2,
+        "rec": 25
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 482,
+        "rectd": 6,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 653,
+        "rectd": 4,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Jeff Janis",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 885,
+        "rectd": 10,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Trevor Davis",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Geronimo Allison",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 253,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Michael Clark",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lance Kendricks",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 203,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Richard Rodgers",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Emanuel Byrd",
+      "team": "GB '17",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

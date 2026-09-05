@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "NYG '20",
+      "stats": {
+        "yds": 375,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '20",
+      "stats": {
+        "yds": 2943,
+        "td": 11,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dion Lewis",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 115,
+        "rtd": 2,
+        "recyds": 127,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 238,
+        "rtd": 1,
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 172,
+        "rtd": 1,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Elijhaa Penny",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Wayne Gallman",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 682,
+        "rtd": 6,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "NYG '20",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Golden Tate",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 656,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "C.J. Board",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Damion Ratley",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 76,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 751,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Austin Mack",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Levine Toilolo",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 654,
+        "rectd": 1,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Kaden Smith",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ]
+}

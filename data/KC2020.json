@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Chad Henne",
+      "team": "KC '20",
+      "stats": {
+        "yds": 248,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '20",
+      "stats": {
+        "yds": 4740,
+        "td": 38,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Le'Veon Bell",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 328,
+        "rtd": 2,
+        "recyds": 138,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Darrel Williams",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 169,
+        "rtd": 1,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Darwin Thompson",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 97,
+        "rtd": 1,
+        "recyds": 65,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 803,
+        "rtd": 4,
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 36
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sammy Watkins",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 421,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 466,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 1276,
+        "rectd": 15,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Gehrig Dieter",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marcus Kemp",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Byron Pringle",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 560,
+        "rectd": 4,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 1416,
+        "rectd": 11,
+        "rec": 105
+      }
+    },
+    {
+      "name": "Nick Keizer",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Deon Yelder",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

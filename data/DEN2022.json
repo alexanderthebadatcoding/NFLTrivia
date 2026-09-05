@@ -1,0 +1,242 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "DEN '22",
+      "stats": {
+        "yds": 3524,
+        "td": 16,
+        "int": 11
+      }
+    },
+    {
+      "name": "Brett Rypien",
+      "team": "DEN '22",
+      "stats": {
+        "yds": 483,
+        "td": 2,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Latavius Murray",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 760,
+        "rtd": 6,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Melvin Gordon",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 318,
+        "rtd": 2,
+        "recyds": 223,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Marlon Mack",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 84,
+        "rtd": 1,
+        "recyds": 99,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 102,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 245,
+        "rtd": 2,
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Devine Ozigbo",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 204,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Tyler Badie",
+      "team": "DEN '22",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 829,
+        "rectd": 2,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Kendall Hinton",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 311,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Freddie Swain",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 972,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Tyrie Cleveland",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Montrell Washington",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brandon Johnson",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jalen Virgil",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Tomlinson",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 79,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Eric Saubert",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Albert Okwuegbunam",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Greg Dulcich",
+      "team": "DEN '22",
+      "stats": {
+        "recyds": 411,
+        "rectd": 2,
+        "rec": 33
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "DET '24",
+      "stats": {
+        "yds": 4629,
+        "td": 37,
+        "int": 12
+      }
+    },
+    {
+      "name": "Hendon Hooker",
+      "team": "DET '24",
+      "stats": {
+        "yds": 62,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Craig Reynolds",
+      "team": "DET '24",
+      "stats": {
+        "ryds": 139,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "DET '24",
+      "stats": {
+        "ryds": 775,
+        "rtd": 12,
+        "recyds": 341,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jermar Jefferson",
+      "team": "DET '24",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "DET '24",
+      "stats": {
+        "ryds": 1412,
+        "rtd": 16,
+        "recyds": 517,
+        "rectd": 4,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Sione Vaki",
+      "team": "DET '24",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Allen Robinson",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 215,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 394,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 1263,
+        "rectd": 12,
+        "rec": 115
+      }
+    },
+    {
+      "name": "Jameson Williams",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 1001,
+        "rectd": 7,
+        "rec": 58
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Shane Zylstra",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brock Wright",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 100,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Sam LaPorta",
+      "team": "DET '24",
+      "stats": {
+        "recyds": 726,
+        "rectd": 7,
+        "rec": 60
+      }
+    }
+  ]
+}

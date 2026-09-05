@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '21",
+      "stats": {
+        "yds": 227,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mac Jones",
+      "team": "NE '21",
+      "stats": {
+        "yds": 3801,
+        "td": 22,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 226,
+        "rtd": 1,
+        "recyds": 405,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 38,
+        "rtd": 1,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 929,
+        "rtd": 15,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "J.J. Taylor",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 37,
+        "rtd": 2,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "team": "NE '21",
+      "stats": {
+        "ryds": 606,
+        "rtd": 5,
+        "recyds": 123,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nelson Agholor",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 473,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 800,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 866,
+        "rectd": 2,
+        "rec": 83
+      }
+    },
+    {
+      "name": "N'Keal Harry",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 184,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kristian Wilkerson",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 42,
+        "rectd": 2,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hunter Henry",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 603,
+        "rectd": 9,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "NE '21",
+      "stats": {
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ]
+}

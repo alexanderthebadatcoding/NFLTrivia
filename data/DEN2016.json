@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Trevor Siemian",
+      "team": "DEN '16",
+      "stats": {
+        "yds": 3401,
+        "td": 18,
+        "int": 10
+      }
+    },
+    {
+      "name": "Paxton Lynch",
+      "team": "DEN '16",
+      "stats": {
+        "yds": 497,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Justin Forsett",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 291,
+        "rtd": 1,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "C.J. Anderson",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 437,
+        "rtd": 4,
+        "recyds": 128,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Juwan Thompson",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 26,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kapri Bibbs",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 129,
+        "rtd": 0,
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Andy Janovich",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 33,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "DEN '16",
+      "stats": {
+        "ryds": 612,
+        "rtd": 4,
+        "recyds": 265,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jordan Norwood",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 232,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Emmanuel Sanders",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 1032,
+        "rectd": 5,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 1083,
+        "rectd": 5,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Bennie Fowler",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 145,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Cody Latimer",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jordan Taylor",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 209,
+        "rectd": 2,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Virgil Green",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 237,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "A.J. Derby",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 160,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jeff Heuerman",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Henry Krieger-Coble",
+      "team": "DEN '16",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

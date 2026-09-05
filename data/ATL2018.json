@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '18",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '18",
+      "stats": {
+        "yds": 4924,
+        "td": 35,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 68,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jeremy Langford",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 25,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 800,
+        "rtd": 4,
+        "recyds": 276,
+        "rectd": 5,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Ricky Ortiz",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Brian Hill",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 157,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ito Smith",
+      "team": "ATL '18",
+      "stats": {
+        "ryds": 315,
+        "rtd": 4,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 1677,
+        "rectd": 8,
+        "rec": 113
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 838,
+        "rectd": 4,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Justin Hardy",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 133,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Marvin Hall",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 821,
+        "rectd": 10,
+        "rec": 64
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Paulsen",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 660,
+        "rectd": 4,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Eric Saubert",
+      "team": "ATL '18",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "QB": [
+    {
+      "name": "Jacoby Brissett",
+      "team": "MIA '21",
+      "stats": {
+        "yds": 1283,
+        "td": 5,
+        "int": 4
+      }
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "MIA '21",
+      "stats": {
+        "yds": 2653,
+        "td": 16,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Malcolm Brown",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 125,
+        "rtd": 1,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Duke Johnson",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 330,
+        "rtd": 3,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Phillip Lindsay",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 249,
+        "rtd": 1,
+        "recyds": 45,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 612,
+        "rtd": 3,
+        "recyds": 234,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Patrick Laird",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Salvon Ahmed",
+      "team": "MIA '21",
+      "stats": {
+        "ryds": 149,
+        "rtd": 0,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Albert Wilson",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 213,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 515,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Tommylee Lewis",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Will Fuller",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Isaiah Ford",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 161,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 223,
+        "rectd": 4,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Preston Williams",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kirk Merritt",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 1015,
+        "rectd": 6,
+        "rec": 104
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Cethan Carter",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Adam Shaheen",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 357,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 780,
+        "rectd": 2,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Hunter Long",
+      "team": "MIA '21",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

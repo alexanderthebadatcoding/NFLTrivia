@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Derek Anderson",
+      "team": "CAR '16",
+      "stats": {
+        "yds": 453,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "CAR '16",
+      "stats": {
+        "yds": 3509,
+        "td": 19,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Tolbert",
+      "team": "CAR '16",
+      "stats": {
+        "ryds": 114,
+        "rtd": 0,
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jonathan Stewart",
+      "team": "CAR '16",
+      "stats": {
+        "ryds": 824,
+        "rtd": 9,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Fozzy Whittaker",
+      "team": "CAR '16",
+      "stats": {
+        "ryds": 265,
+        "rtd": 0,
+        "recyds": 226,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Cameron Artis-Payne",
+      "team": "CAR '16",
+      "stats": {
+        "ryds": 144,
+        "rtd": 2,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ted Ginn",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 752,
+        "rectd": 4,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Brenton Bersin",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Corey Brown",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 276,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Kelvin Benjamin",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 941,
+        "rectd": 7,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Funchess",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 371,
+        "rectd": 4,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 1073,
+        "rectd": 3,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Ed Dickson",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 134,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Manhertz",
+      "team": "CAR '16",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

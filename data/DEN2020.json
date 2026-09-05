@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Driskel",
+      "team": "DEN '20",
+      "stats": {
+        "yds": 432,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Brett Rypien",
+      "team": "DEN '20",
+      "stats": {
+        "yds": 295,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "DEN '20",
+      "stats": {
+        "yds": 2933,
+        "td": 16,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Melvin Gordon",
+      "team": "DEN '20",
+      "stats": {
+        "ryds": 986,
+        "rtd": 9,
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Phillip Lindsay",
+      "team": "DEN '20",
+      "stats": {
+        "ryds": 502,
+        "rtd": 1,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "DEN '20",
+      "stats": {
+        "ryds": 170,
+        "rtd": 0,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Levante Bellamy",
+      "team": "DEN '20",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Diontae Spencer",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 742,
+        "rectd": 6,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 293,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 856,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 381,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Tyrie Cleveland",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nick Vannett",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jake Butt",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Troy Fumagalli",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 673,
+        "rectd": 3,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Albert Okwuegbunam",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 121,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

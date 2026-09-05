@@ -1,0 +1,960 @@
+{
+  "QB": [
+    {
+      "name": "Josh Allen",
+      "team": "BUF '20",
+      "stats": {
+        "yds": 4544,
+        "td": 37,
+        "int": 10
+      }
+    },
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '20",
+      "stats": {
+        "yds": 4299,
+        "td": 48,
+        "int": 5
+      }
+    },
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '20",
+      "stats": {
+        "yds": 3971,
+        "td": 26,
+        "int": 12
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '20",
+      "stats": {
+        "yds": 4740,
+        "td": 38,
+        "int": 6
+      }
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "HOU '20",
+      "stats": {
+        "yds": 4823,
+        "td": 33,
+        "int": 7
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '20",
+      "stats": {
+        "yds": 4212,
+        "td": 40,
+        "int": 13
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '20",
+      "stats": {
+        "yds": 3819,
+        "td": 33,
+        "int": 7
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "TB '20",
+      "stats": {
+        "yds": 4633,
+        "td": 40,
+        "int": 12
+      }
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC '20",
+      "stats": {
+        "yds": 4336,
+        "td": 31,
+        "int": 10
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 2757,
+        "td": 26,
+        "int": 9
+      }
+    },
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '20",
+      "stats": {
+        "yds": 4265,
+        "td": 35,
+        "int": 13
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '20",
+      "stats": {
+        "yds": 4581,
+        "td": 26,
+        "int": 11
+      }
+    },
+    {
+      "name": "Derek Carr",
+      "team": "LV '20",
+      "stats": {
+        "yds": 4103,
+        "td": 27,
+        "int": 9
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '20",
+      "stats": {
+        "yds": 3803,
+        "td": 33,
+        "int": 10
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "NE '20",
+      "stats": {
+        "yds": 2657,
+        "td": 8,
+        "int": 10
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '20",
+      "stats": {
+        "yds": 4084,
+        "td": 26,
+        "int": 10
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '20",
+      "stats": {
+        "yds": 3563,
+        "td": 26,
+        "int": 8
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "CAR '20",
+      "stats": {
+        "yds": 3733,
+        "td": 15,
+        "int": 11
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "LA '20",
+      "stats": {
+        "yds": 3952,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "Philip Rivers",
+      "team": "IND '20",
+      "stats": {
+        "yds": 4169,
+        "td": 24,
+        "int": 11
+      }
+    },
+    {
+      "name": "Drew Brees",
+      "team": "NO '20",
+      "stats": {
+        "yds": 2942,
+        "td": 24,
+        "int": 6
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '20",
+      "stats": {
+        "yds": 2620,
+        "td": 16,
+        "int": 15
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "DEN '20",
+      "stats": {
+        "yds": 2933,
+        "td": 16,
+        "int": 15
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "NYG '20",
+      "stats": {
+        "yds": 2943,
+        "td": 11,
+        "int": 10
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '20",
+      "stats": {
+        "yds": 2688,
+        "td": 13,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Alvin Kamara",
+      "team": "NO '20",
+      "stats": {
+        "ryds": 932,
+        "rtd": 16,
+        "recyds": 756,
+        "rectd": 5,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '20",
+      "stats": {
+        "ryds": 1557,
+        "rtd": 16,
+        "recyds": 361,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 2027,
+        "rtd": 17,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '20",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 8,
+        "recyds": 438,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '20",
+      "stats": {
+        "ryds": 1104,
+        "rtd": 9,
+        "recyds": 355,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 1169,
+        "rtd": 11,
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "JAX '20",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 7,
+        "recyds": 344,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "LV '20",
+      "stats": {
+        "ryds": 1065,
+        "rtd": 12,
+        "recyds": 238,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '20",
+      "stats": {
+        "ryds": 979,
+        "rtd": 6,
+        "recyds": 338,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 841,
+        "rtd": 6,
+        "recyds": 304,
+        "rectd": 5,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 1067,
+        "rtd": 12,
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "team": "CAR '20",
+      "stats": {
+        "ryds": 642,
+        "rtd": 6,
+        "recyds": 373,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WAS '20",
+      "stats": {
+        "ryds": 795,
+        "rtd": 11,
+        "recyds": 247,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Melvin Gordon",
+      "team": "DEN '20",
+      "stats": {
+        "ryds": 986,
+        "rtd": 9,
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Nyheim Hines",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 380,
+        "rtd": 3,
+        "recyds": 482,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "ARI '20",
+      "stats": {
+        "ryds": 955,
+        "rtd": 10,
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "J.D. McKissic",
+      "team": "WAS '20",
+      "stats": {
+        "ryds": 365,
+        "rtd": 1,
+        "recyds": 589,
+        "rectd": 2,
+        "rec": 80
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 521,
+        "rtd": 8,
+        "recyds": 357,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Chris Carson",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 681,
+        "rtd": 5,
+        "recyds": 287,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Ronald Jones",
+      "team": "TB '20",
+      "stats": {
+        "ryds": 978,
+        "rtd": 7,
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "David Johnson",
+      "team": "HOU '20",
+      "stats": {
+        "ryds": 691,
+        "rtd": 6,
+        "recyds": 314,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '20",
+      "stats": {
+        "ryds": 803,
+        "rtd": 4,
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 867,
+        "rtd": 6,
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": 805,
+        "rtd": 9,
+        "recyds": 120,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "ARI '20",
+      "stats": {
+        "ryds": 448,
+        "rtd": 1,
+        "recyds": 402,
+        "rectd": 4,
+        "rec": 53
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 1374,
+        "rectd": 18,
+        "rec": 115
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 1276,
+        "rectd": 15,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "BUF '20",
+      "stats": {
+        "recyds": 1535,
+        "rectd": 8,
+        "rec": 127
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "ARI '20",
+      "stats": {
+        "recyds": 1407,
+        "rectd": 6,
+        "rec": 115
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 1374,
+        "rectd": 9,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 1400,
+        "rectd": 7,
+        "rec": 88
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 1303,
+        "rectd": 10,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 1054,
+        "rectd": 10,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 1250,
+        "rectd": 6,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 925,
+        "rectd": 14,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 1006,
+        "rectd": 13,
+        "rec": 70
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 1075,
+        "rectd": 11,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 992,
+        "rectd": 8,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Robert Woods",
+      "team": "LA '20",
+      "stats": {
+        "recyds": 936,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Amari Cooper",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 1114,
+        "rectd": 5,
+        "rec": 92
+      }
+    },
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 831,
+        "rectd": 9,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "HOU '20",
+      "stats": {
+        "recyds": 1150,
+        "rectd": 6,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 978,
+        "rectd": 9,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 1096,
+        "rectd": 3,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Diontae Johnson",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 923,
+        "rectd": 7,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WAS '20",
+      "stats": {
+        "recyds": 1118,
+        "rectd": 4,
+        "rec": 87
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 935,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Chase Claypool",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 873,
+        "rectd": 9,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 851,
+        "rectd": 3,
+        "rec": 77
+      }
+    },
+    {
+      "name": "DJ Moore",
+      "team": "CAR '20",
+      "stats": {
+        "recyds": 1193,
+        "rectd": 4,
+        "rec": 66
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '20",
+      "stats": {
+        "recyds": 1416,
+        "rectd": 11,
+        "rec": 105
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "team": "LV '20",
+      "stats": {
+        "recyds": 1196,
+        "rectd": 9,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Logan Thomas",
+      "team": "WAS '20",
+      "stats": {
+        "recyds": 670,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '20",
+      "stats": {
+        "recyds": 586,
+        "rectd": 11,
+        "rec": 52
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 723,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 701,
+        "rectd": 7,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '20",
+      "stats": {
+        "recyds": 703,
+        "rectd": 6,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Taysom Hill",
+      "team": "NO '20",
+      "stats": {
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "TB '20",
+      "stats": {
+        "recyds": 623,
+        "rectd": 7,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "DEN '20",
+      "stats": {
+        "recyds": 673,
+        "rectd": 3,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "ATL '20",
+      "stats": {
+        "recyds": 571,
+        "rectd": 6,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "DAL '20",
+      "stats": {
+        "recyds": 615,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "LAC '20",
+      "stats": {
+        "recyds": 613,
+        "rectd": 4,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jimmy Graham",
+      "team": "CHI '20",
+      "stats": {
+        "recyds": 456,
+        "rectd": 8,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Eric Ebron",
+      "team": "PIT '20",
+      "stats": {
+        "recyds": 558,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '20",
+      "stats": {
+        "recyds": 654,
+        "rectd": 1,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 448,
+        "rectd": 8,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LA '20",
+      "stats": {
+        "recyds": 521,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Jared Cook",
+      "team": "NO '20",
+      "stats": {
+        "recyds": 504,
+        "rectd": 7,
+        "rec": 37
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '20",
+      "stats": {
+        "recyds": 634,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 524,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Austin Hooper",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 435,
+        "rectd": 4,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "MIN '20",
+      "stats": {
+        "recyds": 365,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Dan Arnold",
+      "team": "ARI '20",
+      "stats": {
+        "recyds": 438,
+        "rectd": 4,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LA '20",
+      "stats": {
+        "recyds": 417,
+        "rectd": 1,
+        "rec": 41
+      }
+    }
+  ]
+}

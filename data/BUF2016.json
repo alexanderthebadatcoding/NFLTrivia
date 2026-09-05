@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "BUF '16",
+      "stats": {
+        "yds": 3023,
+        "td": 17,
+        "int": 6
+      }
+    },
+    {
+      "name": "EJ Manuel",
+      "team": "BUF '16",
+      "stats": {
+        "yds": 131,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Cardale Jones",
+      "team": "BUF '16",
+      "stats": {
+        "yds": 96,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Bush",
+      "team": "BUF '16",
+      "stats": {
+        "ryds": -3,
+        "rtd": 1,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jerome Felton",
+      "team": "BUF '16",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "BUF '16",
+      "stats": {
+        "ryds": 1267,
+        "rtd": 13,
+        "recyds": 356,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Mike Gillislee",
+      "team": "BUF '16",
+      "stats": {
+        "ryds": 577,
+        "rtd": 8,
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jonathan Williams",
+      "team": "BUF '16",
+      "stats": {
+        "ryds": 94,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Percy Harvin",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandon Tate",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Greg Salas",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 431,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Robert Woods",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 613,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Justin Hunter",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 189,
+        "rectd": 4,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Walt Powell",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Sammy Watkins",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 430,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Charles Clay",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 552,
+        "rectd": 4,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Nick O'Leary",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Gerald Christian",
+      "team": "BUF '16",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '16",
+      "stats": {
+        "yds": 4327,
+        "td": 24,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Joique Bell",
+      "team": "DET '16",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Theo Riddick",
+      "team": "DET '16",
+      "stats": {
+        "ryds": 357,
+        "rtd": 1,
+        "recyds": 371,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Zach Zenner",
+      "team": "DET '16",
+      "stats": {
+        "ryds": 334,
+        "rtd": 4,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Ameer Abdullah",
+      "team": "DET '16",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dwayne Washington",
+      "team": "DET '16",
+      "stats": {
+        "ryds": 265,
+        "rtd": 1,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Anquan Boldin",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 584,
+        "rectd": 8,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Andre Roberts",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 1077,
+        "rectd": 4,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 930,
+        "rectd": 4,
+        "rec": 55
+      }
+    },
+    {
+      "name": "T.J. Jones",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matthew Mulligan",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Clay Harbor",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Eric Ebron",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 711,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Cole Wick",
+      "team": "DET '16",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

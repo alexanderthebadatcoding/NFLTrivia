@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Josh McCown",
+      "team": "NYJ '18",
+      "stats": {
+        "yds": 539,
+        "td": 1,
+        "int": 4
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "NYJ '18",
+      "stats": {
+        "yds": 2865,
+        "td": 17,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 343,
+        "rtd": 0,
+        "recyds": 110,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Isaiah Crowell",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 685,
+        "rtd": 6,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Elijah McGuire",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 276,
+        "rtd": 3,
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "De'Angelo Henderson Sr.",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Trenton Cannon",
+      "team": "NYJ '18",
+      "stats": {
+        "ryds": 113,
+        "rtd": 1,
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Roberts",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 371,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Rishard Matthews",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Quincy Enunwa",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 449,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 752,
+        "rectd": 6,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Charone Peake",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "J.J. Jones",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Deontay Burnett",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Tomlinson",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Neal Sterling",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jordan Leggett",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Chris Herndon",
+      "team": "NYJ '18",
+      "stats": {
+        "recyds": 502,
+        "rectd": 4,
+        "rec": 39
+      }
+    }
+  ]
+}

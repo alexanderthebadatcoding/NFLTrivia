@@ -1,0 +1,133 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "NYJ '24",
+      "stats": {
+        "yds": 3897,
+        "td": 28,
+        "int": 11
+      }
+    },
+    {
+      "name": "Tyrod Taylor",
+      "team": "NYJ '24",
+      "stats": {
+        "yds": 119,
+        "td": 3,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Breece Hall",
+      "team": "NYJ '24",
+      "stats": {
+        "ryds": 876,
+        "rtd": 5,
+        "recyds": 483,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Braelon Allen",
+      "team": "NYJ '24",
+      "stats": {
+        "ryds": 334,
+        "rtd": 2,
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Isaiah Davis",
+      "team": "NYJ '24",
+      "stats": {
+        "ryds": 174,
+        "rtd": 1,
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Davante Adams",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 1063,
+        "rectd": 8,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 530,
+        "rectd": 6,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 1104,
+        "rectd": 7,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Xavier Gipson",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Malachi Corley",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Conklin",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 449,
+        "rectd": 4,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Kenny Yeboah",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jeremy Ruckert",
+      "team": "NYJ '24",
+      "stats": {
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ]
+}

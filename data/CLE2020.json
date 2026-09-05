@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Case Keenum",
+      "team": "CLE '20",
+      "stats": {
+        "yds": 46,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '20",
+      "stats": {
+        "yds": 3563,
+        "td": 26,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Andy Janovich",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 841,
+        "rtd": 6,
+        "recyds": 304,
+        "rectd": 5,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 1067,
+        "rtd": 12,
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "D'Ernest Johnson",
+      "team": "CLE '20",
+      "stats": {
+        "ryds": 166,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 319,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jarvis Landry",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 840,
+        "rectd": 3,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Rashard Higgins",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 599,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Marvin Hall",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 302,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 180,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Ja'Marcus Bradley",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Donovan Peoples-Jones",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 304,
+        "rectd": 2,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Austin Hooper",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 435,
+        "rectd": 4,
+        "rec": 46
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Stephen Carlson",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Harrison Bryant",
+      "team": "CLE '20",
+      "stats": {
+        "recyds": 238,
+        "rectd": 3,
+        "rec": 24
+      }
+    }
+  ]
+}

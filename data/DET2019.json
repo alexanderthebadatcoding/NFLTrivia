@@ -1,0 +1,217 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '19",
+      "stats": {
+        "yds": 2499,
+        "td": 19,
+        "int": 5
+      }
+    },
+    {
+      "name": "Jeff Driskel",
+      "team": "DET '19",
+      "stats": {
+        "yds": 685,
+        "td": 4,
+        "int": 4
+      }
+    },
+    {
+      "name": "David Blough",
+      "team": "DET '19",
+      "stats": {
+        "yds": 984,
+        "td": 4,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Anderson",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Paul Perkins",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 29,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tra Carson",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "J.D. McKissic",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 205,
+        "rtd": 0,
+        "recyds": 233,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Kerryon Johnson",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 403,
+        "rtd": 3,
+        "recyds": 127,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Bo Scarbrough",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 377,
+        "rtd": 1,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nick Bawden",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Wes Hills",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 21,
+        "rtd": 2,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "DET '19",
+      "stats": {
+        "ryds": 273,
+        "rtd": 0,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 24
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 678,
+        "rectd": 1,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 779,
+        "rectd": 9,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Marvin Hall",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 261,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 1190,
+        "rectd": 11,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Chris Lacy",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Thomas",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 367,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Isaac Nauta",
+      "team": "DET '19",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

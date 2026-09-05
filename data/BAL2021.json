@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Josh Johnson",
+      "team": "BAL '21",
+      "stats": {
+        "yds": 638,
+        "td": 5,
+        "int": 2
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '21",
+      "stats": {
+        "yds": 2882,
+        "td": 16,
+        "int": 13
+      }
+    },
+    {
+      "name": "Tyler Huntley",
+      "team": "BAL '21",
+      "stats": {
+        "yds": 1081,
+        "td": 3,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Latavius Murray",
+      "team": "BAL '21",
+      "stats": {
+        "ryds": 501,
+        "rtd": 6,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "BAL '21",
+      "stats": {
+        "ryds": 576,
+        "rtd": 5,
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 63,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ty'Son Williams",
+      "team": "BAL '21",
+      "stats": {
+        "ryds": 185,
+        "rtd": 1,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Nate McCrary",
+      "team": "BAL '21",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sammy Watkins",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 394,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 6,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "James Proche",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 272,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Rashod Bateman",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 515,
+        "rectd": 1,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Tylan Wallace",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Eric Tomlinson",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 1361,
+        "rectd": 9,
+        "rec": 107
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "BAL '21",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

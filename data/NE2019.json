@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '19",
+      "stats": {
+        "yds": 4057,
+        "td": 24,
+        "int": 8
+      }
+    },
+    {
+      "name": "Jarrett Stidham",
+      "team": "NE '19",
+      "stats": {
+        "yds": 14,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Develin",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 68,
+        "rtd": 3,
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Rex Burkhead",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 302,
+        "rtd": 3,
+        "recyds": 279,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 263,
+        "rtd": 1,
+        "recyds": 645,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Sony Michel",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 912,
+        "rtd": 7,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "NE '19",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julian Edelman",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 1117,
+        "rectd": 6,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Antonio Brown",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 520,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Phillip Dorsett",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 397,
+        "rectd": 5,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 359,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "N'Keal Harry",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 105,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Benjamin Watson",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 173,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Eric Tomlinson",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Matt LaCosse",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 131,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ryan Izzo",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "NE '19",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

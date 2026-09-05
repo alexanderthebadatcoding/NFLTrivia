@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Sam Bradford",
+      "team": "ARI '18",
+      "stats": {
+        "yds": 400,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Mike Glennon",
+      "team": "ARI '18",
+      "stats": {
+        "yds": 174,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Josh Rosen",
+      "team": "ARI '18",
+      "stats": {
+        "yds": 2278,
+        "td": 11,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Coleman",
+      "team": "ARI '18",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "David Johnson",
+      "team": "ARI '18",
+      "stats": {
+        "ryds": 940,
+        "rtd": 7,
+        "recyds": 446,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "T.J. Logan",
+      "team": "ARI '18",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "ARI '18",
+      "stats": {
+        "ryds": 208,
+        "rtd": 2,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Larry Fitzgerald",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 734,
+        "rectd": 6,
+        "rec": 69
+      }
+    },
+    {
+      "name": "J.J. Nelson",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chad Williams",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 171,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 210,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jalen Tolliver",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 590,
+        "rectd": 3,
+        "rec": 43
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John Phillips",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jermaine Gresham",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Ricky Seals-Jones",
+      "team": "ARI '18",
+      "stats": {
+        "recyds": 343,
+        "rectd": 1,
+        "rec": 34
+      }
+    }
+  ]
+}

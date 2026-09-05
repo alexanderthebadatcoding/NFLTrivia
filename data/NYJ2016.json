@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "NYJ '16",
+      "stats": {
+        "yds": 2710,
+        "td": 12,
+        "int": 17
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "NYJ '16",
+      "stats": {
+        "yds": 126,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Bryce Petty",
+      "team": "NYJ '16",
+      "stats": {
+        "yds": 809,
+        "td": 3,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Forte",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": 813,
+        "rtd": 7,
+        "recyds": 263,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "C.J. Spiller",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": 722,
+        "rtd": 3,
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Khiry Robinson",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Brandon Wilds",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandon Burks",
+      "team": "NYJ '16",
+      "stats": {
+        "ryds": -4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Marshall",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 788,
+        "rectd": 3,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 194,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Quincy Enunwa",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 857,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Devin Smith",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 587,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jalin Marshall",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 162,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Charone Peake",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brandon Bostick",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Austin Seferian-Jenkins",
+      "team": "NYJ '16",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ]
+}

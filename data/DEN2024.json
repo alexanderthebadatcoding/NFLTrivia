@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Bo Nix",
+      "team": "DEN '24",
+      "stats": {
+        "yds": 3775,
+        "td": 29,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Burton",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 8,
+        "rtd": 1,
+        "recyds": 65,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 513,
+        "rtd": 4,
+        "recyds": 346,
+        "rectd": 0,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Tyler Badie",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 86,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jaleel McLaughlin",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 496,
+        "rtd": 1,
+        "recyds": 76,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Audric Estim\u00e9",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 310,
+        "rtd": 2,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Blake Watson",
+      "team": "DEN '24",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 1081,
+        "rectd": 8,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 293,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Marvin Mims Jr.",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 503,
+        "rectd": 6,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Devaughn Vele",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 475,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Troy Franklin",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 263,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Adam Trautman",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 188,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Lucas Krull",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Nate Adkins",
+      "team": "DEN '24",
+      "stats": {
+        "recyds": 115,
+        "rectd": 3,
+        "rec": 14
+      }
+    }
+  ]
+}

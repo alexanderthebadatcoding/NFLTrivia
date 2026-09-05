@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Brett Hundley",
+      "team": "ARI '19",
+      "stats": {
+        "yds": 49,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '19",
+      "stats": {
+        "yds": 3722,
+        "td": 20,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Alfred Morris",
+      "team": "ARI '19",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Zach Zenner",
+      "team": "ARI '19",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "David Johnson",
+      "team": "ARI '19",
+      "stats": {
+        "ryds": 345,
+        "rtd": 2,
+        "recyds": 370,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "ARI '19",
+      "stats": {
+        "ryds": 817,
+        "rtd": 8,
+        "recyds": 345,
+        "rectd": 0,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "ARI '19",
+      "stats": {
+        "ryds": 303,
+        "rtd": 4,
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Larry Fitzgerald",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 804,
+        "rectd": 4,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Michael Crabtree",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 359,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 243,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 709,
+        "rectd": 3,
+        "rec": 68
+      }
+    },
+    {
+      "name": "KeeSean Johnson",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Andy Isabella",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 189,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Charles Clay",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 237,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Maxx Williams",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 202,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Darrell Daniels",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dan Arnold",
+      "team": "ARI '19",
+      "stats": {
+        "recyds": 127,
+        "rectd": 2,
+        "rec": 8
+      }
+    }
+  ]
+}

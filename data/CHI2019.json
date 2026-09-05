@@ -1,0 +1,169 @@
+{
+  "QB": [
+    {
+      "name": "Chase Daniel",
+      "team": "CHI '19",
+      "stats": {
+        "yds": 435,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Mitchell Trubisky",
+      "team": "CHI '19",
+      "stats": {
+        "yds": 3138,
+        "td": 17,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tarik Cohen",
+      "team": "CHI '19",
+      "stats": {
+        "ryds": 213,
+        "rtd": 0,
+        "recyds": 456,
+        "rectd": 3,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Ryan Nall",
+      "team": "CHI '19",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "David Montgomery",
+      "team": "CHI '19",
+      "stats": {
+        "ryds": 889,
+        "rtd": 6,
+        "recyds": 185,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Taylor Gabriel",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 353,
+        "rectd": 4,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 1147,
+        "rectd": 7,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Anthony Miller",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 656,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Javon Wims",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Riley Ridley",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Trey Burton",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ben Braunecker",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "J.P. Holtz",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Eric Saubert",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Adam Shaheen",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jesper Horsted",
+      "team": "CHI '19",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ]
+}

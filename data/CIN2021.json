@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Brandon Allen",
+      "team": "CIN '21",
+      "stats": {
+        "yds": 149,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN '21",
+      "stats": {
+        "yds": 4611,
+        "td": 34,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Samaje Perine",
+      "team": "CIN '21",
+      "stats": {
+        "ryds": 246,
+        "rtd": 1,
+        "recyds": 196,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '21",
+      "stats": {
+        "ryds": 1205,
+        "rtd": 13,
+        "recyds": 314,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Trayveon Williams",
+      "team": "CIN '21",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Evans",
+      "team": "CIN '21",
+      "stats": {
+        "ryds": 77,
+        "rtd": 0,
+        "recyds": 151,
+        "rectd": 2,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 828,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Trent Taylor",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Auden Tate",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Trenton Irwin",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Stanley Morgan",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tee Higgins",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 1091,
+        "rectd": 6,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 1455,
+        "rectd": 13,
+        "rec": 81
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 493,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Mitchell Wilcox",
+      "team": "CIN '21",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

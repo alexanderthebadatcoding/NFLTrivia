@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Case Keenum",
+      "team": "LAR '16",
+      "stats": {
+        "yds": 2201,
+        "td": 9,
+        "int": 11
+      }
+    },
+    {
+      "name": "Sean Mannion",
+      "team": "LAR '16",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "LAR '16",
+      "stats": {
+        "yds": 1089,
+        "td": 5,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chase Reynolds",
+      "team": "LAR '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Benny Cunningham",
+      "team": "LAR '16",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '16",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Todd Gurley",
+      "team": "LAR '16",
+      "stats": {
+        "ryds": 885,
+        "rtd": 6,
+        "recyds": 327,
+        "rectd": 0,
+        "rec": 43
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kenny Britt",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 1002,
+        "rectd": 5,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Brian Quick",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 564,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Tavon Austin",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 509,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Bradley Marquez",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Paul McRoberts",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lance Kendricks",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 499,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '16",
+      "stats": {
+        "recyds": 85,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "WSH '16",
+      "stats": {
+        "yds": 4917,
+        "td": 25,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '16",
+      "stats": {
+        "ryds": 356,
+        "rtd": 3,
+        "recyds": 349,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Matt Jones",
+      "team": "WSH '16",
+      "stats": {
+        "ryds": 460,
+        "rtd": 3,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Mack Brown",
+      "team": "WSH '16",
+      "stats": {
+        "ryds": 82,
+        "rtd": 1,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rob Kelley",
+      "team": "WSH '16",
+      "stats": {
+        "ryds": 704,
+        "rtd": 6,
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 1005,
+        "rectd": 4,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Pierre Garcon",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 1041,
+        "rectd": 3,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Rashad Ross",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ryan Grant",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 847,
+        "rectd": 7,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Maurice Harris",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Josh Doctson",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 583,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Niles Paul",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Derek Carrier",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '16",
+      "stats": {
+        "recyds": 686,
+        "rectd": 6,
+        "rec": 66
+      }
+    }
+  ]
+}

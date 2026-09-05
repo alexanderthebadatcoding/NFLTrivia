@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '24",
+      "stats": {
+        "yds": 1978,
+        "td": 11,
+        "int": 8
+      }
+    },
+    {
+      "name": "Cooper Rush",
+      "team": "DAL '24",
+      "stats": {
+        "yds": 1844,
+        "td": 12,
+        "int": 5
+      }
+    },
+    {
+      "name": "Trey Lance",
+      "team": "DAL '24",
+      "stats": {
+        "yds": 266,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ezekiel Elliott",
+      "team": "DAL '24",
+      "stats": {
+        "ryds": 226,
+        "rtd": 3,
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "DAL '24",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rico Dowdle",
+      "team": "DAL '24",
+      "stats": {
+        "ryds": 1079,
+        "rtd": 2,
+        "recyds": 249,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Deuce Vaughn",
+      "team": "DAL '24",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Hunter Luepke",
+      "team": "DAL '24",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandin Cooks",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 259,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 1194,
+        "rectd": 6,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Jalen Tolbert",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 610,
+        "rectd": 7,
+        "rec": 49
+      }
+    },
+    {
+      "name": "KaVontae Turpin",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 420,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jalen Brooks",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 177,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jonathan Mingo",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Ryan Flournoy",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 102,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 494,
+        "rectd": 0,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Luke Schoonmaker",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 241,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Brevyn Spann-Ford",
+      "team": "DAL '24",
+      "stats": {
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

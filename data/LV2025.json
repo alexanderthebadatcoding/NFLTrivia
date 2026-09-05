@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Geno Smith",
+      "team": "LV '25",
+      "stats": {
+        "yds": 3025,
+        "td": 19,
+        "int": 17
+      }
+    },
+    {
+      "name": "Kenny Pickett",
+      "team": "LV '25",
+      "stats": {
+        "yds": 188,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV '25",
+      "stats": {
+        "yds": 102,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Raheem Mostert",
+      "team": "LV '25",
+      "stats": {
+        "ryds": 104,
+        "rtd": 0,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Zamir White",
+      "team": "LV '25",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Dylan Laube",
+      "team": "LV '25",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ashton Jeanty",
+      "team": "LV '25",
+      "stats": {
+        "ryds": 975,
+        "rtd": 5,
+        "recyds": 346,
+        "rectd": 5,
+        "rec": 55
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Lockett",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 291,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Alex Bachman",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tre Tucker",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 696,
+        "rectd": 5,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Shedrick Jackson",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Dont'e Thornton Jr.",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jack Bech",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ian Thomas",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Albert Okwuegbunam",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Michael Mayer",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 328,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Brock Bowers",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 680,
+        "rectd": 7,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Carter Runyon",
+      "team": "LV '25",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

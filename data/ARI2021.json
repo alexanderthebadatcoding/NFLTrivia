@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "ARI '21",
+      "stats": {
+        "yds": 740,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '21",
+      "stats": {
+        "yds": 3787,
+        "td": 24,
+        "int": 10
+      }
+    },
+    {
+      "name": "Chris Streveler",
+      "team": "ARI '21",
+      "stats": {
+        "yds": 36,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Conner",
+      "team": "ARI '21",
+      "stats": {
+        "ryds": 752,
+        "rtd": 15,
+        "recyds": 375,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Chase Edmonds",
+      "team": "ARI '21",
+      "stats": {
+        "ryds": 592,
+        "rtd": 2,
+        "recyds": 311,
+        "rectd": 0,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Jonathan Ward",
+      "team": "ARI '21",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Eno Benjamin",
+      "team": "ARI '21",
+      "stats": {
+        "ryds": 118,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Green",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 848,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 572,
+        "rectd": 8,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 982,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Antoine Wesley",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 208,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Greg Dortch",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Andy Isabella",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rondale Moore",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 435,
+        "rectd": 1,
+        "rec": 54
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 763,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Demetrius Harris",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Maxx Williams",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Darrell Daniels",
+      "team": "ARI '21",
+      "stats": {
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

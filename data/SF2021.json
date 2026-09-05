@@ -1,0 +1,188 @@
+{
+  "QB": [
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '21",
+      "stats": {
+        "yds": 3810,
+        "td": 20,
+        "int": 12
+      }
+    },
+    {
+      "name": "Trey Lance",
+      "team": "SF '21",
+      "stats": {
+        "yds": 603,
+        "td": 5,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 294,
+        "rtd": 2,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Trenton Cannon",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jacques Patrick",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "JaMycal Hasty",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 68,
+        "rtd": 1,
+        "recyds": 157,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Elijah Mitchell",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 963,
+        "rtd": 5,
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Trey Sermon",
+      "team": "SF '21",
+      "stats": {
+        "ryds": 167,
+        "rtd": 1,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mohamed Sanu",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 177,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Trent Sherfield",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 1405,
+        "rectd": 6,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 282,
+        "rectd": 5,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 826,
+        "rectd": 5,
+        "rec": 56
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "George Kittle",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 910,
+        "rectd": 6,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Charlie Woerner",
+      "team": "SF '21",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '23",
+      "stats": {
+        "yds": 3678,
+        "td": 24,
+        "int": 7
+      }
+    },
+    {
+      "name": "Tyler Huntley",
+      "team": "BAL '23",
+      "stats": {
+        "yds": 203,
+        "td": 3,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Melvin Gordon",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 81,
+        "rtd": 1,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 810,
+        "rtd": 13,
+        "recyds": 180,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 387,
+        "rtd": 3,
+        "recyds": 206,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Keaton Mitchell",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 396,
+        "rtd": 2,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 565,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 381,
+        "rectd": 4,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rashod Bateman",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 367,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Tylan Wallace",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Zay Flowers",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 858,
+        "rectd": 5,
+        "rec": 77
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 544,
+        "rectd": 6,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Isaiah Likely",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 411,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '19",
+      "stats": {
+        "yds": 3978,
+        "td": 27,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 772,
+        "rtd": 8,
+        "recyds": 180,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 544,
+        "rtd": 6,
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Matt Breida",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 623,
+        "rtd": 1,
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "SF '19",
+      "stats": {
+        "ryds": 105,
+        "rtd": 4,
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Emmanuel Sanders",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 869,
+        "rectd": 5,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 358,
+        "rectd": 5,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 109,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 802,
+        "rectd": 3,
+        "rec": 57
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Levine Toilolo",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 1053,
+        "rectd": 5,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '19",
+      "stats": {
+        "recyds": 91,
+        "rectd": 2,
+        "rec": 15
+      }
+    }
+  ]
+}

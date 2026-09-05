@@ -1,0 +1,211 @@
+{
+  "QB": [
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '22",
+      "stats": {
+        "yds": 2242,
+        "td": 17,
+        "int": 7
+      }
+    },
+    {
+      "name": "Tyler Huntley",
+      "team": "BAL '22",
+      "stats": {
+        "yds": 658,
+        "td": 2,
+        "int": 3
+      }
+    },
+    {
+      "name": "Anthony Brown",
+      "team": "BAL '22",
+      "stats": {
+        "yds": 302,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Davis",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 482,
+        "rtd": 4,
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 433,
+        "rtd": 3,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 262,
+        "rtd": 0,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "BAL '22",
+      "stats": {
+        "ryds": 520,
+        "rtd": 2,
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Sammy Watkins",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 325,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 458,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Andy Isabella",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Proche",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 407,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Rashod Bateman",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 285,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Tylan Wallace",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 847,
+        "rectd": 5,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 149,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Isaiah Likely",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 373,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "BAL '22",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

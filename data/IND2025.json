@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Philip Rivers",
+      "team": "IND '25",
+      "stats": {
+        "yds": 544,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "IND '25",
+      "stats": {
+        "yds": 3101,
+        "td": 19,
+        "int": 8
+      }
+    },
+    {
+      "name": "Anthony Richardson",
+      "team": "IND '25",
+      "stats": {
+        "yds": 9,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Riley Leonard",
+      "team": "IND '25",
+      "stats": {
+        "yds": 415,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ameer Abdullah",
+      "team": "IND '25",
+      "stats": {
+        "ryds": 60,
+        "rtd": 1,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '25",
+      "stats": {
+        "ryds": 1585,
+        "rtd": 18,
+        "recyds": 378,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Tyler Goodson",
+      "team": "IND '25",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "DJ Giddens",
+      "team": "IND '25",
+      "stats": {
+        "ryds": 96,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ashton Dulin",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 784,
+        "rectd": 7,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 1003,
+        "rectd": 6,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Josh Downs",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 566,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Anthony Gould",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mo Alie-Cox",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Andrew Ogletree",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Will Mallory",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tyler Warren",
+      "team": "IND '25",
+      "stats": {
+        "recyds": 817,
+        "rectd": 4,
+        "rec": 76
+      }
+    }
+  ]
+}

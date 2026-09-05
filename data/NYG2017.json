@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '17",
+      "stats": {
+        "yds": 3468,
+        "td": 19,
+        "int": 13
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "NYG '17",
+      "stats": {
+        "yds": 212,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shane Vereen",
+      "team": "NYG '17",
+      "stats": {
+        "ryds": 164,
+        "rtd": 0,
+        "recyds": 253,
+        "rectd": 0,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Orleans Darkwa",
+      "team": "NYG '17",
+      "stats": {
+        "ryds": 751,
+        "rtd": 5,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Paul Perkins",
+      "team": "NYG '17",
+      "stats": {
+        "ryds": 90,
+        "rtd": 0,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Wayne Gallman",
+      "team": "NYG '17",
+      "stats": {
+        "ryds": 476,
+        "rtd": 0,
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 34
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Marshall",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Tavarres King",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 240,
+        "rectd": 3,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 302,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Sterling Shepard",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 731,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darius Powe",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Roger Lewis",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 416,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Hunter Sharp",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 54,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Travis Rudolph",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rhett Ellison",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 235,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jerell Adams",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "team": "NYG '17",
+      "stats": {
+        "recyds": 722,
+        "rectd": 6,
+        "rec": 64
+      }
+    }
+  ]
+}

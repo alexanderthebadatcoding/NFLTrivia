@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Nick Foles",
+      "team": "PHI '17",
+      "stats": {
+        "yds": 537,
+        "td": 5,
+        "int": 2
+      }
+    },
+    {
+      "name": "Nate Sudfeld",
+      "team": "PHI '17",
+      "stats": {
+        "yds": 134,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '17",
+      "stats": {
+        "yds": 3296,
+        "td": 33,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 61,
+        "rtd": 0,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "LeGarrette Blount",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 766,
+        "rtd": 2,
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Kenjon Barner",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 57,
+        "rtd": 1,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jay Ajayi",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 873,
+        "rtd": 1,
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Wendell Smallwood",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 174,
+        "rtd": 1,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Corey Clement",
+      "team": "PHI '17",
+      "stats": {
+        "ryds": 321,
+        "rtd": 4,
+        "recyds": 123,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Torrey Smith",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 430,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 789,
+        "rectd": 9,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 768,
+        "rectd": 8,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Marcus Johnson",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 226,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Shelton Gibson",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 130,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 824,
+        "rectd": 8,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Trey Burton",
+      "team": "PHI '17",
+      "stats": {
+        "recyds": 248,
+        "rectd": 5,
+        "rec": 23
+      }
+    }
+  ]
+}

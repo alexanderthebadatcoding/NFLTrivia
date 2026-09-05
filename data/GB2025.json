@@ -1,0 +1,187 @@
+{
+  "QB": [
+    {
+      "name": "Jordan Love",
+      "team": "GB '25",
+      "stats": {
+        "yds": 3381,
+        "td": 23,
+        "int": 6
+      }
+    },
+    {
+      "name": "Malik Willis",
+      "team": "GB '25",
+      "stats": {
+        "yds": 422,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Clayton Tune",
+      "team": "GB '25",
+      "stats": {
+        "yds": 42,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Josh Jacobs",
+      "team": "GB '25",
+      "stats": {
+        "ryds": 929,
+        "rtd": 13,
+        "recyds": 282,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Chris Brooks",
+      "team": "GB '25",
+      "stats": {
+        "ryds": 106,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Emanuel Wilson",
+      "team": "GB '25",
+      "stats": {
+        "ryds": 496,
+        "rtd": 3,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Romeo Doubs",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 724,
+        "rectd": 6,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Christian Watson",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 611,
+        "rectd": 6,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 332,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Malik Heath",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jayden Reed",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 207,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Savion Williams",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jakobie Keeney-James",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Matthew Golden",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 361,
+        "rectd": 0,
+        "rec": 29
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John FitzPatrick",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Josh Whyle",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tucker Kraft",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 489,
+        "rectd": 6,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Luke Musgrave",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 252,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Drake Dabney",
+      "team": "GB '25",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

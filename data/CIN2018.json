@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '18",
+      "stats": {
+        "yds": 2566,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "Jeff Driskel",
+      "team": "CIN '18",
+      "stats": {
+        "yds": 1003,
+        "td": 6,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '18",
+      "stats": {
+        "ryds": 211,
+        "rtd": 3,
+        "recyds": 218,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "CIN '18",
+      "stats": {
+        "ryds": 1168,
+        "rtd": 8,
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Jordan Franks",
+      "team": "CIN '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mark Walton",
+      "team": "CIN '18",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "A.J. Green",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 694,
+        "rectd": 6,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Alex Erickson",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Cody Core",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Tyler Boyd",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 1028,
+        "rectd": 7,
+        "rec": 76
+      }
+    },
+    {
+      "name": "John Ross",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 210,
+        "rectd": 7,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Josh Malone",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Auden Tate",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Eifert",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Matt Lengel",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 17,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 439,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "CIN '18",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

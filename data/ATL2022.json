@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Marcus Mariota",
+      "team": "ATL '22",
+      "stats": {
+        "yds": 2219,
+        "td": 15,
+        "int": 9
+      }
+    },
+    {
+      "name": "Desmond Ridder",
+      "team": "ATL '22",
+      "stats": {
+        "yds": 708,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 695,
+        "rtd": 8,
+        "recyds": 122,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Damien Williams",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Keith Smith",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Caleb Huntley",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 366,
+        "rtd": 1,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Avery Williams",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 109,
+        "rtd": 1,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Tyler Allgeier",
+      "team": "ATL '22",
+      "stats": {
+        "ryds": 1035,
+        "rtd": 3,
+        "recyds": 139,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Damiere Byrd",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 202,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 533,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Bryan Edwards",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Frank Darby",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Drake London",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 866,
+        "rectd": 4,
+        "rec": 72
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "MyCole Pruitt",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 150,
+        "rectd": 4,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Parker Hesse",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kyle Pitts",
+      "team": "ATL '22",
+      "stats": {
+        "recyds": 356,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ]
+}

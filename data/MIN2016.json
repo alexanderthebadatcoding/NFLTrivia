@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "MIN '16",
+      "stats": {
+        "yds": 242,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Sam Bradford",
+      "team": "MIN '16",
+      "stats": {
+        "yds": 3877,
+        "td": 20,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "MIN '16",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Matt Asiata",
+      "team": "MIN '16",
+      "stats": {
+        "ryds": 402,
+        "rtd": 6,
+        "recyds": 263,
+        "rectd": 0,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Zach Line",
+      "team": "MIN '16",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jerick McKinnon",
+      "team": "MIN '16",
+      "stats": {
+        "ryds": 539,
+        "rtd": 2,
+        "recyds": 255,
+        "rectd": 2,
+        "rec": 43
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jarius Wright",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 967,
+        "rectd": 5,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Charles D. Johnson",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 232,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 453,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 903,
+        "rectd": 3,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 840,
+        "rectd": 7,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Rhett Ellison",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "David Morgan",
+      "team": "MIN '16",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

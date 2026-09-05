@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Taylor Heinicke",
+      "team": "ATL '23",
+      "stats": {
+        "yds": 890,
+        "td": 5,
+        "int": 4
+      }
+    },
+    {
+      "name": "Logan Woodside",
+      "team": "ATL '23",
+      "stats": {
+        "yds": 27,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Desmond Ridder",
+      "team": "ATL '23",
+      "stats": {
+        "yds": 2836,
+        "td": 12,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "ATL '23",
+      "stats": {
+        "ryds": 181,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Keith Smith",
+      "team": "ATL '23",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tyler Allgeier",
+      "team": "ATL '23",
+      "stats": {
+        "ryds": 683,
+        "rtd": 4,
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL '23",
+      "stats": {
+        "ryds": 976,
+        "rtd": 4,
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 58
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mack Hollins",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 251,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 232,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 161,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Van Jefferson",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 209,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Drake London",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 905,
+        "rectd": 2,
+        "rec": 69
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "MyCole Pruitt",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 110,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 582,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Kyle Pitts",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 667,
+        "rectd": 3,
+        "rec": 53
+      }
+    },
+    {
+      "name": "John FitzPatrick",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tucker Fisk",
+      "team": "ATL '23",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

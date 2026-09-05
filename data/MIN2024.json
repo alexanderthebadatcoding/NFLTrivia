@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Nick Mullens",
+      "team": "MIN '24",
+      "stats": {
+        "yds": 38,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "MIN '24",
+      "stats": {
+        "yds": 4319,
+        "td": 35,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '24",
+      "stats": {
+        "ryds": 10,
+        "rtd": 1,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "MIN '24",
+      "stats": {
+        "ryds": 1138,
+        "rtd": 5,
+        "recyds": 408,
+        "rectd": 2,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIN '24",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "MIN '24",
+      "stats": {
+        "ryds": 444,
+        "rtd": 2,
+        "recyds": 68,
+        "rectd": 3,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Ty Chandler",
+      "team": "MIN '24",
+      "stats": {
+        "ryds": 182,
+        "rtd": 0,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Trent Sherfield",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 83,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brandon Powell",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 1533,
+        "rectd": 10,
+        "rec": 103
+      }
+    },
+    {
+      "name": "Jalen Nailor",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 414,
+        "rectd": 6,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Jordan Addison",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 875,
+        "rectd": 9,
+        "rec": 63
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Johnny Mundt",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 142,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 455,
+        "rectd": 0,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "MIN '24",
+      "stats": {
+        "recyds": 258,
+        "rectd": 3,
+        "rec": 22
+      }
+    }
+  ]
+}

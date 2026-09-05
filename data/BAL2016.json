@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "BAL '16",
+      "stats": {
+        "yds": 4317,
+        "td": 20,
+        "int": 15
+      }
+    },
+    {
+      "name": "Ryan Mallett",
+      "team": "BAL '16",
+      "stats": {
+        "yds": 26,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Juszczyk",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 266,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Lorenzo Taliaferro",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Terrance West",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 774,
+        "rtd": 5,
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Javorius Allen",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kenneth Dixon",
+      "team": "BAL '16",
+      "stats": {
+        "ryds": 382,
+        "rtd": 2,
+        "recyds": 162,
+        "rectd": 1,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Steve Smith",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 799,
+        "rectd": 5,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Mike Wallace",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 1017,
+        "rectd": 4,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Kamar Aiken",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 328,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 499,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dennis Pitta",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 729,
+        "rectd": 2,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Crockett Gillmore",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "team": "BAL '16",
+      "stats": {
+        "recyds": 85,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ]
+}

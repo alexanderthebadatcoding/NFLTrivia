@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Blake Bortles",
+      "team": "JAX '16",
+      "stats": {
+        "yds": 3905,
+        "td": 23,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Ivory",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 439,
+        "rtd": 3,
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Joe Banyard",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Denard Robinson",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 144,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Corey Grant",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 164,
+        "rtd": 1,
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "T.J. Yeldon",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 465,
+        "rtd": 1,
+        "recyds": 312,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Bronson Hill",
+      "team": "JAX '16",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bryan Walters",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 231,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Arrelious Benn",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Allen Hurns",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 477,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Tony Washington",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 883,
+        "rectd": 6,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Marqise Lee",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 851,
+        "rectd": 3,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Shane Wynn",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rashad Greene",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 169,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Julius Thomas",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 281,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Neal Sterling",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Ben Koyack",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 161,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Alex Ellis",
+      "team": "JAX '16",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

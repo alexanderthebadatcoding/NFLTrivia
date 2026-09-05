@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '18",
+      "stats": {
+        "yds": 4442,
+        "td": 25,
+        "int": 2
+      }
+    },
+    {
+      "name": "DeShone Kizer",
+      "team": "GB '18",
+      "stats": {
+        "yds": 187,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kapri Bibbs",
+      "team": "GB '18",
+      "stats": {
+        "ryds": 103,
+        "rtd": 3,
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Danny Vitale",
+      "team": "GB '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "GB '18",
+      "stats": {
+        "ryds": 728,
+        "rtd": 8,
+        "recyds": 206,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jamaal Williams",
+      "team": "GB '18",
+      "stats": {
+        "ryds": 464,
+        "rtd": 3,
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 383,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 1386,
+        "rectd": 13,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Jake Kumerow",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Geronimo Allison",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 303,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "J'Mon Moore",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 581,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Equanimeous St. Brown",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 328,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jimmy Graham",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 636,
+        "rectd": 2,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Lance Kendricks",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "GB '18",
+      "stats": {
+        "recyds": 77,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

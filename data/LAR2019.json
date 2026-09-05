@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Blake Bortles",
+      "team": "LAR '19",
+      "stats": {
+        "yds": 3,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "LAR '19",
+      "stats": {
+        "yds": 4638,
+        "td": 22,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '19",
+      "stats": {
+        "ryds": 255,
+        "rtd": 5,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Todd Gurley",
+      "team": "LAR '19",
+      "stats": {
+        "ryds": 857,
+        "rtd": 12,
+        "recyds": 207,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "John Kelly",
+      "team": "LAR '19",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LAR '19",
+      "stats": {
+        "ryds": 147,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 1134,
+        "rectd": 2,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Brandin Cooks",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 583,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 1161,
+        "rectd": 10,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 326,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 734,
+        "rectd": 3,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Johnny Mundt",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LAR '19",
+      "stats": {
+        "recyds": 408,
+        "rectd": 2,
+        "rec": 37
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Trevor Siemian",
+      "team": "NYJ '23",
+      "stats": {
+        "yds": 724,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Tim Boyle",
+      "team": "NYJ '23",
+      "stats": {
+        "yds": 360,
+        "td": 1,
+        "int": 4
+      }
+    },
+    {
+      "name": "Zach Wilson",
+      "team": "NYJ '23",
+      "stats": {
+        "yds": 2271,
+        "td": 8,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dalvin Cook",
+      "team": "NYJ '23",
+      "stats": {
+        "ryds": 214,
+        "rtd": 0,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Nick Bawden",
+      "team": "NYJ '23",
+      "stats": {
+        "ryds": 4,
+        "rtd": 1,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Breece Hall",
+      "team": "NYJ '23",
+      "stats": {
+        "ryds": 994,
+        "rtd": 5,
+        "recyds": 591,
+        "rectd": 4,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Israel Abanikanda",
+      "team": "NYJ '23",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randall Cobb",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Allen Lazard",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 311,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Malik Taylor",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 1042,
+        "rectd": 3,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Jason Brownlee",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Xavier Gipson",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 229,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "C.J. Uzomah",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 621,
+        "rectd": 0,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Kenny Yeboah",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jeremy Ruckert",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ]
+}

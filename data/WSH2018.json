@@ -1,0 +1,218 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "WSH '18",
+      "stats": {
+        "yds": 2180,
+        "td": 10,
+        "int": 5
+      }
+    },
+    {
+      "name": "Josh Johnson",
+      "team": "WSH '18",
+      "stats": {
+        "yds": 590,
+        "td": 3,
+        "int": 4
+      }
+    },
+    {
+      "name": "Mark Sanchez",
+      "team": "WSH '18",
+      "stats": {
+        "yds": 138,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Colt McCoy",
+      "team": "WSH '18",
+      "stats": {
+        "yds": 372,
+        "td": 3,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "WSH '18",
+      "stats": {
+        "ryds": 1042,
+        "rtd": 7,
+        "recyds": 208,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '18",
+      "stats": {
+        "ryds": 178,
+        "rtd": 0,
+        "recyds": 268,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Rob Kelley",
+      "team": "WSH '18",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Byron Marshall",
+      "team": "WSH '18",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "WSH '18",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Michael Floyd",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 100,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Brian Quick",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Paul Richardson",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 262,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Maurice Harris",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 304,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Josh Doctson",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 532,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Jehu Chesson",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Trey Quinn",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darvin Kidsy",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 367,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 558,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Jeremy Sprinkle",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Matt Flanagan",
+      "team": "WSH '18",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

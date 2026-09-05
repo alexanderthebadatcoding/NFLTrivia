@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '25",
+      "stats": {
+        "yds": 3587,
+        "td": 22,
+        "int": 11
+      }
+    },
+    {
+      "name": "Gardner Minshew",
+      "team": "KC '25",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Shane Buechele",
+      "team": "KC '25",
+      "stats": {
+        "yds": 88,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Chris Oladokun",
+      "team": "KC '25",
+      "stats": {
+        "yds": 235,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kareem Hunt",
+      "team": "KC '25",
+      "stats": {
+        "ryds": 611,
+        "rtd": 8,
+        "recyds": 143,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '25",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC '25",
+      "stats": {
+        "ryds": 462,
+        "rtd": 1,
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Dameon Pierce",
+      "team": "KC '25",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Brashard Smith",
+      "team": "KC '25",
+      "stats": {
+        "ryds": 151,
+        "rtd": 0,
+        "recyds": 172,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 345,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 587,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Tyquan Thornton",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 438,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Nikko Remigio",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rashee Rice",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 571,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Xavier Worthy",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 532,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jalen Royals",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 851,
+        "rectd": 5,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Robert Tonyan",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 178,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jared Wiley",
+      "team": "KC '25",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

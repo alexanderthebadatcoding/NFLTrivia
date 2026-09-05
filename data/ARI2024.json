@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Kyler Murray",
+      "team": "ARI '24",
+      "stats": {
+        "yds": 3851,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "Clayton Tune",
+      "team": "ARI '24",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Conner",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 1094,
+        "rtd": 8,
+        "recyds": 414,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Tony Jones",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 55,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "DeeJay Dallas",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Carter",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 131,
+        "rtd": 1,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Emari Demercado",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 223,
+        "rtd": 1,
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Trey Benson",
+      "team": "ARI '24",
+      "stats": {
+        "ryds": 291,
+        "rtd": 1,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Zay Jones",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Greg Dortch",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 342,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 548,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Marvin Harrison Jr.",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 885,
+        "rectd": 8,
+        "rec": 62
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Trey McBride",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 1146,
+        "rectd": 2,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Elijah Higgins",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 172,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Tip Reiman",
+      "team": "ARI '24",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

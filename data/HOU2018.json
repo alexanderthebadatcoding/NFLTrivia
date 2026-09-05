@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Deshaun Watson",
+      "team": "HOU '18",
+      "stats": {
+        "yds": 4165,
+        "td": 26,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lamar Miller",
+      "team": "HOU '18",
+      "stats": {
+        "ryds": 973,
+        "rtd": 5,
+        "recyds": 163,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Alfred Blue",
+      "team": "HOU '18",
+      "stats": {
+        "ryds": 499,
+        "rtd": 2,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Tyler Ervin",
+      "team": "HOU '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "D'Onta Foreman",
+      "team": "HOU '18",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Demaryius Thomas",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 677,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 1572,
+        "rectd": 11,
+        "rec": 115
+      }
+    },
+    {
+      "name": "DeAndre Carter",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Sammie Coates",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Will Fuller",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 503,
+        "rectd": 4,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Keke Coutee",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 287,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Vyncint Smith",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 305,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jordan Akins",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jordan Thomas",
+      "team": "HOU '18",
+      "stats": {
+        "recyds": 215,
+        "rectd": 4,
+        "rec": 20
+      }
+    }
+  ]
+}

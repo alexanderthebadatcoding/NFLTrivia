@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "BAL '18",
+      "stats": {
+        "yds": 2465,
+        "td": 12,
+        "int": 6
+      }
+    },
+    {
+      "name": "Robert Griffin III",
+      "team": "BAL '18",
+      "stats": {
+        "yds": 21,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '18",
+      "stats": {
+        "yds": 1201,
+        "td": 6,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Javorius Allen",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 110,
+        "rtd": 3,
+        "recyds": 196,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Ty Montgomery",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 188,
+        "rtd": 1,
+        "recyds": 235,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kenneth Dixon",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 333,
+        "rtd": 2,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Alex Collins",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 411,
+        "rtd": 7,
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 718,
+        "rtd": 2,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "De'Lance Turner",
+      "team": "BAL '18",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Michael Crabtree",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 607,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Willie Snead",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 651,
+        "rectd": 1,
+        "rec": 62
+      }
+    },
+    {
+      "name": "John Brown",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 715,
+        "rectd": 5,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 196,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Tim White",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Maxx Williams",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 143,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 213,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Hayden Hurst",
+      "team": "BAL '18",
+      "stats": {
+        "recyds": 163,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ]
+}

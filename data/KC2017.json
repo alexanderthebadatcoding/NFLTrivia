@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "KC '17",
+      "stats": {
+        "yds": 4042,
+        "td": 26,
+        "int": 5
+      }
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '17",
+      "stats": {
+        "yds": 284,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '17",
+      "stats": {
+        "ryds": 40,
+        "rtd": 1,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Charcandrick West",
+      "team": "KC '17",
+      "stats": {
+        "ryds": 72,
+        "rtd": 2,
+        "recyds": 150,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Akeem Hunt",
+      "team": "KC '17",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "KC '17",
+      "stats": {
+        "ryds": 1327,
+        "rtd": 8,
+        "recyds": 455,
+        "rectd": 3,
+        "rec": 53
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Albert Wilson",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 554,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "De'Anthony Thomas",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 143,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 175,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 212,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 1183,
+        "rectd": 7,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Jehu Chesson",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Orson Charles",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Demetrius Harris",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 224,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '17",
+      "stats": {
+        "recyds": 1038,
+        "rectd": 8,
+        "rec": 83
+      }
+    }
+  ]
+}

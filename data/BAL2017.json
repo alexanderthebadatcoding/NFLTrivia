@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "BAL '17",
+      "stats": {
+        "yds": 3141,
+        "td": 18,
+        "int": 13
+      }
+    },
+    {
+      "name": "Ryan Mallett",
+      "team": "BAL '17",
+      "stats": {
+        "yds": 56,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Danny Woodhead",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 56,
+        "rtd": 0,
+        "recyds": 200,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Bobby Rainey",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Terrance West",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 138,
+        "rtd": 2,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Javorius Allen",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 591,
+        "rtd": 4,
+        "recyds": 250,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Alex Collins",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 973,
+        "rtd": 6,
+        "recyds": 187,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '17",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 2,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Wallace",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 748,
+        "rectd": 4,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 440,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Chris Matthews",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Griff Whalen",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Michael Campanaro",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Moore",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 248,
+        "rectd": 3,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Benjamin Watson",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 522,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Maxx Williams",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 86,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '17",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 28
+      }
+    }
+  ]
+}

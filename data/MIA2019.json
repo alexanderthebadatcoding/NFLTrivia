@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "MIA '19",
+      "stats": {
+        "yds": 3529,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "Josh Rosen",
+      "team": "MIA '19",
+      "stats": {
+        "yds": 567,
+        "td": 1,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Samaje Perine",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "De'Lance Turner",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Mark Walton",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 201,
+        "rtd": 0,
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kalen Ballage",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 135,
+        "rtd": 3,
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Myles Gaskin",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 133,
+        "rtd": 1,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Patrick Laird",
+      "team": "MIA '19",
+      "stats": {
+        "ryds": 168,
+        "rtd": 1,
+        "recyds": 204,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Albert Wilson",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 351,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Allen Hurns",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 416,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 1202,
+        "rectd": 9,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Trevor Davis",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jakeem Grant",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Isaiah Ford",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 244,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Preston Williams",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 428,
+        "rectd": 3,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Clive Walford",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Durham Smythe",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "MIA '19",
+      "stats": {
+        "recyds": 570,
+        "rectd": 5,
+        "rec": 51
+      }
+    }
+  ]
+}

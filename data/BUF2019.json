@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Matt Barkley",
+      "team": "BUF '19",
+      "stats": {
+        "yds": 359,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF '19",
+      "stats": {
+        "yds": 3089,
+        "td": 20,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 599,
+        "rtd": 2,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Senorise Perry",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "T.J. Yeldon",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "BUF '19",
+      "stats": {
+        "ryds": 775,
+        "rtd": 2,
+        "recyds": 194,
+        "rectd": 2,
+        "rec": 29
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Roberts",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 778,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "John Brown",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 1060,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Duke Williams",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 166,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Isaiah McKenzie",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 254,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Robert Foster",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lee Smith",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tommy Sweeney",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF '19",
+      "stats": {
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ]
+}

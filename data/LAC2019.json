@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Philip Rivers",
+      "team": "LAC '19",
+      "stats": {
+        "yds": 4615,
+        "td": 23,
+        "int": 20
+      }
+    },
+    {
+      "name": "Tyrod Taylor",
+      "team": "LAC '19",
+      "stats": {
+        "yds": 33,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Melvin Gordon",
+      "team": "LAC '19",
+      "stats": {
+        "ryds": 612,
+        "rtd": 8,
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Derek Watt",
+      "team": "LAC '19",
+      "stats": {
+        "ryds": 10,
+        "rtd": 1,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Troymaine Pope",
+      "team": "LAC '19",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "LAC '19",
+      "stats": {
+        "ryds": 557,
+        "rtd": 3,
+        "recyds": 993,
+        "rectd": 8,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Justin Jackson",
+      "team": "LAC '19",
+      "stats": {
+        "ryds": 200,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Travis Benjamin",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 1199,
+        "rectd": 6,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Geremy Davis",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 1001,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Andre Patton",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jason Moore",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Lance Kendricks",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Virgil Green",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 652,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Sean Culkin",
+      "team": "LAC '19",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

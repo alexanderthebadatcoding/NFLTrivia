@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "Blaine Gabbert",
+      "team": "TEN '18",
+      "stats": {
+        "yds": 626,
+        "td": 4,
+        "int": 4
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "TEN '18",
+      "stats": {
+        "yds": 2528,
+        "td": 11,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dion Lewis",
+      "team": "TEN '18",
+      "stats": {
+        "ryds": 517,
+        "rtd": 1,
+        "recyds": 400,
+        "rectd": 1,
+        "rec": 59
+      }
+    },
+    {
+      "name": "David Fluellen",
+      "team": "TEN '18",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '18",
+      "stats": {
+        "ryds": 1059,
+        "rtd": 12,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darius Jennings",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tajae Sharpe",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 316,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Corey Davis",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 891,
+        "rectd": 4,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Taywan Taylor",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 466,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Cameron Batson",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 165,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "MyCole Pruitt",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 102,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 225,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "TEN '18",
+      "stats": {
+        "recyds": 258,
+        "rectd": 3,
+        "rec": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Teddy Bridgewater",
+      "team": "DEN '21",
+      "stats": {
+        "yds": 3052,
+        "td": 18,
+        "int": 7
+      }
+    },
+    {
+      "name": "Drew Lock",
+      "team": "DEN '21",
+      "stats": {
+        "yds": 787,
+        "td": 2,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Melvin Gordon",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 918,
+        "rtd": 8,
+        "recyds": 213,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Damarea Crockett",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Javonte Williams",
+      "team": "DEN '21",
+      "stats": {
+        "ryds": 903,
+        "rtd": 4,
+        "recyds": 316,
+        "rectd": 3,
+        "rec": 43
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Diontae Spencer",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": -3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 734,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 776,
+        "rectd": 2,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Kendall Hinton",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 175,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 467,
+        "rectd": 0,
+        "rec": 38
+      }
+    },
+    {
+      "name": "KJ Hamler",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Seth Williams",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Saubert",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Noah Fant",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 670,
+        "rectd": 4,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Albert Okwuegbunam",
+      "team": "DEN '21",
+      "stats": {
+        "recyds": 330,
+        "rectd": 2,
+        "rec": 33
+      }
+    }
+  ]
+}

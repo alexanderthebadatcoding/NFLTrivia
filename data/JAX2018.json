@@ -1,0 +1,206 @@
+{
+  "QB": [
+    {
+      "name": "Blake Bortles",
+      "team": "JAX '18",
+      "stats": {
+        "yds": 2718,
+        "td": 13,
+        "int": 11
+      }
+    },
+    {
+      "name": "Cody Kessler",
+      "team": "JAX '18",
+      "stats": {
+        "yds": 709,
+        "td": 2,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tommy Bohanon",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 571,
+        "rtd": 5,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Corey Grant",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "T.J. Yeldon",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 414,
+        "rtd": 1,
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Brandon Wilds",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Leonard Fournette",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 439,
+        "rtd": 5,
+        "recyds": 185,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Dave Williams",
+      "team": "JAX '18",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donte Moncrief",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 668,
+        "rectd": 3,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Rashad Greene",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Keelan Cole",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 491,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Dede Westbrook",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 717,
+        "rectd": 5,
+        "rec": 66
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Niles Paul",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Austin Seferian-Jenkins",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "James O'Shaughnessy",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "David Grinnage",
+      "team": "JAX '18",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

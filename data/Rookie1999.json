@@ -1,0 +1,824 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '99",
+      "stats": {
+        "yds": 2544,
+        "td": 11,
+        "int": 11
+      }
+    },
+    {
+      "name": "Tim Couch",
+      "team": "CLE '99",
+      "stats": {
+        "yds": 2447,
+        "td": 15,
+        "int": 13
+      }
+    },
+    {
+      "name": "Cade McNown",
+      "team": "CHI '99",
+      "stats": {
+        "yds": 1465,
+        "td": 8,
+        "int": 10
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '99",
+      "stats": {
+        "yds": 948,
+        "td": 8,
+        "int": 7
+      }
+    },
+    {
+      "name": "Shaun King",
+      "team": "TB '99",
+      "stats": {
+        "yds": 875,
+        "td": 7,
+        "int": 4
+      }
+    },
+    {
+      "name": "Akili Smith",
+      "team": "CIN '99",
+      "stats": {
+        "yds": 805,
+        "td": 2,
+        "int": 6
+      }
+    },
+    {
+      "name": "Matt Hasselbeck",
+      "team": "GB '99",
+      "stats": {
+        "yds": 41,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Joe Germaine",
+      "team": "LA '99",
+      "stats": {
+        "yds": 136,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Scott Covington",
+      "team": "CIN '99",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Chris Greisen",
+      "team": "ARI '99",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Edgerrin James",
+      "team": "IND '99",
+      "stats": {
+        "ryds": 1553,
+        "rtd": 13,
+        "recyds": 586,
+        "rectd": 4,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Olandis Gary",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 1159,
+        "rtd": 7,
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Ricky Williams",
+      "team": "NO '99",
+      "stats": {
+        "ryds": 884,
+        "rtd": 2,
+        "recyds": 172,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "J.J. Johnson",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 558,
+        "rtd": 4,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Sedrick Irvin",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 133,
+        "rtd": 4,
+        "recyds": 233,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Rob Konrad",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 251,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Michael Basnight",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 308,
+        "rtd": 0,
+        "recyds": 172,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Cecil Collins",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 414,
+        "rtd": 2,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 227,
+        "rtd": 1,
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Joe Montgomery",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 348,
+        "rtd": 3,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jermaine Fazande",
+      "team": "LAC '99",
+      "stats": {
+        "ryds": 365,
+        "rtd": 2,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "De'Mond Parker",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 184,
+        "rtd": 2,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Basil Mitchell",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 117,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Sean Bennett",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 126,
+        "rtd": 1,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Nicolas Luchey",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Joel Makovicka",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 70,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 128,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Autry Denson",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 98,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "James Hodgins",
+      "team": "LA '99",
+      "stats": {
+        "ryds": 10,
+        "rtd": 1,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "LA '99",
+      "stats": {
+        "ryds": 174,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Cecil Martin",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 75,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kevin McLeod",
+      "team": "TB '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Paul Shields",
+      "team": "IND '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Stacey Mack",
+      "team": "JAX '99",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Lennox Gordon",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Dennis McKinley",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marvin Powell",
+      "team": "NO '99",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kevin Johnson",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 986,
+        "rectd": 8,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Troy Edwards",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 714,
+        "rectd": 5,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Torry Holt",
+      "team": "LA '99",
+      "stats": {
+        "recyds": 752,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Terrence Wilkins",
+      "team": "IND '99",
+      "stats": {
+        "recyds": 565,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Darrin Chiaverini",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "David Boston",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 473,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 393,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jason Tucker",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 439,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Marty Booker",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 219,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Na Brown",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Darnell McDonald",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 96,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Damon Griffin",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Dameane Douglas",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Eugene Baker",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Andre Cooper",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Mac Cody",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Chris Brazzell",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Craig Yeast",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Wane McGarity",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Donald Driver",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Andy McCullough",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Yo Murphy",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Travis McGriff",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zola Davis",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Malcolm Johnson",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brian Finneran",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ronnie Powell",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "D'Wayne Bates",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Troy Smith",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Isaac Jones",
+      "team": "IND '99",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Robert Reed",
+      "team": "LAC '99",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bobby Collins",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 124,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Reggie Davis",
+      "team": "LAC '99",
+      "stats": {
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Mark Campbell",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jed Weaver",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Billy Miller",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Ryan Collins",
+      "team": "BAL '99",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mike Lucky",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Sheldon Jackson",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Lamont Hall",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Desmond Clark",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

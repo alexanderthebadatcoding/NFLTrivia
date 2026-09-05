@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Patrick Mahomes",
+      "team": "KC '22",
+      "stats": {
+        "yds": 5250,
+        "td": 41,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerick McKinnon",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 291,
+        "rtd": 1,
+        "recyds": 512,
+        "rectd": 9,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Michael Burton",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ronald Jones",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 70,
+        "rtd": 1,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 302,
+        "rtd": 3,
+        "recyds": 151,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC '22",
+      "stats": {
+        "ryds": 830,
+        "rtd": 5,
+        "recyds": 130,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 933,
+        "rectd": 3,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 687,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Justin Watson",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 315,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Mecole Hardman",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 297,
+        "rectd": 4,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kadarius Toney",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 171,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Skyy Moore",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 250,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Travis Kelce",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 1338,
+        "rectd": 12,
+        "rec": 110
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 20,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Joseph Fortson",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 108,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC '22",
+      "stats": {
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ]
+}

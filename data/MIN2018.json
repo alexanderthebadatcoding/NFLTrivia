@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '18",
+      "stats": {
+        "yds": 4298,
+        "td": 30,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Latavius Murray",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 578,
+        "rtd": 6,
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Ameer Abdullah",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 615,
+        "rtd": 2,
+        "recyds": 305,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Mike Boone",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 47,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Roc Thomas",
+      "team": "MIN '18",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Aldrick Robinson",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 231,
+        "rectd": 5,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 1373,
+        "rectd": 9,
+        "rec": 113
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 1021,
+        "rectd": 9,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Laquon Treadwell",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 302,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Brandon Zylstra",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chad Beebe",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 634,
+        "rectd": 4,
+        "rec": 64
+      }
+    },
+    {
+      "name": "David Morgan",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '18",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

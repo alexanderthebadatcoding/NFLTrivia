@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '20",
+      "stats": {
+        "yds": 130,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "NE '20",
+      "stats": {
+        "yds": 2657,
+        "td": 8,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jarrett Stidham",
+      "team": "NE '20",
+      "stats": {
+        "yds": 256,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rex Burkhead",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 274,
+        "rtd": 3,
+        "recyds": 192,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 121,
+        "rtd": 2,
+        "recyds": 375,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Sony Michel",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 449,
+        "rtd": 1,
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Damien Harris",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 691,
+        "rtd": 2,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "J.J. Taylor",
+      "team": "NE '20",
+      "stats": {
+        "ryds": 110,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julian Edelman",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 315,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Donte Moncrief",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Damiere Byrd",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 604,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 729,
+        "rectd": 0,
+        "rec": 59
+      }
+    },
+    {
+      "name": "N'Keal Harry",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 309,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Gunner Olszewski",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Isaiah Zuber",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Izzo",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 199,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Devin Asiasi",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dalton Keene",
+      "team": "NE '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

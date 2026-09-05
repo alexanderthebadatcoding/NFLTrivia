@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Teddy Bridgewater",
+      "team": "TB '25",
+      "stats": {
+        "yds": 62,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "TB '25",
+      "stats": {
+        "yds": 3693,
+        "td": 26,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rachaad White",
+      "team": "TB '25",
+      "stats": {
+        "ryds": 572,
+        "rtd": 4,
+        "recyds": 218,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Owen Wright",
+      "team": "TB '25",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Sean Tucker",
+      "team": "TB '25",
+      "stats": {
+        "ryds": 320,
+        "rtd": 7,
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Bucky Irving",
+      "team": "TB '25",
+      "stats": {
+        "ryds": 588,
+        "rtd": 1,
+        "recyds": 277,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Josh Williams",
+      "team": "TB '25",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Evans",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 368,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Sterling Shepard",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 371,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 360,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Ryan Miller",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kameron Johnson",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 64,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jalen McMillan",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 178,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Emeka Egbuka",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 938,
+        "rectd": 6,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Tez Johnson",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 322,
+        "rectd": 5,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Cade Otton",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 572,
+        "rectd": 1,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Payne Durham",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Culp",
+      "team": "TB '25",
+      "stats": {
+        "recyds": 6,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "LAR '20",
+      "stats": {
+        "yds": 3952,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "John Wolford",
+      "team": "LAR '20",
+      "stats": {
+        "yds": 231,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '20",
+      "stats": {
+        "ryds": 419,
+        "rtd": 5,
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LAR '20",
+      "stats": {
+        "ryds": 624,
+        "rtd": 5,
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "LAR '20",
+      "stats": {
+        "ryds": 625,
+        "rtd": 2,
+        "recyds": 123,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 936,
+        "rectd": 6,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 974,
+        "rectd": 3,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 618,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Van Jefferson",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 220,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 521,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Johnny Mundt",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LAR '20",
+      "stats": {
+        "recyds": 417,
+        "rectd": 1,
+        "rec": 41
+      }
+    }
+  ]
+}

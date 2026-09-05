@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Matt Moore",
+      "team": "MIA '16",
+      "stats": {
+        "yds": 721,
+        "td": 8,
+        "int": 3
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "MIA '16",
+      "stats": {
+        "yds": 2995,
+        "td": 19,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Arian Foster",
+      "team": "MIA '16",
+      "stats": {
+        "ryds": 55,
+        "rtd": 0,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Isaiah Pead",
+      "team": "MIA '16",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Damien Williams",
+      "team": "MIA '16",
+      "stats": {
+        "ryds": 115,
+        "rtd": 3,
+        "recyds": 249,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jay Ajayi",
+      "team": "MIA '16",
+      "stats": {
+        "ryds": 1272,
+        "rtd": 8,
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Kenyan Drake",
+      "team": "MIA '16",
+      "stats": {
+        "ryds": 179,
+        "rtd": 2,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kenny Stills",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 726,
+        "rectd": 9,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jarvis Landry",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 1136,
+        "rectd": 4,
+        "rec": 94
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 744,
+        "rectd": 4,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Leonte Carroo",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 29,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jordan Cameron",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Dominique Jones",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 61,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "MarQueis Gray",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Dion Sims",
+      "team": "MIA '16",
+      "stats": {
+        "recyds": 256,
+        "rectd": 4,
+        "rec": 26
+      }
+    }
+  ]
+}

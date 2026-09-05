@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Philip Rivers",
+      "team": "IND '20",
+      "stats": {
+        "yds": 4169,
+        "td": 24,
+        "int": 11
+      }
+    },
+    {
+      "name": "Jacoby Brissett",
+      "team": "IND '20",
+      "stats": {
+        "yds": 17,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marlon Mack",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Nyheim Hines",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 380,
+        "rtd": 3,
+        "recyds": 482,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Jordan Wilkins",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 308,
+        "rtd": 1,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jonathan Taylor",
+      "team": "IND '20",
+      "stats": {
+        "ryds": 1169,
+        "rtd": 11,
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 36
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "T.Y. Hilton",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 762,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Marcus Johnson",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 255,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Zach Pascal",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 629,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Daurice Fountain",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ashton Dulin",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Parris Campbell",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "De'Michael Harris",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 503,
+        "rectd": 1,
+        "rec": 40
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jack Doyle",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 251,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Trey Burton",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 250,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Mo Alie-Cox",
+      "team": "IND '20",
+      "stats": {
+        "recyds": 394,
+        "rectd": 2,
+        "rec": 31
+      }
+    }
+  ]
+}

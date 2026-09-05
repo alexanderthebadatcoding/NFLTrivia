@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Sean Mannion",
+      "team": "LAR '17",
+      "stats": {
+        "yds": 185,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jared Goff",
+      "team": "LAR '17",
+      "stats": {
+        "yds": 3804,
+        "td": 28,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lance Dunbar",
+      "team": "LAR '17",
+      "stats": {
+        "ryds": 51,
+        "rtd": 1,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Malcolm Brown",
+      "team": "LAR '17",
+      "stats": {
+        "ryds": 246,
+        "rtd": 1,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Todd Gurley",
+      "team": "LAR '17",
+      "stats": {
+        "ryds": 1305,
+        "rtd": 13,
+        "recyds": 788,
+        "rectd": 6,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Justin Davis",
+      "team": "LAR '17",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 781,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Tavon Austin",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Sammy Watkins",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 593,
+        "rectd": 8,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Pharoh Cooper",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 869,
+        "rectd": 5,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 104,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Derek Carrier",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 295,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Gerald Everett",
+      "team": "LAR '17",
+      "stats": {
+        "recyds": 244,
+        "rectd": 2,
+        "rec": 16
+      }
+    }
+  ]
+}

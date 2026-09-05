@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Case Keenum",
+      "team": "CLE '21",
+      "stats": {
+        "yds": 462,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "CLE '21",
+      "stats": {
+        "yds": 147,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "CLE '21",
+      "stats": {
+        "yds": 3010,
+        "td": 17,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Andy Janovich",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 0,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 386,
+        "rtd": 5,
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Johnny Stanton",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Nick Chubb",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 1259,
+        "rtd": 8,
+        "recyds": 174,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "John Kelly",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "D'Ernest Johnson",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 534,
+        "rtd": 3,
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Demetric Felton",
+      "team": "CLE '21",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 181,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jarvis Landry",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 570,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Rashard Higgins",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 275,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Ja'Marcus Bradley",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Donovan Peoples-Jones",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 597,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Anthony Schwartz",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 135,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Austin Hooper",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 345,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "David Njoku",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 475,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Harrison Bryant",
+      "team": "CLE '21",
+      "stats": {
+        "recyds": 233,
+        "rectd": 3,
+        "rec": 21
+      }
+    }
+  ]
+}

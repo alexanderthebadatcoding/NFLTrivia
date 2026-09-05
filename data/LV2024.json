@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Gardner Minshew",
+      "team": "LV '24",
+      "stats": {
+        "yds": 2013,
+        "td": 9,
+        "int": 10
+      }
+    },
+    {
+      "name": "Desmond Ridder",
+      "team": "LV '24",
+      "stats": {
+        "yds": 458,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV '24",
+      "stats": {
+        "yds": 1612,
+        "td": 8,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ameer Abdullah",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 311,
+        "rtd": 2,
+        "recyds": 261,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 420,
+        "rtd": 4,
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Tyreik McAllister",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Sincere McCormick",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 183,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Zamir White",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 183,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Chris Collier",
+      "team": "LV '24",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": -4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jakobi Meyers",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 1027,
+        "rectd": 4,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Alex Bachman",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kristian Wilkerson",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 18,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "DJ Turner",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Terrace Marshall Jr.",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tre Tucker",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 539,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Ramel Keyton",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Harrison Bryant",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "John Shenker",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Mayer",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Brock Bowers",
+      "team": "LV '24",
+      "stats": {
+        "recyds": 1194,
+        "rectd": 5,
+        "rec": 112
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Taylor Heinicke",
+      "team": "WSH '22",
+      "stats": {
+        "yds": 1859,
+        "td": 12,
+        "int": 6
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "WSH '22",
+      "stats": {
+        "yds": 1755,
+        "td": 11,
+        "int": 9
+      }
+    },
+    {
+      "name": "Sam Howell",
+      "team": "WSH '22",
+      "stats": {
+        "yds": 169,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "J.D. McKissic",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 95,
+        "rtd": 0,
+        "recyds": 173,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jonathan Williams",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 152,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Reggie Bonnafon",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 546,
+        "rtd": 3,
+        "recyds": 353,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Jaret Patterson",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 78,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "WSH '22",
+      "stats": {
+        "ryds": 797,
+        "rtd": 2,
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Curtis Samuel",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 656,
+        "rectd": 4,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Cam Sims",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 1191,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 143,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dax Milne",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 523,
+        "rectd": 7,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Thomas",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 323,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "John Bates",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 108,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Cole Turner",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Armani Rogers",
+      "team": "WSH '22",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

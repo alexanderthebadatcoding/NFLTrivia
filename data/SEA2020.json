@@ -1,0 +1,197 @@
+{
+  "QB": [
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '20",
+      "stats": {
+        "yds": 4212,
+        "td": 40,
+        "int": 13
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "SEA '20",
+      "stats": {
+        "yds": 33,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Nick Bellore",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 356,
+        "rtd": 4,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Alex Collins",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 77,
+        "rtd": 2,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Carson",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 681,
+        "rtd": 5,
+        "recyds": 287,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Bo Scarbrough",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Travis Homer",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 88,
+        "rtd": 0,
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "DeeJay Dallas",
+      "team": "SEA '20",
+      "stats": {
+        "ryds": 108,
+        "rtd": 2,
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 1054,
+        "rectd": 10,
+        "rec": 100
+      }
+    },
+    {
+      "name": "David Moore",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 417,
+        "rectd": 6,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Penny Hart",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 1303,
+        "rectd": 10,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Freddie Swain",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 159,
+        "rectd": 2,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 239,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jacob Hollister",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 209,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Will Dissly",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 251,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "SEA '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

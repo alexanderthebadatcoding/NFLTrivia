@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "MIN '21",
+      "stats": {
+        "yds": 4221,
+        "td": 33,
+        "int": 7
+      }
+    },
+    {
+      "name": "Sean Mannion",
+      "team": "MIN '21",
+      "stats": {
+        "yds": 189,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kellen Mond",
+      "team": "MIN '21",
+      "stats": {
+        "yds": 5,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "C.J. Ham",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Dalvin Cook",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 1159,
+        "rtd": 6,
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Wayne Gallman",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 104,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alexander Mattison",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 491,
+        "rtd": 3,
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Kene Nwangwu",
+      "team": "MIN '21",
+      "stats": {
+        "ryds": 61,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 726,
+        "rectd": 10,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Dede Westbrook",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 1616,
+        "rectd": 10,
+        "rec": 108
+      }
+    },
+    {
+      "name": "K.J. Osborn",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 655,
+        "rectd": 7,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Ihmir Smith-Marsette",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 116,
+        "rectd": 2,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luke Stocker",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 593,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Chris Herndon",
+      "team": "MIN '21",
+      "stats": {
+        "recyds": 40,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

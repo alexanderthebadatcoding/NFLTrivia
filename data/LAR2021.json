@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR '21",
+      "stats": {
+        "yds": 4886,
+        "td": 41,
+        "int": 17
+      }
+    },
+    {
+      "name": "John Wolford",
+      "team": "LAR '21",
+      "stats": {
+        "yds": 5,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Buddy Howell",
+      "team": "LAR '21",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Sony Michel",
+      "team": "LAR '21",
+      "stats": {
+        "ryds": 845,
+        "rtd": 4,
+        "recyds": 128,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Darrell Henderson",
+      "team": "LAR '21",
+      "stats": {
+        "ryds": 688,
+        "rtd": 5,
+        "recyds": 176,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Cam Akers",
+      "team": "LAR '21",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jake Funk",
+      "team": "LAR '21",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Woods",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 556,
+        "rectd": 4,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 537,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 1947,
+        "rectd": 16,
+        "rec": 145
+      }
+    },
+    {
+      "name": "Van Jefferson",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 802,
+        "rectd": 6,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Ben Skowronek",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 560,
+        "rectd": 5,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Johnny Mundt",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kendall Blanton",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brycen Hopkins",
+      "team": "LAR '21",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

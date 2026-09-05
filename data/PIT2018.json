@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '18",
+      "stats": {
+        "yds": 5129,
+        "td": 34,
+        "int": 16
+      }
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "PIT '18",
+      "stats": {
+        "yds": 43,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Stevan Ridley",
+      "team": "PIT '18",
+      "stats": {
+        "ryds": 80,
+        "rtd": 1,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Roosevelt Nix",
+      "team": "PIT '18",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "James Conner",
+      "team": "PIT '18",
+      "stats": {
+        "ryds": 973,
+        "rtd": 12,
+        "recyds": 497,
+        "rectd": 1,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jaylen Samuels",
+      "team": "PIT '18",
+      "stats": {
+        "ryds": 256,
+        "rtd": 0,
+        "recyds": 199,
+        "rectd": 3,
+        "rec": 26
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darrius Heyward-Bey",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Antonio Brown",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 1297,
+        "rectd": 15,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Justin Hunter",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Eli Rogers",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Ryan Switzer",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "JuJu Smith-Schuster",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 1426,
+        "rectd": 7,
+        "rec": 111
+      }
+    },
+    {
+      "name": "James Washington",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 217,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vance McDonald",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 610,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Xavier Grimble",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '18",
+      "stats": {
+        "recyds": 423,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ]
+}

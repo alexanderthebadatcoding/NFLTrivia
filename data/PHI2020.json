@@ -1,0 +1,220 @@
+{
+  "QB": [
+    {
+      "name": "Nate Sudfeld",
+      "team": "PHI '20",
+      "stats": {
+        "yds": 32,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '20",
+      "stats": {
+        "yds": 2620,
+        "td": 16,
+        "int": 15
+      }
+    },
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI '20",
+      "stats": {
+        "yds": 1061,
+        "td": 6,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jordan Howard",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 60,
+        "rtd": 4,
+        "recyds": -3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Corey Clement",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 75,
+        "rtd": 1,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Boston Scott",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 374,
+        "rtd": 1,
+        "recyds": 212,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 867,
+        "rtd": 6,
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Adrian Killins Jr.",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": -12,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jason Huntley",
+      "team": "PHI '20",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Greg Ward",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 419,
+        "rectd": 6,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Deontay Burnett",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "J.J. Arcega-Whiteside",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Travis Fulgham",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 539,
+        "rectd": 4,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Quez Watkins",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 106,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jalen Reagor",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 396,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "John Hightower",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 335,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Richard Rodgers",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 345,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jason Croom",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 3,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI '20",
+      "stats": {
+        "recyds": 524,
+        "rectd": 3,
+        "rec": 46
+      }
+    }
+  ]
+}

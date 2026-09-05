@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Jacoby Brissett",
+      "team": "NE '24",
+      "stats": {
+        "yds": 826,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Joe Milton III",
+      "team": "NE '24",
+      "stats": {
+        "yds": 241,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Drake Maye",
+      "team": "NE '24",
+      "stats": {
+        "yds": 2276,
+        "td": 15,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "JaMycal Hasty",
+      "team": "NE '24",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "NE '24",
+      "stats": {
+        "ryds": 538,
+        "rtd": 1,
+        "recyds": 206,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "team": "NE '24",
+      "stats": {
+        "ryds": 801,
+        "rtd": 7,
+        "recyds": 168,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Terrell Jennings",
+      "team": "NE '24",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kendrick Bourne",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 305,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Tyquan Thornton",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kayshon Boutte",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 589,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "DeMario Douglas",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 621,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Javon Baker",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ja'Lynn Polk",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 87,
+        "rectd": 2,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Austin Hooper",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 476,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 674,
+        "rectd": 2,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Jaheim Bell",
+      "team": "NE '24",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

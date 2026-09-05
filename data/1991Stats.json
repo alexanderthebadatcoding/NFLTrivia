@@ -1,0 +1,725 @@
+{
+  "QB": [
+    {
+      "name": "Warren Moon",
+      "team": "HOU '91",
+      "stats": {
+        "yds": 4690,
+        "td": 23,
+        "int": 21
+      }
+    },
+    {
+      "name": "Dan Marino",
+      "team": "MIA '91",
+      "stats": {
+        "yds": 3970,
+        "td": 25,
+        "int": 13
+      }
+    },
+    {
+      "name": "Jim Kelly",
+      "team": "BUF '91",
+      "stats": {
+        "yds": 3844,
+        "td": 33,
+        "int": 17
+      }
+    },
+    {
+      "name": "Mark Rypien",
+      "team": "WSH '91",
+      "stats": {
+        "yds": 3564,
+        "td": 28,
+        "int": 11
+      }
+    },
+    {
+      "name": "Bernie Kosar",
+      "team": "CLE '91",
+      "stats": {
+        "yds": 3487,
+        "td": 18,
+        "int": 9
+      }
+    },
+    {
+      "name": "Jim Everett",
+      "team": "LOS '91",
+      "stats": {
+        "yds": 3438,
+        "td": 11,
+        "int": 20
+      }
+    },
+    {
+      "name": "Kenneth John O'Brien Jr.",
+      "team": "NYJ '91",
+      "stats": {
+        "yds": 3300,
+        "td": 10,
+        "int": 11
+      }
+    },
+    {
+      "name": "John Elway",
+      "team": "DEN '91",
+      "stats": {
+        "yds": 3253,
+        "td": 13,
+        "int": 12
+      }
+    },
+    {
+      "name": "Jim Harbaugh",
+      "team": "CHI '91",
+      "stats": {
+        "yds": 3121,
+        "td": 15,
+        "int": 16
+      }
+    },
+    {
+      "name": "Chris Miller",
+      "team": "ATL '91",
+      "stats": {
+        "yds": 3103,
+        "td": 26,
+        "int": 18
+      }
+    },
+    {
+      "name": "Hugh B. Millen",
+      "team": "NE '91",
+      "stats": {
+        "yds": 3073,
+        "td": 9,
+        "int": 18
+      }
+    },
+    {
+      "name": "Steve DeBerg",
+      "team": "KC '91",
+      "stats": {
+        "yds": 2965,
+        "td": 17,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jeff George",
+      "team": "IND '91",
+      "stats": {
+        "yds": 2910,
+        "td": 10,
+        "int": 12
+      }
+    },
+    {
+      "name": "John Friesz",
+      "team": "SD '91",
+      "stats": {
+        "yds": 2896,
+        "td": 12,
+        "int": 15
+      }
+    },
+    {
+      "name": "Boomer Esiason",
+      "team": "CIN '91",
+      "stats": {
+        "yds": 2883,
+        "td": 13,
+        "int": 16
+      }
+    },
+    {
+      "name": "Troy Aikman",
+      "team": "DAL '91",
+      "stats": {
+        "yds": 2754,
+        "td": 11,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jay Schroeder",
+      "team": "LOS '91",
+      "stats": {
+        "yds": 2562,
+        "td": 15,
+        "int": 16
+      }
+    },
+    {
+      "name": "Steve Young",
+      "team": "SF '91",
+      "stats": {
+        "yds": 2517,
+        "td": 17,
+        "int": 8
+      }
+    },
+    {
+      "name": "James Robert McMahon",
+      "team": "PHI '91",
+      "stats": {
+        "yds": 2239,
+        "td": 12,
+        "int": 11
+      }
+    },
+    {
+      "name": "Rich Gannon",
+      "team": "MIN '91",
+      "stats": {
+        "yds": 2166,
+        "td": 12,
+        "int": 6
+      }
+    },
+    {
+      "name": "Dave Krieg",
+      "team": "SEA '91",
+      "stats": {
+        "yds": 2080,
+        "td": 11,
+        "int": 12
+      }
+    },
+    {
+      "name": "Jeff Hostetler",
+      "team": "NYG '91",
+      "stats": {
+        "yds": 2032,
+        "td": 5,
+        "int": 4
+      }
+    },
+    {
+      "name": "Vinny Testaverde",
+      "team": "TB '91",
+      "stats": {
+        "yds": 1994,
+        "td": 8,
+        "int": 15
+      }
+    },
+    {
+      "name": "Neil O'Donnell",
+      "team": "PIT '91",
+      "stats": {
+        "yds": 1963,
+        "td": 11,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '91",
+      "stats": {
+        "ryds": 1563,
+        "rtd": 12,
+        "recyds": 258,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Barry Sanders",
+      "team": "DET '91",
+      "stats": {
+        "ryds": 1548,
+        "rtd": 16,
+        "recyds": 307,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "BUF '91",
+      "stats": {
+        "ryds": 1407,
+        "rtd": 7,
+        "recyds": 631,
+        "rectd": 5,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Rodney Hampton",
+      "team": "NYG '91",
+      "stats": {
+        "ryds": 1059,
+        "rtd": 10,
+        "recyds": 283,
+        "rectd": 0,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Earnest Byner",
+      "team": "WSH '91",
+      "stats": {
+        "ryds": 1048,
+        "rtd": 5,
+        "recyds": 308,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Gaston Green",
+      "team": "DEN '91",
+      "stats": {
+        "ryds": 1037,
+        "rtd": 4,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Leonard Russell",
+      "team": "NE '91",
+      "stats": {
+        "ryds": 959,
+        "rtd": 4,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Mark Higgs",
+      "team": "MIA '91",
+      "stats": {
+        "ryds": 905,
+        "rtd": 4,
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Marion Stevenson Butts Jr.",
+      "team": "SD '91",
+      "stats": {
+        "ryds": 834,
+        "rtd": 6,
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Herschel Walker",
+      "team": "MIN '91",
+      "stats": {
+        "ryds": 825,
+        "rtd": 10,
+        "recyds": 204,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Rod Bernstine",
+      "team": "SD '91",
+      "stats": {
+        "ryds": 766,
+        "rtd": 8,
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Reggie Cobb",
+      "team": "TB '91",
+      "stats": {
+        "ryds": 752,
+        "rtd": 7,
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Neal Anderson",
+      "team": "CHI '91",
+      "stats": {
+        "ryds": 747,
+        "rtd": 6,
+        "recyds": 368,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "John L. Williams",
+      "team": "SEA '91",
+      "stats": {
+        "ryds": 741,
+        "rtd": 4,
+        "recyds": 499,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Harold Green",
+      "team": "CIN '91",
+      "stats": {
+        "ryds": 731,
+        "rtd": 2,
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Blair Thomas",
+      "team": "NYJ '91",
+      "stats": {
+        "ryds": 728,
+        "rtd": 3,
+        "recyds": 195,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Kevin Mack",
+      "team": "CLE '91",
+      "stats": {
+        "ryds": 726,
+        "rtd": 8,
+        "recyds": 255,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Robert Lewis Delpino",
+      "team": "LOS '91",
+      "stats": {
+        "ryds": 688,
+        "rtd": 9,
+        "recyds": 617,
+        "rectd": 1,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Barry Word",
+      "team": "KC '91",
+      "stats": {
+        "ryds": 684,
+        "rtd": 4,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ricky Ervins",
+      "team": "WSH '91",
+      "stats": {
+        "ryds": 680,
+        "rtd": 3,
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Johnny Johnson",
+      "team": "PHO '91",
+      "stats": {
+        "ryds": 666,
+        "rtd": 4,
+        "recyds": 225,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Brad Baxter",
+      "team": "NYJ '91",
+      "stats": {
+        "ryds": 666,
+        "rtd": 11,
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kenneth Davis",
+      "team": "BUF '91",
+      "stats": {
+        "ryds": 624,
+        "rtd": 4,
+        "recyds": 118,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Merril Hoge",
+      "team": "PIT '91",
+      "stats": {
+        "ryds": 610,
+        "rtd": 2,
+        "recyds": 379,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Roger Craig",
+      "team": "LOS '91",
+      "stats": {
+        "ryds": 590,
+        "rtd": 1,
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Michael Irvin",
+      "team": "DAL '91",
+      "stats": {
+        "recyds": 1523,
+        "rectd": 8,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Gary Clark",
+      "team": "WSH '91",
+      "stats": {
+        "recyds": 1340,
+        "rectd": 10,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Jerry Rice",
+      "team": "SF '91",
+      "stats": {
+        "recyds": 1206,
+        "rectd": 14,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Haywood Franklin Jeffires",
+      "team": "HOU '91",
+      "stats": {
+        "recyds": 1181,
+        "rectd": 7,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Michael Haynes",
+      "team": "ATL '91",
+      "stats": {
+        "recyds": 1122,
+        "rectd": 11,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "BUF '91",
+      "stats": {
+        "recyds": 1113,
+        "rectd": 10,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Drew Hill",
+      "team": "HOU '91",
+      "stats": {
+        "recyds": 1109,
+        "rectd": 4,
+        "rec": 90
+      }
+    },
+    {
+      "name": "James Lofton",
+      "team": "BUF '91",
+      "stats": {
+        "recyds": 1072,
+        "rectd": 8,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Mark Clayton",
+      "team": "MIA '91",
+      "stats": {
+        "recyds": 1053,
+        "rectd": 12,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Henry Ellard",
+      "team": "LOS '91",
+      "stats": {
+        "recyds": 1052,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Art Monk",
+      "team": "WSH '91",
+      "stats": {
+        "recyds": 1049,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Irving Fryar",
+      "team": "NE '91",
+      "stats": {
+        "recyds": 1014,
+        "rectd": 3,
+        "rec": 68
+      }
+    },
+    {
+      "name": "John Taylor",
+      "team": "SF '91",
+      "stats": {
+        "recyds": 1011,
+        "rectd": 9,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Brian Blades",
+      "team": "SEA '91",
+      "stats": {
+        "recyds": 1003,
+        "rectd": 2,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Ernest Pastell Givins Jr.",
+      "team": "HOU '91",
+      "stats": {
+        "recyds": 996,
+        "rectd": 5,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Rob Moore",
+      "team": "NYJ '91",
+      "stats": {
+        "recyds": 987,
+        "rectd": 5,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Andre Rison",
+      "team": "ATL '91",
+      "stats": {
+        "recyds": 976,
+        "rectd": 12,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Cris Carter",
+      "team": "MIN '91",
+      "stats": {
+        "recyds": 962,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Sterling Sharpe",
+      "team": "GB '91",
+      "stats": {
+        "recyds": 961,
+        "rectd": 4,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Ernie Jones",
+      "team": "PHO '91",
+      "stats": {
+        "recyds": 957,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Fred Barnett",
+      "team": "PHI '91",
+      "stats": {
+        "recyds": 948,
+        "rectd": 4,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Wendell Davis",
+      "team": "CHI '91",
+      "stats": {
+        "recyds": 945,
+        "rectd": 6,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Floyd Turner",
+      "team": "NO '91",
+      "stats": {
+        "recyds": 927,
+        "rectd": 8,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Webster Slaughter",
+      "team": "CLE '91",
+      "stats": {
+        "recyds": 906,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Bill Brooks",
+      "team": "IND '91",
+      "stats": {
+        "recyds": 888,
+        "rectd": 4,
+        "rec": 72
+      }
+    }
+  ],
+  "TE": []
+}

@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jared Goff",
+      "team": "DET '22",
+      "stats": {
+        "yds": 4438,
+        "td": 29,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Williams",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 1066,
+        "rtd": 17,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jason Cabinda",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Justin Jackson",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 170,
+        "rtd": 1,
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Craig Reynolds",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 102,
+        "rtd": 0,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "DET '22",
+      "stats": {
+        "ryds": 542,
+        "rtd": 5,
+        "recyds": 389,
+        "rectd": 3,
+        "rec": 48
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kalif Raymond",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 616,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Josh Reynolds",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 479,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "DJ Chark",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 502,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Tom Kennedy",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Quintez Cephus",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 1161,
+        "rectd": 6,
+        "rec": 106
+      }
+    },
+    {
+      "name": "Jameson Williams",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 41,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Maurice Alexander",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Shane Zylstra",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 60,
+        "rectd": 4,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Brock Wright",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 216,
+        "rectd": 4,
+        "rec": 18
+      }
+    },
+    {
+      "name": "James Mitchell",
+      "team": "DET '22",
+      "stats": {
+        "recyds": 113,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

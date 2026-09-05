@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Robert Griffin III",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 42,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 2757,
+        "td": 26,
+        "int": 9
+      }
+    },
+    {
+      "name": "Trace McSorley",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 90,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tyler Huntley",
+      "team": "BAL '20",
+      "stats": {
+        "yds": 15,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mark Ingram",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": 299,
+        "rtd": 2,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Gus Edwards",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": 723,
+        "rtd": 6,
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Justice Hill",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": 60,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "BAL '20",
+      "stats": {
+        "ryds": 805,
+        "rtd": 9,
+        "recyds": 120,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dez Bryant",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 47,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Willie Snead",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 432,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Marquise Brown",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 769,
+        "rectd": 8,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Miles Boykin",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 266,
+        "rectd": 4,
+        "rec": 19
+      }
+    },
+    {
+      "name": "James Proche",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Duvernay",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 201,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luke Willson",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nick Boyle",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 113,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL '20",
+      "stats": {
+        "recyds": 701,
+        "rectd": 7,
+        "rec": 58
+      }
+    }
+  ]
+}

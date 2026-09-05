@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "TB '22",
+      "stats": {
+        "yds": 4694,
+        "td": 25,
+        "int": 9
+      }
+    },
+    {
+      "name": "Blaine Gabbert",
+      "team": "TB '22",
+      "stats": {
+        "yds": 29,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kyle Trask",
+      "team": "TB '22",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Giovani Bernard",
+      "team": "TB '22",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Leonard Fournette",
+      "team": "TB '22",
+      "stats": {
+        "ryds": 668,
+        "rtd": 3,
+        "recyds": 523,
+        "rectd": 3,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Ke'Shawn Vaughn",
+      "team": "TB '22",
+      "stats": {
+        "ryds": 53,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Rachaad White",
+      "team": "TB '22",
+      "stats": {
+        "ryds": 481,
+        "rtd": 1,
+        "recyds": 290,
+        "rectd": 2,
+        "rec": 50
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julio Jones",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 299,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 1124,
+        "rectd": 6,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 110,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 1023,
+        "rectd": 3,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Russell Gage",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 426,
+        "rectd": 5,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Scott Miller",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 185,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Deven Thompkins",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Ko Kieft",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cade Otton",
+      "team": "TB '22",
+      "stats": {
+        "recyds": 391,
+        "rectd": 2,
+        "rec": 42
+      }
+    }
+  ]
+}

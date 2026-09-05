@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '20",
+      "stats": {
+        "yds": 4084,
+        "td": 26,
+        "int": 10
+      }
+    },
+    {
+      "name": "Chase Daniel",
+      "team": "DET '20",
+      "stats": {
+        "yds": 264,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "David Blough",
+      "team": "DET '20",
+      "stats": {
+        "yds": 49,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 604,
+        "rtd": 7,
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jonathan Williams",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kerryon Johnson",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 181,
+        "rtd": 2,
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "DET '20",
+      "stats": {
+        "ryds": 521,
+        "rtd": 8,
+        "recyds": 357,
+        "rectd": 2,
+        "rec": 46
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 602,
+        "rectd": 0,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 978,
+        "rectd": 9,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jamal Agnew",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kenny Golladay",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 338,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Quintez Cephus",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 349,
+        "rectd": 2,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jesse James",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 129,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 723,
+        "rectd": 6,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Isaac Nauta",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Hunter Bryant",
+      "team": "DET '20",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Derek Carr",
+      "team": "NO '24",
+      "stats": {
+        "yds": 2145,
+        "td": 15,
+        "int": 5
+      }
+    },
+    {
+      "name": "Jake Haener",
+      "team": "NO '24",
+      "stats": {
+        "yds": 226,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Spencer Rattler",
+      "team": "NO '24",
+      "stats": {
+        "yds": 1317,
+        "td": 4,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Alvin Kamara",
+      "team": "NO '24",
+      "stats": {
+        "ryds": 950,
+        "rtd": 6,
+        "recyds": 543,
+        "rectd": 2,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Jamaal Williams",
+      "team": "NO '24",
+      "stats": {
+        "ryds": 164,
+        "rtd": 1,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "team": "NO '24",
+      "stats": {
+        "ryds": 46,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kendre Miller",
+      "team": "NO '24",
+      "stats": {
+        "ryds": 148,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jordan Mims",
+      "team": "NO '24",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marquez Valdes-Scantling",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 411,
+        "rectd": 4,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Cedrick Wilson Jr.",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kevin Austin Jr.",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Chris Olave",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 400,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Rashid Shaheed",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 349,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Bub Means",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 118,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Mason Tipton",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Taysom Hill",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 187,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Foster Moreau",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 413,
+        "rectd": 5,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Juwan Johnson",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 548,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Dallin Holker",
+      "team": "NO '24",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

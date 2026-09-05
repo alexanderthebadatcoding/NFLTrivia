@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Dak Prescott",
+      "team": "DAL '23",
+      "stats": {
+        "yds": 4516,
+        "td": 36,
+        "int": 9
+      }
+    },
+    {
+      "name": "Cooper Rush",
+      "team": "DAL '23",
+      "stats": {
+        "yds": 144,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tony Pollard",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 1005,
+        "rtd": 6,
+        "recyds": 311,
+        "rectd": 0,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Rico Dowdle",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 361,
+        "rtd": 2,
+        "recyds": 144,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Deuce Vaughn",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Hunter Luepke",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 19,
+        "rtd": 1,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandin Cooks",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 657,
+        "rectd": 8,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Michael Gallup",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 418,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 1749,
+        "rectd": 12,
+        "rec": 135
+      }
+    },
+    {
+      "name": "Jalen Tolbert",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "KaVontae Turpin",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 127,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jalen Brooks",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Peyton Hendershot",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 761,
+        "rectd": 5,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Luke Schoonmaker",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 65,
+        "rectd": 2,
+        "rec": 8
+      }
+    }
+  ]
+}

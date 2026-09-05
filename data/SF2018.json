@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "SF '18",
+      "stats": {
+        "yds": 718,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "SF '18",
+      "stats": {
+        "yds": 2277,
+        "td": 13,
+        "int": 10
+      }
+    },
+    {
+      "name": "C.J. Beathard",
+      "team": "SF '18",
+      "stats": {
+        "yds": 1252,
+        "td": 8,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Alfred Morris",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 428,
+        "rtd": 2,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Kyle Juszczyk",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 324,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Raheem Mostert",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 261,
+        "rtd": 1,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Matt Breida",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 814,
+        "rtd": 3,
+        "recyds": 261,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jeff Wilson",
+      "team": "SF '18",
+      "stats": {
+        "ryds": 266,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Pierre Garcon",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 286,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 395,
+        "rectd": 4,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Trent Taylor",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 215,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Richie James",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 130,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dante Pettis",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 467,
+        "rectd": 5,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Garrett Celek",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 90,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 1377,
+        "rectd": 5,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Ross Dwelley",
+      "team": "SF '18",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

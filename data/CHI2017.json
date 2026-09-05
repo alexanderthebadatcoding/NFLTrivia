@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Mike Glennon",
+      "team": "CHI '17",
+      "stats": {
+        "yds": 833,
+        "td": 4,
+        "int": 5
+      }
+    },
+    {
+      "name": "Mitchell Trubisky",
+      "team": "CHI '17",
+      "stats": {
+        "yds": 2193,
+        "td": 7,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Benny Cunningham",
+      "team": "CHI '17",
+      "stats": {
+        "ryds": 29,
+        "rtd": 0,
+        "recyds": 240,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Michael Burton",
+      "team": "CHI '17",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jordan Howard",
+      "team": "CHI '17",
+      "stats": {
+        "ryds": 1122,
+        "rtd": 9,
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Tarik Cohen",
+      "team": "CHI '17",
+      "stats": {
+        "ryds": 370,
+        "rtd": 2,
+        "recyds": 353,
+        "rectd": 1,
+        "rec": 53
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dontrelle Inman",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 343,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Josh Bellamy",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 376,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Kendall Wright",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 614,
+        "rectd": 1,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Markus Wheaton",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kevin White",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tre McBride",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tanner Gentry",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Miller",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 236,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Dion Sims",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Daniel Brown",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Adam Shaheen",
+      "team": "CHI '17",
+      "stats": {
+        "recyds": 127,
+        "rectd": 3,
+        "rec": 12
+      }
+    }
+  ]
+}

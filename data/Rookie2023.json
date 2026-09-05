@@ -1,0 +1,830 @@
+{
+  "QB": [
+    {
+      "name": "C.J. Stroud",
+      "team": "HOU '23",
+      "stats": {
+        "yds": 4108,
+        "td": 23,
+        "int": 5
+      }
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR '23",
+      "stats": {
+        "yds": 2877,
+        "td": 11,
+        "int": 10
+      }
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV '23",
+      "stats": {
+        "yds": 2218,
+        "td": 12,
+        "int": 7
+      }
+    },
+    {
+      "name": "Will Levis",
+      "team": "TEN '23",
+      "stats": {
+        "yds": 1808,
+        "td": 8,
+        "int": 4
+      }
+    },
+    {
+      "name": "Tommy DeVito",
+      "team": "NYG '23",
+      "stats": {
+        "yds": 1101,
+        "td": 8,
+        "int": 3
+      }
+    },
+    {
+      "name": "Anthony Richardson",
+      "team": "IND '23",
+      "stats": {
+        "yds": 577,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tyson Bagent",
+      "team": "CHI '23",
+      "stats": {
+        "yds": 859,
+        "td": 3,
+        "int": 6
+      }
+    },
+    {
+      "name": "Dorian Thompson-Robinson",
+      "team": "CLE '23",
+      "stats": {
+        "yds": 440,
+        "td": 1,
+        "int": 4
+      }
+    },
+    {
+      "name": "Clayton Tune",
+      "team": "ARI '23",
+      "stats": {
+        "yds": 62,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jaren Hall",
+      "team": "MIN '23",
+      "stats": {
+        "yds": 168,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Sean Clifford",
+      "team": "GB '23",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL '23",
+      "stats": {
+        "ryds": 976,
+        "rtd": 4,
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "DET '23",
+      "stats": {
+        "ryds": 945,
+        "rtd": 10,
+        "recyds": 316,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "De'Von Achane",
+      "team": "MIA '23",
+      "stats": {
+        "ryds": 800,
+        "rtd": 8,
+        "recyds": 197,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Tyjae Spears",
+      "team": "TEN '23",
+      "stats": {
+        "ryds": 453,
+        "rtd": 2,
+        "recyds": 385,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Zach Charbonnet",
+      "team": "SEA '23",
+      "stats": {
+        "ryds": 462,
+        "rtd": 1,
+        "recyds": 209,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jaleel McLaughlin",
+      "team": "DEN '23",
+      "stats": {
+        "ryds": 410,
+        "rtd": 1,
+        "recyds": 160,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Roschon Johnson",
+      "team": "CHI '23",
+      "stats": {
+        "ryds": 352,
+        "rtd": 2,
+        "recyds": 209,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Emari Demercado",
+      "team": "ARI '23",
+      "stats": {
+        "ryds": 284,
+        "rtd": 2,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Keaton Mitchell",
+      "team": "BAL '23",
+      "stats": {
+        "ryds": 396,
+        "rtd": 2,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chase Brown",
+      "team": "CIN '23",
+      "stats": {
+        "ryds": 179,
+        "rtd": 0,
+        "recyds": 156,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Kendre Miller",
+      "team": "NO '23",
+      "stats": {
+        "ryds": 156,
+        "rtd": 1,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Rodriguez Jr.",
+      "team": "WAS '23",
+      "stats": {
+        "ryds": 247,
+        "rtd": 2,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tank Bigsby",
+      "team": "JAX '23",
+      "stats": {
+        "ryds": 132,
+        "rtd": 2,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Israel Abanikanda",
+      "team": "NYJ '23",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Deuce Vaughn",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Emanuel Wilson",
+      "team": "GB '23",
+      "stats": {
+        "ryds": 85,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Eric Gray",
+      "team": "NYG '23",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Hunter Luepke",
+      "team": "DAL '23",
+      "stats": {
+        "ryds": 19,
+        "rtd": 1,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Brooks",
+      "team": "MIA '23",
+      "stats": {
+        "ryds": 106,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Sean Tucker",
+      "team": "TB '23",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Elijah Dotson",
+      "team": "LAC '23",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Zach Evans",
+      "team": "LA '23",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Evan Hull",
+      "team": "IND '23",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Puka Nacua",
+      "team": "LA '23",
+      "stats": {
+        "recyds": 1486,
+        "rectd": 6,
+        "rec": 105
+      }
+    },
+    {
+      "name": "Jordan Addison",
+      "team": "MIN '23",
+      "stats": {
+        "recyds": 911,
+        "rectd": 10,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Jayden Reed",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 793,
+        "rectd": 8,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Rashee Rice",
+      "team": "KC '23",
+      "stats": {
+        "recyds": 938,
+        "rectd": 7,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Zay Flowers",
+      "team": "BAL '23",
+      "stats": {
+        "recyds": 858,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Tank Dell",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 709,
+        "rectd": 7,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Josh Downs",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 771,
+        "rectd": 2,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA '23",
+      "stats": {
+        "recyds": 628,
+        "rectd": 4,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 581,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 565,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "DeMario Douglas",
+      "team": "NE '23",
+      "stats": {
+        "recyds": 561,
+        "rectd": 0,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Trey Palmer",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 385,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Quentin Johnston",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 431,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Jonathan Mingo",
+      "team": "CAR '23",
+      "stats": {
+        "recyds": 418,
+        "rectd": 0,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Marvin Mims Jr.",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 377,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Tre Tucker",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 331,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Xavier Gipson",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 229,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "A.T. Perry",
+      "team": "NO '23",
+      "stats": {
+        "recyds": 246,
+        "rectd": 4,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jalin Hyatt",
+      "team": "NYG '23",
+      "stats": {
+        "recyds": 373,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jake Bobo",
+      "team": "SEA '23",
+      "stats": {
+        "recyds": 196,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Andrei Iosivas",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 116,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Cedric Tillman",
+      "team": "CLE '23",
+      "stats": {
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 132,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Derius Davis",
+      "team": "LAC '23",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Tyler Scott",
+      "team": "CHI '23",
+      "stats": {
+        "recyds": 168,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Malik Heath",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ronnie Bell",
+      "team": "SF '23",
+      "stats": {
+        "recyds": 68,
+        "rectd": 3,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Xavier Hutchinson",
+      "team": "HOU '23",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Charlie Jones",
+      "team": "CIN '23",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jason Brownlee",
+      "team": "NYJ '23",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jalen Brooks",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Rakim Jarrett",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Elijah Cooks",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kayshon Boutte",
+      "team": "NE '23",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Colton Dowell",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Antoine Green",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Sam LaPorta",
+      "team": "DET '23",
+      "stats": {
+        "recyds": 889,
+        "rectd": 10,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Dalton Kincaid",
+      "team": "BUF '23",
+      "stats": {
+        "recyds": 673,
+        "rectd": 2,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Tucker Kraft",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 355,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Luke Musgrave",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 352,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Michael Mayer",
+      "team": "LV '23",
+      "stats": {
+        "recyds": 304,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Will Mallory",
+      "team": "IND '23",
+      "stats": {
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Elijah Higgins",
+      "team": "ARI '23",
+      "stats": {
+        "recyds": 163,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Luke Schoonmaker",
+      "team": "DAL '23",
+      "stats": {
+        "recyds": 65,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Davis Allen",
+      "team": "LA '23",
+      "stats": {
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Josh Whyle",
+      "team": "TEN '23",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAX '23",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Darnell Washington",
+      "team": "PIT '23",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ben Sims",
+      "team": "GB '23",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Payne Durham",
+      "team": "TB '23",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Julian Hill",
+      "team": "MIA '23",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Nate Adkins",
+      "team": "DEN '23",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '18",
+      "stats": {
+        "yds": 4355,
+        "td": 29,
+        "int": 11
+      }
+    },
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '18",
+      "stats": {
+        "yds": 7,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Develin",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 8,
+        "rtd": 4,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Rex Burkhead",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 186,
+        "rtd": 0,
+        "recyds": 131,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "James White",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 425,
+        "rtd": 5,
+        "recyds": 751,
+        "rectd": 7,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Jeremy Hill",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 25,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Sony Michel",
+      "team": "NE '18",
+      "stats": {
+        "ryds": 931,
+        "rtd": 6,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Julian Edelman",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 850,
+        "rectd": 6,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Chris Hogan",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 532,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Josh Gordon",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 737,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 247,
+        "rectd": 3,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Phillip Dorsett",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 290,
+        "rectd": 3,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 682,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Dwayne Allen",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jacob Hollister",
+      "team": "NE '18",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

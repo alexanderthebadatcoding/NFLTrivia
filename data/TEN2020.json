@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Tannehill",
+      "team": "TEN '20",
+      "stats": {
+        "yds": 3819,
+        "td": 33,
+        "int": 7
+      }
+    },
+    {
+      "name": "Logan Woodside",
+      "team": "TEN '20",
+      "stats": {
+        "yds": 7,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Senorise Perry",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 2027,
+        "rtd": 17,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "D'Onta Foreman",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 95,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeremy McNichols",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 204,
+        "rtd": 1,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Khari Blasingame",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Darrynton Evans",
+      "team": "TEN '20",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Adam Humphries",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 228,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 187,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cody Hollister",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Corey Davis",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 984,
+        "rectd": 5,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Cameron Batson",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 100,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 1075,
+        "rectd": 11,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Nick Westbrook-Ikhine",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "MyCole Pruitt",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 49,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Geoff Swaim",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 83,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Anthony Firkser",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 387,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jonnu Smith",
+      "team": "TEN '20",
+      "stats": {
+        "recyds": 448,
+        "rectd": 8,
+        "rec": 41
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "WSH '21",
+      "stats": {
+        "yds": 13,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Garrett Gilbert",
+      "team": "WSH '21",
+      "stats": {
+        "yds": 194,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Taylor Heinicke",
+      "team": "WSH '21",
+      "stats": {
+        "yds": 3419,
+        "td": 20,
+        "int": 15
+      }
+    },
+    {
+      "name": "Kyle Allen",
+      "team": "WSH '21",
+      "stats": {
+        "yds": 120,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "J.D. McKissic",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 212,
+        "rtd": 2,
+        "recyds": 397,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Wendell Smallwood",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 25,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jonathan Williams",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 79,
+        "rtd": 1,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Alex Armah",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 1037,
+        "rtd": 7,
+        "recyds": 294,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jaret Patterson",
+      "team": "WSH '21",
+      "stats": {
+        "ryds": 266,
+        "rtd": 2,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeAndre Carter",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 296,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Adam Humphries",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 383,
+        "rectd": 0,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Curtis Samuel",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Cam Sims",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 211,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 1053,
+        "rectd": 5,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Dax Milne",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Thomas",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 196,
+        "rectd": 3,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Ricky Seals-Jones",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 271,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "John Bates",
+      "team": "WSH '21",
+      "stats": {
+        "recyds": 249,
+        "rectd": 1,
+        "rec": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Chase Daniel",
+      "team": "PHI '16",
+      "stats": {
+        "yds": 16,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Carson Wentz",
+      "team": "PHI '16",
+      "stats": {
+        "yds": 3782,
+        "td": 16,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '16",
+      "stats": {
+        "ryds": 438,
+        "rtd": 2,
+        "recyds": 427,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Ryan Mathews",
+      "team": "PHI '16",
+      "stats": {
+        "ryds": 661,
+        "rtd": 8,
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kenjon Barner",
+      "team": "PHI '16",
+      "stats": {
+        "ryds": 129,
+        "rtd": 2,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Terrell Watson",
+      "team": "PHI '16",
+      "stats": {
+        "ryds": 28,
+        "rtd": 1,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Wendell Smallwood",
+      "team": "PHI '16",
+      "stats": {
+        "ryds": 312,
+        "rtd": 1,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 804,
+        "rectd": 3,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 365,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Dorial Green-Beckham",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 392,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Bryce Treggs",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Paul Turner",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Byron Marshall",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 816,
+        "rectd": 4,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Trey Burton",
+      "team": "PHI '16",
+      "stats": {
+        "recyds": 327,
+        "rectd": 1,
+        "rec": 37
+      }
+    }
+  ]
+}

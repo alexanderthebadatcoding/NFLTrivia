@@ -1,0 +1,198 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "NYJ '20",
+      "stats": {
+        "yds": 864,
+        "td": 6,
+        "int": 3
+      }
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "NYJ '20",
+      "stats": {
+        "yds": 2208,
+        "td": 9,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "NYJ '20",
+      "stats": {
+        "ryds": 653,
+        "rtd": 2,
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Josh Adams",
+      "team": "NYJ '20",
+      "stats": {
+        "ryds": 157,
+        "rtd": 2,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "NYJ '20",
+      "stats": {
+        "ryds": 254,
+        "rtd": 1,
+        "recyds": 99,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "La'Mical Perine",
+      "team": "NYJ '20",
+      "stats": {
+        "ryds": 232,
+        "rtd": 2,
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Hogan",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 699,
+        "rectd": 6,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Breshad Perriman",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 505,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Daniel Brown",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Josh Malone",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jaleel Scott",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Braxton Berrios",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 394,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Vyncint Smith",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeff Smith",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Lawrence Cager",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Denzel Mims",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 357,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ryan Griffin",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chris Herndon",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 287,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Trevon Wesco",
+      "team": "NYJ '20",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

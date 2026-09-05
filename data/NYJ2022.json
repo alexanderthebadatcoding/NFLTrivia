@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Joe Flacco",
+      "team": "NYJ '22",
+      "stats": {
+        "yds": 1051,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Mike White",
+      "team": "NYJ '22",
+      "stats": {
+        "yds": 1192,
+        "td": 3,
+        "int": 4
+      }
+    },
+    {
+      "name": "Chris Streveler",
+      "team": "NYJ '22",
+      "stats": {
+        "yds": 90,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Zach Wilson",
+      "team": "NYJ '22",
+      "stats": {
+        "yds": 1688,
+        "td": 6,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ty Johnson",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 160,
+        "rtd": 1,
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "James Robinson",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 425,
+        "rtd": 3,
+        "recyds": 51,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Michael Carter",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 402,
+        "rtd": 3,
+        "recyds": 288,
+        "rectd": 0,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Bam Knight",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 300,
+        "rtd": 1,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Breece Hall",
+      "team": "NYJ '22",
+      "stats": {
+        "ryds": 463,
+        "rtd": 4,
+        "recyds": 218,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Corey Davis",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 536,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Braxton Berrios",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Jeff Smith",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 134,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Denzel Mims",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Elijah Moore",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 446,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 1103,
+        "rectd": 4,
+        "rec": 83
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "C.J. Uzomah",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 232,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tyler Conklin",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jeremy Ruckert",
+      "team": "NYJ '22",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

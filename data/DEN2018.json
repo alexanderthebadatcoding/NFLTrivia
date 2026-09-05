@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Case Keenum",
+      "team": "DEN '18",
+      "stats": {
+        "yds": 3890,
+        "td": 18,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Andy Janovich",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 112,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Devontae Booker",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 183,
+        "rtd": 1,
+        "recyds": 275,
+        "rectd": 0,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Phillip Lindsay",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 1037,
+        "rtd": 9,
+        "recyds": 241,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Royce Freeman",
+      "team": "DEN '18",
+      "stats": {
+        "ryds": 521,
+        "rtd": 5,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Emmanuel Sanders",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 868,
+        "rectd": 4,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Andre Holmes",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "River Cracraft",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 704,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "DaeSean Hamilton",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 243,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt LaCosse",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 250,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Brian Parker",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jeff Heuerman",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 281,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jake Butt",
+      "team": "DEN '18",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}
