@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Anthony Wright",
+      "team": "CIN '06",
+      "stats": {
+        "yds": 31,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Carson Palmer",
+      "team": "CIN '06",
+      "stats": {
+        "yds": 4036,
+        "td": 28,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kenny Watson",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 138,
+        "rtd": 1,
+        "recyds": 213,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Rudi Johnson",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 1308,
+        "rtd": 12,
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jeremi Johnson",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 56,
+        "rtd": 1,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Quincy Wilson",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Chris Perry",
+      "team": "CIN '06",
+      "stats": {
+        "ryds": 57,
+        "rtd": 0,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Antonio Chatman",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chad Johnson",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 1370,
+        "rectd": 7,
+        "rec": 87
+      }
+    },
+    {
+      "name": "T.J. Houshmandzadeh",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 1081,
+        "rectd": 9,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Kelley Washington",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chris Henry",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 605,
+        "rectd": 9,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Tab Perry",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Glenn Holt",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 254,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '06",
+      "stats": {
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ]
+}

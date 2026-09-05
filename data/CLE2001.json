@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Tim Couch",
+      "team": "CLE '01",
+      "stats": {
+        "yds": 3040,
+        "td": 17,
+        "int": 21
+      }
+    },
+    {
+      "name": "Kelly Holcomb",
+      "team": "CLE '01",
+      "stats": {
+        "yds": 114,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Sellers",
+      "team": "CLE '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 73,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jamel White",
+      "team": "CLE '01",
+      "stats": {
+        "ryds": 443,
+        "rtd": 5,
+        "recyds": 418,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Aaron Shea",
+      "team": "CLE '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Benjamin Gay",
+      "team": "CLE '01",
+      "stats": {
+        "ryds": 172,
+        "rtd": 1,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "James Jackson",
+      "team": "CLE '01",
+      "stats": {
+        "ryds": 554,
+        "rtd": 2,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jammi German",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Kevin Johnson",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 1097,
+        "rectd": 9,
+        "rec": 84
+      }
+    },
+    {
+      "name": "JaJuan Dawson",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 281,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Dennis Northcutt",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 211,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Andre King",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 149,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Quincy Morgan",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 432,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rickey Dudley",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "O.J. Santiago",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 153,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jake Moreland",
+      "team": "CLE '01",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

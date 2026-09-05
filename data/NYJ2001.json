@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Vinny Testaverde",
+      "team": "NYJ '01",
+      "stats": {
+        "yds": 2752,
+        "td": 15,
+        "int": 14
+      }
+    },
+    {
+      "name": "Chad Pennington",
+      "team": "NYJ '01",
+      "stats": {
+        "yds": 92,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '01",
+      "stats": {
+        "ryds": 102,
+        "rtd": 0,
+        "recyds": 252,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Curtis Martin",
+      "team": "NYJ '01",
+      "stats": {
+        "ryds": 1513,
+        "rtd": 10,
+        "recyds": 320,
+        "rectd": 0,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Jerald Sowell",
+      "team": "NYJ '01",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "LaMont Jordan",
+      "team": "NYJ '01",
+      "stats": {
+        "ryds": 292,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Wayne Chrebet",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 750,
+        "rectd": 1,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Matt Hatchette",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kevin Swayne",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Laveranues Coles",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 868,
+        "rectd": 7,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "James Dearth",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 10,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Anthony Becht",
+      "team": "NYJ '01",
+      "stats": {
+        "recyds": 321,
+        "rectd": 5,
+        "rec": 36
+      }
+    }
+  ]
+}

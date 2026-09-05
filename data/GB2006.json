@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '06",
+      "stats": {
+        "yds": 3885,
+        "td": 18,
+        "int": 18
+      }
+    },
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '06",
+      "stats": {
+        "yds": 46,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ahman Green",
+      "team": "GB '06",
+      "stats": {
+        "ryds": 1059,
+        "rtd": 5,
+        "recyds": 380,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "William Henderson",
+      "team": "GB '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brandon Miree",
+      "team": "GB '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Vernand Morency",
+      "team": "GB '06",
+      "stats": {
+        "ryds": 434,
+        "rtd": 2,
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Noah Herron",
+      "team": "GB '06",
+      "stats": {
+        "ryds": 150,
+        "rtd": 1,
+        "recyds": 211,
+        "rectd": 2,
+        "rec": 29
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 1288,
+        "rectd": 8,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Robert Ferguson",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ruvell Martin",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 358,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Carlyle Holiday",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chris Francies",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Greg Jennings",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 632,
+        "rectd": 3,
+        "rec": 45
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bubba Franks",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 232,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "David Martin",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 198,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Donald Lee",
+      "team": "GB '06",
+      "stats": {
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

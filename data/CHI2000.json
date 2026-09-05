@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Shane Matthews",
+      "team": "CHI '00",
+      "stats": {
+        "yds": 964,
+        "td": 3,
+        "int": 6
+      }
+    },
+    {
+      "name": "Cade McNown",
+      "team": "CHI '00",
+      "stats": {
+        "yds": 1646,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Jim Miller",
+      "team": "CHI '00",
+      "stats": {
+        "yds": 382,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Allen",
+      "team": "CHI '00",
+      "stats": {
+        "ryds": 1120,
+        "rtd": 2,
+        "recyds": 291,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Marlon Barnes",
+      "team": "CHI '00",
+      "stats": {
+        "ryds": 81,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Curtis Enis",
+      "team": "CHI '00",
+      "stats": {
+        "ryds": 84,
+        "rtd": 1,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Glyn Milburn",
+      "team": "CHI '00",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "D'Wayne Bates",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Marty Booker",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 490,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Macey Brooks",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Eddie Kennison",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 549,
+        "rectd": 2,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Marcus Robinson",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 738,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Dez White",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John Allred",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 109,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Scott Dragos",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Alonzo Mayes",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kaseem Sinceno",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 206,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Dustin Lyman",
+      "team": "CHI '00",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

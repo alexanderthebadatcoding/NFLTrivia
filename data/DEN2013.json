@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Peyton Manning",
+      "team": "DEN '13",
+      "stats": {
+        "yds": 5477,
+        "td": 55,
+        "int": 10
+      }
+    },
+    {
+      "name": "Brock Osweiler",
+      "team": "DEN '13",
+      "stats": {
+        "yds": 95,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Knowshon Moreno",
+      "team": "DEN '13",
+      "stats": {
+        "ryds": 1038,
+        "rtd": 10,
+        "recyds": 548,
+        "rectd": 3,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Ronnie Hillman",
+      "team": "DEN '13",
+      "stats": {
+        "ryds": 218,
+        "rtd": 1,
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "C.J. Anderson",
+      "team": "DEN '13",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Montee Ball",
+      "team": "DEN '13",
+      "stats": {
+        "ryds": 559,
+        "rtd": 4,
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Wes Welker",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 778,
+        "rectd": 10,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Andre Caldwell",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 200,
+        "rectd": 3,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 1288,
+        "rectd": 11,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 1430,
+        "rectd": 14,
+        "rec": 92
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Joel Dreessen",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jacob Tamme",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Julius Thomas",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 788,
+        "rectd": 12,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Virgil Green",
+      "team": "DEN '13",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

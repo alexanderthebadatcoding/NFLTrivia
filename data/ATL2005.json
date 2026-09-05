@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "ATL '05",
+      "stats": {
+        "yds": 2412,
+        "td": 15,
+        "int": 13
+      }
+    },
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '05",
+      "stats": {
+        "yds": 495,
+        "td": 4,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '05",
+      "stats": {
+        "ryds": 1416,
+        "rtd": 3,
+        "recyds": 220,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Fred McCrary",
+      "team": "ATL '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "ATL '05",
+      "stats": {
+        "ryds": 380,
+        "rtd": 8,
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Justin Griffith",
+      "team": "ATL '05",
+      "stats": {
+        "ryds": 65,
+        "rtd": 0,
+        "recyds": 111,
+        "rectd": 3,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 611,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Jerome Pathon",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dez White",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 25,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 508,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 446,
+        "rectd": 3,
+        "rec": 29
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 877,
+        "rectd": 5,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Dwayne Blakley",
+      "team": "ATL '05",
+      "stats": {
+        "recyds": 30,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

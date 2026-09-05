@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Anthony Wright",
+      "team": "NYG '07",
+      "stats": {
+        "yds": 12,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jared Lorenzen",
+      "team": "NYG '07",
+      "stats": {
+        "yds": 28,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Eli Manning",
+      "team": "NYG '07",
+      "stats": {
+        "yds": 3336,
+        "td": 23,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reuben Droughns",
+      "team": "NYG '07",
+      "stats": {
+        "ryds": 275,
+        "rtd": 6,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Derrick Ward",
+      "team": "NYG '07",
+      "stats": {
+        "ryds": 602,
+        "rtd": 3,
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '07",
+      "stats": {
+        "ryds": 1011,
+        "rtd": 4,
+        "recyds": 174,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Madison Hedgecock",
+      "team": "NYG '07",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "NYG '07",
+      "stats": {
+        "ryds": 190,
+        "rtd": 1,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 760,
+        "rectd": 3,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 1025,
+        "rectd": 12,
+        "rec": 70
+      }
+    },
+    {
+      "name": "David Tyree",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Sinorice Moss",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 225,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Domenik Hixon",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 619,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Michael Matthews",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kevin Boss",
+      "team": "NYG '07",
+      "stats": {
+        "recyds": 118,
+        "rectd": 2,
+        "rec": 9
+      }
+    }
+  ]
+}

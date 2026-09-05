@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Tommy Maddox",
+      "team": "PIT '04",
+      "stats": {
+        "yds": 329,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '04",
+      "stats": {
+        "yds": 2621,
+        "td": 17,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 941,
+        "rtd": 13,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Duce Staley",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 830,
+        "rtd": 1,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 75,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Verron Haynes",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 272,
+        "rtd": 0,
+        "recyds": 142,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Dante Brown",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Willie Parker",
+      "team": "PIT '04",
+      "stats": {
+        "ryds": 186,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sean Morey",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 1004,
+        "rectd": 4,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 698,
+        "rectd": 5,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Antwaan Randle El",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 601,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Lee Mays",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 82,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jerame Tuman",
+      "team": "PIT '04",
+      "stats": {
+        "recyds": 89,
+        "rectd": 3,
+        "rec": 9
+      }
+    }
+  ]
+}

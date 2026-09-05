@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIA '06",
+      "stats": {
+        "yds": 929,
+        "td": 2,
+        "int": 3
+      }
+    },
+    {
+      "name": "Cleo Lemon",
+      "team": "MIA '06",
+      "stats": {
+        "yds": 412,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "MIA '06",
+      "stats": {
+        "yds": 2236,
+        "td": 12,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Sammy Morris",
+      "team": "MIA '06",
+      "stats": {
+        "ryds": 400,
+        "rtd": 1,
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Travis Minor",
+      "team": "MIA '06",
+      "stats": {
+        "ryds": 74,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Darian Barnes",
+      "team": "MIA '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Lee Suggs",
+      "team": "MIA '06",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ronnie Brown",
+      "team": "MIA '06",
+      "stats": {
+        "ryds": 1005,
+        "rtd": 5,
+        "recyds": 276,
+        "rectd": 0,
+        "rec": 33
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marty Booker",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 747,
+        "rectd": 6,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Chris Chambers",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 677,
+        "rectd": 4,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Cliff Russell",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Wes Welker",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 687,
+        "rectd": 1,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Derek Hagan",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 221,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Justin Peelle",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Randy McMichael",
+      "team": "MIA '06",
+      "stats": {
+        "recyds": 640,
+        "rectd": 3,
+        "rec": 62
+      }
+    }
+  ]
+}

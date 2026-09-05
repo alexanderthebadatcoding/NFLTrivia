@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Derek Anderson",
+      "team": "CAR '12",
+      "stats": {
+        "yds": 58,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "CAR '12",
+      "stats": {
+        "yds": 3869,
+        "td": 19,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeAngelo Williams",
+      "team": "CAR '12",
+      "stats": {
+        "ryds": 737,
+        "rtd": 5,
+        "recyds": 187,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Mike Tolbert",
+      "team": "CAR '12",
+      "stats": {
+        "ryds": 183,
+        "rtd": 7,
+        "recyds": 268,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jonathan Stewart",
+      "team": "CAR '12",
+      "stats": {
+        "ryds": 336,
+        "rtd": 1,
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Steve Smith",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 1174,
+        "rectd": 4,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Louis Murphy",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 336,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Brandon LaFell",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 677,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Armanti Edwards",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 121,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kealoha Pilares",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Joe Adams",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ben Hartsock",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 843,
+        "rectd": 5,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Gary Barnidge",
+      "team": "CAR '12",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ]
+}

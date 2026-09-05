@@ -465,5 +465,6 @@
     "Rookie2023.json",
     "Rookie2024.json",
     "Rookie2025.json"
-  ]
+  ],
+  "draft_rounds": ["DraftRound1.json", "DraftRound2.json", "DraftRound3.json"]
 }

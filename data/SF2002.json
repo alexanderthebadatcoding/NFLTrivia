@@ -1,0 +1,126 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '02",
+      "stats": {
+        "yds": 3344,
+        "td": 21,
+        "int": 10
+      }
+    },
+    {
+      "name": "Tim Rattay",
+      "team": "SF '02",
+      "stats": {
+        "yds": 232,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '02",
+      "stats": {
+        "ryds": 75,
+        "rtd": 0,
+        "recyds": 152,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Garrison Hearst",
+      "team": "SF '02",
+      "stats": {
+        "ryds": 972,
+        "rtd": 8,
+        "recyds": 317,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Paul Smith",
+      "team": "SF '02",
+      "stats": {
+        "ryds": 90,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kevan Barlow",
+      "team": "SF '02",
+      "stats": {
+        "ryds": 675,
+        "rtd": 4,
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 1300,
+        "rectd": 13,
+        "rec": 100
+      }
+    },
+    {
+      "name": "J.J. Stokes",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 332,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 756,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Cedrick Wilson",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 166,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Justin Swift",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Eric Johnson",
+      "team": "SF '02",
+      "stats": {
+        "recyds": 321,
+        "rectd": 0,
+        "rec": 36
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "PHI '10",
+      "stats": {
+        "yds": 3018,
+        "td": 21,
+        "int": 6
+      }
+    },
+    {
+      "name": "Kevin Kolb",
+      "team": "PHI '10",
+      "stats": {
+        "yds": 1197,
+        "td": 7,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Harrison",
+      "team": "PHI '10",
+      "stats": {
+        "ryds": 330,
+        "rtd": 1,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Eldra Buckley",
+      "team": "PHI '10",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Owen Schmitt",
+      "team": "PHI '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "PHI '10",
+      "stats": {
+        "ryds": 1080,
+        "rtd": 7,
+        "recyds": 592,
+        "rectd": 2,
+        "rec": 78
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jason Avant",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 573,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 1056,
+        "rectd": 6,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 964,
+        "rectd": 10,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Chad Hall",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Riley Cooper",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Garrett Mills",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brent Celek",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 511,
+        "rectd": 4,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Clay Harbor",
+      "team": "PHI '10",
+      "stats": {
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ]
+}

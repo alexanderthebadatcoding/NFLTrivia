@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Brad Johnson",
+      "team": "TB '02",
+      "stats": {
+        "yds": 3049,
+        "td": 22,
+        "int": 6
+      }
+    },
+    {
+      "name": "Rob Johnson",
+      "team": "TB '02",
+      "stats": {
+        "yds": 536,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Shaun King",
+      "team": "TB '02",
+      "stats": {
+        "yds": 80,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Alstott",
+      "team": "TB '02",
+      "stats": {
+        "ryds": 548,
+        "rtd": 5,
+        "recyds": 242,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "TB '02",
+      "stats": {
+        "ryds": 718,
+        "rtd": 1,
+        "recyds": 477,
+        "rectd": 0,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Aaron Stecker",
+      "team": "TB '02",
+      "stats": {
+        "ryds": 174,
+        "rtd": 0,
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jameel Cook",
+      "team": "TB '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Travis Stephens",
+      "team": "TB '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Reggie Barlow",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keyshawn Johnson",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 1088,
+        "rectd": 5,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 423,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Keenan McCardell",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 670,
+        "rectd": 6,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Karl Williams",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 77,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ken Dilger",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 329,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Rickey Dudley",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 192,
+        "rectd": 3,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Todd Yoder",
+      "team": "TB '02",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

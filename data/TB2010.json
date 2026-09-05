@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Josh Johnson",
+      "team": "TB '10",
+      "stats": {
+        "yds": 111,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Josh Freeman",
+      "team": "TB '10",
+      "stats": {
+        "yds": 3451,
+        "td": 25,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Earnest Graham",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 99,
+        "rtd": 1,
+        "recyds": 130,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Cadillac Williams",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 437,
+        "rtd": 2,
+        "recyds": 355,
+        "rectd": 1,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Kregg Lumpkin",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kareem Huggins",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "LeGarrette Blount",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 1007,
+        "rtd": 6,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Erik Lorig",
+      "team": "TB '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Micheal Spurlock",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 250,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Maurice Stovall",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 81,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Sammie Stroughter",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 239,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Preston Parker",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Arrelious Benn",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 395,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 964,
+        "rectd": 11,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Dezmon Briscoe",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 93,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jerramy Stevens",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kellen Winslow",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 730,
+        "rectd": 5,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Ryan Purvis",
+      "team": "TB '10",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

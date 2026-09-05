@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '15",
+      "stats": {
+        "yds": 3250,
+        "td": 25,
+        "int": 7
+      }
+    },
+    {
+      "name": "AJ McCarron",
+      "team": "CIN '15",
+      "stats": {
+        "yds": 854,
+        "td": 6,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rex Burkhead",
+      "team": "CIN '15",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '15",
+      "stats": {
+        "ryds": 730,
+        "rtd": 2,
+        "recyds": 472,
+        "rectd": 0,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Jeremy Hill",
+      "team": "CIN '15",
+      "stats": {
+        "ryds": 794,
+        "rtd": 11,
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Tate",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "A.J. Green",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 1297,
+        "rectd": 10,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 816,
+        "rectd": 4,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 394,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Mario Alford",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyler Eifert",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 615,
+        "rectd": 13,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Ryan Hewitt",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "C.J. Uzomah",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tyler Kroft",
+      "team": "CIN '15",
+      "stats": {
+        "recyds": 129,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

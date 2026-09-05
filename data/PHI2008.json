@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '08",
+      "stats": {
+        "yds": 3914,
+        "td": 23,
+        "int": 11
+      }
+    },
+    {
+      "name": "Kevin Kolb",
+      "team": "PHI '08",
+      "stats": {
+        "yds": 144,
+        "td": 0,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Correll Buckhalter",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 369,
+        "rtd": 2,
+        "recyds": 324,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Brian Westbrook",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 936,
+        "rtd": 9,
+        "recyds": 402,
+        "rectd": 5,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Dan Klecko",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kyle Eckel",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 79,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Lorenzo Booker",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 53,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tony Hunt",
+      "team": "PHI '08",
+      "stats": {
+        "ryds": 9,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Greg Lewis",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kevin Curtis",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 390,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Reggie Brown",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 252,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Hank Baskett",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 438,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jason Avant",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 377,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 912,
+        "rectd": 2,
+        "rec": 62
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt Schobel",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "L.J. Smith",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 298,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Brent Celek",
+      "team": "PHI '08",
+      "stats": {
+        "recyds": 318,
+        "rectd": 1,
+        "rec": 27
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Doug Flutie",
+      "team": "BUF '99",
+      "stats": {
+        "yds": 3171,
+        "td": 19,
+        "int": 16
+      }
+    },
+    {
+      "name": "Rob Johnson",
+      "team": "BUF '99",
+      "stats": {
+        "yds": 298,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Alex Van Pelt",
+      "team": "BUF '99",
+      "stats": {
+        "yds": 9,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Sam Gash",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 163,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Lennox Gordon",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jonathan Linton",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 695,
+        "rtd": 5,
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 614,
+        "rtd": 6,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "BUF '99",
+      "stats": {
+        "ryds": 152,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kamil Loud",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 994,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 393,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 536,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Kevin R. Williams",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 381,
+        "rectd": 0,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bobby Collins",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 124,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Sheldon Jackson",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "BUF '99",
+      "stats": {
+        "recyds": 496,
+        "rectd": 4,
+        "rec": 37
+      }
+    }
+  ]
+}

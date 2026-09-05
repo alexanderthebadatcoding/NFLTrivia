@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '08",
+      "stats": {
+        "yds": 76,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt Cassel",
+      "team": "NE '08",
+      "stats": {
+        "yds": 3693,
+        "td": 21,
+        "int": 11
+      }
+    },
+    {
+      "name": "Kevin O'Connell",
+      "team": "NE '08",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 507,
+        "rtd": 3,
+        "recyds": 486,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 727,
+        "rtd": 7,
+        "recyds": 161,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "LaMont Jordan",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 363,
+        "rtd": 4,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Laurence Maroney",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 93,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "BenJarvus Green-Ellis",
+      "team": "NE '08",
+      "stats": {
+        "ryds": 275,
+        "rtd": 5,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randy Moss",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 11,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Jabar Gaffney",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 468,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Sam Aiken",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Kelley Washington",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Wes Welker",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 1165,
+        "rectd": 3,
+        "rec": 112
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Benjamin Watson",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 209,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "David Thomas",
+      "team": "NE '08",
+      "stats": {
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

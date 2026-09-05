@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "SF '13",
+      "stats": {
+        "yds": 13,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '13",
+      "stats": {
+        "yds": 3197,
+        "td": 21,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "SF '13",
+      "stats": {
+        "ryds": 1128,
+        "rtd": 9,
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Anthony Dixon",
+      "team": "SF '13",
+      "stats": {
+        "ryds": 56,
+        "rtd": 2,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kendall Hunter",
+      "team": "SF '13",
+      "stats": {
+        "ryds": 358,
+        "rtd": 3,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bruce Miller",
+      "team": "SF '13",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 243,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "LaMichael James",
+      "team": "SF '13",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kassim Osgood",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Anquan Boldin",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 1179,
+        "rectd": 7,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Mario Manningham",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Michael Crabtree",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 284,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kyle Williams",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 113,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jon Baldwin",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Quinton Patton",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 850,
+        "rectd": 13,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Garrett Celek",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Vance McDonald",
+      "team": "SF '13",
+      "stats": {
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

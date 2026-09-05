@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Scott Mitchell",
+      "team": "CIN '00",
+      "stats": {
+        "yds": 966,
+        "td": 3,
+        "int": 8
+      }
+    },
+    {
+      "name": "Akili Smith",
+      "team": "CIN '00",
+      "stats": {
+        "yds": 1253,
+        "td": 3,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bennett",
+      "team": "CIN '00",
+      "stats": {
+        "ryds": 324,
+        "rtd": 3,
+        "recyds": 168,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Corey Dillon",
+      "team": "CIN '00",
+      "stats": {
+        "ryds": 1435,
+        "rtd": 7,
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Clif Groce",
+      "team": "CIN '00",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Nicolas Luchey",
+      "team": "CIN '00",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Curtis Keaton",
+      "team": "CIN '00",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Damon Griffin",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Craig Yeast",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 301,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Peter Warrick",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 592,
+        "rectd": 4,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Danny Farmer",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 268,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Ron Dugans",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marco Battaglia",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Steve Bush",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tony McGee",
+      "team": "CIN '00",
+      "stats": {
+        "recyds": 309,
+        "rectd": 1,
+        "rec": 26
+      }
+    }
+  ]
+}

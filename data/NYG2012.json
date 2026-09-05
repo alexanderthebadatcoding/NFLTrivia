@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "David Carr",
+      "team": "NYG '12",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Eli Manning",
+      "team": "NYG '12",
+      "stats": {
+        "yds": 3948,
+        "td": 26,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 1015,
+        "rtd": 6,
+        "recyds": 245,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Kregg Lumpkin",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 42,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Andre Brown",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 385,
+        "rtd": 8,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Da'Rel Scott",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Henry Hynoski",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "David Wilson",
+      "team": "NYG '12",
+      "stats": {
+        "ryds": 358,
+        "rtd": 4,
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Domenik Hixon",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 567,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Ramses Barden",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 220,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Hakeem Nicks",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 692,
+        "rectd": 3,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Victor Cruz",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 1092,
+        "rectd": 10,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Jerrel Jernigan",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Rueben Randle",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 298,
+        "rectd": 3,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Martellus Bennett",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 626,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Bear Pascoe",
+      "team": "NYG '12",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

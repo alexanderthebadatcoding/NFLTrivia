@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Blake",
+      "team": "PHI '04",
+      "stats": {
+        "yds": 126,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Koy Detmer",
+      "team": "PHI '04",
+      "stats": {
+        "yds": 207,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '04",
+      "stats": {
+        "yds": 3875,
+        "td": 31,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dorsey Levens",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 410,
+        "rtd": 4,
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jon Ritchie",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Josh Parry",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Eric McCoo",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 54,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brian Westbrook",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 808,
+        "rtd": 3,
+        "recyds": 703,
+        "rectd": 6,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Reno Mahe",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 91,
+        "rtd": 0,
+        "recyds": 123,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Thomas Tapeh",
+      "team": "PHI '04",
+      "stats": {
+        "ryds": 42,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 1200,
+        "rectd": 14,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Todd Pinkston",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 676,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Freddie Mitchell",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 377,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Greg Lewis",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 183,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Billy McMullen",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mike Bartrum",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 45,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chad Lewis",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 267,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "L.J. Smith",
+      "team": "PHI '04",
+      "stats": {
+        "recyds": 377,
+        "rectd": 5,
+        "rec": 34
+      }
+    }
+  ]
+}

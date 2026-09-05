@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "TEN '02",
+      "stats": {
+        "yds": 2788,
+        "td": 17,
+        "int": 7
+      }
+    },
+    {
+      "name": "Steve McNair",
+      "team": "TEN '02",
+      "stats": {
+        "yds": 3387,
+        "td": 22,
+        "int": 15
+      }
+    },
+    {
+      "name": "Neil O'Donnell",
+      "team": "TEN '02",
+      "stats": {
+        "yds": 24,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Greg Comella",
+      "team": "TEN '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Eddie George",
+      "team": "TEN '02",
+      "stats": {
+        "ryds": 1165,
+        "rtd": 12,
+        "recyds": 255,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Robert Holcombe",
+      "team": "TEN '02",
+      "stats": {
+        "ryds": 242,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Mike Green",
+      "team": "TEN '02",
+      "stats": {
+        "ryds": 71,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "John Simon",
+      "team": "TEN '02",
+      "stats": {
+        "ryds": 18,
+        "rtd": 1,
+        "recyds": 167,
+        "rectd": 3,
+        "rec": 16
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kevin Dyson",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 460,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Derrick Mason",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 1012,
+        "rectd": 5,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Drew Bennett",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 478,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Justin McCareins",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 301,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Eddie Berlin",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Frank Wycheck",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 346,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Erron Kinney",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 173,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Shad Meier",
+      "team": "TEN '02",
+      "stats": {
+        "recyds": 17,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

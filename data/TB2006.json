@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Tim Rattay",
+      "team": "TB '06",
+      "stats": {
+        "yds": 748,
+        "td": 4,
+        "int": 2
+      }
+    },
+    {
+      "name": "Chris Simms",
+      "team": "TB '06",
+      "stats": {
+        "yds": 585,
+        "td": 1,
+        "int": 7
+      }
+    },
+    {
+      "name": "Bruce Gradkowski",
+      "team": "TB '06",
+      "stats": {
+        "yds": 1661,
+        "td": 9,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Alstott",
+      "team": "TB '06",
+      "stats": {
+        "ryds": 171,
+        "rtd": 3,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "TB '06",
+      "stats": {
+        "ryds": 245,
+        "rtd": 1,
+        "recyds": 405,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jerald Sowell",
+      "team": "TB '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Earnest Graham",
+      "team": "TB '06",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cadillac Williams",
+      "team": "TB '06",
+      "stats": {
+        "ryds": 798,
+        "rtd": 1,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joey Galloway",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 1057,
+        "rectd": 7,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 339,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Michael Clayton",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 356,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Paris Warren",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Maurice Stovall",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 102,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Becht",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Doug Jolley",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "TB '06",
+      "stats": {
+        "recyds": 250,
+        "rectd": 3,
+        "rec": 35
+      }
+    }
+  ]
+}

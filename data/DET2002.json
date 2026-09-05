@@ -1,0 +1,195 @@
+{
+  "QB": [
+    {
+      "name": "Mike McMahon",
+      "team": "DET '02",
+      "stats": {
+        "yds": 874,
+        "td": 7,
+        "int": 9
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "DET '02",
+      "stats": {
+        "yds": 2294,
+        "td": 12,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Richard Huntley",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 139,
+        "rtd": 2,
+        "recyds": 263,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "James Stewart",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 1021,
+        "rtd": 4,
+        "recyds": 333,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Lamont Warren",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 56,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rafael Cooper",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 57,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Aveion Cason",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 107,
+        "rtd": 0,
+        "recyds": 288,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Stephen Trejo",
+      "team": "DET '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Germane Crowell",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 201,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jacquez Green",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Az-Zahir Hakim",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 541,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Bill Schroeder",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 595,
+        "rectd": 5,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Larry Foster",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Scotty Anderson",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Eddie Drummond",
+      "team": "DET '02",
+      "stats": {
+        "recyds": -3,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mikhael Ricks",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 339,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "John Owens",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Matt Murphy",
+      "team": "DET '02",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

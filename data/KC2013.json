@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "KC '13",
+      "stats": {
+        "yds": 3313,
+        "td": 23,
+        "int": 7
+      }
+    },
+    {
+      "name": "Chase Daniel",
+      "team": "KC '13",
+      "stats": {
+        "yds": 248,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '13",
+      "stats": {
+        "ryds": 1287,
+        "rtd": 12,
+        "recyds": 693,
+        "rectd": 7,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '13",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 155,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Cyrus Gray",
+      "team": "KC '13",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Knile Davis",
+      "team": "KC '13",
+      "stats": {
+        "ryds": 242,
+        "rtd": 4,
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 673,
+        "rectd": 5,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Donnie Avery",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 596,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Chad Hall",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dexter McCluster",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 511,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Junior Hemingway",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 125,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "A.J. Jenkins",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 130,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 200,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Kevin Brock",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Richard Gordon",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Sean McGrath",
+      "team": "KC '13",
+      "stats": {
+        "recyds": 302,
+        "rectd": 2,
+        "rec": 26
+      }
+    }
+  ]
+}

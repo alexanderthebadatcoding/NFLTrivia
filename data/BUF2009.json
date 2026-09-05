@@ -1,0 +1,180 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '09",
+      "stats": {
+        "yds": 1422,
+        "td": 9,
+        "int": 10
+      }
+    },
+    {
+      "name": "Trent Edwards",
+      "team": "BUF '09",
+      "stats": {
+        "yds": 1169,
+        "td": 6,
+        "int": 7
+      }
+    },
+    {
+      "name": "Brian Brohm",
+      "team": "BUF '09",
+      "stats": {
+        "yds": 146,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey McIntyre",
+      "team": "BUF '09",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '09",
+      "stats": {
+        "ryds": 1062,
+        "rtd": 2,
+        "recyds": 371,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "BUF '09",
+      "stats": {
+        "ryds": 450,
+        "rtd": 2,
+        "recyds": 179,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Xavier Omon",
+      "team": "BUF '09",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 829,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 291,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 612,
+        "rectd": 7,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "James Hardy",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Steve Johnson",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Joe Klopfenstein",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Derek Schouman",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jonathan Stupar",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Derek Fine",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Shawn Nelson",
+      "team": "BUF '09",
+      "stats": {
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 18
+      }
+    }
+  ]
+}

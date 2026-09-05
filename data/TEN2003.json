@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Steve McNair",
+      "team": "TEN '03",
+      "stats": {
+        "yds": 3246,
+        "td": 24,
+        "int": 7
+      }
+    },
+    {
+      "name": "Neil O'Donnell",
+      "team": "TEN '03",
+      "stats": {
+        "yds": 232,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Billy Volek",
+      "team": "TEN '03",
+      "stats": {
+        "yds": 545,
+        "td": 4,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eddie George",
+      "team": "TEN '03",
+      "stats": {
+        "ryds": 1031,
+        "rtd": 5,
+        "recyds": 163,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Robert Holcombe",
+      "team": "TEN '03",
+      "stats": {
+        "ryds": 201,
+        "rtd": 1,
+        "recyds": 140,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Chris Brown",
+      "team": "TEN '03",
+      "stats": {
+        "ryds": 221,
+        "rtd": 0,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Mason",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 1303,
+        "rectd": 8,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Drew Bennett",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 504,
+        "rectd": 4,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Justin McCareins",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 813,
+        "rectd": 7,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Eddie Berlin",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tyrone Calico",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 297,
+        "rectd": 4,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Frank Wycheck",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 165,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Erron Kinney",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 393,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Shad Meier",
+      "team": "TEN '03",
+      "stats": {
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ]
+}

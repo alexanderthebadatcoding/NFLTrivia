@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Brock Huard",
+      "team": "SEA '00",
+      "stats": {
+        "yds": 540,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jon Kitna",
+      "team": "SEA '00",
+      "stats": {
+        "yds": 2658,
+        "td": 18,
+        "int": 19
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Brown",
+      "team": "SEA '00",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mack Strong",
+      "team": "SEA '00",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 141,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Ricky Watters",
+      "team": "SEA '00",
+      "stats": {
+        "ryds": 1242,
+        "rtd": 7,
+        "recyds": 613,
+        "rectd": 2,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Shaun Alexander",
+      "team": "SEA '00",
+      "stats": {
+        "ryds": 313,
+        "rtd": 2,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Karsten Bailey",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Sean Dawkins",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 731,
+        "rectd": 5,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Derrick Mayes",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 264,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "James Williams",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 713,
+        "rectd": 6,
+        "rec": 53
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 237,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Itula Mili",
+      "team": "SEA '00",
+      "stats": {
+        "recyds": 288,
+        "rectd": 3,
+        "rec": 28
+      }
+    }
+  ]
+}

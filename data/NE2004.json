@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '04",
+      "stats": {
+        "yds": 3690,
+        "td": 28,
+        "int": 14
+      }
+    },
+    {
+      "name": "Rohan Davey",
+      "team": "NE '04",
+      "stats": {
+        "yds": 54,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rabih Abdullah",
+      "team": "NE '04",
+      "stats": {
+        "ryds": 13,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Corey Dillon",
+      "team": "NE '04",
+      "stats": {
+        "ryds": 1635,
+        "rtd": 12,
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '04",
+      "stats": {
+        "ryds": 255,
+        "rtd": 2,
+        "recyds": 248,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '04",
+      "stats": {
+        "ryds": 141,
+        "rtd": 0,
+        "recyds": 215,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Cedric Cobbs",
+      "team": "NE '04",
+      "stats": {
+        "ryds": 50,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 800,
+        "rectd": 7,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 454,
+        "rectd": 4,
+        "rec": 35
+      }
+    },
+    {
+      "name": "David Givens",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 872,
+        "rectd": 3,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Bethel Johnson",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 174,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 195,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jed Weaver",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Daniel Graham",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 364,
+        "rectd": 7,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Benjamin Watson",
+      "team": "NE '04",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

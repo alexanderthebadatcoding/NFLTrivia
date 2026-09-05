@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '12",
+      "stats": {
+        "yds": 4827,
+        "td": 34,
+        "int": 8
+      }
+    },
+    {
+      "name": "Ryan Mallett",
+      "team": "NE '12",
+      "stats": {
+        "yds": 17,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Danny Woodhead",
+      "team": "NE '12",
+      "stats": {
+        "ryds": 301,
+        "rtd": 4,
+        "recyds": 446,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Shane Vereen",
+      "team": "NE '12",
+      "stats": {
+        "ryds": 251,
+        "rtd": 3,
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Stevan Ridley",
+      "team": "NE '12",
+      "stats": {
+        "ryds": 1263,
+        "rtd": 12,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '12",
+      "stats": {
+        "ryds": 274,
+        "rtd": 2,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donte' Stallworth",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 63,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 911,
+        "rectd": 4,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Wes Welker",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 1354,
+        "rectd": 6,
+        "rec": 118
+      }
+    },
+    {
+      "name": "Julian Edelman",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 235,
+        "rectd": 3,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kellen Winslow",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Daniel Fells",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 790,
+        "rectd": 11,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Aaron Hernandez",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 483,
+        "rectd": 5,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Michael Hoomanawanui",
+      "team": "NE '12",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

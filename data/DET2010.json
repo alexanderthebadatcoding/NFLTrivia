@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "DET '10",
+      "stats": {
+        "yds": 2686,
+        "td": 16,
+        "int": 12
+      }
+    },
+    {
+      "name": "Drew Stanton",
+      "team": "DET '10",
+      "stats": {
+        "yds": 780,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '10",
+      "stats": {
+        "yds": 535,
+        "td": 6,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Maurice Morris",
+      "team": "DET '10",
+      "stats": {
+        "ryds": 336,
+        "rtd": 5,
+        "recyds": 170,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kevin Smith",
+      "team": "DET '10",
+      "stats": {
+        "ryds": 125,
+        "rtd": 0,
+        "recyds": 123,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jerome Felton",
+      "team": "DET '10",
+      "stats": {
+        "ryds": 76,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Aaron Brown",
+      "team": "DET '10",
+      "stats": {
+        "ryds": 58,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jahvid Best",
+      "team": "DET '10",
+      "stats": {
+        "ryds": 563,
+        "rtd": 4,
+        "recyds": 487,
+        "rectd": 2,
+        "rec": 58
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nate Burleson",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 625,
+        "rectd": 6,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 1120,
+        "rectd": 12,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Derrick Williams",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Will Heller",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tony Scheffler",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 378,
+        "rectd": 1,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '10",
+      "stats": {
+        "recyds": 722,
+        "rectd": 4,
+        "rec": 71
+      }
+    }
+  ]
+}

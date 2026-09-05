@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Jay Fiedler",
+      "team": "MIA '03",
+      "stats": {
+        "yds": 2138,
+        "td": 11,
+        "int": 13
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "MIA '03",
+      "stats": {
+        "yds": 813,
+        "td": 5,
+        "int": 6
+      }
+    },
+    {
+      "name": "Sage Rosenfels",
+      "team": "MIA '03",
+      "stats": {
+        "yds": 50,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Obafemi Ayanbadejo",
+      "team": "MIA '03",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Rob Konrad",
+      "team": "MIA '03",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Ricky Williams",
+      "team": "MIA '03",
+      "stats": {
+        "ryds": 1372,
+        "rtd": 9,
+        "recyds": 351,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Travis Minor",
+      "team": "MIA '03",
+      "stats": {
+        "ryds": 193,
+        "rtd": 1,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Oronde Gadsden",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "James McKnight",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 285,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Derrius Thompson",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 359,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Chris Chambers",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 963,
+        "rectd": 11,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Kendall Newson",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Randy McMichael",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 598,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Donald Lee",
+      "team": "MIA '03",
+      "stats": {
+        "recyds": 110,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ]
+}

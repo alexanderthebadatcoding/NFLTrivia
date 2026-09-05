@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Michael Bishop",
+      "team": "NE '00",
+      "stats": {
+        "yds": 80,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Drew Bledsoe",
+      "team": "NE '00",
+      "stats": {
+        "yds": 3291,
+        "td": 17,
+        "int": 13
+      }
+    },
+    {
+      "name": "John Friesz",
+      "team": "NE '00",
+      "stats": {
+        "yds": 66,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "NE '00",
+      "stats": {
+        "yds": 6,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tony Carter",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 90,
+        "rtd": 2,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 570,
+        "rtd": 4,
+        "recyds": 465,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Raymont Harris",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Harold Shaw",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 58,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "J.R. Redmond",
+      "team": "NE '00",
+      "stats": {
+        "ryds": 406,
+        "rtd": 1,
+        "recyds": 126,
+        "rectd": 2,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 944,
+        "rectd": 4,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Chris Calloway",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 95,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Terry Glenn",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 963,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Tony Simmons",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 231,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Shockmain Davis",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Curtis Jackson",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Bjornson",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 152,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Rod Rutledge",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jermaine Wiggins",
+      "team": "NE '00",
+      "stats": {
+        "recyds": 207,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '03",
+      "stats": {
+        "yds": 3620,
+        "td": 23,
+        "int": 12
+      }
+    },
+    {
+      "name": "Rohan Davey",
+      "team": "NE '03",
+      "stats": {
+        "yds": 31,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Larry Centers",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 82,
+        "rtd": 0,
+        "recyds": 106,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 118,
+        "rtd": 5,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 638,
+        "rtd": 0,
+        "recyds": 440,
+        "rectd": 0,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Fred McCrary",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 642,
+        "rtd": 3,
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '03",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 472,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "J.J. Stokes",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Dedric Ward",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 106,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 803,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "David Givens",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 510,
+        "rectd": 6,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Bethel Johnson",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 209,
+        "rectd": 2,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 285,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Daniel Graham",
+      "team": "NE '03",
+      "stats": {
+        "recyds": 409,
+        "rectd": 4,
+        "rec": 38
+      }
+    }
+  ]
+}

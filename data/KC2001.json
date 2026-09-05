@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "KC '01",
+      "stats": {
+        "yds": 40,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trent Green",
+      "team": "KC '01",
+      "stats": {
+        "yds": 3783,
+        "td": 17,
+        "int": 24
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Cloud",
+      "team": "KC '01",
+      "stats": {
+        "ryds": 54,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Priest Holmes",
+      "team": "KC '01",
+      "stats": {
+        "ryds": 1555,
+        "rtd": 8,
+        "recyds": 614,
+        "rectd": 2,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '01",
+      "stats": {
+        "ryds": 191,
+        "rtd": 7,
+        "recyds": 265,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Dante Hall",
+      "team": "KC '01",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Alexander",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 470,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Sean Dawkins",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 234,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 491,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Larry Parker",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 199,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Chris Thomas",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Snoop Minnis",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 511,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 54,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 917,
+        "rectd": 6,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Mikhael Ricks",
+      "team": "KC '01",
+      "stats": {
+        "recyds": 252,
+        "rectd": 1,
+        "rec": 18
+      }
+    }
+  ]
+}

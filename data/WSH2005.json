@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "WSH '05",
+      "stats": {
+        "yds": 3050,
+        "td": 23,
+        "int": 10
+      }
+    },
+    {
+      "name": "Patrick Ramsey",
+      "team": "WSH '05",
+      "stats": {
+        "yds": 279,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Sellers",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 1,
+        "rtd": 1,
+        "recyds": 72,
+        "rectd": 7,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Clinton Portis",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 1516,
+        "rtd": 11,
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Ladell Betts",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 338,
+        "rtd": 1,
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Rock Cartwright",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 199,
+        "rtd": 2,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chris Cooley",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 774,
+        "rectd": 7,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Nehemiah Broughton",
+      "team": "WSH '05",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Patten",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 217,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 194,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jimmy Farris",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 1483,
+        "rectd": 9,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Taylor Jacobs",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brian Kozlowski",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Robert Royal",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 131,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Robert Johnson",
+      "team": "WSH '05",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Dan Orlovsky",
+      "team": "TB '12",
+      "stats": {
+        "yds": 51,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Josh Freeman",
+      "team": "TB '12",
+      "stats": {
+        "yds": 4065,
+        "td": 27,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "D.J. Ware",
+      "team": "TB '12",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "LeGarrette Blount",
+      "team": "TB '12",
+      "stats": {
+        "ryds": 151,
+        "rtd": 2,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Erik Lorig",
+      "team": "TB '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Doug Martin",
+      "team": "TB '12",
+      "stats": {
+        "ryds": 1454,
+        "rtd": 11,
+        "recyds": 472,
+        "rectd": 1,
+        "rec": 49
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Jackson",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 1384,
+        "rectd": 8,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Sammie Stroughter",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tiquan Underwood",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 425,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Arrelious Benn",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 996,
+        "rectd": 9,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Chris Owusu",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dallas Clark",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 435,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Nate Byham",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 18,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TB '12",
+      "stats": {
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Doug Flutie",
+      "team": "NE '05",
+      "stats": {
+        "yds": 29,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "NE '05",
+      "stats": {
+        "yds": 4110,
+        "td": 26,
+        "int": 14
+      }
+    },
+    {
+      "name": "Matt Cassel",
+      "team": "NE '05",
+      "stats": {
+        "yds": 183,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey Dillon",
+      "team": "NE '05",
+      "stats": {
+        "ryds": 733,
+        "rtd": 12,
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '05",
+      "stats": {
+        "ryds": 144,
+        "rtd": 0,
+        "recyds": 260,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "NE '05",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '05",
+      "stats": {
+        "ryds": 245,
+        "rtd": 3,
+        "recyds": 227,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "NE '05",
+      "stats": {
+        "ryds": 192,
+        "rtd": 0,
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 466,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Tim Dwight",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 332,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Andre Davis",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 998,
+        "rectd": 5,
+        "rec": 78
+      }
+    },
+    {
+      "name": "David Givens",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 738,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Bethel Johnson",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brandon Childress",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 57,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Daniel Graham",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 235,
+        "rectd": 3,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Benjamin Watson",
+      "team": "NE '05",
+      "stats": {
+        "recyds": 441,
+        "rectd": 4,
+        "rec": 29
+      }
+    }
+  ]
+}

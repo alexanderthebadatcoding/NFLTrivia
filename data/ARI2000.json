@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Dave Brown",
+      "team": "ARI '00",
+      "stats": {
+        "yds": 467,
+        "td": 2,
+        "int": 3
+      }
+    },
+    {
+      "name": "Chris Greisen",
+      "team": "ARI '00",
+      "stats": {
+        "yds": 65,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jake Plummer",
+      "team": "ARI '00",
+      "stats": {
+        "yds": 2946,
+        "td": 13,
+        "int": 21
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Joel Makovicka",
+      "team": "ARI '00",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dennis McKinley",
+      "team": "ARI '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "ARI '00",
+      "stats": {
+        "ryds": 719,
+        "rtd": 4,
+        "recyds": 579,
+        "rectd": 2,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Clarence Williams",
+      "team": "ARI '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "ARI '00",
+      "stats": {
+        "ryds": 373,
+        "rtd": 2,
+        "recyds": 208,
+        "rectd": 0,
+        "rec": 32
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Boston",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 1156,
+        "rectd": 7,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Mac Cody",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 212,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "MarTay Jenkins",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 219,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tywan Mitchell",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Frank Sanders",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 749,
+        "rectd": 6,
+        "rec": 54
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Gedney",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 75,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Terry Hardy",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jay Tant",
+      "team": "ARI '00",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

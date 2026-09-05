@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Derek Anderson",
+      "team": "CAR '15",
+      "stats": {
+        "yds": 36,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Cam Newton",
+      "team": "CAR '15",
+      "stats": {
+        "yds": 3837,
+        "td": 35,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Tolbert",
+      "team": "CAR '15",
+      "stats": {
+        "ryds": 256,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 3,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Jonathan Stewart",
+      "team": "CAR '15",
+      "stats": {
+        "ryds": 989,
+        "rtd": 6,
+        "recyds": 99,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Fozzy Whittaker",
+      "team": "CAR '15",
+      "stats": {
+        "ryds": 108,
+        "rtd": 1,
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Cameron Artis-Payne",
+      "team": "CAR '15",
+      "stats": {
+        "ryds": 183,
+        "rtd": 1,
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerricho Cotchery",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 485,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Ted Ginn",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 739,
+        "rectd": 10,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Brenton Bersin",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Corey Brown",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 447,
+        "rectd": 4,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Devin Funchess",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 473,
+        "rectd": 5,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Olsen",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 1104,
+        "rectd": 7,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Ed Dickson",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 121,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Scott Simonson",
+      "team": "CAR '15",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

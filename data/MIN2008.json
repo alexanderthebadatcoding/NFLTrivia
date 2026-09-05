@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Gus Frerotte",
+      "team": "MIN '08",
+      "stats": {
+        "yds": 2157,
+        "td": 12,
+        "int": 15
+      }
+    },
+    {
+      "name": "Tarvaris Jackson",
+      "team": "MIN '08",
+      "stats": {
+        "yds": 1056,
+        "td": 9,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chester Taylor",
+      "team": "MIN '08",
+      "stats": {
+        "ryds": 399,
+        "rtd": 4,
+        "recyds": 399,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Jeff Dugan",
+      "team": "MIN '08",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Thomas Tapeh",
+      "team": "MIN '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Naufahu Tahi",
+      "team": "MIN '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "MIN '08",
+      "stats": {
+        "ryds": 1757,
+        "rtd": 10,
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Ferguson",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bobby Wade",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 645,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Bernard Berrian",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 964,
+        "rectd": 7,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Sidney Rice",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 141,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Aundrae Allison",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Visanthe Shiancoe",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 596,
+        "rectd": 7,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Garrett Mills",
+      "team": "MIN '08",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "J.P. Losman",
+      "team": "BUF '07",
+      "stats": {
+        "yds": 1204,
+        "td": 4,
+        "int": 6
+      }
+    },
+    {
+      "name": "Trent Edwards",
+      "team": "BUF '07",
+      "stats": {
+        "yds": 1630,
+        "td": 7,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ryan Neufeld",
+      "team": "BUF '07",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony Thomas",
+      "team": "BUF '07",
+      "stats": {
+        "ryds": 89,
+        "rtd": 0,
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '07",
+      "stats": {
+        "ryds": 300,
+        "rtd": 0,
+        "recyds": 190,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "BUF '07",
+      "stats": {
+        "ryds": 1115,
+        "rtd": 7,
+        "recyds": 184,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Dwayne Wright",
+      "team": "BUF '07",
+      "stats": {
+        "ryds": 94,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Peerless Price",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 578,
+        "rectd": 0,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Sam Aiken",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 849,
+        "rectd": 5,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 352,
+        "rectd": 1,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Robert Royal",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 248,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Michael Gaines",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 215,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kevin Everett",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Derek Schouman",
+      "team": "BUF '07",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Steve McNair",
+      "team": "TEN '99",
+      "stats": {
+        "yds": 2179,
+        "td": 12,
+        "int": 8
+      }
+    },
+    {
+      "name": "Neil O'Donnell",
+      "team": "TEN '99",
+      "stats": {
+        "yds": 1382,
+        "td": 10,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eddie George",
+      "team": "TEN '99",
+      "stats": {
+        "ryds": 1304,
+        "rtd": 9,
+        "recyds": 458,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Lorenzo Neal",
+      "team": "TEN '99",
+      "stats": {
+        "ryds": 1,
+        "rtd": 1,
+        "recyds": 27,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Rodney Thomas",
+      "team": "TEN '99",
+      "stats": {
+        "ryds": 164,
+        "rtd": 1,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Isaac Byrd",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 261,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Kevin Dyson",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 658,
+        "rectd": 4,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Joey Kent",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Derrick Mason",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Chris Sanders",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 336,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Yancey Thigpen",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 648,
+        "rectd": 4,
+        "rec": 38
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jackie Harris",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 297,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Michael Roan",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 93,
+        "rectd": 3,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Frank Wycheck",
+      "team": "TEN '99",
+      "stats": {
+        "recyds": 641,
+        "rectd": 2,
+        "rec": 69
+      }
+    }
+  ]
+}

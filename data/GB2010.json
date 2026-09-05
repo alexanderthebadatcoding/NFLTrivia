@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '10",
+      "stats": {
+        "yds": 3922,
+        "td": 28,
+        "int": 11
+      }
+    },
+    {
+      "name": "Matt Flynn",
+      "team": "GB '10",
+      "stats": {
+        "yds": 433,
+        "td": 3,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ryan Grant",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 45,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "John Kuhn",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 281,
+        "rtd": 4,
+        "recyds": 97,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Brandon Jackson",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 703,
+        "rtd": 3,
+        "recyds": 342,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Korey Hall",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Quinn Johnson",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dimitri Nance",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 95,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '10",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 565,
+        "rectd": 4,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Greg Jennings",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 1265,
+        "rectd": 12,
+        "rec": 76
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 679,
+        "rectd": 5,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 582,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Brett Swain",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Donald Lee",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 73,
+        "rectd": 3,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jermichael Finley",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 301,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Tom Crabtree",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '10",
+      "stats": {
+        "recyds": 238,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ]
+}

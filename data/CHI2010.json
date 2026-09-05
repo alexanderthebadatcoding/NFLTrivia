@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "CHI '10",
+      "stats": {
+        "yds": 68,
+        "td": 0,
+        "int": 5
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '10",
+      "stats": {
+        "yds": 3274,
+        "td": 23,
+        "int": 16
+      }
+    },
+    {
+      "name": "Caleb Hanie",
+      "team": "CHI '10",
+      "stats": {
+        "yds": 55,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Manumaleuna",
+      "team": "CHI '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chester Taylor",
+      "team": "CHI '10",
+      "stats": {
+        "ryds": 267,
+        "rtd": 3,
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Garrett Wolfe",
+      "team": "CHI '10",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Matt Forte",
+      "team": "CHI '10",
+      "stats": {
+        "ryds": 1069,
+        "rtd": 6,
+        "recyds": 547,
+        "rectd": 3,
+        "rec": 51
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Rashied Davis",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 84,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Devin Hester",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 475,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Devin Aromashodu",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 149,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Earl Bennett",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 561,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Johnny Knox",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 960,
+        "rectd": 5,
+        "rec": 51
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Greg Olsen",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 404,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Kellen Davis",
+      "team": "CHI '10",
+      "stats": {
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Kyle Orton",
+      "team": "KC '11",
+      "stats": {
+        "yds": 1758,
+        "td": 9,
+        "int": 9
+      }
+    },
+    {
+      "name": "Matt Cassel",
+      "team": "KC '11",
+      "stats": {
+        "yds": 1713,
+        "td": 10,
+        "int": 9
+      }
+    },
+    {
+      "name": "Tyler Palko",
+      "team": "KC '11",
+      "stats": {
+        "yds": 796,
+        "td": 2,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Thomas Jones",
+      "team": "KC '11",
+      "stats": {
+        "ryds": 478,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Le'Ron McClain",
+      "team": "KC '11",
+      "stats": {
+        "ryds": 51,
+        "rtd": 1,
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jackie Battle",
+      "team": "KC '11",
+      "stats": {
+        "ryds": 597,
+        "rtd": 2,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '11",
+      "stats": {
+        "ryds": 83,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dexter McCluster",
+      "team": "KC '11",
+      "stats": {
+        "ryds": 516,
+        "rtd": 1,
+        "recyds": 328,
+        "rectd": 1,
+        "rec": 46
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jerheme Urban",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Terrance Copper",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Keary Colbert",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 1159,
+        "rectd": 5,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Steve Breaston",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 785,
+        "rectd": 2,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Jon Baldwin",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 254,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Becht",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Leonard Pope",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jake O'Connell",
+      "team": "KC '11",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

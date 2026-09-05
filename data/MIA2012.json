@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Matt Moore",
+      "team": "MIA '12",
+      "stats": {
+        "yds": 131,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "MIA '12",
+      "stats": {
+        "yds": 3294,
+        "td": 12,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Bush",
+      "team": "MIA '12",
+      "stats": {
+        "ryds": 986,
+        "rtd": 6,
+        "recyds": 292,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Marcus Thigpen",
+      "team": "MIA '12",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Daniel Thomas",
+      "team": "MIA '12",
+      "stats": {
+        "ryds": 325,
+        "rtd": 4,
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Lamar Miller",
+      "team": "MIA '12",
+      "stats": {
+        "ryds": 250,
+        "rtd": 1,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jorvorskie Lane",
+      "team": "MIA '12",
+      "stats": {
+        "ryds": 13,
+        "rtd": 2,
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jabar Gaffney",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Legedu Naanee",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Davone Bess",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 778,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Anthony Armstrong",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Brian Hartline",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 1083,
+        "rectd": 1,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Marlon Moore",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Armon Binns",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 277,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Rishard Matthews",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 332,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Charles Clay",
+      "team": "MIA '12",
+      "stats": {
+        "recyds": 212,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Drew Bledsoe",
+      "team": "BUF '03",
+      "stats": {
+        "yds": 2860,
+        "td": 11,
+        "int": 12
+      }
+    },
+    {
+      "name": "Alex Van Pelt",
+      "team": "BUF '03",
+      "stats": {
+        "yds": 49,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Travis Brown",
+      "team": "BUF '03",
+      "stats": {
+        "yds": 160,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Sam Gash",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 70,
+        "rtd": 1,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Travis Henry",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 1353,
+        "rtd": 10,
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Ken Simonton",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Joe Burns",
+      "team": "BUF '03",
+      "stats": {
+        "ryds": 113,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 780,
+        "rectd": 1,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Bobby Shaw",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 732,
+        "rectd": 4,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Clarence Coleman",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 588,
+        "rectd": 2,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Sam Aiken",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Campbell",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 339,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Dave Moore",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 82,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ryan Neufeld",
+      "team": "BUF '03",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

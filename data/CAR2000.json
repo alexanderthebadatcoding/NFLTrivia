@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Steve Beuerlein",
+      "team": "CAR '00",
+      "stats": {
+        "yds": 3730,
+        "td": 19,
+        "int": 18
+      }
+    },
+    {
+      "name": "Jeff Lewis",
+      "team": "CAR '00",
+      "stats": {
+        "yds": 120,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Bates",
+      "team": "CAR '00",
+      "stats": {
+        "ryds": 13,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tim Biakabutuka",
+      "team": "CAR '00",
+      "stats": {
+        "ryds": 627,
+        "rtd": 2,
+        "recyds": 341,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "William Floyd",
+      "team": "CAR '00",
+      "stats": {
+        "ryds": 33,
+        "rtd": 1,
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Chris Hetherington",
+      "team": "CAR '00",
+      "stats": {
+        "ryds": 65,
+        "rtd": 2,
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Brad Hoover",
+      "team": "CAR '00",
+      "stats": {
+        "ryds": 290,
+        "rtd": 1,
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Isaac Byrd",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 241,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Karl Hankton",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Donald Hayes",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 926,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Muhsin Muhammad",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 1183,
+        "rectd": 6,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Iheanyi Uwaezuoke",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brian Kinchen",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kris Mangum",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 215,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Wesley Walls",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 422,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Casey Crawford",
+      "team": "CAR '00",
+      "stats": {
+        "recyds": 47,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

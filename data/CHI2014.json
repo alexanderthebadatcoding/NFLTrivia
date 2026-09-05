@@ -1,0 +1,133 @@
+{
+  "QB": [
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '14",
+      "stats": {
+        "yds": 3812,
+        "td": 28,
+        "int": 18
+      }
+    },
+    {
+      "name": "Jimmy Clausen",
+      "team": "CHI '14",
+      "stats": {
+        "yds": 223,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Forte",
+      "team": "CHI '14",
+      "stats": {
+        "ryds": 1038,
+        "rtd": 6,
+        "recyds": 808,
+        "rectd": 4,
+        "rec": 102
+      }
+    },
+    {
+      "name": "Ka'Deem Carey",
+      "team": "CHI '14",
+      "stats": {
+        "ryds": 158,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Senorise Perry",
+      "team": "CHI '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Micheal Spurlock",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Santonio Holmes",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brandon Marshall",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 721,
+        "rectd": 8,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Josh Morgan",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 70,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 1133,
+        "rectd": 10,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Marquess Wilson",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 140,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dante Rosario",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Martellus Bennett",
+      "team": "CHI '14",
+      "stats": {
+        "recyds": 916,
+        "rectd": 6,
+        "rec": 90
+      }
+    }
+  ]
+}

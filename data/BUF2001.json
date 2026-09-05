@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Rob Johnson",
+      "team": "BUF '01",
+      "stats": {
+        "yds": 1465,
+        "td": 5,
+        "int": 7
+      }
+    },
+    {
+      "name": "Alex Van Pelt",
+      "team": "BUF '01",
+      "stats": {
+        "yds": 2056,
+        "td": 12,
+        "int": 11
+      }
+    },
+    {
+      "name": "Travis Brown",
+      "team": "BUF '01",
+      "stats": {
+        "yds": 201,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "BUF '01",
+      "stats": {
+        "ryds": 341,
+        "rtd": 2,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Larry Centers",
+      "team": "BUF '01",
+      "stats": {
+        "ryds": 160,
+        "rtd": 2,
+        "recyds": 620,
+        "rectd": 2,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Phillip Crosby",
+      "team": "BUF '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "BUF '01",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Travis Henry",
+      "team": "BUF '01",
+      "stats": {
+        "ryds": 729,
+        "rtd": 4,
+        "recyds": 179,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jeremy McDaniel",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 904,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 895,
+        "rectd": 7,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Avion Black",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Reggie Germany",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Sheldon Jackson",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "BUF '01",
+      "stats": {
+        "recyds": 590,
+        "rectd": 3,
+        "rec": 53
+      }
+    }
+  ]
+}

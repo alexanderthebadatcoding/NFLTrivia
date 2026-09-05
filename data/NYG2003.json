@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '03",
+      "stats": {
+        "yds": 3110,
+        "td": 13,
+        "int": 16
+      }
+    },
+    {
+      "name": "Jesse Palmer",
+      "team": "NYG '03",
+      "stats": {
+        "yds": 532,
+        "td": 3,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '03",
+      "stats": {
+        "ryds": 1215,
+        "rtd": 2,
+        "recyds": 461,
+        "rectd": 1,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Jim Finn",
+      "team": "NYG '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Dorsey Levens",
+      "team": "NYG '03",
+      "stats": {
+        "ryds": 197,
+        "rtd": 3,
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Brian Mitchell",
+      "team": "NYG '03",
+      "stats": {
+        "ryds": 20,
+        "rtd": 1,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Delvin Joyce",
+      "team": "NYG '03",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 608,
+        "rectd": 6,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 1057,
+        "rectd": 5,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Tim Carter",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 309,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Willie Ponder",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "David Tyree",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 211,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcellus Rivers",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Darnell Dinkins",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 562,
+        "rectd": 2,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Visanthe Shiancoe",
+      "team": "NYG '03",
+      "stats": {
+        "recyds": 56,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ]
+}

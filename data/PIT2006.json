@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "PIT '06",
+      "stats": {
+        "yds": 477,
+        "td": 5,
+        "int": 0
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '06",
+      "stats": {
+        "yds": 3528,
+        "td": 18,
+        "int": 23
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '06",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Najeh Davenport",
+      "team": "PIT '06",
+      "stats": {
+        "ryds": 221,
+        "rtd": 1,
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Verron Haynes",
+      "team": "PIT '06",
+      "stats": {
+        "ryds": 78,
+        "rtd": 0,
+        "recyds": 95,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Willie Parker",
+      "team": "PIT '06",
+      "stats": {
+        "ryds": 1494,
+        "rtd": 13,
+        "recyds": 222,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "John Kuhn",
+      "team": "PIT '06",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sean Morey",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 975,
+        "rectd": 6,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Cedrick Wilson",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 504,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Walter Young",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Nate Washington",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 624,
+        "rectd": 4,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Santonio Holmes",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 824,
+        "rectd": 2,
+        "rec": 49
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jerame Tuman",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 73,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Heath Miller",
+      "team": "PIT '06",
+      "stats": {
+        "recyds": 393,
+        "rectd": 5,
+        "rec": 34
+      }
+    }
+  ]
+}

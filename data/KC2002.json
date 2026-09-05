@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "KC '02",
+      "stats": {
+        "yds": 73,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trent Green",
+      "team": "KC '02",
+      "stats": {
+        "yds": 3690,
+        "td": 26,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Cloud",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 115,
+        "rtd": 2,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Priest Holmes",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 1615,
+        "rtd": 21,
+        "recyds": 672,
+        "rectd": 3,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 81,
+        "rtd": 2,
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Derrick Blaylock",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 906,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 397,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Dante Hall",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 322,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Snoop Minnis",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marc Boerigter",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 420,
+        "rectd": 8,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 773,
+        "rectd": 7,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Billy Baber",
+      "team": "KC '02",
+      "stats": {
+        "recyds": 10,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

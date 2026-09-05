@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '11",
+      "stats": {
+        "yds": 4933,
+        "td": 29,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '11",
+      "stats": {
+        "ryds": 571,
+        "rtd": 7,
+        "recyds": 128,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "D.J. Ware",
+      "team": "NYG '11",
+      "stats": {
+        "ryds": 163,
+        "rtd": 0,
+        "recyds": 170,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "NYG '11",
+      "stats": {
+        "ryds": 659,
+        "rtd": 9,
+        "recyds": 267,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Da'Rel Scott",
+      "team": "NYG '11",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Henry Hynoski",
+      "team": "NYG '11",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Stokley",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Domenik Hixon",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 50,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Devin Thomas",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mario Manningham",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 523,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Ramses Barden",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Hakeem Nicks",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 1192,
+        "rectd": 7,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Victor Cruz",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 1536,
+        "rectd": 9,
+        "rec": 82
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bear Pascoe",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Travis Beckum",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 93,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jake Ballard",
+      "team": "NYG '11",
+      "stats": {
+        "recyds": 604,
+        "rectd": 4,
+        "rec": 38
+      }
+    }
+  ]
+}

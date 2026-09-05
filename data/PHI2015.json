@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Mark Sanchez",
+      "team": "PHI '15",
+      "stats": {
+        "yds": 616,
+        "td": 4,
+        "int": 4
+      }
+    },
+    {
+      "name": "Sam Bradford",
+      "team": "PHI '15",
+      "stats": {
+        "yds": 3725,
+        "td": 19,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '15",
+      "stats": {
+        "ryds": 317,
+        "rtd": 3,
+        "recyds": 388,
+        "rectd": 1,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Ryan Mathews",
+      "team": "PHI '15",
+      "stats": {
+        "ryds": 539,
+        "rtd": 6,
+        "recyds": 146,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "DeMarco Murray",
+      "team": "PHI '15",
+      "stats": {
+        "ryds": 702,
+        "rtd": 6,
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Kenjon Barner",
+      "team": "PHI '15",
+      "stats": {
+        "ryds": 124,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Miles Austin",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 224,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Seyi Ajirotutu",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Riley Cooper",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 327,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jonathan Krause",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Josh Huff",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 312,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 997,
+        "rectd": 8,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Nelson Agholor",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 283,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 398,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 853,
+        "rectd": 2,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Trey Burton",
+      "team": "PHI '15",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

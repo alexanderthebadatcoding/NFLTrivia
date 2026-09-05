@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "MIN '15",
+      "stats": {
+        "yds": 15,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "MIN '15",
+      "stats": {
+        "yds": 3231,
+        "td": 14,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "MIN '15",
+      "stats": {
+        "ryds": 1485,
+        "rtd": 11,
+        "recyds": 222,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Matt Asiata",
+      "team": "MIN '15",
+      "stats": {
+        "ryds": 112,
+        "rtd": 0,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Zach Line",
+      "team": "MIN '15",
+      "stats": {
+        "ryds": 10,
+        "rtd": 2,
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jerick McKinnon",
+      "team": "MIN '15",
+      "stats": {
+        "ryds": 271,
+        "rtd": 2,
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Wallace",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 473,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jarius Wright",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 442,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Charles D. Johnson",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 127,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 720,
+        "rectd": 4,
+        "rec": 52
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 495,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Rhett Ellison",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 124,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "MyCole Pruitt",
+      "team": "MIN '15",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

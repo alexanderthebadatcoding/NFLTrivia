@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "SF '09",
+      "stats": {
+        "yds": 943,
+        "td": 5,
+        "int": 2
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "SF '09",
+      "stats": {
+        "yds": 2350,
+        "td": 18,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Moran Norris",
+      "team": "SF '09",
+      "stats": {
+        "ryds": 41,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Frank Gore",
+      "team": "SF '09",
+      "stats": {
+        "ryds": 1120,
+        "rtd": 10,
+        "recyds": 406,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '09",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Glen Coffee",
+      "team": "SF '09",
+      "stats": {
+        "ryds": 226,
+        "rtd": 1,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Isaac Bruce",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 264,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Arnaz Battle",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Brandon Jones",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jason Hill",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 90,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Josh Morgan",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 527,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Michael Crabtree",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 625,
+        "rectd": 2,
+        "rec": 48
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 965,
+        "rectd": 13,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "SF '09",
+      "stats": {
+        "recyds": 233,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Trent Green",
+      "team": "KC '06",
+      "stats": {
+        "yds": 1342,
+        "td": 7,
+        "int": 9
+      }
+    },
+    {
+      "name": "Damon Huard",
+      "team": "KC '06",
+      "stats": {
+        "yds": 1878,
+        "td": 11,
+        "int": 1
+      }
+    },
+    {
+      "name": "Brodie Croyle",
+      "team": "KC '06",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dee Brown",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 200,
+        "rtd": 0,
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 1789,
+        "rtd": 17,
+        "recyds": 410,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Ronnie Cruz",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kris Wilson",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 132,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Derrick Ross",
+      "team": "KC '06",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 860,
+        "rectd": 5,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Dante Hall",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 204,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Rod Gardner",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Samie Parker",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 561,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jeff Webb",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '06",
+      "stats": {
+        "recyds": 900,
+        "rectd": 5,
+        "rec": 73
+      }
+    }
+  ]
+}

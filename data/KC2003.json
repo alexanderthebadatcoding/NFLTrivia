@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "KC '03",
+      "stats": {
+        "yds": 74,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trent Green",
+      "team": "KC '03",
+      "stats": {
+        "yds": 4039,
+        "td": 24,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Priest Holmes",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 1420,
+        "rtd": 27,
+        "recyds": 690,
+        "rectd": 0,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Derrick Blaylock",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 112,
+        "rtd": 2,
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '03",
+      "stats": {
+        "ryds": 85,
+        "rtd": 1,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 854,
+        "rectd": 5,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 740,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Dante Hall",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 423,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Marc Boerigter",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 35,
+        "rectd": 3,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 915,
+        "rectd": 10,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Billy Baber",
+      "team": "KC '03",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

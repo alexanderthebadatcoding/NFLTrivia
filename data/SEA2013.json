@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Tarvaris Jackson",
+      "team": "SEA '13",
+      "stats": {
+        "yds": 151,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '13",
+      "stats": {
+        "yds": 3357,
+        "td": 26,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 1257,
+        "rtd": 12,
+        "recyds": 316,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Derrick Coleman",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Robert Turbin",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 264,
+        "rtd": 0,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Spencer Ware",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Christine Michael",
+      "team": "SEA '13",
+      "stats": {
+        "ryds": 79,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Sidney Rice",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 231,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Percy Harvin",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 898,
+        "rectd": 5,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 778,
+        "rectd": 5,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Ricardo Lockette",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 346,
+        "rectd": 4,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Miller",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 387,
+        "rectd": 5,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Kellen Davis",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 32,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Luke Willson",
+      "team": "SEA '13",
+      "stats": {
+        "recyds": 272,
+        "rectd": 1,
+        "rec": 20
+      }
+    }
+  ]
+}

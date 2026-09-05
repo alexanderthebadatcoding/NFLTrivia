@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "SF '12",
+      "stats": {
+        "yds": 1737,
+        "td": 13,
+        "int": 5
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '12",
+      "stats": {
+        "yds": 1814,
+        "td": 10,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 1214,
+        "rtd": 8,
+        "recyds": 234,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Brandon Jacobs",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Anthony Dixon",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 78,
+        "rtd": 2,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kendall Hunter",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 371,
+        "rtd": 2,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Bruce Miller",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "LaMichael James",
+      "team": "SF '12",
+      "stats": {
+        "ryds": 125,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randy Moss",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 434,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Ted Ginn",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mario Manningham",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 449,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Michael Crabtree",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 1105,
+        "rectd": 9,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Kyle Williams",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 212,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 548,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 344,
+        "rectd": 3,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Garrett Celek",
+      "team": "SF '12",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

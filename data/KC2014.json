@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "KC '14",
+      "stats": {
+        "yds": 3265,
+        "td": 18,
+        "int": 6
+      }
+    },
+    {
+      "name": "Chase Daniel",
+      "team": "KC '14",
+      "stats": {
+        "yds": 157,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 1033,
+        "rtd": 9,
+        "recyds": 291,
+        "rectd": 5,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Joe McKnight",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 64,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Cyrus Gray",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 31,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Knile Davis",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 463,
+        "rtd": 6,
+        "recyds": 147,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "De'Anthony Thomas",
+      "team": "KC '14",
+      "stats": {
+        "ryds": 113,
+        "rtd": 1,
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jason Avant",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 353,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 754,
+        "rectd": 0,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Donnie Avery",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Junior Hemingway",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 108,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "A.J. Jenkins",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Frankie Hammond",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Albert Wilson",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 260,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 226,
+        "rectd": 4,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Demetrius Harris",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '14",
+      "stats": {
+        "recyds": 862,
+        "rectd": 5,
+        "rec": 67
+      }
+    }
+  ]
+}

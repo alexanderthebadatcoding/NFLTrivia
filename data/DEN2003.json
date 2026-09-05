@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Steve Beuerlein",
+      "team": "DEN '03",
+      "stats": {
+        "yds": 389,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Danny Kanell",
+      "team": "DEN '03",
+      "stats": {
+        "yds": 442,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Jake Plummer",
+      "team": "DEN '03",
+      "stats": {
+        "yds": 2183,
+        "td": 15,
+        "int": 7
+      }
+    },
+    {
+      "name": "Jarious Jackson",
+      "team": "DEN '03",
+      "stats": {
+        "yds": 41,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Anderson",
+      "team": "DEN '03",
+      "stats": {
+        "ryds": 257,
+        "rtd": 3,
+        "recyds": 53,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Reuben Droughns",
+      "team": "DEN '03",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 87,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Clinton Portis",
+      "team": "DEN '03",
+      "stats": {
+        "ryds": 1591,
+        "rtd": 14,
+        "recyds": 314,
+        "rectd": 0,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Cecil Sapp",
+      "team": "DEN '03",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Quentin Griffin",
+      "team": "DEN '03",
+      "stats": {
+        "ryds": 345,
+        "rtd": 0,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ed McCaffrey",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 195,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 846,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Chris Cole",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ashley Lelie",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 628,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Adrian Madise",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 53,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Patrick Hape",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Shannon Sharpe",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 770,
+        "rectd": 8,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Jeb Putzier",
+      "team": "DEN '03",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

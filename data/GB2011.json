@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '11",
+      "stats": {
+        "yds": 4636,
+        "td": 45,
+        "int": 6
+      }
+    },
+    {
+      "name": "Matt Flynn",
+      "team": "GB '11",
+      "stats": {
+        "yds": 518,
+        "td": 6,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ryan Grant",
+      "team": "GB '11",
+      "stats": {
+        "ryds": 559,
+        "rtd": 2,
+        "recyds": 268,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "John Kuhn",
+      "team": "GB '11",
+      "stats": {
+        "ryds": 78,
+        "rtd": 4,
+        "recyds": 77,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '11",
+      "stats": {
+        "ryds": 578,
+        "rtd": 1,
+        "recyds": 216,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Alex Green",
+      "team": "GB '11",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brandon Saine",
+      "team": "GB '11",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 445,
+        "rectd": 6,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Greg Jennings",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 949,
+        "rectd": 9,
+        "rec": 67
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 635,
+        "rectd": 7,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 1263,
+        "rectd": 15,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 375,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jermichael Finley",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 767,
+        "rectd": 8,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Tom Crabtree",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "D.J. Williams",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ryan Taylor",
+      "team": "GB '11",
+      "stats": {
+        "recyds": 4,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

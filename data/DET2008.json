@@ -1,0 +1,200 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "DET '08",
+      "stats": {
+        "yds": 786,
+        "td": 4,
+        "int": 6
+      }
+    },
+    {
+      "name": "Jon Kitna",
+      "team": "DET '08",
+      "stats": {
+        "yds": 758,
+        "td": 5,
+        "int": 5
+      }
+    },
+    {
+      "name": "Drew Henson",
+      "team": "DET '08",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Dan Orlovsky",
+      "team": "DET '08",
+      "stats": {
+        "yds": 1616,
+        "td": 8,
+        "int": 8
+      }
+    },
+    {
+      "name": "Drew Stanton",
+      "team": "DET '08",
+      "stats": {
+        "yds": 119,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aveion Cason",
+      "team": "DET '08",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rudi Johnson",
+      "team": "DET '08",
+      "stats": {
+        "ryds": 237,
+        "rtd": 1,
+        "recyds": 88,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Moran Norris",
+      "team": "DET '08",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kevin Smith",
+      "team": "DET '08",
+      "stats": {
+        "ryds": 975,
+        "rtd": 8,
+        "recyds": 286,
+        "rectd": 0,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jerome Felton",
+      "team": "DET '08",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Furrey",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 181,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Shaun McDonald",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 332,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "John Standeford",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 244,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Brandon Middleton",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Keary Colbert",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 1331,
+        "rectd": 12,
+        "rec": 78
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Owens",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 85,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Michael Gaines",
+      "team": "DET '08",
+      "stats": {
+        "recyds": 260,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ]
+}

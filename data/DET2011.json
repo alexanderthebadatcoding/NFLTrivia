@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "DET '11",
+      "stats": {
+        "yds": 33,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '11",
+      "stats": {
+        "yds": 5100,
+        "td": 41,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Maurice Morris",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 319,
+        "rtd": 1,
+        "recyds": 241,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jerome Harrison",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 41,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevin Smith",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 364,
+        "rtd": 5,
+        "recyds": 202,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Aaron Brown",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Keiland Williams",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 195,
+        "rtd": 2,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jahvid Best",
+      "team": "DET '11",
+      "stats": {
+        "ryds": 390,
+        "rtd": 2,
+        "recyds": 287,
+        "rectd": 1,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nate Burleson",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 771,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Rashied Davis",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Maurice Stovall",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 1686,
+        "rectd": 16,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Stefan Logan",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Titus Young",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 616,
+        "rectd": 6,
+        "rec": 50
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Will Heller",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tony Scheffler",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 347,
+        "rectd": 6,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '11",
+      "stats": {
+        "recyds": 777,
+        "rectd": 5,
+        "rec": 83
+      }
+    }
+  ]
+}

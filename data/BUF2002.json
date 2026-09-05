@@ -1,0 +1,148 @@
+{
+  "QB": [
+    {
+      "name": "Drew Bledsoe",
+      "team": "BUF '02",
+      "stats": {
+        "yds": 4359,
+        "td": 24,
+        "int": 15
+      }
+    },
+    {
+      "name": "Alex Van Pelt",
+      "team": "BUF '02",
+      "stats": {
+        "yds": 5,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Larry Centers",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 56,
+        "rtd": 2,
+        "recyds": 388,
+        "rectd": 0,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Phillip Crosby",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Travis Henry",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 1438,
+        "rtd": 13,
+        "recyds": 309,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Joe Burns",
+      "team": "BUF '02",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Charles Johnson",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 1292,
+        "rectd": 10,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 1252,
+        "rectd": 9,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 509,
+        "rectd": 2,
+        "rec": 37
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dave Moore",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 141,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "BUF '02",
+      "stats": {
+        "recyds": 350,
+        "rectd": 0,
+        "rec": 32
+      }
+    }
+  ]
+}

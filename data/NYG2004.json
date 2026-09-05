@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Kurt Warner",
+      "team": "NYG '04",
+      "stats": {
+        "yds": 2054,
+        "td": 6,
+        "int": 4
+      }
+    },
+    {
+      "name": "Eli Manning",
+      "team": "NYG '04",
+      "stats": {
+        "yds": 1043,
+        "td": 6,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '04",
+      "stats": {
+        "ryds": 1518,
+        "rtd": 13,
+        "recyds": 578,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "NYG '04",
+      "stats": {
+        "ryds": 90,
+        "rtd": 3,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jim Finn",
+      "team": "NYG '04",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ron Dayne",
+      "team": "NYG '04",
+      "stats": {
+        "ryds": 179,
+        "rtd": 1,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 437,
+        "rectd": 0,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 747,
+        "rectd": 0,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Tim Carter",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 182,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Willie Ponder",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "David Tyree",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 155,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jamaar Taylor",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcellus Rivers",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 666,
+        "rectd": 6,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Visanthe Shiancoe",
+      "team": "NYG '04",
+      "stats": {
+        "recyds": 25,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

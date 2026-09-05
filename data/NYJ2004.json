@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Chad Pennington",
+      "team": "NYJ '04",
+      "stats": {
+        "yds": 2673,
+        "td": 16,
+        "int": 9
+      }
+    },
+    {
+      "name": "Quincy Carter",
+      "team": "NYJ '04",
+      "stats": {
+        "yds": 498,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Brooks Bollinger",
+      "team": "NYJ '04",
+      "stats": {
+        "yds": 60,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Curtis Martin",
+      "team": "NYJ '04",
+      "stats": {
+        "ryds": 1697,
+        "rtd": 12,
+        "recyds": 245,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jerald Sowell",
+      "team": "NYJ '04",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 342,
+        "rectd": 1,
+        "rec": 45
+      }
+    },
+    {
+      "name": "LaMont Jordan",
+      "team": "NYJ '04",
+      "stats": {
+        "ryds": 479,
+        "rtd": 2,
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "B.J. Askew",
+      "team": "NYJ '04",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Wayne Chrebet",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 397,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jonathan Carter",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Justin McCareins",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 770,
+        "rectd": 4,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 838,
+        "rectd": 5,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Jerricho Cotchery",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Becht",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 100,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Chris Baker",
+      "team": "NYJ '04",
+      "stats": {
+        "recyds": 182,
+        "rectd": 4,
+        "rec": 18
+      }
+    }
+  ]
+}

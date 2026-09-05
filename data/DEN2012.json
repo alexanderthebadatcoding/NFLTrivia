@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Peyton Manning",
+      "team": "DEN '12",
+      "stats": {
+        "yds": 4659,
+        "td": 37,
+        "int": 11
+      }
+    },
+    {
+      "name": "Brock Osweiler",
+      "team": "DEN '12",
+      "stats": {
+        "yds": 12,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Willis McGahee",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 731,
+        "rtd": 4,
+        "recyds": 221,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jacob Hester",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 81,
+        "rtd": 2,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lance Ball",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 158,
+        "rtd": 1,
+        "recyds": 61,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Knowshon Moreno",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 525,
+        "rtd": 4,
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Chris Gronkowski",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ronnie Hillman",
+      "team": "DEN '12",
+      "stats": {
+        "ryds": 330,
+        "rtd": 1,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Stokley",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 544,
+        "rectd": 5,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Matt Willis",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Andre Caldwell",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Trindon Holliday",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 1064,
+        "rectd": 13,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 1434,
+        "rectd": 10,
+        "rec": 94
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Joel Dreessen",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 356,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Jacob Tamme",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 555,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Virgil Green",
+      "team": "DEN '12",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

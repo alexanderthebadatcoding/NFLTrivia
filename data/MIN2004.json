@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '04",
+      "stats": {
+        "yds": 4717,
+        "td": 39,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Moe Williams",
+      "team": "MIN '04",
+      "stats": {
+        "ryds": 161,
+        "rtd": 3,
+        "recyds": 233,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "MIN '04",
+      "stats": {
+        "ryds": 276,
+        "rtd": 1,
+        "recyds": 207,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Larry Ned",
+      "team": "MIN '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Onterrio Smith",
+      "team": "MIN '04",
+      "stats": {
+        "ryds": 544,
+        "rtd": 2,
+        "recyds": 394,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Mewelde Moore",
+      "team": "MIN '04",
+      "stats": {
+        "ryds": 379,
+        "rtd": 0,
+        "recyds": 238,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Randy Moss",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 767,
+        "rectd": 13,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Marcus Robinson",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 657,
+        "rectd": 8,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Kelly Campbell",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 364,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Nate Burleson",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 1006,
+        "rectd": 9,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Keenan Howry",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jermaine Wiggins",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 705,
+        "rectd": 4,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Sean Berton",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Richard Owens",
+      "team": "MIN '04",
+      "stats": {
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

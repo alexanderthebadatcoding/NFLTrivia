@@ -1,0 +1,137 @@
+{
+  "QB": [
+    {
+      "name": "Brian Griese",
+      "team": "TB '05",
+      "stats": {
+        "yds": 1136,
+        "td": 7,
+        "int": 7
+      }
+    },
+    {
+      "name": "Chris Simms",
+      "team": "TB '05",
+      "stats": {
+        "yds": 2035,
+        "td": 10,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Alstott",
+      "team": "TB '05",
+      "stats": {
+        "ryds": 80,
+        "rtd": 6,
+        "recyds": 222,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "TB '05",
+      "stats": {
+        "ryds": 436,
+        "rtd": 1,
+        "recyds": 300,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jameel Cook",
+      "team": "TB '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Earnest Graham",
+      "team": "TB '05",
+      "stats": {
+        "ryds": 83,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Cadillac Williams",
+      "team": "TB '05",
+      "stats": {
+        "ryds": 1178,
+        "rtd": 6,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joey Galloway",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 1287,
+        "rectd": 10,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 282,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Edell Shepherd",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Michael Clayton",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 372,
+        "rectd": 0,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Becht",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "TB '05",
+      "stats": {
+        "recyds": 367,
+        "rectd": 2,
+        "rec": 41
+      }
+    }
+  ]
+}

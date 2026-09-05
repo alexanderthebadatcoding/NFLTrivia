@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Todd Bouman",
+      "team": "MIN '02",
+      "stats": {
+        "yds": 85,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '02",
+      "stats": {
+        "yds": 3853,
+        "td": 18,
+        "int": 23
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '02",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 393,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Moe Williams",
+      "team": "MIN '02",
+      "stats": {
+        "ryds": 414,
+        "rtd": 11,
+        "recyds": 251,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Doug Chapman",
+      "team": "MIN '02",
+      "stats": {
+        "ryds": 89,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "MIN '02",
+      "stats": {
+        "ryds": 1296,
+        "rtd": 5,
+        "recyds": 351,
+        "rectd": 1,
+        "rec": 37
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Alexander",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 134,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "D'Wayne Bates",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 689,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Randy Moss",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 1347,
+        "rectd": 7,
+        "rec": 106
+      }
+    },
+    {
+      "name": "Chris Walsh",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 172,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Cedric James",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kelly Campbell",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 176,
+        "rectd": 3,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Byron Chamberlain",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 389,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Hunter Goodwin",
+      "team": "MIN '02",
+      "stats": {
+        "recyds": 20,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

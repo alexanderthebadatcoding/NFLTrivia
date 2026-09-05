@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '14",
+      "stats": {
+        "yds": 4257,
+        "td": 22,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Bush",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 297,
+        "rtd": 2,
+        "recyds": 253,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Jed Collins",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 39,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Joique Bell",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 860,
+        "rtd": 7,
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Theo Riddick",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 316,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "George Winn",
+      "team": "DET '14",
+      "stats": {
+        "ryds": 73,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 1077,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 1331,
+        "rectd": 4,
+        "rec": 99
+      }
+    },
+    {
+      "name": "Jeremy Ross",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 314,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Ryan Broyles",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Corey Fuller",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 212,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Joseph Fauria",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 74,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Eric Ebron",
+      "team": "DET '14",
+      "stats": {
+        "recyds": 248,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ]
+}

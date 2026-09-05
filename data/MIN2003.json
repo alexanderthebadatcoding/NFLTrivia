@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '03",
+      "stats": {
+        "yds": 3479,
+        "td": 25,
+        "int": 11
+      }
+    },
+    {
+      "name": "Gus Frerotte",
+      "team": "MIN '03",
+      "stats": {
+        "yds": 690,
+        "td": 7,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "John Avery",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Moe Williams",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 745,
+        "rtd": 5,
+        "recyds": 644,
+        "rectd": 3,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Doug Chapman",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 447,
+        "rtd": 1,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Charles Stackhouse",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Onterrio Smith",
+      "team": "MIN '03",
+      "stats": {
+        "ryds": 579,
+        "rtd": 5,
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "D'Wayne Bates",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Randy Moss",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 1632,
+        "rectd": 17,
+        "rec": 111
+      }
+    },
+    {
+      "name": "Kelly Campbell",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 522,
+        "rectd": 4,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Nate Burleson",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 455,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Keenan Howry",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hunter Goodwin",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '03",
+      "stats": {
+        "recyds": 401,
+        "rectd": 4,
+        "rec": 46
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Gus Frerotte",
+      "team": "DEN '00",
+      "stats": {
+        "yds": 1776,
+        "td": 9,
+        "int": 8
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "DEN '00",
+      "stats": {
+        "yds": 2688,
+        "td": 19,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Terrell Davis",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 282,
+        "rtd": 2,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Olandis Gary",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Howard Griffith",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 101,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Detron Smith",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "KaRon Coleman",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 183,
+        "rtd": 1,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike Anderson",
+      "team": "DEN '00",
+      "stats": {
+        "ryds": 1500,
+        "rtd": 15,
+        "recyds": 169,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Robert Brooks",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ed McCaffrey",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 1317,
+        "rectd": 9,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Travis McGriff",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 1602,
+        "rectd": 8,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Scottie Montgomery",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 495,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Byron Chamberlain",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 283,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Desmond Clark",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 339,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Billy Miller",
+      "team": "DEN '00",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

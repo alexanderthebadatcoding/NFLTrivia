@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '02",
+      "stats": {
+        "yds": 3658,
+        "td": 27,
+        "int": 16
+      }
+    },
+    {
+      "name": "Doug Pederson",
+      "team": "GB '02",
+      "stats": {
+        "yds": 134,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jay Graham",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ahman Green",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 1240,
+        "rtd": 7,
+        "recyds": 393,
+        "rectd": 2,
+        "rec": 57
+      }
+    },
+    {
+      "name": "William Henderson",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 27,
+        "rtd": 1,
+        "recyds": 168,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Rondell Mealey",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 36,
+        "rtd": 1,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Tony Fisher",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 283,
+        "rtd": 2,
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Najeh Davenport",
+      "team": "GB '02",
+      "stats": {
+        "ryds": 184,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Karsten Bailey",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Donald Driver",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 1064,
+        "rectd": 9,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Terry Glenn",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 817,
+        "rectd": 2,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Robert Ferguson",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 293,
+        "rectd": 3,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Javon Walker",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 319,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tyrone Davis",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Bubba Franks",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 442,
+        "rectd": 7,
+        "rec": 54
+      }
+    },
+    {
+      "name": "David Martin",
+      "team": "GB '02",
+      "stats": {
+        "recyds": 33,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ]
+}

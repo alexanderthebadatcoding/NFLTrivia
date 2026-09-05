@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "DET '05",
+      "stats": {
+        "yds": 937,
+        "td": 3,
+        "int": 6
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "DET '05",
+      "stats": {
+        "yds": 2021,
+        "td": 12,
+        "int": 12
+      }
+    },
+    {
+      "name": "Dan Orlovsky",
+      "team": "DET '05",
+      "stats": {
+        "yds": 63,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 306,
+        "rtd": 1,
+        "recyds": 284,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Paul Smith",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Artose Pinner",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 349,
+        "rtd": 3,
+        "recyds": 181,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Kevin Jones",
+      "team": "DET '05",
+      "stats": {
+        "ryds": 664,
+        "rtd": 5,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Edwards",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kevin Johnson",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Scott Vines",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 417,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Charles Rogers",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 197,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Glenn Martinez",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Roy Williams",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 687,
+        "rectd": 8,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 350,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcus Pollard",
+      "team": "DET '05",
+      "stats": {
+        "recyds": 516,
+        "rectd": 3,
+        "rec": 47
+      }
+    }
+  ]
+}

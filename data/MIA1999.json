@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Damon Huard",
+      "team": "MIA '99",
+      "stats": {
+        "yds": 1288,
+        "td": 8,
+        "int": 4
+      }
+    },
+    {
+      "name": "Dan Marino",
+      "team": "MIA '99",
+      "stats": {
+        "yds": 2448,
+        "td": 12,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Cecil Collins",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 414,
+        "rtd": 2,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Autry Denson",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 98,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "J.J. Johnson",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 558,
+        "rtd": 4,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Rob Konrad",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 251,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Stanley Pritchett",
+      "team": "MIA '99",
+      "stats": {
+        "ryds": 158,
+        "rtd": 1,
+        "recyds": 312,
+        "rectd": 4,
+        "rec": 43
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Oronde Gadsden",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 803,
+        "rectd": 6,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Yatil Green",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 234,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Nate Jacquet",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tony Martin",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 1037,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "O.J. McDuffie",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 516,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Kevin McKenzie",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Troy Drayton",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 299,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Hunter Goodwin",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ed Perry",
+      "team": "MIA '99",
+      "stats": {
+        "recyds": 8,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ]
+}

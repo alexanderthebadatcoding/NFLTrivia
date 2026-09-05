@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Chris Redman",
+      "team": "ATL '10",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '10",
+      "stats": {
+        "yds": 3705,
+        "td": 28,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ovie Mughelli",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Michael Turner",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": 1371,
+        "rtd": 12,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jerious Norwood",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": 324,
+        "rtd": 2,
+        "recyds": 303,
+        "rectd": 3,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Antone Smith",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": -3,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Gartrell Johnson",
+      "team": "ATL '10",
+      "stats": {
+        "ryds": 36,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 166,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 505,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 1389,
+        "rectd": 10,
+        "rec": 115
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 656,
+        "rectd": 6,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Justin Peelle",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 96,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Michael Palmer",
+      "team": "ATL '10",
+      "stats": {
+        "recyds": 29,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

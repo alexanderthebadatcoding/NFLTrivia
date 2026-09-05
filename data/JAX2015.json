@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Blake Bortles",
+      "team": "JAX '15",
+      "stats": {
+        "yds": 4428,
+        "td": 35,
+        "int": 18
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Toby Gerhart",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jonas Gray",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 176,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Bernard Pierce",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Denard Robinson",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 266,
+        "rtd": 1,
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Corey Grant",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "T.J. Yeldon",
+      "team": "JAX '15",
+      "stats": {
+        "ryds": 740,
+        "rtd": 2,
+        "recyds": 279,
+        "rectd": 1,
+        "rec": 36
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bryan Walters",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 368,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Allen Hurns",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 1031,
+        "rectd": 10,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 1400,
+        "rectd": 14,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Marqise Lee",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 191,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Rashad Greene",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 93,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 226,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Clay Harbor",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Julius Thomas",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 455,
+        "rectd": 5,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Nic Jacobs",
+      "team": "JAX '15",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

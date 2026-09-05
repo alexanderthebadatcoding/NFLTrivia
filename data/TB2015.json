@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Jameis Winston",
+      "team": "TB '15",
+      "stats": {
+        "yds": 4042,
+        "td": 22,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bobby Rainey",
+      "team": "TB '15",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Doug Martin",
+      "team": "TB '15",
+      "stats": {
+        "ryds": 1402,
+        "rtd": 6,
+        "recyds": 271,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jorvorskie Lane",
+      "team": "TB '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Charles Sims",
+      "team": "TB '15",
+      "stats": {
+        "ryds": 529,
+        "rtd": 0,
+        "recyds": 561,
+        "rectd": 4,
+        "rec": 51
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Jackson",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 543,
+        "rectd": 3,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Louis Murphy",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 198,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Russell Shepard",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 1206,
+        "rectd": 3,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Donteea Dye",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 132,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Adam Humphries",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 260,
+        "rectd": 1,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brandon Myers",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 127,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 61,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 288,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Austin Seferian-Jenkins",
+      "team": "TB '15",
+      "stats": {
+        "recyds": 338,
+        "rectd": 4,
+        "rec": 21
+      }
+    }
+  ]
+}

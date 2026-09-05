@@ -1,0 +1,206 @@
+{
+  "QB": [
+    {
+      "name": "Blaine Gabbert",
+      "team": "SF '15",
+      "stats": {
+        "yds": 2031,
+        "td": 10,
+        "int": 7
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '15",
+      "stats": {
+        "yds": 1615,
+        "td": 6,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Bush",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Bruce Miller",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 14,
+        "rtd": 1,
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Shaun Draughn",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 273,
+        "rtd": 1,
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 27
+      }
+    },
+    {
+      "name": "DuJuan Harris",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 189,
+        "rtd": 0,
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kendall Gaskins",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 470,
+        "rtd": 3,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jarryd Hayne",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 52,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "team": "SF '15",
+      "stats": {
+        "ryds": 58,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Anquan Boldin",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 789,
+        "rectd": 4,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Jerome Simpson",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 54,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Torrey Smith",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 663,
+        "rectd": 4,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Quinton Patton",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 394,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Bruce Ellington",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "DeAndrew White",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Garrett Celek",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 186,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Brian Leonhardt",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Vance McDonald",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 326,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Blake Bell",
+      "team": "SF '15",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ]
+}

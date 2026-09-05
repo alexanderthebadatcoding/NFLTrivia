@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "WSH '14",
+      "stats": {
+        "yds": 1057,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Kirk Cousins",
+      "team": "WSH '14",
+      "stats": {
+        "yds": 1710,
+        "td": 10,
+        "int": 9
+      }
+    },
+    {
+      "name": "Robert Griffin III",
+      "team": "WSH '14",
+      "stats": {
+        "yds": 1694,
+        "td": 4,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darrel Young",
+      "team": "WSH '14",
+      "stats": {
+        "ryds": 22,
+        "rtd": 3,
+        "recyds": 81,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Roy Helu",
+      "team": "WSH '14",
+      "stats": {
+        "ryds": 216,
+        "rtd": 1,
+        "recyds": 477,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "WSH '14",
+      "stats": {
+        "ryds": 1074,
+        "rtd": 8,
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '14",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Silas Redd",
+      "team": "WSH '14",
+      "stats": {
+        "ryds": 75,
+        "rtd": 1,
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Santana Moss",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 1169,
+        "rectd": 6,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Pierre Garcon",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 752,
+        "rectd": 3,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Andre Roberts",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 453,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Aldrick Robinson",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ryan Grant",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Logan Paulsen",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Niles Paul",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 507,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '14",
+      "stats": {
+        "recyds": 465,
+        "rectd": 0,
+        "rec": 50
+      }
+    }
+  ]
+}

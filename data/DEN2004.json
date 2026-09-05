@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Jake Plummer",
+      "team": "DEN '04",
+      "stats": {
+        "yds": 4089,
+        "td": 27,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Garrison Hearst",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 81,
+        "rtd": 1,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Reuben Droughns",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 1240,
+        "rtd": 6,
+        "recyds": 241,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Kyle Johnson",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cecil Sapp",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Quentin Griffin",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 311,
+        "rtd": 2,
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Tatum Bell",
+      "team": "DEN '04",
+      "stats": {
+        "ryds": 396,
+        "rtd": 3,
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Rod Smith",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 1144,
+        "rectd": 7,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Nate Jackson",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ashley Lelie",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 1084,
+        "rectd": 7,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Triandos Luke",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Darius Watts",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 385,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 198,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Patrick Hape",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 35,
+        "rectd": 4,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jeb Putzier",
+      "team": "DEN '04",
+      "stats": {
+        "recyds": 572,
+        "rectd": 2,
+        "rec": 36
+      }
+    }
+  ]
+}

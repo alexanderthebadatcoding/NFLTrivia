@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Doug Flutie",
+      "team": "BUF '00",
+      "stats": {
+        "yds": 1656,
+        "td": 8,
+        "int": 2
+      }
+    },
+    {
+      "name": "Rob Johnson",
+      "team": "BUF '00",
+      "stats": {
+        "yds": 1947,
+        "td": 12,
+        "int": 7
+      }
+    },
+    {
+      "name": "Alex Van Pelt",
+      "team": "BUF '00",
+      "stats": {
+        "yds": 67,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "BUF '00",
+      "stats": {
+        "ryds": 587,
+        "rtd": 0,
+        "recyds": 239,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jonathan Linton",
+      "team": "BUF '00",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "BUF '00",
+      "stats": {
+        "ryds": 354,
+        "rtd": 4,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "BUF '00",
+      "stats": {
+        "ryds": 324,
+        "rtd": 4,
+        "recyds": 262,
+        "rectd": 1,
+        "rec": 35
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jeremy McDaniel",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 649,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 1275,
+        "rectd": 5,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 701,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Kwame Cavil",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bobby Collins",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Sheldon Jackson",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 36,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "BUF '00",
+      "stats": {
+        "recyds": 372,
+        "rectd": 5,
+        "rec": 31
+      }
+    }
+  ]
+}

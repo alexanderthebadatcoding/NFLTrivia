@@ -1,0 +1,137 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '01",
+      "stats": {
+        "yds": 3538,
+        "td": 32,
+        "int": 12
+      }
+    },
+    {
+      "name": "Tim Rattay",
+      "team": "SF '01",
+      "stats": {
+        "yds": 21,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '01",
+      "stats": {
+        "ryds": 73,
+        "rtd": 1,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Garrison Hearst",
+      "team": "SF '01",
+      "stats": {
+        "ryds": 1206,
+        "rtd": 4,
+        "recyds": 347,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '01",
+      "stats": {
+        "ryds": 138,
+        "rtd": 1,
+        "recyds": 91,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Paul Smith",
+      "team": "SF '01",
+      "stats": {
+        "ryds": 27,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Kevan Barlow",
+      "team": "SF '01",
+      "stats": {
+        "ryds": 512,
+        "rtd": 4,
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 1412,
+        "rectd": 16,
+        "rec": 93
+      }
+    },
+    {
+      "name": "J.J. Stokes",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 585,
+        "rectd": 7,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 345,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Vinny Sutherland",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Justin Swift",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Eric Johnson",
+      "team": "SF '01",
+      "stats": {
+        "recyds": 362,
+        "rectd": 3,
+        "rec": 40
+      }
+    }
+  ]
+}

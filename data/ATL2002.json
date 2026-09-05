@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Doug Johnson",
+      "team": "ATL '02",
+      "stats": {
+        "yds": 448,
+        "td": 2,
+        "int": 3
+      }
+    },
+    {
+      "name": "Mike Vick",
+      "team": "ATL '02",
+      "stats": {
+        "yds": 2936,
+        "td": 16,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bob Christian",
+      "team": "ATL '02",
+      "stats": {
+        "ryds": 119,
+        "rtd": 3,
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '02",
+      "stats": {
+        "ryds": 927,
+        "rtd": 7,
+        "recyds": 377,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Travis Jervey",
+      "team": "ATL '02",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "George Layne",
+      "team": "ATL '02",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "ATL '02",
+      "stats": {
+        "ryds": 507,
+        "rtd": 4,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 838,
+        "rectd": 6,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Shawn Jefferson",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 394,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Trevor Gaylor",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 385,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Quentin McCord",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Brian Kozlowski",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '02",
+      "stats": {
+        "recyds": 455,
+        "rectd": 5,
+        "rec": 36
+      }
+    }
+  ]
+}

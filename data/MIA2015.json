@@ -1,0 +1,133 @@
+{
+  "QB": [
+    {
+      "name": "Matt Moore",
+      "team": "MIA '15",
+      "stats": {
+        "yds": 14,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Ryan Tannehill",
+      "team": "MIA '15",
+      "stats": {
+        "yds": 4208,
+        "td": 24,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lamar Miller",
+      "team": "MIA '15",
+      "stats": {
+        "ryds": 872,
+        "rtd": 8,
+        "recyds": 397,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Damien Williams",
+      "team": "MIA '15",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jay Ajayi",
+      "team": "MIA '15",
+      "stats": {
+        "ryds": 187,
+        "rtd": 1,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Greg Jennings",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 208,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Rishard Matthews",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 662,
+        "rectd": 4,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Kenny Stills",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 440,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jarvis Landry",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 1157,
+        "rectd": 4,
+        "rec": 110
+      }
+    },
+    {
+      "name": "DeVante Parker",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 494,
+        "rectd": 3,
+        "rec": 26
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jordan Cameron",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 386,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jake Stoneburner",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 47,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dion Sims",
+      "team": "MIA '15",
+      "stats": {
+        "recyds": 127,
+        "rectd": 1,
+        "rec": 18
+      }
+    }
+  ]
+}

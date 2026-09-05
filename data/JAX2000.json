@@ -1,0 +1,179 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "JAX '00",
+      "stats": {
+        "yds": 3640,
+        "td": 20,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jamie Martin",
+      "team": "JAX '00",
+      "stats": {
+        "yds": 307,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chad Dukes",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Chris Howard",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 52,
+        "rtd": 1,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Anthony Johnson",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 112,
+        "rtd": 1,
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Stacey Mack",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 145,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Daimon Shelton",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Fred Taylor",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 1399,
+        "rtd": 12,
+        "recyds": 240,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jermaine Williams",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Shyrone Stith",
+      "team": "JAX '00",
+      "stats": {
+        "ryds": 55,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Reggie Barlow",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Keenan McCardell",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 1207,
+        "rectd": 5,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Jimmy Smith",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 1213,
+        "rectd": 8,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Alvis Whitted",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 137,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "R.Jay Soward",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 729,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Damon Jones",
+      "team": "JAX '00",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

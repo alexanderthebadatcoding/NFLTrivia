@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Drew Bledsoe",
+      "team": "NE '01",
+      "stats": {
+        "yds": 400,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "NE '01",
+      "stats": {
+        "yds": 2843,
+        "td": 18,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marc Edwards",
+      "team": "NE '01",
+      "stats": {
+        "ryds": 141,
+        "rtd": 1,
+        "recyds": 166,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '01",
+      "stats": {
+        "ryds": 169,
+        "rtd": 1,
+        "recyds": 189,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "NE '01",
+      "stats": {
+        "ryds": 1157,
+        "rtd": 12,
+        "recyds": 192,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '01",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "J.R. Redmond",
+      "team": "NE '01",
+      "stats": {
+        "ryds": 119,
+        "rtd": 0,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 1199,
+        "rectd": 5,
+        "rec": 101
+      }
+    },
+    {
+      "name": "Fred Coleman",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Terry Glenn",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 204,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Charles Johnson",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 749,
+        "rectd": 4,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Torrance Small",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Curtis Jackson",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Rod Rutledge",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jermaine Wiggins",
+      "team": "NE '01",
+      "stats": {
+        "recyds": 133,
+        "rectd": 4,
+        "rec": 14
+      }
+    }
+  ]
+}

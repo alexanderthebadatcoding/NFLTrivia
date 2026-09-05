@@ -1,0 +1,195 @@
+{
+  "QB": [
+    {
+      "name": "Tim Rattay",
+      "team": "SF '05",
+      "stats": {
+        "yds": 667,
+        "td": 5,
+        "int": 6
+      }
+    },
+    {
+      "name": "Ken Dorsey",
+      "team": "SF '05",
+      "stats": {
+        "yds": 481,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Cody Pickett",
+      "team": "SF '05",
+      "stats": {
+        "yds": 140,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "SF '05",
+      "stats": {
+        "yds": 875,
+        "td": 1,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Steve Bush",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Hetherington",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Kevan Barlow",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 581,
+        "rtd": 3,
+        "recyds": 241,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Maurice Hicks",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 308,
+        "rtd": 3,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Frank Gore",
+      "team": "SF '05",
+      "stats": {
+        "ryds": 608,
+        "rtd": 3,
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Johnnie Morton",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 288,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jason McAddley",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Arnaz Battle",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 363,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 733,
+        "rectd": 5,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Rasheed Marshall",
+      "team": "SF '05",
+      "stats": {
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Terry Jones",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Trent Smith",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Billy Bajema",
+      "team": "SF '05",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

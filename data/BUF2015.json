@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Tyrod Taylor",
+      "team": "BUF '15",
+      "stats": {
+        "yds": 3035,
+        "td": 20,
+        "int": 6
+      }
+    },
+    {
+      "name": "EJ Manuel",
+      "team": "BUF '15",
+      "stats": {
+        "yds": 561,
+        "td": 3,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Felton",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 895,
+        "rtd": 3,
+        "recyds": 292,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Anthony Dixon",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 44,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Cierre Wood",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": -6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike Gillislee",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 267,
+        "rtd": 3,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Karlos Williams",
+      "team": "BUF '15",
+      "stats": {
+        "ryds": 517,
+        "rtd": 7,
+        "recyds": 96,
+        "rectd": 2,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Percy Harvin",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 218,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Marcus Easley",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Greg Salas",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chris Hogan",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 450,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Robert Woods",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Sammy Watkins",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 1047,
+        "rectd": 9,
+        "rec": 60
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matthew Mulligan",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charles Clay",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 528,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "MarQueis Gray",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Gragg",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Nick O'Leary",
+      "team": "BUF '15",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

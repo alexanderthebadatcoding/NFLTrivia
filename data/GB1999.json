@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '99",
+      "stats": {
+        "yds": 4091,
+        "td": 22,
+        "int": 23
+      }
+    },
+    {
+      "name": "Matt Hasselbeck",
+      "team": "GB '99",
+      "stats": {
+        "yds": 41,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "William Henderson",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 29,
+        "rtd": 2,
+        "recyds": 203,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Dorsey Levens",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 1034,
+        "rtd": 9,
+        "recyds": 573,
+        "rectd": 1,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Basil Mitchell",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 117,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "De'Mond Parker",
+      "team": "GB '99",
+      "stats": {
+        "ryds": 184,
+        "rtd": 2,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Corey Bradford",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 637,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Donald Driver",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 31,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Antonio Freeman",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 1074,
+        "rectd": 6,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Charles Jordan",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bill Schroeder",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 1051,
+        "rectd": 5,
+        "rec": 74
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Chmura",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tyrone Davis",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 204,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Lamont Hall",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jeff Thomason",
+      "team": "GB '99",
+      "stats": {
+        "recyds": 140,
+        "rectd": 2,
+        "rec": 14
+      }
+    }
+  ]
+}

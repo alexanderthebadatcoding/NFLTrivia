@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Chris Redman",
+      "team": "ATL '09",
+      "stats": {
+        "yds": 781,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '09",
+      "stats": {
+        "yds": 2916,
+        "td": 22,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aaron Stecker",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Verron Haynes",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ovie Mughelli",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Michael Turner",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 871,
+        "rtd": 10,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jerious Norwood",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 252,
+        "rtd": 0,
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '09",
+      "stats": {
+        "ryds": 613,
+        "rtd": 4,
+        "recyds": 259,
+        "rectd": 1,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marty Booker",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 181,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 635,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 1153,
+        "rectd": 11,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 50,
+        "rectd": 2,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 867,
+        "rectd": 6,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Justin Peelle",
+      "team": "ATL '09",
+      "stats": {
+        "recyds": 115,
+        "rectd": 2,
+        "rec": 12
+      }
+    }
+  ]
+}

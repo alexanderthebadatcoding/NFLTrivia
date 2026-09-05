@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Quincy Carter",
+      "team": "DAL '03",
+      "stats": {
+        "yds": 3302,
+        "td": 17,
+        "int": 21
+      }
+    },
+    {
+      "name": "Chad Hutchinson",
+      "team": "DAL '03",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Richie Anderson",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 306,
+        "rtd": 1,
+        "recyds": 493,
+        "rectd": 4,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Adrian Murrell",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 107,
+        "rtd": 0,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Troy Hambrick",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 972,
+        "rtd": 5,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Aveion Cason",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 220,
+        "rtd": 2,
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jamar Martin",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Erik Bickerstaff",
+      "team": "DAL '03",
+      "stats": {
+        "ryds": 56,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joey Galloway",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 672,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Terry Glenn",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 754,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Antonio Bryant",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 550,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Zuriel Smith",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 195,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jeff Robinson",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 8,
+        "rectd": 2,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jason Witten",
+      "team": "DAL '03",
+      "stats": {
+        "recyds": 347,
+        "rectd": 1,
+        "rec": 35
+      }
+    }
+  ]
+}

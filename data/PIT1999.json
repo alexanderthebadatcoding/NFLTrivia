@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Pete Gonzalez",
+      "team": "PIT '99",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kordell Stewart",
+      "team": "PIT '99",
+      "stats": {
+        "yds": 1464,
+        "td": 6,
+        "int": 10
+      }
+    },
+    {
+      "name": "Mike Tomczak",
+      "team": "PIT '99",
+      "stats": {
+        "yds": 1625,
+        "td": 12,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 1091,
+        "rtd": 7,
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Chris Fuamatu-Ma'afala",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Richard Huntley",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 567,
+        "rtd": 5,
+        "recyds": 253,
+        "rectd": 3,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '99",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Will Blackwell",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Troy Edwards",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 714,
+        "rectd": 5,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Courtney Hawkins",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 285,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Malcolm Johnson",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bobby Shaw",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 387,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 638,
+        "rectd": 7,
+        "rec": 61
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bruener",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Tony Cline",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mitch Lyons",
+      "team": "PIT '99",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

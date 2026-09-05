@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "WSH '06",
+      "stats": {
+        "yds": 1789,
+        "td": 8,
+        "int": 4
+      }
+    },
+    {
+      "name": "Jason Campbell",
+      "team": "WSH '06",
+      "stats": {
+        "yds": 1297,
+        "td": 10,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Sellers",
+      "team": "WSH '06",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Clinton Portis",
+      "team": "WSH '06",
+      "stats": {
+        "ryds": 523,
+        "rtd": 7,
+        "recyds": 170,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Ladell Betts",
+      "team": "WSH '06",
+      "stats": {
+        "ryds": 1154,
+        "rtd": 4,
+        "recyds": 445,
+        "rectd": 1,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Rock Cartwright",
+      "team": "WSH '06",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "WSH '06",
+      "stats": {
+        "ryds": 132,
+        "rtd": 2,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Patten",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 790,
+        "rectd": 6,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Antwaan Randle El",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 351,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 365,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brian Kozlowski",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Todd Yoder",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 4,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chris Cooley",
+      "team": "WSH '06",
+      "stats": {
+        "recyds": 734,
+        "rectd": 6,
+        "rec": 57
+      }
+    }
+  ]
+}

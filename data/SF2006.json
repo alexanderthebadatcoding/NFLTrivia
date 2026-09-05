@@ -1,0 +1,137 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "SF '06",
+      "stats": {
+        "yds": 2901,
+        "td": 16,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Hetherington",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Moran Norris",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Maurice Hicks",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 82,
+        "rtd": 0,
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Frank Gore",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 1695,
+        "rtd": 8,
+        "recyds": 485,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '06",
+      "stats": {
+        "ryds": 116,
+        "rtd": 2,
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bryan Gilmore",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 150,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Antonio Bryant",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 747,
+        "rectd": 3,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Arnaz Battle",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 683,
+        "rectd": 3,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Taylor Jacobs",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Johnson",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 292,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Vernon Davis",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 265,
+        "rectd": 3,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "SF '06",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

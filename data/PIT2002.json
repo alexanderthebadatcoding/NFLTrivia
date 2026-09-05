@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Tommy Maddox",
+      "team": "PIT '02",
+      "stats": {
+        "yds": 2836,
+        "td": 20,
+        "int": 16
+      }
+    },
+    {
+      "name": "Kordell Stewart",
+      "team": "PIT '02",
+      "stats": {
+        "yds": 1155,
+        "td": 6,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '02",
+      "stats": {
+        "ryds": 666,
+        "rtd": 9,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Fuamatu-Ma'afala",
+      "team": "PIT '02",
+      "stats": {
+        "ryds": 115,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '02",
+      "stats": {
+        "ryds": 762,
+        "rtd": 4,
+        "recyds": 341,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '02",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 122,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Verron Haynes",
+      "team": "PIT '02",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terance Mathis",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 218,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 1329,
+        "rectd": 12,
+        "rec": 112
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 1325,
+        "rectd": 7,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Antwaan Randle El",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 489,
+        "rectd": 2,
+        "rec": 47
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bruener",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 66,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jerame Tuman",
+      "team": "PIT '02",
+      "stats": {
+        "recyds": 63,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "DET '06",
+      "stats": {
+        "yds": 4208,
+        "td": 21,
+        "int": 22
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Aveion Cason",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 94,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Lamar Gordon",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Arlen Harris",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 158,
+        "rtd": 1,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Kevin Jones",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 689,
+        "rtd": 6,
+        "recyds": 520,
+        "rectd": 2,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Brian Calhoun",
+      "team": "DET '06",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Corey Bradford",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Az-Zahir Hakim",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 147,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Mike Furrey",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 1086,
+        "rectd": 6,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Eddie Drummond",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Roy Williams",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 1310,
+        "rectd": 7,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 99,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Devale Ellis",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 308,
+        "rectd": 4,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Marcus Pollard",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Sean McHugh",
+      "team": "DET '06",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

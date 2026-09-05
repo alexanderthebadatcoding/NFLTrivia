@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '08",
+      "stats": {
+        "yds": 3440,
+        "td": 16,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ovie Mughelli",
+      "team": "ATL '08",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Michael Turner",
+      "team": "ATL '08",
+      "stats": {
+        "ryds": 1699,
+        "rtd": 17,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jerious Norwood",
+      "team": "ATL '08",
+      "stats": {
+        "ryds": 489,
+        "rtd": 4,
+        "recyds": 338,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '08",
+      "stats": {
+        "ryds": 62,
+        "rtd": 0,
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 169,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 777,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 1382,
+        "rectd": 7,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Laurent Robinson",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 320,
+        "rectd": 1,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Justin Peelle",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 159,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jason Rader",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ben Hartsock",
+      "team": "ATL '08",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

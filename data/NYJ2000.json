@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Ray Lucas",
+      "team": "NYJ '00",
+      "stats": {
+        "yds": 206,
+        "td": 0,
+        "int": 4
+      }
+    },
+    {
+      "name": "Vinny Testaverde",
+      "team": "NYJ '00",
+      "stats": {
+        "yds": 3732,
+        "td": 21,
+        "int": 25
+      }
+    },
+    {
+      "name": "Chad Pennington",
+      "team": "NYJ '00",
+      "stats": {
+        "yds": 67,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Richie Anderson",
+      "team": "NYJ '00",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 853,
+        "rectd": 2,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Curtis Martin",
+      "team": "NYJ '00",
+      "stats": {
+        "ryds": 1204,
+        "rtd": 9,
+        "recyds": 508,
+        "rectd": 2,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Bernie Parmalee",
+      "team": "NYJ '00",
+      "stats": {
+        "ryds": 87,
+        "rtd": 2,
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jerald Sowell",
+      "team": "NYJ '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Brisby",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Wayne Chrebet",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 937,
+        "rectd": 8,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Dedric Ward",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 801,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Laveranues Coles",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 370,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Windrell Hayes",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Fred Baxter",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 22,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Anthony Becht",
+      "team": "NYJ '00",
+      "stats": {
+        "recyds": 144,
+        "rectd": 2,
+        "rec": 16
+      }
+    }
+  ]
+}

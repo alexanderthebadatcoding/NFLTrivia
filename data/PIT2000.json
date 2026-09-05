@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Kent Graham",
+      "team": "PIT '00",
+      "stats": {
+        "yds": 878,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Kordell Stewart",
+      "team": "PIT '00",
+      "stats": {
+        "yds": 1860,
+        "td": 11,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 1341,
+        "rtd": 8,
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Chris Fuamatu-Ma'afala",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 149,
+        "rtd": 1,
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Richard Huntley",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 215,
+        "rtd": 3,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '00",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Will Blackwell",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Troy Edwards",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 215,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Courtney Hawkins",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 238,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Bobby Shaw",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 672,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 672,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 273,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bruener",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 192,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cory Geason",
+      "team": "PIT '00",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

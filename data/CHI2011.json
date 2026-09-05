@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Josh McCown",
+      "team": "CHI '11",
+      "stats": {
+        "yds": 414,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '11",
+      "stats": {
+        "yds": 2319,
+        "td": 13,
+        "int": 7
+      }
+    },
+    {
+      "name": "Caleb Hanie",
+      "team": "CHI '11",
+      "stats": {
+        "yds": 613,
+        "td": 3,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marion Barber",
+      "team": "CHI '11",
+      "stats": {
+        "ryds": 422,
+        "rtd": 6,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Matt Forte",
+      "team": "CHI '11",
+      "stats": {
+        "ryds": 997,
+        "rtd": 3,
+        "recyds": 490,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Kahlil Bell",
+      "team": "CHI '11",
+      "stats": {
+        "ryds": 337,
+        "rtd": 0,
+        "recyds": 133,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Tyler Clutts",
+      "team": "CHI '11",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Armando Allen",
+      "team": "CHI '11",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roy Williams",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 507,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Sam Hurd",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Devin Hester",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 369,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Earl Bennett",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 381,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Johnny Knox",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 727,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Dane Sanzenbacher",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 276,
+        "rectd": 3,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt Spaeth",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 50,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Kellen Davis",
+      "team": "CHI '11",
+      "stats": {
+        "recyds": 206,
+        "rectd": 5,
+        "rec": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Jeff George",
+      "team": "WSH '00",
+      "stats": {
+        "yds": 1389,
+        "td": 7,
+        "int": 6
+      }
+    },
+    {
+      "name": "Brad Johnson",
+      "team": "WSH '00",
+      "stats": {
+        "yds": 2505,
+        "td": 11,
+        "int": 15
+      }
+    },
+    {
+      "name": "Todd Husak",
+      "team": "WSH '00",
+      "stats": {
+        "yds": -2,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Larry Centers",
+      "team": "WSH '00",
+      "stats": {
+        "ryds": 103,
+        "rtd": 0,
+        "recyds": 600,
+        "rectd": 3,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Stephen Davis",
+      "team": "WSH '00",
+      "stats": {
+        "ryds": 1318,
+        "rtd": 11,
+        "recyds": 313,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Skip Hicks",
+      "team": "WSH '00",
+      "stats": {
+        "ryds": 78,
+        "rtd": 1,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Adrian Murrell",
+      "team": "WSH '00",
+      "stats": {
+        "ryds": 50,
+        "rtd": 0,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Mike Sellers",
+      "team": "WSH '00",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 78,
+        "rectd": 2,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Albert Connell",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 762,
+        "rectd": 3,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Irving Fryar",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 548,
+        "rectd": 5,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Andre Reed",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 103,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 653,
+        "rectd": 2,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Michael Westbrook",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 510,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Zeron Flemister",
+      "team": "WSH '00",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

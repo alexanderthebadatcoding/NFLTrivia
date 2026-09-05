@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Koy Detmer",
+      "team": "PHI '03",
+      "stats": {
+        "yds": 32,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '03",
+      "stats": {
+        "yds": 3223,
+        "td": 16,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jon Ritchie",
+      "team": "PHI '03",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 86,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Duce Staley",
+      "team": "PHI '03",
+      "stats": {
+        "ryds": 457,
+        "rtd": 5,
+        "recyds": 382,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Correll Buckhalter",
+      "team": "PHI '03",
+      "stats": {
+        "ryds": 542,
+        "rtd": 8,
+        "recyds": 133,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Brian Westbrook",
+      "team": "PHI '03",
+      "stats": {
+        "ryds": 605,
+        "rtd": 7,
+        "recyds": 340,
+        "rectd": 4,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Reno Mahe",
+      "team": "PHI '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "James Thrash",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 558,
+        "rectd": 1,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Todd Pinkston",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 575,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Freddie Mitchell",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 498,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Greg Lewis",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 95,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Billy McMullen",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chad Lewis",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 293,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "L.J. Smith",
+      "team": "PHI '03",
+      "stats": {
+        "recyds": 320,
+        "rectd": 1,
+        "rec": 27
+      }
+    }
+  ]
+}

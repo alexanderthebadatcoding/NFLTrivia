@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "PHI '12",
+      "stats": {
+        "yds": 2362,
+        "td": 12,
+        "int": 10
+      }
+    },
+    {
+      "name": "Trent Edwards",
+      "team": "PHI '12",
+      "stats": {
+        "yds": 14,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Nick Foles",
+      "team": "PHI '12",
+      "stats": {
+        "yds": 1699,
+        "td": 6,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeSean McCoy",
+      "team": "PHI '12",
+      "stats": {
+        "ryds": 840,
+        "rtd": 2,
+        "recyds": 373,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Dion Lewis",
+      "team": "PHI '12",
+      "stats": {
+        "ryds": 69,
+        "rtd": 1,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Stanley Havili",
+      "team": "PHI '12",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Bryce Brown",
+      "team": "PHI '12",
+      "stats": {
+        "ryds": 564,
+        "rtd": 4,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jason Avant",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 648,
+        "rectd": 0,
+        "rec": 53
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 700,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 857,
+        "rectd": 7,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Riley Cooper",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 248,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Damaris Johnson",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 256,
+        "rectd": 0,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 684,
+        "rectd": 1,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Evan Moore",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Clay Harbor",
+      "team": "PHI '12",
+      "stats": {
+        "recyds": 186,
+        "rectd": 2,
+        "rec": 25
+      }
+    }
+  ]
+}

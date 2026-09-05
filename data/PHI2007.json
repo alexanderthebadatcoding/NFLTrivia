@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '07",
+      "stats": {
+        "yds": 3324,
+        "td": 19,
+        "int": 7
+      }
+    },
+    {
+      "name": "A.J. Feeley",
+      "team": "PHI '07",
+      "stats": {
+        "yds": 681,
+        "td": 5,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Correll Buckhalter",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 313,
+        "rtd": 4,
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brian Westbrook",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 1333,
+        "rtd": 7,
+        "recyds": 771,
+        "rectd": 5,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Reno Mahe",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Thomas Tapeh",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tony Hunt",
+      "team": "PHI '07",
+      "stats": {
+        "ryds": 16,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Greg Lewis",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 265,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Kevin Curtis",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 1110,
+        "rectd": 6,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Reggie Brown",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 780,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Hank Baskett",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jason Avant",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 267,
+        "rectd": 2,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt Schobel",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 108,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "L.J. Smith",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Brent Celek",
+      "team": "PHI '07",
+      "stats": {
+        "recyds": 178,
+        "rectd": 1,
+        "rec": 16
+      }
+    }
+  ]
+}

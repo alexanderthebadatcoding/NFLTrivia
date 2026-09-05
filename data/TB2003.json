@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Brad Johnson",
+      "team": "TB '03",
+      "stats": {
+        "yds": 3821,
+        "td": 26,
+        "int": 21
+      }
+    },
+    {
+      "name": "Shaun King",
+      "team": "TB '03",
+      "stats": {
+        "yds": 130,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Alstott",
+      "team": "TB '03",
+      "stats": {
+        "ryds": 77,
+        "rtd": 2,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "TB '03",
+      "stats": {
+        "ryds": 751,
+        "rtd": 0,
+        "recyds": 591,
+        "rectd": 2,
+        "rec": 75
+      }
+    },
+    {
+      "name": "Aaron Stecker",
+      "team": "TB '03",
+      "stats": {
+        "ryds": 125,
+        "rtd": 0,
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "TB '03",
+      "stats": {
+        "ryds": 627,
+        "rtd": 3,
+        "recyds": 180,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jameel Cook",
+      "team": "TB '03",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Darian Barnes",
+      "team": "TB '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Reggie Barlow",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 27,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keyshawn Johnson",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 601,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 118,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Keenan McCardell",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 1179,
+        "rectd": 8,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Karl Williams",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Charles Lee",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 432,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Edell Shepherd",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ken Dilger",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 244,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Rickey Dudley",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Todd Yoder",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 68,
+        "rectd": 2,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Will Heller",
+      "team": "TB '03",
+      "stats": {
+        "recyds": 15,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

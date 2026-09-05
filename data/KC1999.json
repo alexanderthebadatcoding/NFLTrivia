@@ -1,0 +1,157 @@
+{
+  "QB": [
+    {
+      "name": "Elvis Grbac",
+      "team": "KC '99",
+      "stats": {
+        "yds": 3389,
+        "td": 22,
+        "int": 15
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "KC '99",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kimble Anders",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 181,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Donnell Bennett",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 627,
+        "rtd": 8,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 128,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bam Morris",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 414,
+        "rtd": 3,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 387,
+        "rtd": 1,
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Rashaan Shehee",
+      "team": "KC '99",
+      "stats": {
+        "ryds": 238,
+        "rtd": 1,
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Alexander",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 832,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Joe Horn",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 586,
+        "rectd": 6,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Kevin Lockett",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 426,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Andre Rison",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 218,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 849,
+        "rectd": 11,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Mitch Jacoby",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lonnie Johnson",
+      "team": "KC '99",
+      "stats": {
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

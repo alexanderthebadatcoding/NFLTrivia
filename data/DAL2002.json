@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Quincy Carter",
+      "team": "DAL '02",
+      "stats": {
+        "yds": 1465,
+        "td": 7,
+        "int": 8
+      }
+    },
+    {
+      "name": "Chad Hutchinson",
+      "team": "DAL '02",
+      "stats": {
+        "yds": 1555,
+        "td": 7,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '02",
+      "stats": {
+        "ryds": 975,
+        "rtd": 5,
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Robert Thomas",
+      "team": "DAL '02",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Troy Hambrick",
+      "team": "DAL '02",
+      "stats": {
+        "ryds": 317,
+        "rtd": 1,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Michael Wiley",
+      "team": "DAL '02",
+      "stats": {
+        "ryds": 168,
+        "rtd": 1,
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jason McKie",
+      "team": "DAL '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joey Galloway",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 908,
+        "rectd": 6,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Darnay Scott",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 218,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Reggie Swinton",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ken-Yon Rambo",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 211,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Antonio Bryant",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 733,
+        "rectd": 6,
+        "rec": 44
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mike Lucky",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tony McGee",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "James Whalen",
+      "team": "DAL '02",
+      "stats": {
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ]
+}

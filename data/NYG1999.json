@@ -1,0 +1,168 @@
+{
+  "QB": [
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '99",
+      "stats": {
+        "yds": 2318,
+        "td": 8,
+        "int": 11
+      }
+    },
+    {
+      "name": "Kent Graham",
+      "team": "NYG '99",
+      "stats": {
+        "yds": 1697,
+        "td": 9,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 258,
+        "rtd": 0,
+        "recyds": 609,
+        "rectd": 2,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Sean Bennett",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 126,
+        "rtd": 1,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Gary Brown",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 177,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Greg Comella",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "LeShon Johnson",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 143,
+        "rtd": 2,
+        "recyds": 86,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Joe Montgomery",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 348,
+        "rtd": 3,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Charles Way",
+      "team": "NYG '99",
+      "stats": {
+        "ryds": 141,
+        "rtd": 2,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Alford",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 996,
+        "rectd": 3,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 318,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 1183,
+        "rectd": 6,
+        "rec": 79
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Howard Cross",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Pete Mitchell",
+      "team": "NYG '99",
+      "stats": {
+        "recyds": 520,
+        "rectd": 3,
+        "rec": 58
+      }
+    }
+  ]
+}

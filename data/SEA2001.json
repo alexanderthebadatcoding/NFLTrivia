@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Trent Dilfer",
+      "team": "SEA '01",
+      "stats": {
+        "yds": 1014,
+        "td": 7,
+        "int": 4
+      }
+    },
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '01",
+      "stats": {
+        "yds": 2023,
+        "td": 7,
+        "int": 8
+      }
+    },
+    {
+      "name": "Brock Huard",
+      "team": "SEA '01",
+      "stats": {
+        "yds": 127,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jay Graham",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charlie Rogers",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mack Strong",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 55,
+        "rtd": 0,
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Ricky Watters",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 318,
+        "rtd": 1,
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Shaun Alexander",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 1318,
+        "rtd": 14,
+        "recyds": 343,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "SEA '01",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 400,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "James Williams",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 212,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 1081,
+        "rectd": 8,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Alex Bannister",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 536,
+        "rectd": 1,
+        "rec": 39
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Itula Mili",
+      "team": "SEA '01",
+      "stats": {
+        "recyds": 98,
+        "rectd": 2,
+        "rec": 8
+      }
+    }
+  ]
+}

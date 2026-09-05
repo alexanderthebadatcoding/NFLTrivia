@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '00",
+      "stats": {
+        "yds": 4278,
+        "td": 31,
+        "int": 10
+      }
+    },
+    {
+      "name": "Rick Mirer",
+      "team": "SF '00",
+      "stats": {
+        "yds": 126,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tim Rattay",
+      "team": "SF '00",
+      "stats": {
+        "yds": -4,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '00",
+      "stats": {
+        "ryds": 147,
+        "rtd": 3,
+        "recyds": 233,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Charlie Garner",
+      "team": "SF '00",
+      "stats": {
+        "ryds": 1142,
+        "rtd": 7,
+        "recyds": 647,
+        "rectd": 3,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '00",
+      "stats": {
+        "ryds": 6,
+        "rtd": 1,
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jonas Lewis",
+      "team": "SF '00",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Paul Smith",
+      "team": "SF '00",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 1451,
+        "rectd": 13,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Jerry Rice",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 805,
+        "rectd": 7,
+        "rec": 75
+      }
+    },
+    {
+      "name": "J.J. Stokes",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 524,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 287,
+        "rectd": 0,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Clark",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 342,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Justin Swift",
+      "team": "SF '00",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

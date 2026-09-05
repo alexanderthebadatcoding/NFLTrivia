@@ -1,0 +1,97 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "JAX '01",
+      "stats": {
+        "yds": 3309,
+        "td": 19,
+        "int": 13
+      }
+    },
+    {
+      "name": "Jonathan Quinn",
+      "team": "JAX '01",
+      "stats": {
+        "yds": 361,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Stacey Mack",
+      "team": "JAX '01",
+      "stats": {
+        "ryds": 877,
+        "rtd": 9,
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Elvis Joseph",
+      "team": "JAX '01",
+      "stats": {
+        "ryds": 294,
+        "rtd": 0,
+        "recyds": 183,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Patrick Washington",
+      "team": "JAX '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Damon Gibson",
+      "team": "JAX '01",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Keenan McCardell",
+      "team": "JAX '01",
+      "stats": {
+        "recyds": 1110,
+        "rectd": 6,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Jimmy Smith",
+      "team": "JAX '01",
+      "stats": {
+        "recyds": 1373,
+        "rectd": 8,
+        "rec": 112
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '01",
+      "stats": {
+        "recyds": 386,
+        "rectd": 2,
+        "rec": 36
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '13",
+      "stats": {
+        "yds": 3818,
+        "td": 18,
+        "int": 27
+      }
+    },
+    {
+      "name": "Curtis Painter",
+      "team": "NYG '13",
+      "stats": {
+        "yds": 57,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 238,
+        "rtd": 4,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Peyton Hillis",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 247,
+        "rtd": 2,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Andre Brown",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 492,
+        "rtd": 3,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "John Conner",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Da'Rel Scott",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 73,
+        "rtd": 0,
+        "recyds": 102,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Henry Hynoski",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "David Wilson",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 146,
+        "rtd": 1,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Michael Cox",
+      "team": "NYG '13",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Hakeem Nicks",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 896,
+        "rectd": 0,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Louis Murphy",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Victor Cruz",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 998,
+        "rectd": 4,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Jerrel Jernigan",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 329,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Rueben Randle",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 611,
+        "rectd": 6,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bear Pascoe",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Brandon Myers",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 522,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Larry Donnell",
+      "team": "NYG '13",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

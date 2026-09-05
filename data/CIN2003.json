@@ -1,0 +1,126 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "CIN '03",
+      "stats": {
+        "yds": 3605,
+        "td": 26,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bennett",
+      "team": "CIN '03",
+      "stats": {
+        "ryds": 173,
+        "rtd": 0,
+        "recyds": 176,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Corey Dillon",
+      "team": "CIN '03",
+      "stats": {
+        "ryds": 541,
+        "rtd": 2,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Rudi Johnson",
+      "team": "CIN '03",
+      "stats": {
+        "ryds": 967,
+        "rtd": 9,
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jeremi Johnson",
+      "team": "CIN '03",
+      "stats": {
+        "ryds": 41,
+        "rtd": 1,
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Peter Warrick",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 833,
+        "rectd": 7,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Chad Johnson",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 1355,
+        "rectd": 10,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Kevin Walter",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kelley Washington",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 299,
+        "rectd": 4,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 81,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 212,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Matt Schobel",
+      "team": "CIN '03",
+      "stats": {
+        "recyds": 332,
+        "rectd": 2,
+        "rec": 24
+      }
+    }
+  ]
+}

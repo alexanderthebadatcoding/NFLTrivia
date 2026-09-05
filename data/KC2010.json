@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "KC '10",
+      "stats": {
+        "yds": 3116,
+        "td": 27,
+        "int": 7
+      }
+    },
+    {
+      "name": "Brodie Croyle",
+      "team": "KC '10",
+      "stats": {
+        "yds": 38,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Tyler Palko",
+      "team": "KC '10",
+      "stats": {
+        "yds": 35,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Thomas Jones",
+      "team": "KC '10",
+      "stats": {
+        "ryds": 896,
+        "rtd": 6,
+        "recyds": 122,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tim Castille",
+      "team": "KC '10",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jackie Battle",
+      "team": "KC '10",
+      "stats": {
+        "ryds": 50,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike Cox",
+      "team": "KC '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '10",
+      "stats": {
+        "ryds": 1467,
+        "rtd": 5,
+        "recyds": 468,
+        "rectd": 3,
+        "rec": 45
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Chambers",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Terrance Copper",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 157,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 1162,
+        "rectd": 15,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Verran Tucker",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dexter McCluster",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 209,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Leonard Pope",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 76,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jake O'Connell",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tony Moeaki",
+      "team": "KC '10",
+      "stats": {
+        "recyds": 556,
+        "rectd": 3,
+        "rec": 47
+      }
+    }
+  ]
+}

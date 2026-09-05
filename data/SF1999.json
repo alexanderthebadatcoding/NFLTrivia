@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '99",
+      "stats": {
+        "yds": 2544,
+        "td": 11,
+        "int": 11
+      }
+    },
+    {
+      "name": "Steve Stenstrom",
+      "team": "SF '99",
+      "stats": {
+        "yds": 536,
+        "td": 0,
+        "int": 4
+      }
+    },
+    {
+      "name": "Steve Young",
+      "team": "SF '99",
+      "stats": {
+        "yds": 446,
+        "td": 3,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 276,
+        "rtd": 4,
+        "recyds": 282,
+        "rectd": 0,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Charlie Garner",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 1229,
+        "rtd": 4,
+        "recyds": 535,
+        "rectd": 2,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 75,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Travis Jervey",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 49,
+        "rtd": 1,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lawrence Phillips",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 144,
+        "rtd": 2,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Tommy Vardell",
+      "team": "SF '99",
+      "stats": {
+        "ryds": 6,
+        "rtd": 1,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mark Harris",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Terrell Owens",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 754,
+        "rectd": 4,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Jerry Rice",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 830,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "J.J. Stokes",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 429,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Greg Clark",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 347,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Chad Fann",
+      "team": "SF '99",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

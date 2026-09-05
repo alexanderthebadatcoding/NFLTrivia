@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Troy Aikman",
+      "team": "DAL '00",
+      "stats": {
+        "yds": 1632,
+        "td": 7,
+        "int": 14
+      }
+    },
+    {
+      "name": "Randall Cunningham",
+      "team": "DAL '00",
+      "stats": {
+        "yds": 849,
+        "td": 6,
+        "int": 4
+      }
+    },
+    {
+      "name": "Anthony Wright",
+      "team": "DAL '00",
+      "stats": {
+        "yds": 237,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Clint Stoerner",
+      "team": "DAL '00",
+      "stats": {
+        "yds": 53,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '00",
+      "stats": {
+        "ryds": 1203,
+        "rtd": 9,
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Robert Thomas",
+      "team": "DAL '00",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 117,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Troy Hambrick",
+      "team": "DAL '00",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Michael Wiley",
+      "team": "DAL '00",
+      "stats": {
+        "ryds": 88,
+        "rtd": 0,
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Brazzell",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Joey Galloway",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Raghib Ismail",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 350,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Wane McGarity",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 250,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "James McKnight",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 926,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Jason Tucker",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Damon Hodge",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jackie Harris",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 306,
+        "rectd": 5,
+        "rec": 39
+      }
+    },
+    {
+      "name": "David LaFleur",
+      "team": "DAL '00",
+      "stats": {
+        "recyds": 109,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ]
+}

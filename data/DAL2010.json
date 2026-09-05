@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "DAL '10",
+      "stats": {
+        "yds": 2365,
+        "td": 16,
+        "int": 12
+      }
+    },
+    {
+      "name": "Tony Romo",
+      "team": "DAL '10",
+      "stats": {
+        "yds": 1605,
+        "td": 11,
+        "int": 7
+      }
+    },
+    {
+      "name": "Stephen McGee",
+      "team": "DAL '10",
+      "stats": {
+        "yds": 238,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marion Barber",
+      "team": "DAL '10",
+      "stats": {
+        "ryds": 374,
+        "rtd": 4,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Felix Jones",
+      "team": "DAL '10",
+      "stats": {
+        "ryds": 800,
+        "rtd": 1,
+        "recyds": 450,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Tashard Choice",
+      "team": "DAL '10",
+      "stats": {
+        "ryds": 243,
+        "rtd": 3,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Chris Gronkowski",
+      "team": "DAL '10",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roy Williams",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 530,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Miles Austin",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 1041,
+        "rectd": 7,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Sam Hurd",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 120,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Kevin Ogletree",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Manuel Johnson",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 561,
+        "rectd": 6,
+        "rec": 45
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 1002,
+        "rectd": 9,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Martellus Bennett",
+      "team": "DAL '10",
+      "stats": {
+        "recyds": 260,
+        "rectd": 0,
+        "rec": 33
+      }
+    }
+  ]
+}

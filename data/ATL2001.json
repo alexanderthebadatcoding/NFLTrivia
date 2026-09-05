@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Chris Chandler",
+      "team": "ATL '01",
+      "stats": {
+        "yds": 2847,
+        "td": 16,
+        "int": 14
+      }
+    },
+    {
+      "name": "Doug Johnson",
+      "team": "ATL '01",
+      "stats": {
+        "yds": 23,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Mike Vick",
+      "team": "ATL '01",
+      "stats": {
+        "yds": 785,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamal Anderson",
+      "team": "ATL '01",
+      "stats": {
+        "ryds": 190,
+        "rtd": 1,
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bob Christian",
+      "team": "ATL '01",
+      "stats": {
+        "ryds": 284,
+        "rtd": 2,
+        "recyds": 392,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Travis Jervey",
+      "team": "ATL '01",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Rodney Thomas",
+      "team": "ATL '01",
+      "stats": {
+        "ryds": 126,
+        "rtd": 0,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Maurice Smith",
+      "team": "ATL '01",
+      "stats": {
+        "ryds": 760,
+        "rtd": 5,
+        "recyds": 230,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 491,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Shawn Jefferson",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 539,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Tony Martin",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 548,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Terance Mathis",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 564,
+        "rectd": 2,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Quentin McCord",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Brian Kozlowski",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 270,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Derek Rackley",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '01",
+      "stats": {
+        "recyds": 330,
+        "rectd": 3,
+        "rec": 25
+      }
+    }
+  ]
+}

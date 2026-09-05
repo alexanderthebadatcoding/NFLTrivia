@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "Bubby Brister",
+      "team": "DEN '99",
+      "stats": {
+        "yds": 87,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "DEN '99",
+      "stats": {
+        "yds": 3032,
+        "td": 14,
+        "int": 14
+      }
+    },
+    {
+      "name": "Chris Miller",
+      "team": "DEN '99",
+      "stats": {
+        "yds": 527,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "John Avery",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Terrell Davis",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 211,
+        "rtd": 2,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Olandis Gary",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 1159,
+        "rtd": 7,
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Howard Griffith",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 66,
+        "rtd": 1,
+        "recyds": 192,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Derek Loville",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 203,
+        "rtd": 1,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Anthony Lynn",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Detron Smith",
+      "team": "DEN '99",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Cooper",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chris Doering",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ed McCaffrey",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 1018,
+        "rectd": 7,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Travis McGriff",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Billy Miller",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 1020,
+        "rectd": 4,
+        "rec": 79
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 201,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Byron Chamberlain",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 488,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Desmond Clark",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Shannon Sharpe",
+      "team": "DEN '99",
+      "stats": {
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ]
+}

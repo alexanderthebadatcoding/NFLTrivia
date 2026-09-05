@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '12",
+      "stats": {
+        "yds": 3400,
+        "td": 24,
+        "int": 16
+      }
+    },
+    {
+      "name": "Tyler Thigpen",
+      "team": "BUF '12",
+      "stats": {
+        "yds": 30,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey McIntyre",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": 437,
+        "rtd": 3,
+        "recyds": 217,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Tashard Choice",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": 193,
+        "rtd": 1,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Dorin Dickerson",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": -8,
+        "rtd": 0,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "C.J. Spiller",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": 1244,
+        "rtd": 6,
+        "recyds": 459,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Johnny White",
+      "team": "BUF '12",
+      "stats": {
+        "ryds": 34,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ruvell Martin",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brad Smith",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 152,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Steve Johnson",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 1046,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "David Nelson",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Donald Jones",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 443,
+        "rectd": 4,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Trevor Graham",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 322,
+        "rectd": 1,
+        "rec": 31
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Scott Chandler",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 571,
+        "rectd": 6,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Lee Smith",
+      "team": "BUF '12",
+      "stats": {
+        "recyds": 13,
+        "rectd": 2,
+        "rec": 4
+      }
+    }
+  ]
+}

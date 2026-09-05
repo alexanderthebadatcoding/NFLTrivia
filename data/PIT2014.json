@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '14",
+      "stats": {
+        "yds": 4952,
+        "td": 32,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Will Johnson",
+      "team": "PIT '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Le'Veon Bell",
+      "team": "PIT '14",
+      "stats": {
+        "ryds": 1361,
+        "rtd": 8,
+        "recyds": 854,
+        "rectd": 3,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Dri Archer",
+      "team": "PIT '14",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Josh Harris",
+      "team": "PIT '14",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Lance Moore",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 198,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Darrius Heyward-Bey",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Antonio Brown",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 1698,
+        "rectd": 13,
+        "rec": 129
+      }
+    },
+    {
+      "name": "Markus Wheaton",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 644,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Justin Brown",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Martavis Bryant",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 549,
+        "rectd": 8,
+        "rec": 26
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Heath Miller",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 761,
+        "rectd": 3,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Matt Spaeth",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 46,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Palmer",
+      "team": "PIT '14",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

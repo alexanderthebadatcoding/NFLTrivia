@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '02",
+      "stats": {
+        "yds": 3764,
+        "td": 28,
+        "int": 14
+      }
+    },
+    {
+      "name": "Rohan Davey",
+      "team": "NE '02",
+      "stats": {
+        "yds": 3,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marc Edwards",
+      "team": "NE '02",
+      "stats": {
+        "ryds": 96,
+        "rtd": 0,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '02",
+      "stats": {
+        "ryds": 271,
+        "rtd": 2,
+        "recyds": 379,
+        "rectd": 3,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "NE '02",
+      "stats": {
+        "ryds": 982,
+        "rtd": 6,
+        "recyds": 243,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '02",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "J.R. Redmond",
+      "team": "NE '02",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 890,
+        "rectd": 3,
+        "rec": 97
+      }
+    },
+    {
+      "name": "Donald Hayes",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 133,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 824,
+        "rectd": 5,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 489,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "David Givens",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Cameron Cleeland",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 112,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Christian Fauria",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 253,
+        "rectd": 7,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Daniel Graham",
+      "team": "NE '02",
+      "stats": {
+        "recyds": 150,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ]
+}

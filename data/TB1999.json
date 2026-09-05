@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Trent Dilfer",
+      "team": "TB '99",
+      "stats": {
+        "yds": 1619,
+        "td": 11,
+        "int": 11
+      }
+    },
+    {
+      "name": "Shaun King",
+      "team": "TB '99",
+      "stats": {
+        "yds": 875,
+        "td": 7,
+        "int": 4
+      }
+    },
+    {
+      "name": "Eric Zeier",
+      "team": "TB '99",
+      "stats": {
+        "yds": 270,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rabih Abdullah",
+      "team": "TB '99",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mike Alstott",
+      "team": "TB '99",
+      "stats": {
+        "ryds": 949,
+        "rtd": 7,
+        "recyds": 239,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Warrick Dunn",
+      "team": "TB '99",
+      "stats": {
+        "ryds": 616,
+        "rtd": 0,
+        "recyds": 589,
+        "rectd": 2,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Kevin McLeod",
+      "team": "TB '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Reidel Anthony",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Bert Emanuel",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 238,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jacquez Green",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 791,
+        "rectd": 3,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Darnell McDonald",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 96,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Karl Williams",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John Davis",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Patrick Hape",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 12,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dave Moore",
+      "team": "TB '99",
+      "stats": {
+        "recyds": 276,
+        "rectd": 5,
+        "rec": 23
+      }
+    }
+  ]
+}

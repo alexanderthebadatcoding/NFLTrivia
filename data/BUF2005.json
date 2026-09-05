@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Kelly Holcomb",
+      "team": "BUF '05",
+      "stats": {
+        "yds": 1509,
+        "td": 10,
+        "int": 8
+      }
+    },
+    {
+      "name": "J.P. Losman",
+      "team": "BUF '05",
+      "stats": {
+        "yds": 1340,
+        "td": 8,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Daimon Shelton",
+      "team": "BUF '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Joe Burns",
+      "team": "BUF '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Willis McGahee",
+      "team": "BUF '05",
+      "stats": {
+        "ryds": 1247,
+        "rtd": 5,
+        "recyds": 178,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Shaud Williams",
+      "team": "BUF '05",
+      "stats": {
+        "ryds": 161,
+        "rtd": 0,
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 816,
+        "rectd": 4,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 449,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Sam Aiken",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jonathan Smith",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 743,
+        "rectd": 7,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Campbell",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Ryan Neufeld",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tim Euhus",
+      "team": "BUF '05",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "DET '99",
+      "stats": {
+        "yds": 1957,
+        "td": 13,
+        "int": 7
+      }
+    },
+    {
+      "name": "Gus Frerotte",
+      "team": "DET '99",
+      "stats": {
+        "yds": 2117,
+        "td": 9,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Greg Hill",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 542,
+        "rtd": 2,
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Sedrick Irvin",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 133,
+        "rtd": 4,
+        "recyds": 233,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Brock Olivo",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ron Rivers",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 295,
+        "rtd": 0,
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '99",
+      "stats": {
+        "ryds": 124,
+        "rtd": 0,
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Germane Crowell",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 1338,
+        "rectd": 7,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Herman Moore",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 197,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 1129,
+        "rectd": 5,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Brian Stablein",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 119,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Iheanyi Uwaezuoke",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Pete Chryplewicz",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Walter Rasby",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Sloan",
+      "team": "DET '99",
+      "stats": {
+        "recyds": 591,
+        "rectd": 4,
+        "rec": 47
+      }
+    }
+  ]
+}

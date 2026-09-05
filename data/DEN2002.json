@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Steve Beuerlein",
+      "team": "DEN '02",
+      "stats": {
+        "yds": 925,
+        "td": 6,
+        "int": 5
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "DEN '02",
+      "stats": {
+        "yds": 3214,
+        "td": 15,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Olandis Gary",
+      "team": "DEN '02",
+      "stats": {
+        "ryds": 147,
+        "rtd": 1,
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Mike Anderson",
+      "team": "DEN '02",
+      "stats": {
+        "ryds": 386,
+        "rtd": 2,
+        "recyds": 167,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Reuben Droughns",
+      "team": "DEN '02",
+      "stats": {
+        "ryds": 11,
+        "rtd": 1,
+        "recyds": 53,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Clinton Portis",
+      "team": "DEN '02",
+      "stats": {
+        "ryds": 1508,
+        "rtd": 15,
+        "recyds": 364,
+        "rectd": 2,
+        "rec": 33
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ed McCaffrey",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 903,
+        "rectd": 2,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 1027,
+        "rectd": 5,
+        "rec": 89
+      }
+    },
+    {
+      "name": "Scottie Montgomery",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 51,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ashley Lelie",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 525,
+        "rectd": 2,
+        "rec": 35
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 189,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Patrick Hape",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 26,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Shannon Sharpe",
+      "team": "DEN '02",
+      "stats": {
+        "recyds": 686,
+        "rectd": 3,
+        "rec": 61
+      }
+    }
+  ]
+}

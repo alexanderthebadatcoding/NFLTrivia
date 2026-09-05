@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '01",
+      "stats": {
+        "yds": 3764,
+        "td": 19,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '01",
+      "stats": {
+        "ryds": 865,
+        "rtd": 4,
+        "recyds": 577,
+        "rectd": 0,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Greg Comella",
+      "team": "NYG '01",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Damon Washington",
+      "team": "NYG '01",
+      "stats": {
+        "ryds": 89,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Ron Dayne",
+      "team": "NYG '01",
+      "stats": {
+        "ryds": 690,
+        "rtd": 7,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Thabiti Davis",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 659,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 706,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 1054,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Ron Dixon",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 227,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Howard Cross",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Marcellus Rivers",
+      "team": "NYG '01",
+      "stats": {
+        "recyds": 11,
+        "rectd": 2,
+        "rec": 3
+      }
+    }
+  ]
+}

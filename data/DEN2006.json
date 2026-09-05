@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Jake Plummer",
+      "team": "DEN '06",
+      "stats": {
+        "yds": 1994,
+        "td": 11,
+        "int": 13
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "DEN '06",
+      "stats": {
+        "yds": 1001,
+        "td": 9,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kyle Johnson",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cecil Sapp",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Cedric Cobbs",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Tatum Bell",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 1025,
+        "rtd": 2,
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Damien Nash",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 66,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mike Bell",
+      "team": "DEN '06",
+      "stats": {
+        "ryds": 677,
+        "rtd": 8,
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Rod Smith",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 512,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Javon Walker",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 1084,
+        "rectd": 8,
+        "rec": 69
+      }
+    },
+    {
+      "name": "David Kircus",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 187,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Brandon Marshall",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 309,
+        "rectd": 2,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 160,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Nate Jackson",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chad Mustard",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Scheffler",
+      "team": "DEN '06",
+      "stats": {
+        "recyds": 286,
+        "rectd": 4,
+        "rec": 18
+      }
+    }
+  ]
+}

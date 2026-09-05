@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Alex Smith",
+      "team": "KC '15",
+      "stats": {
+        "yds": 3486,
+        "td": 20,
+        "int": 7
+      }
+    },
+    {
+      "name": "Chase Daniel",
+      "team": "KC '15",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '15",
+      "stats": {
+        "ryds": 364,
+        "rtd": 4,
+        "recyds": 177,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Anthony Sherman",
+      "team": "KC '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Knile Davis",
+      "team": "KC '15",
+      "stats": {
+        "ryds": 72,
+        "rtd": 1,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Spencer Ware",
+      "team": "KC '15",
+      "stats": {
+        "ryds": 403,
+        "rtd": 6,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Charcandrick West",
+      "team": "KC '15",
+      "stats": {
+        "ryds": 634,
+        "rtd": 4,
+        "recyds": 214,
+        "rectd": 1,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jason Avant",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 1088,
+        "rectd": 8,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Albert Wilson",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 451,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "De'Anthony Thomas",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 140,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Chris Conley",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 199,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Demetrius Harris",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 74,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 875,
+        "rectd": 5,
+        "rec": 72
+      }
+    },
+    {
+      "name": "James O'Shaughnessy",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Brian Parker",
+      "team": "KC '15",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

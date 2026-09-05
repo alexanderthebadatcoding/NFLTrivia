@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Mike McMahon",
+      "team": "DET '04",
+      "stats": {
+        "yds": 77,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "DET '04",
+      "stats": {
+        "yds": 3047,
+        "td": 19,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "DET '04",
+      "stats": {
+        "ryds": 264,
+        "rtd": 0,
+        "recyds": 322,
+        "rectd": 0,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '04",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 3,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Stephen Trejo",
+      "team": "DET '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Artose Pinner",
+      "team": "DET '04",
+      "stats": {
+        "ryds": 174,
+        "rtd": 2,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Kevin Jones",
+      "team": "DET '04",
+      "stats": {
+        "ryds": 1133,
+        "rtd": 5,
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 28
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Az-Zahir Hakim",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 533,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 260,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Reggie Swinton",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Scott Vines",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Kircus",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Roy Williams",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 817,
+        "rectd": 8,
+        "rec": 54
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 377,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '04",
+      "stats": {
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

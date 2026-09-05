@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Todd Bouman",
+      "team": "MIN '01",
+      "stats": {
+        "yds": 795,
+        "td": 8,
+        "int": 4
+      }
+    },
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '01",
+      "stats": {
+        "yds": 2612,
+        "td": 14,
+        "int": 13
+      }
+    },
+    {
+      "name": "Spergon Wynn",
+      "team": "MIN '01",
+      "stats": {
+        "yds": 418,
+        "td": 1,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '01",
+      "stats": {
+        "ryds": 72,
+        "rtd": 1,
+        "recyds": 184,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Harold Morrow",
+      "team": "MIN '01",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 142,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Travis Prentice",
+      "team": "MIN '01",
+      "stats": {
+        "ryds": 13,
+        "rtd": 2,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Doug Chapman",
+      "team": "MIN '01",
+      "stats": {
+        "ryds": 195,
+        "rtd": 0,
+        "recyds": 135,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "MIN '01",
+      "stats": {
+        "ryds": 682,
+        "rtd": 2,
+        "recyds": 226,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cris Carter",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 871,
+        "rectd": 6,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Randy Moss",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 1233,
+        "rectd": 10,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Jake Reed",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 309,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Chris Walsh",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Byron Chamberlain",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 666,
+        "rectd": 3,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Andrew Jordan",
+      "team": "MIN '01",
+      "stats": {
+        "recyds": 11,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ]
+}

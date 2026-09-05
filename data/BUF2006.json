@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "J.P. Losman",
+      "team": "BUF '06",
+      "stats": {
+        "yds": 3050,
+        "td": 19,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Daimon Shelton",
+      "team": "BUF '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ryan Neufeld",
+      "team": "BUF '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Anthony Thomas",
+      "team": "BUF '06",
+      "stats": {
+        "ryds": 378,
+        "rtd": 2,
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Willis McGahee",
+      "team": "BUF '06",
+      "stats": {
+        "ryds": 990,
+        "rtd": 6,
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Shaud Williams",
+      "team": "BUF '06",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Peerless Price",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 402,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 410,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Andre Davis",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 1291,
+        "rectd": 8,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 320,
+        "rectd": 2,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Robert Royal",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 233,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Brad Cieslak",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kevin Everett",
+      "team": "BUF '06",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

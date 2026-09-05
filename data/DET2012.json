@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "DET '12",
+      "stats": {
+        "yds": 172,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '12",
+      "stats": {
+        "yds": 4967,
+        "td": 20,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kevin Smith",
+      "team": "DET '12",
+      "stats": {
+        "ryds": 134,
+        "rtd": 1,
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Stefan Logan",
+      "team": "DET '12",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Joique Bell",
+      "team": "DET '12",
+      "stats": {
+        "ryds": 414,
+        "rtd": 3,
+        "recyds": 485,
+        "rectd": 0,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Mikel Leshoure",
+      "team": "DET '12",
+      "stats": {
+        "ryds": 798,
+        "rtd": 9,
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Shaun Chapas",
+      "team": "DET '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nate Burleson",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 240,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 1964,
+        "rectd": 5,
+        "rec": 122
+      }
+    },
+    {
+      "name": "Brian Robiskie",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Mike Thomas",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 108,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Titus Young",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 383,
+        "rectd": 4,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Kris Durham",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ryan Broyles",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 310,
+        "rectd": 2,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Will Heller",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 150,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tony Scheffler",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 504,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '12",
+      "stats": {
+        "recyds": 567,
+        "rectd": 3,
+        "rec": 59
+      }
+    }
+  ]
+}

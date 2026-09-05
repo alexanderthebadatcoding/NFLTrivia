@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Dave Brown",
+      "team": "ARI '99",
+      "stats": {
+        "yds": 944,
+        "td": 2,
+        "int": 6
+      }
+    },
+    {
+      "name": "Chris Greisen",
+      "team": "ARI '99",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jake Plummer",
+      "team": "ARI '99",
+      "stats": {
+        "yds": 2111,
+        "td": 9,
+        "int": 24
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mario Bates",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 202,
+        "rtd": 9,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Joel Makovicka",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 70,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Dennis McKinley",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Adrian Murrell",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 553,
+        "rtd": 0,
+        "recyds": 335,
+        "rectd": 0,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "ARI '99",
+      "stats": {
+        "ryds": 289,
+        "rtd": 2,
+        "recyds": 196,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Boston",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 473,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Mac Cody",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Andy McCullough",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Rob Moore",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 621,
+        "rectd": 5,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Frank Sanders",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 954,
+        "rectd": 1,
+        "rec": 79
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Terry Hardy",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 222,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Johnny McWilliams",
+      "team": "ARI '99",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

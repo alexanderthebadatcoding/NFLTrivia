@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Vinny Testaverde",
+      "team": "NE '06",
+      "stats": {
+        "yds": 29,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tom Brady",
+      "team": "NE '06",
+      "stats": {
+        "yds": 3533,
+        "td": 24,
+        "int": 12
+      }
+    },
+    {
+      "name": "Matt Cassel",
+      "team": "NE '06",
+      "stats": {
+        "yds": 32,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey Dillon",
+      "team": "NE '06",
+      "stats": {
+        "ryds": 812,
+        "rtd": 13,
+        "recyds": 147,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '06",
+      "stats": {
+        "ryds": 123,
+        "rtd": 1,
+        "recyds": 356,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Patrick Pass",
+      "team": "NE '06",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "NE '06",
+      "stats": {
+        "ryds": 117,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Laurence Maroney",
+      "team": "NE '06",
+      "stats": {
+        "ryds": 745,
+        "rtd": 6,
+        "recyds": 194,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Brown",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 386,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Jabar Gaffney",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Reche Caldwell",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 760,
+        "rectd": 4,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Kelvin Kight",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brandon Childress",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chad Jackson",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 152,
+        "rectd": 3,
+        "rec": 13
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Daniel Graham",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 223,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Benjamin Watson",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 657,
+        "rectd": 3,
+        "rec": 50
+      }
+    },
+    {
+      "name": "David Thomas",
+      "team": "NE '06",
+      "stats": {
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ]
+}

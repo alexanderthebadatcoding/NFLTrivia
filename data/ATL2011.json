@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Chris Redman",
+      "team": "ATL '11",
+      "stats": {
+        "yds": 188,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '11",
+      "stats": {
+        "yds": 4177,
+        "td": 29,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ovie Mughelli",
+      "team": "ATL '11",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Michael Turner",
+      "team": "ATL '11",
+      "stats": {
+        "ryds": 1340,
+        "rtd": 11,
+        "recyds": 168,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '11",
+      "stats": {
+        "ryds": 151,
+        "rtd": 0,
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Mike Cox",
+      "team": "ATL '11",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "ATL '11",
+      "stats": {
+        "ryds": 205,
+        "rtd": 1,
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roddy White",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 1296,
+        "rectd": 8,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 498,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 959,
+        "rectd": 8,
+        "rec": 54
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 875,
+        "rectd": 7,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Palmer",
+      "team": "ATL '11",
+      "stats": {
+        "recyds": 72,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

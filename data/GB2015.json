@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '15",
+      "stats": {
+        "yds": 3821,
+        "td": 31,
+        "int": 8
+      }
+    },
+    {
+      "name": "Scott Tolzien",
+      "team": "GB '15",
+      "stats": {
+        "yds": 4,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "John Kuhn",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 28,
+        "rtd": 2,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 601,
+        "rtd": 2,
+        "recyds": 392,
+        "rectd": 3,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Eddie Lacy",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 758,
+        "rtd": 3,
+        "recyds": 188,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Aaron Ripkowski",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Crockett",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Alonzo Harris",
+      "team": "GB '15",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "James Jones",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 890,
+        "rectd": 8,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 829,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Jeff Janis",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jared Abbrederis",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 483,
+        "rectd": 1,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Ty Montgomery",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 136,
+        "rectd": 2,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Justin Perillo",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 102,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Richard Rodgers",
+      "team": "GB '15",
+      "stats": {
+        "recyds": 510,
+        "rectd": 8,
+        "rec": 58
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Glenn Foley",
+      "team": "SEA '99",
+      "stats": {
+        "yds": 283,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jon Kitna",
+      "team": "SEA '99",
+      "stats": {
+        "yds": 3346,
+        "td": 23,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Brown",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Ahman Green",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 120,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Brian Milne",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Mack Strong",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ricky Watters",
+      "team": "SEA '99",
+      "stats": {
+        "ryds": 1210,
+        "rtd": 5,
+        "recyds": 387,
+        "rectd": 2,
+        "rec": 40
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Fabien Bownes",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Sean Dawkins",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 992,
+        "rectd": 7,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Joey Galloway",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 335,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Derrick Mayes",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 829,
+        "rectd": 10,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Mike Pritchard",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 375,
+        "rectd": 2,
+        "rec": 26
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Christian Fauria",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 376,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Itula Mili",
+      "team": "SEA '99",
+      "stats": {
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Peyton Manning",
+      "team": "DEN '15",
+      "stats": {
+        "yds": 2249,
+        "td": 9,
+        "int": 17
+      }
+    },
+    {
+      "name": "Brock Osweiler",
+      "team": "DEN '15",
+      "stats": {
+        "yds": 1967,
+        "td": 10,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ronnie Hillman",
+      "team": "DEN '15",
+      "stats": {
+        "ryds": 863,
+        "rtd": 7,
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "C.J. Anderson",
+      "team": "DEN '15",
+      "stats": {
+        "ryds": 720,
+        "rtd": 5,
+        "recyds": 183,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Juwan Thompson",
+      "team": "DEN '15",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Andre Caldwell",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 72,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jordan Norwood",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 207,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Emmanuel Sanders",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 1135,
+        "rectd": 6,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Demaryius Thomas",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 1304,
+        "rectd": 6,
+        "rec": 105
+      }
+    },
+    {
+      "name": "Bennie Fowler",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Cody Latimer",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 59,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 395,
+        "rectd": 0,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Owen Daniels",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 517,
+        "rectd": 3,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Virgil Green",
+      "team": "DEN '15",
+      "stats": {
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ]
+}

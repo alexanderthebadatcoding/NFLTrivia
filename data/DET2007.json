@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "DET '07",
+      "stats": {
+        "yds": 4066,
+        "td": 18,
+        "int": 21
+      }
+    },
+    {
+      "name": "J.T. O'Sullivan",
+      "team": "DET '07",
+      "stats": {
+        "yds": 148,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Aveion Cason",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 38,
+        "rtd": 0,
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 335,
+        "rtd": 3,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 85,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jon Bradley",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kevin Jones",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 581,
+        "rtd": 8,
+        "recyds": 197,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Tatum Bell",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 182,
+        "rtd": 1,
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Brian Calhoun",
+      "team": "DET '07",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Mike Furrey",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 664,
+        "rectd": 1,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Troy Walters",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Shaun McDonald",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 943,
+        "rectd": 6,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Brandon Middleton",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 70,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Roy Williams",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 836,
+        "rectd": 5,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 756,
+        "rectd": 4,
+        "rec": 48
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Owens",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sean McHugh",
+      "team": "DET '07",
+      "stats": {
+        "recyds": 252,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ]
+}

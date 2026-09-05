@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Chris Chandler",
+      "team": "ATL '00",
+      "stats": {
+        "yds": 2236,
+        "td": 10,
+        "int": 12
+      }
+    },
+    {
+      "name": "Danny Kanell",
+      "team": "ATL '00",
+      "stats": {
+        "yds": 524,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Doug Johnson",
+      "team": "ATL '00",
+      "stats": {
+        "yds": 406,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamal Anderson",
+      "team": "ATL '00",
+      "stats": {
+        "ryds": 1024,
+        "rtd": 6,
+        "recyds": 382,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Bob Christian",
+      "team": "ATL '00",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 315,
+        "rectd": 0,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Ron Rivers",
+      "team": "ATL '00",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Maurice Smith",
+      "team": "ATL '00",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Tim Dwight",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 406,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jammi German",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Shawn Jefferson",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 822,
+        "rectd": 2,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Terance Mathis",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 679,
+        "rectd": 5,
+        "rec": 57
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 340,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Brian Kozlowski",
+      "team": "ATL '00",
+      "stats": {
+        "recyds": 151,
+        "rectd": 2,
+        "rec": 15
+      }
+    }
+  ]
+}

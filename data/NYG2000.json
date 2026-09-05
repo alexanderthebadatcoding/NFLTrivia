@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '00",
+      "stats": {
+        "yds": 3610,
+        "td": 22,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '00",
+      "stats": {
+        "ryds": 1006,
+        "rtd": 8,
+        "recyds": 719,
+        "rectd": 1,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Greg Comella",
+      "team": "NYG '00",
+      "stats": {
+        "ryds": 45,
+        "rtd": 0,
+        "recyds": 274,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Joe Montgomery",
+      "team": "NYG '00",
+      "stats": {
+        "ryds": 4,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ron Dayne",
+      "team": "NYG '00",
+      "stats": {
+        "ryds": 770,
+        "rtd": 5,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Thabiti Davis",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 787,
+        "rectd": 8,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 272,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 1094,
+        "rectd": 7,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Ron Dixon",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 92,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 46,
+        "rectd": 3,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Howard Cross",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Pete Mitchell",
+      "team": "NYG '00",
+      "stats": {
+        "recyds": 245,
+        "rectd": 1,
+        "rec": 25
+      }
+    }
+  ]
+}

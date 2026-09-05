@@ -1,0 +1,168 @@
+{
+  "QB": [
+    {
+      "name": "Damon Huard",
+      "team": "KC '07",
+      "stats": {
+        "yds": 2257,
+        "td": 11,
+        "int": 13
+      }
+    },
+    {
+      "name": "Brodie Croyle",
+      "team": "KC '07",
+      "stats": {
+        "yds": 1227,
+        "td": 6,
+        "int": 6
+      }
+    },
+    {
+      "name": "Tyler Thigpen",
+      "team": "KC '07",
+      "stats": {
+        "yds": 41,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Priest Holmes",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 137,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 559,
+        "rtd": 3,
+        "recyds": 186,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Kris Wilson",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 180,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Boomer Grigsby",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Gilbert Harris",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kolby Smith",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 407,
+        "rtd": 2,
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jackie Battle",
+      "team": "KC '07",
+      "stats": {
+        "ryds": 47,
+        "rtd": 1,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Samie Parker",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 298,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Jeff Webb",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 995,
+        "rectd": 5,
+        "rec": 70
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '07",
+      "stats": {
+        "recyds": 1172,
+        "rectd": 5,
+        "rec": 99
+      }
+    }
+  ]
+}

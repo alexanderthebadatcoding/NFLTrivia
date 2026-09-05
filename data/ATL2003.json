@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Doug Johnson",
+      "team": "ATL '03",
+      "stats": {
+        "yds": 1655,
+        "td": 8,
+        "int": 12
+      }
+    },
+    {
+      "name": "Mike Vick",
+      "team": "ATL '03",
+      "stats": {
+        "yds": 585,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Kurt Kittner",
+      "team": "ATL '03",
+      "stats": {
+        "yds": 391,
+        "td": 2,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '03",
+      "stats": {
+        "ryds": 672,
+        "rtd": 3,
+        "recyds": 336,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "George Layne",
+      "team": "ATL '03",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Woody Dantzler",
+      "team": "ATL '03",
+      "stats": {
+        "ryds": 21,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "ATL '03",
+      "stats": {
+        "ryds": 779,
+        "rtd": 11,
+        "recyds": 94,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Justin Griffith",
+      "team": "ATL '03",
+      "stats": {
+        "ryds": 168,
+        "rtd": 0,
+        "recyds": 122,
+        "rectd": 2,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 368,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 838,
+        "rectd": 3,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Jimmy Farris",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 100,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Quentin McCord",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 121,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Terrence Edwards",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brian Kozlowski",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 87,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '03",
+      "stats": {
+        "recyds": 552,
+        "rectd": 3,
+        "rec": 44
+      }
+    }
+  ]
+}

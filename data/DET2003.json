@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Mike McMahon",
+      "team": "DET '03",
+      "stats": {
+        "yds": 87,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "DET '03",
+      "stats": {
+        "yds": 2880,
+        "td": 17,
+        "int": 22
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Shawn Bryson",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 606,
+        "rtd": 3,
+        "recyds": 340,
+        "rectd": 0,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Olandis Gary",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 384,
+        "rtd": 2,
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 16,
+        "rtd": 0,
+        "recyds": 247,
+        "rectd": 2,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Paul Smith",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Stephen Trejo",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Avon Cobourne",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Artose Pinner",
+      "team": "DET '03",
+      "stats": {
+        "ryds": 99,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Az-Zahir Hakim",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 449,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Shawn Jefferson",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Bill Schroeder",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 397,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Reggie Swinton",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Scotty Anderson",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 325,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "David Kircus",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Charles Rogers",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 243,
+        "rectd": 3,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mikhael Ricks",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 434,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '03",
+      "stats": {
+        "recyds": 160,
+        "rectd": 2,
+        "rec": 23
+      }
+    }
+  ]
+}

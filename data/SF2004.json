@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Tim Rattay",
+      "team": "SF '04",
+      "stats": {
+        "yds": 2169,
+        "td": 10,
+        "int": 10
+      }
+    },
+    {
+      "name": "Ken Dorsey",
+      "team": "SF '04",
+      "stats": {
+        "yds": 1231,
+        "td": 6,
+        "int": 9
+      }
+    },
+    {
+      "name": "Cody Pickett",
+      "team": "SF '04",
+      "stats": {
+        "yds": 55,
+        "td": 0,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '04",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Terry Jackson",
+      "team": "SF '04",
+      "stats": {
+        "ryds": 101,
+        "rtd": 0,
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jasen Isom",
+      "team": "SF '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevan Barlow",
+      "team": "SF '04",
+      "stats": {
+        "ryds": 822,
+        "rtd": 7,
+        "recyds": 212,
+        "rectd": 0,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Maurice Hicks",
+      "team": "SF '04",
+      "stats": {
+        "ryds": 362,
+        "rtd": 2,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 16
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Curtis Conway",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 403,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Cedrick Wilson",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 641,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Arnaz Battle",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 565,
+        "rectd": 6,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Rashaun Woods",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Steve Bush",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 10,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Eric Johnson",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 825,
+        "rectd": 2,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Kevin Ware",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Aaron Walker",
+      "team": "SF '04",
+      "stats": {
+        "recyds": 115,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

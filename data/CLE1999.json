@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Tim Couch",
+      "team": "CLE '99",
+      "stats": {
+        "yds": 2447,
+        "td": 15,
+        "int": 13
+      }
+    },
+    {
+      "name": "Ty Detmer",
+      "team": "CLE '99",
+      "stats": {
+        "yds": 548,
+        "td": 4,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Abdul-Karim al-Jabbar",
+      "team": "CLE '99",
+      "stats": {
+        "ryds": 445,
+        "rtd": 1,
+        "recyds": 84,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Marc Edwards",
+      "team": "CLE '99",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 212,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "George Jones",
+      "team": "CLE '99",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Terry Kirby",
+      "team": "CLE '99",
+      "stats": {
+        "ryds": 452,
+        "rtd": 6,
+        "recyds": 528,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Rashaan Salaam",
+      "team": "CLE '99",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darrin Chiaverini",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 487,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Zola Davis",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "David Dunn",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevin Johnson",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 986,
+        "rectd": 8,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Ronnie Powell",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Leslie Shepherd",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 274,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Campbell",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Irv Smith",
+      "team": "CLE '99",
+      "stats": {
+        "recyds": 222,
+        "rectd": 1,
+        "rec": 24
+      }
+    }
+  ]
+}

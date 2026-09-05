@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Jonathan Quinn",
+      "team": "CHI '04",
+      "stats": {
+        "yds": 413,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Chad Hutchinson",
+      "team": "CHI '04",
+      "stats": {
+        "yds": 903,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '04",
+      "stats": {
+        "yds": 607,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Craig Krenzel",
+      "team": "CHI '04",
+      "stats": {
+        "yds": 718,
+        "td": 3,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bryan Johnson",
+      "team": "CHI '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 55,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "CHI '04",
+      "stats": {
+        "ryds": 948,
+        "rtd": 7,
+        "recyds": 427,
+        "rectd": 0,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Anthony Thomas",
+      "team": "CHI '04",
+      "stats": {
+        "ryds": 404,
+        "rtd": 2,
+        "recyds": 132,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jason McKie",
+      "team": "CHI '04",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 70,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '04",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Terrell",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 699,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Justin Gage",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 156,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Bobby Wade",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 481,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Bernard Berrian",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 225,
+        "rectd": 2,
+        "rec": 15
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 282,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Dustin Lyman",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 73,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '04",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

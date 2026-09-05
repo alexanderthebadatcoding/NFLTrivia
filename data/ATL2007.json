@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Chris Redman",
+      "team": "ATL '07",
+      "stats": {
+        "yds": 1079,
+        "td": 10,
+        "int": 5
+      }
+    },
+    {
+      "name": "Joey Harrington",
+      "team": "ATL '07",
+      "stats": {
+        "yds": 2215,
+        "td": 7,
+        "int": 8
+      }
+    },
+    {
+      "name": "Byron Leftwich",
+      "team": "ATL '07",
+      "stats": {
+        "yds": 279,
+        "td": 1,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '07",
+      "stats": {
+        "ryds": 718,
+        "rtd": 4,
+        "recyds": 238,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Artose Pinner",
+      "team": "ATL '07",
+      "stats": {
+        "ryds": 46,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ovie Mughelli",
+      "team": "ATL '07",
+      "stats": {
+        "ryds": 7,
+        "rtd": 1,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Jerious Norwood",
+      "team": "ATL '07",
+      "stats": {
+        "ryds": 615,
+        "rtd": 1,
+        "recyds": 277,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '07",
+      "stats": {
+        "ryds": 43,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joe Horn",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 243,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 532,
+        "rectd": 4,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 1202,
+        "rectd": 6,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Adam Jennings",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Laurent Robinson",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 437,
+        "rectd": 1,
+        "rec": 37
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 444,
+        "rectd": 5,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Dwayne Blakley",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Martrez Milner",
+      "team": "ATL '07",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

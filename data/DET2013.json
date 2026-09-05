@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '13",
+      "stats": {
+        "yds": 4650,
+        "td": 29,
+        "int": 19
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Reggie Bush",
+      "team": "DET '13",
+      "stats": {
+        "ryds": 1006,
+        "rtd": 4,
+        "recyds": 506,
+        "rectd": 3,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Joique Bell",
+      "team": "DET '13",
+      "stats": {
+        "ryds": 650,
+        "rtd": 8,
+        "recyds": 547,
+        "rectd": 0,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Mikel Leshoure",
+      "team": "DET '13",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Theo Riddick",
+      "team": "DET '13",
+      "stats": {
+        "ryds": 25,
+        "rtd": 1,
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nate Burleson",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 461,
+        "rectd": 1,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 1492,
+        "rectd": 12,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Kevin Ogletree",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 269,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Kris Durham",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 490,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Jeremy Ross",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Ryan Broyles",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Pat Edwards",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Scheffler",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 82,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 416,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Dorin Dickerson",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Joseph Fauria",
+      "team": "DET '13",
+      "stats": {
+        "recyds": 207,
+        "rectd": 7,
+        "rec": 18
+      }
+    }
+  ]
+}

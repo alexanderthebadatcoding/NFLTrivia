@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Kirk Cousins",
+      "team": "WSH '13",
+      "stats": {
+        "yds": 854,
+        "td": 4,
+        "int": 7
+      }
+    },
+    {
+      "name": "Robert Griffin III",
+      "team": "WSH '13",
+      "stats": {
+        "yds": 3203,
+        "td": 16,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darrel Young",
+      "team": "WSH '13",
+      "stats": {
+        "ryds": 41,
+        "rtd": 3,
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Roy Helu",
+      "team": "WSH '13",
+      "stats": {
+        "ryds": 274,
+        "rtd": 4,
+        "recyds": 251,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Evan Royster",
+      "team": "WSH '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "WSH '13",
+      "stats": {
+        "ryds": 1275,
+        "rtd": 7,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Santana Moss",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 452,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Josh Morgan",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 214,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Pierre Garcon",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 1346,
+        "rectd": 5,
+        "rec": 113
+      }
+    },
+    {
+      "name": "Leonard Hankerson",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 375,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Aldrick Robinson",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 365,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Nick Williams",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Fred Davis",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 70,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Logan Paulsen",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 267,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Niles Paul",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '13",
+      "stats": {
+        "recyds": 499,
+        "rectd": 3,
+        "rec": 45
+      }
+    }
+  ]
+}

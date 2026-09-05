@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Troy Aikman",
+      "team": "DAL '99",
+      "stats": {
+        "yds": 2964,
+        "td": 17,
+        "int": 12
+      }
+    },
+    {
+      "name": "Jason Garrett",
+      "team": "DAL '99",
+      "stats": {
+        "yds": 314,
+        "td": 3,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Robert Chancey",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 57,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Daryl Johnston",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tim Lester",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 1397,
+        "rtd": 11,
+        "recyds": 119,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Robert Thomas",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 35,
+        "rtd": 0,
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Warren",
+      "team": "DAL '99",
+      "stats": {
+        "ryds": 403,
+        "rtd": 2,
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 34
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Brazzell",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Michael Irvin",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 167,
+        "rectd": 3,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Raghib Ismail",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 1097,
+        "rectd": 6,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Wane McGarity",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 70,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ernie Mills",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 325,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Jeff Ogden",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 144,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Jason Tucker",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 439,
+        "rectd": 2,
+        "rec": 23
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Bjornson",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 131,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "David LaFleur",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 322,
+        "rectd": 7,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Mike Lucky",
+      "team": "DAL '99",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

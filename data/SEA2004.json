@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Trent Dilfer",
+      "team": "SEA '04",
+      "stats": {
+        "yds": 333,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '04",
+      "stats": {
+        "yds": 3390,
+        "td": 22,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mack Strong",
+      "team": "SEA '04",
+      "stats": {
+        "ryds": 131,
+        "rtd": 0,
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Shaun Alexander",
+      "team": "SEA '04",
+      "stats": {
+        "ryds": 1688,
+        "rtd": 16,
+        "recyds": 170,
+        "rectd": 4,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "SEA '04",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Maurice Morris",
+      "team": "SEA '04",
+      "stats": {
+        "ryds": 126,
+        "rtd": 0,
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kerry Carter",
+      "team": "SEA '04",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 499,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jerry Rice",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 429,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 1207,
+        "rectd": 7,
+        "rec": 87
+      }
+    },
+    {
+      "name": "Alex Bannister",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 495,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jerheme Urban",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Itula Mili",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 240,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jerramy Stevens",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 349,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Ryan Hannam",
+      "team": "SEA '04",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

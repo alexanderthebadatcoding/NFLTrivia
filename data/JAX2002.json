@@ -1,0 +1,106 @@
+{
+  "QB": [
+    {
+      "name": "David Garrard",
+      "team": "JAX '02",
+      "stats": {
+        "yds": 231,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Stacey Mack",
+      "team": "JAX '02",
+      "stats": {
+        "ryds": 436,
+        "rtd": 9,
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Fred Taylor",
+      "team": "JAX '02",
+      "stats": {
+        "ryds": 1314,
+        "rtd": 8,
+        "recyds": 408,
+        "rectd": 0,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Patrick Washington",
+      "team": "JAX '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kevin Lockett",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 205,
+        "rectd": 4,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Bobby Shaw",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 525,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Jimmy Smith",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 1027,
+        "rectd": 7,
+        "rec": 80
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 461,
+        "rectd": 4,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Pete Mitchell",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 246,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Chris Luzar",
+      "team": "JAX '02",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

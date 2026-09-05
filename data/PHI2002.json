@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Koy Detmer",
+      "team": "PHI '02",
+      "stats": {
+        "yds": 224,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '02",
+      "stats": {
+        "yds": 2289,
+        "td": 17,
+        "int": 6
+      }
+    },
+    {
+      "name": "A.J. Feeley",
+      "team": "PHI '02",
+      "stats": {
+        "yds": 1011,
+        "td": 6,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dorsey Levens",
+      "team": "PHI '02",
+      "stats": {
+        "ryds": 411,
+        "rtd": 1,
+        "recyds": 124,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Cecil Martin",
+      "team": "PHI '02",
+      "stats": {
+        "ryds": -4,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Duce Staley",
+      "team": "PHI '02",
+      "stats": {
+        "ryds": 1029,
+        "rtd": 5,
+        "recyds": 541,
+        "rectd": 3,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Brian Westbrook",
+      "team": "PHI '02",
+      "stats": {
+        "ryds": 193,
+        "rtd": 0,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Antonio Freeman",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 600,
+        "rectd": 4,
+        "rec": 46
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 635,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Todd Pinkston",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 798,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Freddie Mitchell",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mike Bartrum",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chad Lewis",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 398,
+        "rectd": 3,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jeff Thomason",
+      "team": "PHI '02",
+      "stats": {
+        "recyds": 128,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ]
+}

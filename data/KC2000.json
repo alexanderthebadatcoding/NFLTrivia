@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Elvis Grbac",
+      "team": "KC '00",
+      "stats": {
+        "yds": 3934,
+        "td": 23,
+        "int": 13
+      }
+    },
+    {
+      "name": "Warren Moon",
+      "team": "KC '00",
+      "stats": {
+        "yds": 208,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kimble Anders",
+      "team": "KC '00",
+      "stats": {
+        "ryds": 331,
+        "rtd": 2,
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Donnell Bennett",
+      "team": "KC '00",
+      "stats": {
+        "ryds": 24,
+        "rtd": 1,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "KC '00",
+      "stats": {
+        "ryds": 63,
+        "rtd": 1,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '00",
+      "stats": {
+        "ryds": 657,
+        "rtd": 3,
+        "recyds": 446,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Frank Moreau",
+      "team": "KC '00",
+      "stats": {
+        "ryds": 121,
+        "rtd": 3,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Alexander",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 1343,
+        "rectd": 10,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Kevin Lockett",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 422,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Larry Parker",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sylvester Morris",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 566,
+        "rectd": 0,
+        "rec": 42
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Troy Drayton",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jason Dunn",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '00",
+      "stats": {
+        "recyds": 1160,
+        "rectd": 9,
+        "rec": 89
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Andy Dalton",
+      "team": "CIN '13",
+      "stats": {
+        "yds": 4293,
+        "td": 33,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "BenJarvus Green-Ellis",
+      "team": "CIN '13",
+      "stats": {
+        "ryds": 756,
+        "rtd": 7,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Cedric Peerman",
+      "team": "CIN '13",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Giovani Bernard",
+      "team": "CIN '13",
+      "stats": {
+        "ryds": 695,
+        "rtd": 5,
+        "recyds": 514,
+        "rectd": 3,
+        "rec": 56
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Tate",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Andrew Hawkins",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 199,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "A.J. Green",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 1426,
+        "rectd": 11,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Dane Sanzenbacher",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Marvin Jones",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 712,
+        "rectd": 10,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Mohamed Sanu",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 455,
+        "rectd": 2,
+        "rec": 47
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alex Smith",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 12,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jermaine Gresham",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 458,
+        "rectd": 4,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Orson Charles",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tyler Eifert",
+      "team": "CIN '13",
+      "stats": {
+        "recyds": 445,
+        "rectd": 2,
+        "rec": 39
+      }
+    }
+  ]
+}

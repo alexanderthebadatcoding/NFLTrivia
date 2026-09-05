@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Blaine Gabbert",
+      "team": "SF '14",
+      "stats": {
+        "yds": 38,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Colin Kaepernick",
+      "team": "SF '14",
+      "stats": {
+        "yds": 3369,
+        "td": 19,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Frank Gore",
+      "team": "SF '14",
+      "stats": {
+        "ryds": 1106,
+        "rtd": 4,
+        "recyds": 111,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Alfonso Smith",
+      "team": "SF '14",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bruce Miller",
+      "team": "SF '14",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 189,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Carlos Hyde",
+      "team": "SF '14",
+      "stats": {
+        "ryds": 333,
+        "rtd": 4,
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Anquan Boldin",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 1062,
+        "rectd": 5,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 294,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Steve Johnson",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 435,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Michael Crabtree",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 698,
+        "rectd": 4,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Quinton Patton",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bruce Ellington",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 62,
+        "rectd": 2,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Vernon Davis",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 245,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Garrett Celek",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Derek Carrier",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 105,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Vance McDonald",
+      "team": "SF '14",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

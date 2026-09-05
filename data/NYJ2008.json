@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "NYJ '08",
+      "stats": {
+        "yds": 3472,
+        "td": 22,
+        "int": 22
+      }
+    },
+    {
+      "name": "Kellen Clemens",
+      "team": "NYJ '08",
+      "stats": {
+        "yds": 26,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tony Richardson",
+      "team": "NYJ '08",
+      "stats": {
+        "ryds": 65,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "NYJ '08",
+      "stats": {
+        "ryds": 1312,
+        "rtd": 13,
+        "recyds": 207,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jesse Chatman",
+      "team": "NYJ '08",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Leon Washington",
+      "team": "NYJ '08",
+      "stats": {
+        "ryds": 448,
+        "rtd": 6,
+        "recyds": 355,
+        "rectd": 2,
+        "rec": 47
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Laveranues Coles",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 850,
+        "rectd": 7,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Jerricho Cotchery",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 858,
+        "rectd": 5,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Brad Smith",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "David Clowney",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Chansi Stuckey",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 359,
+        "rectd": 3,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bubba Franks",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 47,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Chris Baker",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 194,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Dustin Keller",
+      "team": "NYJ '08",
+      "stats": {
+        "recyds": 535,
+        "rectd": 3,
+        "rec": 48
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "DET '00",
+      "stats": {
+        "yds": 2489,
+        "td": 13,
+        "int": 15
+      }
+    },
+    {
+      "name": "Stoney Case",
+      "team": "DET '00",
+      "stats": {
+        "yds": 503,
+        "td": 1,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mario Bates",
+      "team": "DET '00",
+      "stats": {
+        "ryds": 127,
+        "rtd": 2,
+        "recyds": 109,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Sedrick Irvin",
+      "team": "DET '00",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brock Olivo",
+      "team": "DET '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '00",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "James Stewart",
+      "team": "DET '00",
+      "stats": {
+        "ryds": 1184,
+        "rtd": 10,
+        "recyds": 287,
+        "rectd": 1,
+        "rec": 32
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Germane Crowell",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 430,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Desmond Howard",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Herman Moore",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 434,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 788,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Brian Stablein",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Larry Foster",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 175,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alfred Pupunu",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Walter Rasby",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "David Sloan",
+      "team": "DET '00",
+      "stats": {
+        "recyds": 379,
+        "rectd": 2,
+        "rec": 32
+      }
+    }
+  ]
+}

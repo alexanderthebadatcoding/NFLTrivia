@@ -1,0 +1,137 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "ATL '06",
+      "stats": {
+        "yds": 2474,
+        "td": 20,
+        "int": 13
+      }
+    },
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '06",
+      "stats": {
+        "yds": 208,
+        "td": 1,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '06",
+      "stats": {
+        "ryds": 1140,
+        "rtd": 4,
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Fred McCrary",
+      "team": "ATL '06",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Marlion Jackson",
+      "team": "ATL '06",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Justin Griffith",
+      "team": "ATL '06",
+      "stats": {
+        "ryds": 106,
+        "rtd": 1,
+        "recyds": 168,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jerious Norwood",
+      "team": "ATL '06",
+      "stats": {
+        "ryds": 633,
+        "rtd": 2,
+        "recyds": 102,
+        "rectd": 0,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ashley Lelie",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 430,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 436,
+        "rectd": 7,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Roddy White",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 506,
+        "rectd": 0,
+        "rec": 30
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Eric Beverly",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 780,
+        "rectd": 8,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Dwayne Blakley",
+      "team": "ATL '06",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

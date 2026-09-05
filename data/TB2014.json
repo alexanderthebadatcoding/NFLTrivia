@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Josh McCown",
+      "team": "TB '14",
+      "stats": {
+        "yds": 2206,
+        "td": 11,
+        "int": 14
+      }
+    },
+    {
+      "name": "Mike Glennon",
+      "team": "TB '14",
+      "stats": {
+        "yds": 1417,
+        "td": 10,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bobby Rainey",
+      "team": "TB '14",
+      "stats": {
+        "ryds": 406,
+        "rtd": 1,
+        "recyds": 315,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Doug Martin",
+      "team": "TB '14",
+      "stats": {
+        "ryds": 494,
+        "rtd": 2,
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jorvorskie Lane",
+      "team": "TB '14",
+      "stats": {
+        "ryds": 58,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike James",
+      "team": "TB '14",
+      "stats": {
+        "ryds": 37,
+        "rtd": 0,
+        "recyds": -5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charles Sims",
+      "team": "TB '14",
+      "stats": {
+        "ryds": 185,
+        "rtd": 1,
+        "recyds": 190,
+        "rectd": 0,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Jackson",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 1002,
+        "rectd": 2,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Louis Murphy",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 380,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Tavarres King",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Russell Shepard",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Robert Herron",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Mike Evans",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 1051,
+        "rectd": 12,
+        "rec": 68
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brandon Myers",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 190,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Luke Stocker",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cameron Brate",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Austin Seferian-Jenkins",
+      "team": "TB '14",
+      "stats": {
+        "recyds": 221,
+        "rectd": 2,
+        "rec": 21
+      }
+    }
+  ]
+}

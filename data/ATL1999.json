@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Chris Chandler",
+      "team": "ATL '99",
+      "stats": {
+        "yds": 2339,
+        "td": 16,
+        "int": 11
+      }
+    },
+    {
+      "name": "Tony Graziani",
+      "team": "ATL '99",
+      "stats": {
+        "yds": 759,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Danny Kanell",
+      "team": "ATL '99",
+      "stats": {
+        "yds": 593,
+        "td": 4,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamal Anderson",
+      "team": "ATL '99",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bob Christian",
+      "team": "ATL '99",
+      "stats": {
+        "ryds": 174,
+        "rtd": 5,
+        "recyds": 354,
+        "rectd": 2,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Byron Hanspard",
+      "team": "ATL '99",
+      "stats": {
+        "ryds": 383,
+        "rtd": 1,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Winslow Oliver",
+      "team": "ATL '99",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ken Oxendine",
+      "team": "ATL '99",
+      "stats": {
+        "ryds": 452,
+        "rtd": 1,
+        "recyds": 172,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eugene Baker",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Calloway",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 314,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Tim Dwight",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 669,
+        "rectd": 7,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Jammi German",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 219,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Ronnie Harris",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 164,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Terance Mathis",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 1016,
+        "rectd": 6,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Bryan Still",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 110,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brian Kozlowski",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 122,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Rod Monroe",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "O.J. Santiago",
+      "team": "ATL '99",
+      "stats": {
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 15
+      }
+    }
+  ]
+}

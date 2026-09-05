@@ -1,0 +1,177 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '13",
+      "stats": {
+        "yds": 4515,
+        "td": 26,
+        "int": 17
+      }
+    },
+    {
+      "name": "Dominique Davis",
+      "team": "ATL '13",
+      "stats": {
+        "yds": 34,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Steven Jackson",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 543,
+        "rtd": 6,
+        "recyds": 191,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 164,
+        "rtd": 1,
+        "recyds": 216,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Josh Vaughan",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": -5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Antone Smith",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 145,
+        "rtd": 2,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 332,
+        "rtd": 2,
+        "recyds": 341,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Bradie Ewing",
+      "team": "ATL '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roddy White",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 711,
+        "rectd": 3,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 1067,
+        "rectd": 2,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 580,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Drew Davis",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 216,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kevin Cone",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Darius Johnson",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 210,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 859,
+        "rectd": 8,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Levine Toilolo",
+      "team": "ATL '13",
+      "stats": {
+        "recyds": 55,
+        "rectd": 2,
+        "rec": 11
+      }
+    }
+  ]
+}

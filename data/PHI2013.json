@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "PHI '13",
+      "stats": {
+        "yds": 1215,
+        "td": 5,
+        "int": 3
+      }
+    },
+    {
+      "name": "Nick Foles",
+      "team": "PHI '13",
+      "stats": {
+        "yds": 2891,
+        "td": 27,
+        "int": 2
+      }
+    },
+    {
+      "name": "Matt Barkley",
+      "team": "PHI '13",
+      "stats": {
+        "yds": 300,
+        "td": 0,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeSean McCoy",
+      "team": "PHI '13",
+      "stats": {
+        "ryds": 1607,
+        "rtd": 9,
+        "recyds": 539,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Bryce Brown",
+      "team": "PHI '13",
+      "stats": {
+        "ryds": 314,
+        "rtd": 2,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Chris Polk",
+      "team": "PHI '13",
+      "stats": {
+        "ryds": 98,
+        "rtd": 3,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brad Smith",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jason Avant",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 447,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "DeSean Jackson",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 1332,
+        "rectd": 9,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Riley Cooper",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 835,
+        "rectd": 8,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jeff Maehl",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 67,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Damaris Johnson",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 502,
+        "rectd": 6,
+        "rec": 32
+      }
+    },
+    {
+      "name": "James Casey",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '13",
+      "stats": {
+        "recyds": 469,
+        "rectd": 4,
+        "rec": 36
+      }
+    }
+  ]
+}

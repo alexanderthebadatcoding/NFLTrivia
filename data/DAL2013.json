@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Tony Romo",
+      "team": "DAL '13",
+      "stats": {
+        "yds": 3828,
+        "td": 31,
+        "int": 10
+      }
+    },
+    {
+      "name": "Kyle Orton",
+      "team": "DAL '13",
+      "stats": {
+        "yds": 398,
+        "td": 2,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tyler Clutts",
+      "team": "DAL '13",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DeMarco Murray",
+      "team": "DAL '13",
+      "stats": {
+        "ryds": 1121,
+        "rtd": 9,
+        "recyds": 350,
+        "rectd": 1,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Phillip Tanner",
+      "team": "DAL '13",
+      "stats": {
+        "ryds": 12,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Lance Dunbar",
+      "team": "DAL '13",
+      "stats": {
+        "ryds": 150,
+        "rtd": 0,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Joseph Randle",
+      "team": "DAL '13",
+      "stats": {
+        "ryds": 164,
+        "rtd": 2,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Miles Austin",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 244,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 1233,
+        "rectd": 13,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Dwayne Harris",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 80,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 368,
+        "rectd": 2,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Terrance Williams",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 736,
+        "rectd": 5,
+        "rec": 44
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 851,
+        "rectd": 8,
+        "rec": 73
+      }
+    },
+    {
+      "name": "James Hanna",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Gavin Escobar",
+      "team": "DAL '13",
+      "stats": {
+        "recyds": 134,
+        "rectd": 2,
+        "rec": 9
+      }
+    }
+  ]
+}

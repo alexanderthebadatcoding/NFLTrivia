@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Tony Banks",
+      "team": "WSH '01",
+      "stats": {
+        "yds": 2386,
+        "td": 10,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jeff George",
+      "team": "WSH '01",
+      "stats": {
+        "yds": 168,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Kent Graham",
+      "team": "WSH '01",
+      "stats": {
+        "yds": 131,
+        "td": 2,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Donnell Bennett",
+      "team": "WSH '01",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "WSH '01",
+      "stats": {
+        "ryds": 308,
+        "rtd": 3,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Stephen Davis",
+      "team": "WSH '01",
+      "stats": {
+        "ryds": 1432,
+        "rtd": 5,
+        "recyds": 205,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Bryan Johnson",
+      "team": "WSH '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 129,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Kevin Lockett",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 293,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Eric Metcalf",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Derrius Thompson",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Westbrook",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 664,
+        "rectd": 4,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Rod Gardner",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 741,
+        "rectd": 4,
+        "rec": 46
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Marco Battaglia",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 127,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Walter Rasby",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 128,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Zeron Flemister",
+      "team": "WSH '01",
+      "stats": {
+        "recyds": 196,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ]
+}

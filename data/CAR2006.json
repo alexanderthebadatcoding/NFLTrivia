@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jake Delhomme",
+      "team": "CAR '06",
+      "stats": {
+        "yds": 2805,
+        "td": 17,
+        "int": 11
+      }
+    },
+    {
+      "name": "Chris Weinke",
+      "team": "CAR '06",
+      "stats": {
+        "yds": 625,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Brett Basanez",
+      "team": "CAR '06",
+      "stats": {
+        "yds": 56,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brad Hoover",
+      "team": "CAR '06",
+      "stats": {
+        "ryds": 73,
+        "rtd": 1,
+        "recyds": 122,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Nick Goings",
+      "team": "CAR '06",
+      "stats": {
+        "ryds": 52,
+        "rtd": 0,
+        "recyds": 107,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "DeShaun Foster",
+      "team": "CAR '06",
+      "stats": {
+        "ryds": 897,
+        "rtd": 3,
+        "recyds": 159,
+        "rectd": 0,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Eric Shelton",
+      "team": "CAR '06",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DeAngelo Williams",
+      "team": "CAR '06",
+      "stats": {
+        "ryds": 501,
+        "rtd": 1,
+        "recyds": 313,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Karl Hankton",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Keyshawn Johnson",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 815,
+        "rectd": 4,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 1166,
+        "rectd": 8,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Keary Colbert",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Drew Carter",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 357,
+        "rectd": 3,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Taye Biddle",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kris Mangum",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Michael Gaines",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 146,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jeff King",
+      "team": "CAR '06",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

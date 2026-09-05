@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Mark Sanchez",
+      "team": "PHI '14",
+      "stats": {
+        "yds": 2418,
+        "td": 14,
+        "int": 11
+      }
+    },
+    {
+      "name": "Nick Foles",
+      "team": "PHI '14",
+      "stats": {
+        "yds": 2163,
+        "td": 13,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren Sproles",
+      "team": "PHI '14",
+      "stats": {
+        "ryds": 329,
+        "rtd": 6,
+        "recyds": 387,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "LeSean McCoy",
+      "team": "PHI '14",
+      "stats": {
+        "ryds": 1319,
+        "rtd": 5,
+        "recyds": 155,
+        "rectd": 0,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Chris Polk",
+      "team": "PHI '14",
+      "stats": {
+        "ryds": 172,
+        "rtd": 4,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brad Smith",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeremy Maclin",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 1318,
+        "rectd": 10,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Riley Cooper",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 577,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jeff Maehl",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Josh Huff",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jordan Matthews",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 872,
+        "rectd": 8,
+        "rec": 67
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brent Celek",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 340,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "James Casey",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 59,
+        "rectd": 2,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "PHI '14",
+      "stats": {
+        "recyds": 702,
+        "rectd": 3,
+        "rec": 58
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Vinny Testaverde",
+      "team": "NYJ '03",
+      "stats": {
+        "yds": 1385,
+        "td": 7,
+        "int": 2
+      }
+    },
+    {
+      "name": "Chad Pennington",
+      "team": "NYJ '03",
+      "stats": {
+        "yds": 2139,
+        "td": 13,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Curtis Martin",
+      "team": "NYJ '03",
+      "stats": {
+        "ryds": 1308,
+        "rtd": 2,
+        "recyds": 262,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Jerald Sowell",
+      "team": "NYJ '03",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 436,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "LaMont Jordan",
+      "team": "NYJ '03",
+      "stats": {
+        "ryds": 190,
+        "rtd": 4,
+        "recyds": 101,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "B.J. Askew",
+      "team": "NYJ '03",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Wayne Chrebet",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 289,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Curtis Conway",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 640,
+        "rectd": 2,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Kevin Lockett",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kevin Swayne",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 29,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jonathan Carter",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 93,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 1105,
+        "rectd": 10,
+        "rec": 74
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Becht",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 356,
+        "rectd": 4,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Chris Baker",
+      "team": "NYJ '03",
+      "stats": {
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ]
+}

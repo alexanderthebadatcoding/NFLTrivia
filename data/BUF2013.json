@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Thad Lewis",
+      "team": "BUF '13",
+      "stats": {
+        "yds": 1092,
+        "td": 4,
+        "int": 3
+      }
+    },
+    {
+      "name": "Jeff Tuel",
+      "team": "BUF '13",
+      "stats": {
+        "yds": 309,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "EJ Manuel",
+      "team": "BUF '13",
+      "stats": {
+        "yds": 1972,
+        "td": 11,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '13",
+      "stats": {
+        "ryds": 890,
+        "rtd": 9,
+        "recyds": 387,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Frank Summers",
+      "team": "BUF '13",
+      "stats": {
+        "ryds": 46,
+        "rtd": 1,
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "C.J. Spiller",
+      "team": "BUF '13",
+      "stats": {
+        "ryds": 933,
+        "rtd": 2,
+        "recyds": 185,
+        "rectd": 0,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Ronnie Wingo",
+      "team": "BUF '13",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Steve Johnson",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 597,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Marcus Easley",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Chris Hogan",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Trevor Graham",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 361,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Marquise Goodwin",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 283,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Robert Woods",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 587,
+        "rectd": 3,
+        "rec": 40
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Scott Chandler",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 655,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Lee Smith",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chris Gragg",
+      "team": "BUF '13",
+      "stats": {
+        "recyds": 53,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

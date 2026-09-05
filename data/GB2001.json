@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '01",
+      "stats": {
+        "yds": 3921,
+        "td": 32,
+        "int": 15
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ahman Green",
+      "team": "GB '01",
+      "stats": {
+        "ryds": 1387,
+        "rtd": 9,
+        "recyds": 594,
+        "rectd": 2,
+        "rec": 62
+      }
+    },
+    {
+      "name": "William Henderson",
+      "team": "GB '01",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 193,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Dorsey Levens",
+      "team": "GB '01",
+      "stats": {
+        "ryds": 165,
+        "rtd": 0,
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Herbert Goodman",
+      "team": "GB '01",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Rondell Mealey",
+      "team": "GB '01",
+      "stats": {
+        "ryds": 37,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Corey Bradford",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 526,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Donald Driver",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 167,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Antonio Freeman",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 818,
+        "rectd": 6,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Bill Schroeder",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 918,
+        "rectd": 9,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Alvis Whitted",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Charles Lee",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 32,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bobby Collins",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tyrone Davis",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Bubba Franks",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 322,
+        "rectd": 9,
+        "rec": 36
+      }
+    },
+    {
+      "name": "David Martin",
+      "team": "GB '01",
+      "stats": {
+        "recyds": 144,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ]
+}

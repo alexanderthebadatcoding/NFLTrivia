@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "J.P. Losman",
+      "team": "BUF '08",
+      "stats": {
+        "yds": 584,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Trent Edwards",
+      "team": "BUF '08",
+      "stats": {
+        "yds": 2699,
+        "td": 11,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey McIntyre",
+      "team": "BUF '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": -1,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '08",
+      "stats": {
+        "ryds": 560,
+        "rtd": 3,
+        "recyds": 317,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "BUF '08",
+      "stats": {
+        "ryds": 1047,
+        "rtd": 8,
+        "recyds": 300,
+        "rectd": 1,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Xavier Omon",
+      "team": "BUF '08",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Josh Reed",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 597,
+        "rectd": 1,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 1017,
+        "rectd": 3,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 232,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "James Hardy",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 87,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Steve Johnson",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 102,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Robert Royal",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 351,
+        "rectd": 1,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Derek Schouman",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 153,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Derek Fine",
+      "team": "BUF '08",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Tommy Maddox",
+      "team": "PIT '01",
+      "stats": {
+        "yds": 154,
+        "td": 1,
+        "int": 1
+      }
+    },
+    {
+      "name": "Kordell Stewart",
+      "team": "PIT '01",
+      "stats": {
+        "yds": 3109,
+        "td": 14,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 1072,
+        "rtd": 4,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Chris Fuamatu-Ma'afala",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 453,
+        "rtd": 3,
+        "recyds": 127,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Jon Witman",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 441,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 29,
+        "rtd": 1,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "R.J. Bowers",
+      "team": "PIT '01",
+      "stats": {
+        "ryds": 84,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Will Blackwell",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Troy Edwards",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 283,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Bobby Shaw",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 409,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 1003,
+        "rectd": 4,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 1008,
+        "rectd": 6,
+        "rec": 66
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bruener",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Matt Cushing",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jerame Tuman",
+      "team": "PIT '01",
+      "stats": {
+        "recyds": 96,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ]
+}

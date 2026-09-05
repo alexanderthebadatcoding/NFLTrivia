@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Randall Cunningham",
+      "team": "MIN '99",
+      "stats": {
+        "yds": 1475,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Jeff George",
+      "team": "MIN '99",
+      "stats": {
+        "yds": 2816,
+        "td": 23,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Leroy Hoard",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 555,
+        "rtd": 10,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "John Henry Mills",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Harold Morrow",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "David Palmer",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Robert Smith",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 1015,
+        "rtd": 2,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Moe Williams",
+      "team": "MIN '99",
+      "stats": {
+        "ryds": 69,
+        "rtd": 1,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cris Carter",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 1241,
+        "rectd": 13,
+        "rec": 90
+      }
+    },
+    {
+      "name": "Matt Hatchette",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 180,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Randy Moss",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 1413,
+        "rectd": 11,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Yo Murphy",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jake Reed",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 643,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Chris Walsh",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Carlester Crumpler",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Andrew Glover",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 327,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Andrew Jordan",
+      "team": "MIN '99",
+      "stats": {
+        "recyds": 40,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ]
+}

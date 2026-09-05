@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Steve McNair",
+      "team": "TEN '04",
+      "stats": {
+        "yds": 1343,
+        "td": 8,
+        "int": 9
+      }
+    },
+    {
+      "name": "Billy Volek",
+      "team": "TEN '04",
+      "stats": {
+        "yds": 2485,
+        "td": 18,
+        "int": 10
+      }
+    },
+    {
+      "name": "Doug Johnson",
+      "team": "TEN '04",
+      "stats": {
+        "yds": 68,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Robert Holcombe",
+      "team": "TEN '04",
+      "stats": {
+        "ryds": 62,
+        "rtd": 0,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Antowain Smith",
+      "team": "TEN '04",
+      "stats": {
+        "ryds": 509,
+        "rtd": 4,
+        "recyds": 169,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Chris Brown",
+      "team": "TEN '04",
+      "stats": {
+        "ryds": 1067,
+        "rtd": 6,
+        "recyds": 147,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Troy Fleming",
+      "team": "TEN '04",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 164,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Derrick Mason",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 1168,
+        "rectd": 7,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Drew Bennett",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 1247,
+        "rectd": 11,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Eddie Berlin",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 278,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jason McAddley",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tyrone Calico",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Erron Kinney",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 193,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Shad Meier",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 127,
+        "rectd": 2,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Ben Troupe",
+      "team": "TEN '04",
+      "stats": {
+        "recyds": 329,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ]
+}

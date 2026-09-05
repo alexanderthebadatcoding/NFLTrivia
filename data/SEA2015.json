@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "Tarvaris Jackson",
+      "team": "SEA '15",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '15",
+      "stats": {
+        "yds": 4024,
+        "td": 34,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Jackson",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 100,
+        "rtd": 0,
+        "recyds": 257,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 417,
+        "rtd": 3,
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Will Tukuafu",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 1,
+        "rtd": 1,
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Derrick Coleman",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 32,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Bryce Brown",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 72,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Christine Michael",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 243,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Thomas Rawls",
+      "team": "SEA '15",
+      "stats": {
+        "ryds": 830,
+        "rtd": 4,
+        "recyds": 76,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 1069,
+        "rectd": 14,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Ricardo Lockette",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 69,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 685,
+        "rectd": 5,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Paul Richardson",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevin Smith",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tyler Lockett",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 664,
+        "rectd": 6,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Kasen Williams",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chase Coffman",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jimmy Graham",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 605,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Cooper Helfet",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 130,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Luke Willson",
+      "team": "SEA '15",
+      "stats": {
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 17
+      }
+    }
+  ]
+}

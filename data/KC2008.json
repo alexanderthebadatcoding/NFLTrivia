@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Damon Huard",
+      "team": "KC '08",
+      "stats": {
+        "yds": 477,
+        "td": 2,
+        "int": 4
+      }
+    },
+    {
+      "name": "Quinn Gray",
+      "team": "KC '08",
+      "stats": {
+        "yds": 76,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Brodie Croyle",
+      "team": "KC '08",
+      "stats": {
+        "yds": 151,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tyler Thigpen",
+      "team": "KC '08",
+      "stats": {
+        "yds": 2608,
+        "td": 18,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Larry Johnson",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 874,
+        "rtd": 5,
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Kolby Smith",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 100,
+        "rtd": 1,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jackie Battle",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike Cox",
+      "team": "KC '08",
+      "stats": {
+        "ryds": -2,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 357,
+        "rtd": 0,
+        "recyds": 272,
+        "rectd": 1,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Dantrell Savage",
+      "team": "KC '08",
+      "stats": {
+        "ryds": 53,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Devard Darling",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 247,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Mark Bradley",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 380,
+        "rectd": 3,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Marques Hagans",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeff Webb",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 1022,
+        "rectd": 7,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Will Franklin",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 1058,
+        "rectd": 10,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Brad Cottam",
+      "team": "KC '08",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

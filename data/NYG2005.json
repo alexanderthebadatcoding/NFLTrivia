@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '05",
+      "stats": {
+        "yds": 3762,
+        "td": 24,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '05",
+      "stats": {
+        "ryds": 1860,
+        "rtd": 9,
+        "recyds": 530,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Mike Cloud",
+      "team": "NYG '05",
+      "stats": {
+        "ryds": 59,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jim Finn",
+      "team": "NYG '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Derrick Ward",
+      "team": "NYG '05",
+      "stats": {
+        "ryds": 123,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '05",
+      "stats": {
+        "ryds": 99,
+        "rtd": 7,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 684,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 1214,
+        "rectd": 7,
+        "rec": 76
+      }
+    },
+    {
+      "name": "Tim Carter",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "David Tyree",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 891,
+        "rectd": 7,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Sean Berton",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Visanthe Shiancoe",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Matt Kranchick",
+      "team": "NYG '05",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

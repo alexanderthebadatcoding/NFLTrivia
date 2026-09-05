@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Blake",
+      "team": "CHI '05",
+      "stats": {
+        "yds": 55,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '05",
+      "stats": {
+        "yds": 259,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Kyle Orton",
+      "team": "CHI '05",
+      "stats": {
+        "yds": 1869,
+        "td": 9,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marc Edwards",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 66,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Bryan Johnson",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 1335,
+        "rtd": 9,
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Jason McKie",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 391,
+        "rtd": 2,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cedric Benson",
+      "team": "CHI '05",
+      "stats": {
+        "ryds": 272,
+        "rtd": 0,
+        "recyds": 3,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Muhsin Muhammad",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 750,
+        "rectd": 4,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Eddie Berlin",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Justin Gage",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 346,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Bernard Berrian",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 246,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Mark Bradley",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 230,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 229,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Gabe Reid",
+      "team": "CHI '05",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

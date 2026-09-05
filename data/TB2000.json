@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Shaun King",
+      "team": "TB '00",
+      "stats": {
+        "yds": 2769,
+        "td": 18,
+        "int": 13
+      }
+    },
+    {
+      "name": "Eric Zeier",
+      "team": "TB '00",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rabih Abdullah",
+      "team": "TB '00",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Mike Alstott",
+      "team": "TB '00",
+      "stats": {
+        "ryds": 465,
+        "rtd": 5,
+        "recyds": 93,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Warrick Dunn",
+      "team": "TB '00",
+      "stats": {
+        "ryds": 1133,
+        "rtd": 8,
+        "recyds": 422,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Aaron Stecker",
+      "team": "TB '00",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Reidel Anthony",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 232,
+        "rectd": 4,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Jacquez Green",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 773,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Keyshawn Johnson",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 874,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Karl Williams",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Patrick Hape",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dave Moore",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 288,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Todd Yoder",
+      "team": "TB '00",
+      "stats": {
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

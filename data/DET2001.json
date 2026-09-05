@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "DET '01",
+      "stats": {
+        "yds": 2392,
+        "td": 12,
+        "int": 12
+      }
+    },
+    {
+      "name": "Ty Detmer",
+      "team": "DET '01",
+      "stats": {
+        "yds": 906,
+        "td": 3,
+        "int": 10
+      }
+    },
+    {
+      "name": "Mike McMahon",
+      "team": "DET '01",
+      "stats": {
+        "yds": 671,
+        "td": 3,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brock Olivo",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 6,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Cory Schlesinger",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 154,
+        "rtd": 3,
+        "recyds": 466,
+        "rectd": 0,
+        "rec": 60
+      }
+    },
+    {
+      "name": "James Stewart",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 685,
+        "rtd": 1,
+        "recyds": 242,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Lamont Warren",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 191,
+        "rtd": 3,
+        "recyds": 336,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Reuben Droughns",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Aveion Cason",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 31,
+        "rtd": 0,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Stephen Trejo",
+      "team": "DET '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Germane Crowell",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 289,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Bert Emanuel",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 246,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Desmond Howard",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 133,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Herman Moore",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 76,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 1154,
+        "rectd": 4,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Larry Foster",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 283,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Scotty Anderson",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Pete Mitchell",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "David Sloan",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 409,
+        "rectd": 7,
+        "rec": 37
+      }
+    },
+    {
+      "name": "John Waerig",
+      "team": "DET '01",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

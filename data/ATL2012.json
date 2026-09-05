@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '12",
+      "stats": {
+        "yds": 4719,
+        "td": 32,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Lousaka Polite",
+      "team": "ATL '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Turner",
+      "team": "ATL '12",
+      "stats": {
+        "ryds": 800,
+        "rtd": 10,
+        "recyds": 128,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jason Snelling",
+      "team": "ATL '12",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 203,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Mike Cox",
+      "team": "ATL '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "ATL '12",
+      "stats": {
+        "ryds": 362,
+        "rtd": 1,
+        "recyds": 402,
+        "rectd": 1,
+        "rec": 53
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roddy White",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 1351,
+        "rectd": 7,
+        "rec": 92
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 395,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 1198,
+        "rectd": 10,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Drew Davis",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 40,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Tony Gonzalez",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 930,
+        "rectd": 8,
+        "rec": 93
+      }
+    },
+    {
+      "name": "Chase Coffman",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Palmer",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tommy Gallarda",
+      "team": "ATL '12",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

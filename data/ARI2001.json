@@ -1,0 +1,126 @@
+{
+  "QB": [
+    {
+      "name": "Jake Plummer",
+      "team": "ARI '01",
+      "stats": {
+        "yds": 3653,
+        "td": 18,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Joel Makovicka",
+      "team": "ARI '01",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 95,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Dennis McKinley",
+      "team": "ARI '01",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "ARI '01",
+      "stats": {
+        "ryds": 846,
+        "rtd": 5,
+        "recyds": 264,
+        "rectd": 0,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Thomas Jones",
+      "team": "ARI '01",
+      "stats": {
+        "ryds": 380,
+        "rtd": 5,
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "David Boston",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 1598,
+        "rectd": 8,
+        "rec": 98
+      }
+    },
+    {
+      "name": "MarTay Jenkins",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 518,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Frank Sanders",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 618,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Arnold Jackson",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Steve Bush",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Terry Hardy",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 79,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tywan Mitchell",
+      "team": "ARI '01",
+      "stats": {
+        "recyds": 196,
+        "rectd": 2,
+        "rec": 25
+      }
+    }
+  ]
+}

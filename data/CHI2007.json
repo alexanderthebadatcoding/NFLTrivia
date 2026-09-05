@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Brian Griese",
+      "team": "CHI '07",
+      "stats": {
+        "yds": 1803,
+        "td": 10,
+        "int": 12
+      }
+    },
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '07",
+      "stats": {
+        "yds": 1411,
+        "td": 4,
+        "int": 7
+      }
+    },
+    {
+      "name": "Kyle Orton",
+      "team": "CHI '07",
+      "stats": {
+        "yds": 475,
+        "td": 3,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jason McKie",
+      "team": "CHI '07",
+      "stats": {
+        "ryds": 17,
+        "rtd": 1,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '07",
+      "stats": {
+        "ryds": 510,
+        "rtd": 3,
+        "recyds": 420,
+        "rectd": 0,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Cedric Benson",
+      "team": "CHI '07",
+      "stats": {
+        "ryds": 678,
+        "rtd": 4,
+        "recyds": 123,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Garrett Wolfe",
+      "team": "CHI '07",
+      "stats": {
+        "ryds": 85,
+        "rtd": 0,
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Muhsin Muhammad",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 570,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Bernard Berrian",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 948,
+        "rectd": 5,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Rashied Davis",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Mark Bradley",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 545,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Greg Olsen",
+      "team": "CHI '07",
+      "stats": {
+        "recyds": 391,
+        "rectd": 2,
+        "rec": 39
+      }
+    }
+  ]
+}

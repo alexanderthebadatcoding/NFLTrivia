@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '12",
+      "stats": {
+        "yds": 4295,
+        "td": 39,
+        "int": 8
+      }
+    },
+    {
+      "name": "Graham Harrell",
+      "team": "GB '12",
+      "stats": {
+        "yds": 20,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ryan Grant",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 132,
+        "rtd": 2,
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "John Kuhn",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 63,
+        "rtd": 1,
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Cedric Benson",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 248,
+        "rtd": 1,
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 255,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Alex Green",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 464,
+        "rtd": 0,
+        "recyds": 125,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "DuJuan Harris",
+      "team": "GB '12",
+      "stats": {
+        "ryds": 157,
+        "rtd": 2,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 77,
+        "rectd": 2,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Greg Jennings",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 366,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 784,
+        "rectd": 14,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 745,
+        "rectd": 7,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 954,
+        "rectd": 8,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Jarrett Boykin",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jermichael Finley",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 667,
+        "rectd": 2,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Tom Crabtree",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 203,
+        "rectd": 3,
+        "rec": 8
+      }
+    },
+    {
+      "name": "D.J. Williams",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ryan Taylor",
+      "team": "GB '12",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

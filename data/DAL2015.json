@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Tony Romo",
+      "team": "DAL '15",
+      "stats": {
+        "yds": 884,
+        "td": 5,
+        "int": 7
+      }
+    },
+    {
+      "name": "Matt Cassel",
+      "team": "DAL '15",
+      "stats": {
+        "yds": 1276,
+        "td": 5,
+        "int": 7
+      }
+    },
+    {
+      "name": "Kellen Moore",
+      "team": "DAL '15",
+      "stats": {
+        "yds": 779,
+        "td": 4,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darren McFadden",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 1089,
+        "rtd": 3,
+        "recyds": 328,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Tyler Clutts",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lance Dunbar",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 215,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Robert Turbin",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 199,
+        "rtd": 1,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Joseph Randle",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 315,
+        "rtd": 4,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DAL '15",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 401,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 536,
+        "rectd": 5,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Brice Butler",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 258,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Terrance Williams",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 840,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Devin Street",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 114,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Lucky Whitehead",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 713,
+        "rectd": 3,
+        "rec": 77
+      }
+    },
+    {
+      "name": "James Hanna",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Gavin Escobar",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 64,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Geoff Swaim",
+      "team": "DAL '15",
+      "stats": {
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

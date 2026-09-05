@@ -1,0 +1,151 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "WSH '07",
+      "stats": {
+        "yds": 888,
+        "td": 5,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jason Campbell",
+      "team": "WSH '07",
+      "stats": {
+        "yds": 2700,
+        "td": 12,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Sellers",
+      "team": "WSH '07",
+      "stats": {
+        "ryds": 78,
+        "rtd": 2,
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Clinton Portis",
+      "team": "WSH '07",
+      "stats": {
+        "ryds": 1262,
+        "rtd": 11,
+        "recyds": 389,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Ladell Betts",
+      "team": "WSH '07",
+      "stats": {
+        "ryds": 335,
+        "rtd": 1,
+        "recyds": 174,
+        "rectd": 1,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Keenan McCardell",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 256,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 107,
+        "rectd": 2,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Santana Moss",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 808,
+        "rectd": 3,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Reche Caldwell",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Antwaan Randle El",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 728,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Anthony Mix",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brian Kozlowski",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Todd Yoder",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 97,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Chris Cooley",
+      "team": "WSH '07",
+      "stats": {
+        "recyds": 786,
+        "rectd": 8,
+        "rec": 66
+      }
+    }
+  ]
+}

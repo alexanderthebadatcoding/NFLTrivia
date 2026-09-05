@@ -1,0 +1,193 @@
+{
+  "QB": [
+    {
+      "name": "Koy Detmer",
+      "team": "PHI '99",
+      "stats": {
+        "yds": 181,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '99",
+      "stats": {
+        "yds": 948,
+        "td": 8,
+        "int": 7
+      }
+    },
+    {
+      "name": "Doug Pederson",
+      "team": "PHI '99",
+      "stats": {
+        "yds": 1276,
+        "td": 7,
+        "int": 9
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Eric Bieniemy",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 75,
+        "rtd": 1,
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Bostic",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Cecil Martin",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Duce Staley",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 1273,
+        "rtd": 4,
+        "recyds": 294,
+        "rectd": 2,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Kevin Turner",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Edwin Watson",
+      "team": "PHI '99",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Na Brown",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 188,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Dameane Douglas",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 79,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brian Finneran",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dietrich Jells",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 180,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Charles Johnson",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 414,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Torrance Small",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 655,
+        "rectd": 4,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Troy Smith",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luther Broughton",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 295,
+        "rectd": 4,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Chad Lewis",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 76,
+        "rectd": 3,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Jed Weaver",
+      "team": "PHI '99",
+      "stats": {
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ]
+}

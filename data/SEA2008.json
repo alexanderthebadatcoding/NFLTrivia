@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '08",
+      "stats": {
+        "yds": 1216,
+        "td": 5,
+        "int": 10
+      }
+    },
+    {
+      "name": "Seneca Wallace",
+      "team": "SEA '08",
+      "stats": {
+        "yds": 1532,
+        "td": 11,
+        "int": 3
+      }
+    },
+    {
+      "name": "Charlie Frye",
+      "team": "SEA '08",
+      "stats": {
+        "yds": 83,
+        "td": 2,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Maurice Morris",
+      "team": "SEA '08",
+      "stats": {
+        "ryds": 574,
+        "rtd": 0,
+        "recyds": 136,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "SEA '08",
+      "stats": {
+        "ryds": 172,
+        "rtd": 8,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Julius Jones",
+      "team": "SEA '08",
+      "stats": {
+        "ryds": 698,
+        "rtd": 2,
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Leonard Weaver",
+      "team": "SEA '08",
+      "stats": {
+        "ryds": 130,
+        "rtd": 0,
+        "recyds": 222,
+        "rectd": 2,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Owen Schmitt",
+      "team": "SEA '08",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 489,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 400,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Deion Branch",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 412,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Nate Burleson",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Billy McMullen",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Logan Payne",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 39,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Courtney Taylor",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Michael Bumpus",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 48,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Will Heller",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "John Carlson",
+      "team": "SEA '08",
+      "stats": {
+        "recyds": 627,
+        "rectd": 5,
+        "rec": 55
+      }
+    }
+  ]
+}

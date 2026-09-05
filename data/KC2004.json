@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Todd Collins",
+      "team": "KC '04",
+      "stats": {
+        "yds": 42,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Trent Green",
+      "team": "KC '04",
+      "stats": {
+        "yds": 4589,
+        "td": 27,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Priest Holmes",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 892,
+        "rtd": 14,
+        "recyds": 187,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Tony Richardson",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 56,
+        "rtd": 0,
+        "recyds": 118,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Derrick Blaylock",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 539,
+        "rtd": 8,
+        "recyds": 244,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Omar Easy",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 1,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Larry Johnson",
+      "team": "KC '04",
+      "stats": {
+        "ryds": 581,
+        "rtd": 9,
+        "recyds": 278,
+        "rectd": 2,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Kennison",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 1086,
+        "rectd": 8,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Johnnie Morton",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 795,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Dante Hall",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 230,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Chris Horn",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 178,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Samie Parker",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Dunn",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 120,
+        "rectd": 3,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Tony Gonzalez",
+      "team": "KC '04",
+      "stats": {
+        "recyds": 1258,
+        "rectd": 7,
+        "rec": 102
+      }
+    }
+  ]
+}

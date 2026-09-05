@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Jason Campbell",
+      "team": "CHI '12",
+      "stats": {
+        "yds": 265,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '12",
+      "stats": {
+        "yds": 3033,
+        "td": 19,
+        "int": 14
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Bush",
+      "team": "CHI '12",
+      "stats": {
+        "ryds": 411,
+        "rtd": 5,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Matt Forte",
+      "team": "CHI '12",
+      "stats": {
+        "ryds": 1094,
+        "rtd": 5,
+        "recyds": 340,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Kahlil Bell",
+      "team": "CHI '12",
+      "stats": {
+        "ryds": 76,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Armando Allen",
+      "team": "CHI '12",
+      "stats": {
+        "ryds": 124,
+        "rtd": 1,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Evan Rodriguez",
+      "team": "CHI '12",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Devin Hester",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 242,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Brandon Marshall",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 1508,
+        "rectd": 11,
+        "rec": 118
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Earl Bennett",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 375,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Dane Sanzenbacher",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 367,
+        "rectd": 3,
+        "rec": 24
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matt Spaeth",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 28,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kellen Davis",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 229,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kyle Adams",
+      "team": "CHI '12",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '14",
+      "stats": {
+        "yds": 4381,
+        "td": 38,
+        "int": 5
+      }
+    },
+    {
+      "name": "Matt Flynn",
+      "team": "GB '14",
+      "stats": {
+        "yds": 66,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "John Kuhn",
+      "team": "GB '14",
+      "stats": {
+        "ryds": 85,
+        "rtd": 1,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '14",
+      "stats": {
+        "ryds": 333,
+        "rtd": 2,
+        "recyds": 140,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "DuJuan Harris",
+      "team": "GB '14",
+      "stats": {
+        "ryds": 64,
+        "rtd": 0,
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Eddie Lacy",
+      "team": "GB '14",
+      "stats": {
+        "ryds": 1139,
+        "rtd": 9,
+        "recyds": 427,
+        "rectd": 4,
+        "rec": 42
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 1519,
+        "rectd": 13,
+        "rec": 98
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 1287,
+        "rectd": 12,
+        "rec": 91
+      }
+    },
+    {
+      "name": "Jarrett Boykin",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kevin Dorsey",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jeff Janis",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Davante Adams",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 446,
+        "rectd": 3,
+        "rec": 38
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 323,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Brandon Bostick",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 3,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Richard Rodgers",
+      "team": "GB '14",
+      "stats": {
+        "recyds": 225,
+        "rectd": 2,
+        "rec": 20
+      }
+    }
+  ]
+}

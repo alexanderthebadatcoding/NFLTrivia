@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Tony Romo",
+      "team": "DAL '14",
+      "stats": {
+        "yds": 3705,
+        "td": 34,
+        "int": 9
+      }
+    },
+    {
+      "name": "Brandon Weeden",
+      "team": "DAL '14",
+      "stats": {
+        "yds": 303,
+        "td": 3,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tyler Clutts",
+      "team": "DAL '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 1,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "DeMarco Murray",
+      "team": "DAL '14",
+      "stats": {
+        "ryds": 1845,
+        "rtd": 13,
+        "recyds": 416,
+        "rectd": 0,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Lance Dunbar",
+      "team": "DAL '14",
+      "stats": {
+        "ryds": 99,
+        "rtd": 0,
+        "recyds": 217,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Joseph Randle",
+      "team": "DAL '14",
+      "stats": {
+        "ryds": 343,
+        "rtd": 3,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dez Bryant",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 1320,
+        "rectd": 16,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Dwayne Harris",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Cole Beasley",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 420,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Terrance Williams",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 621,
+        "rectd": 8,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Devin Street",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 703,
+        "rectd": 5,
+        "rec": 64
+      }
+    },
+    {
+      "name": "James Hanna",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Gavin Escobar",
+      "team": "DAL '14",
+      "stats": {
+        "recyds": 105,
+        "rectd": 4,
+        "rec": 9
+      }
+    }
+  ]
+}

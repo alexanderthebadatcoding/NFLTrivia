@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Drew Bledsoe",
+      "team": "BUF '04",
+      "stats": {
+        "yds": 2932,
+        "td": 20,
+        "int": 16
+      }
+    },
+    {
+      "name": "Shane Matthews",
+      "team": "BUF '04",
+      "stats": {
+        "yds": 44,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "J.P. Losman",
+      "team": "BUF '04",
+      "stats": {
+        "yds": 32,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Daimon Shelton",
+      "team": "BUF '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Travis Henry",
+      "team": "BUF '04",
+      "stats": {
+        "ryds": 326,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Joe Burns",
+      "team": "BUF '04",
+      "stats": {
+        "ryds": 73,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Willis McGahee",
+      "team": "BUF '04",
+      "stats": {
+        "ryds": 1128,
+        "rtd": 13,
+        "recyds": 169,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Shaud Williams",
+      "team": "BUF '04",
+      "stats": {
+        "ryds": 167,
+        "rtd": 2,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eric Moulds",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 1043,
+        "rectd": 5,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Josh Reed",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Sam Aiken",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jonathan Smith",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Lee Evans",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 843,
+        "rectd": 9,
+        "rec": 48
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Campbell",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 203,
+        "rectd": 5,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Ryan Neufeld",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Rod Trafford",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Tim Euhus",
+      "team": "BUF '04",
+      "stats": {
+        "recyds": 98,
+        "rectd": 2,
+        "rec": 11
+      }
+    }
+  ]
+}

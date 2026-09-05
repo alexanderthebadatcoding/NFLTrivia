@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Jay Fiedler",
+      "team": "MIA '01",
+      "stats": {
+        "yds": 3248,
+        "td": 20,
+        "int": 19
+      }
+    },
+    {
+      "name": "Ray Lucas",
+      "team": "MIA '01",
+      "stats": {
+        "yds": 45,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "J.J. Johnson",
+      "team": "MIA '01",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Rob Konrad",
+      "team": "MIA '01",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Lamar Smith",
+      "team": "MIA '01",
+      "stats": {
+        "ryds": 968,
+        "rtd": 6,
+        "recyds": 234,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Travis Minor",
+      "team": "MIA '01",
+      "stats": {
+        "ryds": 281,
+        "rtd": 2,
+        "recyds": 263,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Oronde Gadsden",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 674,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "James McKnight",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 684,
+        "rectd": 3,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Jeff Ogden",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 73,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Dedric Ward",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 209,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Chris Chambers",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 883,
+        "rectd": 7,
+        "rec": 48
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hunter Goodwin",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 27,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jed Weaver",
+      "team": "MIA '01",
+      "stats": {
+        "recyds": 215,
+        "rectd": 2,
+        "rec": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '10",
+      "stats": {
+        "yds": 3900,
+        "td": 36,
+        "int": 4
+      }
+    },
+    {
+      "name": "Brian Hoyer",
+      "team": "NE '10",
+      "stats": {
+        "yds": 122,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '10",
+      "stats": {
+        "ryds": 45,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Fred Taylor",
+      "team": "NE '10",
+      "stats": {
+        "ryds": 155,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Sammy Morris",
+      "team": "NE '10",
+      "stats": {
+        "ryds": 56,
+        "rtd": 0,
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Thomas Clayton",
+      "team": "NE '10",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "BenJarvus Green-Ellis",
+      "team": "NE '10",
+      "stats": {
+        "ryds": 1008,
+        "rtd": 13,
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Deion Branch",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 818,
+        "rectd": 6,
+        "rec": 61
+      }
+    },
+    {
+      "name": "Wes Welker",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 848,
+        "rectd": 7,
+        "rec": 86
+      }
+    },
+    {
+      "name": "Danny Woodhead",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 379,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Brandon Tate",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 432,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Julian Edelman",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Taylor Price",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alge Crumpler",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 52,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 546,
+        "rectd": 10,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Aaron Hernandez",
+      "team": "NE '10",
+      "stats": {
+        "recyds": 563,
+        "rectd": 6,
+        "rec": 45
+      }
+    }
+  ]
+}

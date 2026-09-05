@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Shane Matthews",
+      "team": "CHI '99",
+      "stats": {
+        "yds": 1645,
+        "td": 10,
+        "int": 6
+      }
+    },
+    {
+      "name": "Cade McNown",
+      "team": "CHI '99",
+      "stats": {
+        "yds": 1465,
+        "td": 8,
+        "int": 10
+      }
+    },
+    {
+      "name": "Jim Miller",
+      "team": "CHI '99",
+      "stats": {
+        "yds": 1242,
+        "td": 7,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Allen",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 119,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Edgar Bennett",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 28,
+        "rtd": 0,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Curtis Enis",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 916,
+        "rtd": 3,
+        "recyds": 340,
+        "rectd": 2,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Ty Hallock",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Glyn Milburn",
+      "team": "CHI '99",
+      "stats": {
+        "ryds": 102,
+        "rtd": 1,
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 20
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "D'Wayne Bates",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Marty Booker",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 219,
+        "rectd": 3,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Macey Brooks",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 160,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Curtis Conway",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 426,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Bobby Engram",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 947,
+        "rectd": 4,
+        "rec": 88
+      }
+    },
+    {
+      "name": "Marcus Robinson",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 1400,
+        "rectd": 9,
+        "rec": 84
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John Allred",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 102,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Alonzo Mayes",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 82,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ryan Wetnight",
+      "team": "CHI '99",
+      "stats": {
+        "recyds": 277,
+        "rectd": 1,
+        "rec": 38
+      }
+    }
+  ]
+}

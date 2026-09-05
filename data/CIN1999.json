@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Blake",
+      "team": "CIN '99",
+      "stats": {
+        "yds": 2670,
+        "td": 16,
+        "int": 12
+      }
+    },
+    {
+      "name": "Scott Covington",
+      "team": "CIN '99",
+      "stats": {
+        "yds": 23,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Akili Smith",
+      "team": "CIN '99",
+      "stats": {
+        "yds": 805,
+        "td": 2,
+        "int": 6
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Basnight",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 308,
+        "rtd": 0,
+        "recyds": 172,
+        "rectd": 0,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Ki-Jana Carter",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 15,
+        "rtd": 1,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Corey Dillon",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 1200,
+        "rtd": 5,
+        "recyds": 290,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Clif Groce",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Sedrick Shaw",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 22,
+        "rtd": 1,
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Nicolas Luchey",
+      "team": "CIN '99",
+      "stats": {
+        "ryds": 30,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Damon Griffin",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "James Hundon",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Willie Jackson",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 369,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Carl Pickens",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 737,
+        "rectd": 6,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Darnay Scott",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 1022,
+        "rectd": 7,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Craig Yeast",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marco Battaglia",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 153,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Steve Bush",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tony McGee",
+      "team": "CIN '99",
+      "stats": {
+        "recyds": 344,
+        "rectd": 2,
+        "rec": 26
+      }
+    }
+  ]
+}

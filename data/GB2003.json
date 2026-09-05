@@ -1,0 +1,146 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '03",
+      "stats": {
+        "yds": 3361,
+        "td": 32,
+        "int": 21
+      }
+    },
+    {
+      "name": "Doug Pederson",
+      "team": "GB '03",
+      "stats": {
+        "yds": 16,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ahman Green",
+      "team": "GB '03",
+      "stats": {
+        "ryds": 1883,
+        "rtd": 15,
+        "recyds": 367,
+        "rectd": 5,
+        "rec": 50
+      }
+    },
+    {
+      "name": "William Henderson",
+      "team": "GB '03",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 214,
+        "rectd": 3,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Nicolas Luchey",
+      "team": "GB '03",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Tony Fisher",
+      "team": "GB '03",
+      "stats": {
+        "ryds": 200,
+        "rtd": 1,
+        "recyds": 206,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Najeh Davenport",
+      "team": "GB '03",
+      "stats": {
+        "ryds": 420,
+        "rtd": 2,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 621,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Antonio Freeman",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 141,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Robert Ferguson",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 520,
+        "rectd": 4,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Javon Walker",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 716,
+        "rectd": 9,
+        "rec": 41
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Wesley Walls",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 222,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Bubba Franks",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 241,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "David Martin",
+      "team": "GB '03",
+      "stats": {
+        "recyds": 79,
+        "rectd": 2,
+        "rec": 13
+      }
+    }
+  ]
+}

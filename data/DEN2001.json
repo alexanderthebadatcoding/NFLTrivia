@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Gus Frerotte",
+      "team": "DEN '01",
+      "stats": {
+        "yds": 308,
+        "td": 3,
+        "int": 0
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "DEN '01",
+      "stats": {
+        "yds": 2827,
+        "td": 23,
+        "int": 19
+      }
+    },
+    {
+      "name": "Jarious Jackson",
+      "team": "DEN '01",
+      "stats": {
+        "yds": 73,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tony Carter",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Terrell Davis",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 701,
+        "rtd": 0,
+        "recyds": 69,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Olandis Gary",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 228,
+        "rtd": 1,
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Patrick Hape",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 96,
+        "rectd": 3,
+        "rec": 15
+      }
+    },
+    {
+      "name": "KaRon Coleman",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 17,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Mike Anderson",
+      "team": "DEN '01",
+      "stats": {
+        "ryds": 678,
+        "rtd": 4,
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ed McCaffrey",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 94,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Keith Poole",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Rod Smith",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 1343,
+        "rectd": 11,
+        "rec": 113
+      }
+    },
+    {
+      "name": "Scottie Montgomery",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Chris Cole",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 128,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Kevin Kasper",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dwayne Carswell",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 299,
+        "rectd": 4,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Desmond Clark",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 566,
+        "rectd": 6,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Matt Dominguez",
+      "team": "DEN '01",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

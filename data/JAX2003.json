@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Mark Brunell",
+      "team": "JAX '03",
+      "stats": {
+        "yds": 484,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "David Garrard",
+      "team": "JAX '03",
+      "stats": {
+        "yds": 86,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Byron Leftwich",
+      "team": "JAX '03",
+      "stats": {
+        "yds": 2819,
+        "td": 14,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marc Edwards",
+      "team": "JAX '03",
+      "stats": {
+        "ryds": 13,
+        "rtd": 1,
+        "recyds": 226,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Chris Fuamatu-Ma'afala",
+      "team": "JAX '03",
+      "stats": {
+        "ryds": 144,
+        "rtd": 1,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Fred Taylor",
+      "team": "JAX '03",
+      "stats": {
+        "ryds": 1572,
+        "rtd": 6,
+        "recyds": 370,
+        "rectd": 1,
+        "rec": 48
+      }
+    },
+    {
+      "name": "David Allen",
+      "team": "JAX '03",
+      "stats": {
+        "ryds": 8,
+        "rtd": 0,
+        "recyds": 60,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "LaBrandon Toefield",
+      "team": "JAX '03",
+      "stats": {
+        "ryds": 212,
+        "rtd": 2,
+        "recyds": 105,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Troy Edwards",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 487,
+        "rectd": 3,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Matt Hatchette",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 203,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kevin Johnson",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 634,
+        "rectd": 3,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jermaine Lewis",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 100,
+        "rectd": 1,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Jimmy Smith",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 805,
+        "rectd": 4,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Jimmy Redmond",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Cortez Hankton",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Brady",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 281,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Chris Luzar",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "George Wrighster",
+      "team": "JAX '03",
+      "stats": {
+        "recyds": 150,
+        "rectd": 2,
+        "rec": 13
+      }
+    }
+  ]
+}

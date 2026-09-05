@@ -1,0 +1,148 @@
+{
+  "QB": [
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '08",
+      "stats": {
+        "yds": 257,
+        "td": 2,
+        "int": 2
+      }
+    },
+    {
+      "name": "Kyle Orton",
+      "team": "CHI '08",
+      "stats": {
+        "yds": 2979,
+        "td": 18,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jason McKie",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 26,
+        "rtd": 2,
+        "recyds": 64,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 100,
+        "rtd": 0,
+        "recyds": 45,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kevin Jones",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 109,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jason Davis",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Garrett Wolfe",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 69,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Matt Forte",
+      "team": "CHI '08",
+      "stats": {
+        "ryds": 1231,
+        "rtd": 8,
+        "recyds": 484,
+        "rectd": 4,
+        "rec": 64
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marty Booker",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 211,
+        "rectd": 2,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 364,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Rashied Davis",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 445,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Devin Hester",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 665,
+        "rectd": 3,
+        "rec": 52
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 367,
+        "rectd": 1,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Greg Olsen",
+      "team": "CHI '08",
+      "stats": {
+        "recyds": 574,
+        "rectd": 5,
+        "rec": 54
+      }
+    }
+  ]
+}

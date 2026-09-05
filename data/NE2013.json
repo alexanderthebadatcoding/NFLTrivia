@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Tom Brady",
+      "team": "NE '13",
+      "stats": {
+        "yds": 4343,
+        "td": 25,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "LeGarrette Blount",
+      "team": "NE '13",
+      "stats": {
+        "ryds": 772,
+        "rtd": 7,
+        "recyds": 38,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Develin",
+      "team": "NE '13",
+      "stats": {
+        "ryds": 10,
+        "rtd": 1,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Shane Vereen",
+      "team": "NE '13",
+      "stats": {
+        "ryds": 208,
+        "rtd": 1,
+        "recyds": 427,
+        "rectd": 3,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Stevan Ridley",
+      "team": "NE '13",
+      "stats": {
+        "ryds": 773,
+        "rtd": 7,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Brandon Bolden",
+      "team": "NE '13",
+      "stats": {
+        "ryds": 271,
+        "rtd": 3,
+        "recyds": 152,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Danny Amendola",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 633,
+        "rectd": 2,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Austin Collie",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Julian Edelman",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 1056,
+        "rectd": 6,
+        "rec": 105
+      }
+    },
+    {
+      "name": "Kenbrell Thompkins",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 466,
+        "rectd": 4,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Josh Boyce",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 121,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Aaron Dobson",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 519,
+        "rectd": 4,
+        "rec": 37
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Matthew Mulligan",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Rob Gronkowski",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 592,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Michael Hoomanawanui",
+      "team": "NE '13",
+      "stats": {
+        "recyds": 136,
+        "rectd": 1,
+        "rec": 12
+      }
+    }
+  ]
+}

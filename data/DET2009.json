@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "DET '09",
+      "stats": {
+        "yds": 945,
+        "td": 3,
+        "int": 6
+      }
+    },
+    {
+      "name": "Drew Stanton",
+      "team": "DET '09",
+      "stats": {
+        "yds": 259,
+        "td": 0,
+        "int": 6
+      }
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "DET '09",
+      "stats": {
+        "yds": 2267,
+        "td": 13,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Terrelle Smith",
+      "team": "DET '09",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Maurice Morris",
+      "team": "DET '09",
+      "stats": {
+        "ryds": 384,
+        "rtd": 2,
+        "recyds": 210,
+        "rectd": 0,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Kevin Smith",
+      "team": "DET '09",
+      "stats": {
+        "ryds": 747,
+        "rtd": 4,
+        "recyds": 409,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Jerome Felton",
+      "team": "DET '09",
+      "stats": {
+        "ryds": 46,
+        "rtd": 0,
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Aaron Brown",
+      "team": "DET '09",
+      "stats": {
+        "ryds": 131,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Dennis Northcutt",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 348,
+        "rectd": 1,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 426,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "John Standeford",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Calvin Johnson",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 984,
+        "rectd": 5,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Derrick Williams",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Casey Fitzsimmons",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 128,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Will Heller",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 296,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jake Nordin",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Brandon Pettigrew",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 352,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Dan Gronkowski",
+      "team": "DET '09",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Kerry Collins",
+      "team": "NYG '02",
+      "stats": {
+        "yds": 4073,
+        "td": 19,
+        "int": 14
+      }
+    },
+    {
+      "name": "Jesse Palmer",
+      "team": "NYG '02",
+      "stats": {
+        "yds": 30,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '02",
+      "stats": {
+        "ryds": 1387,
+        "rtd": 11,
+        "recyds": 597,
+        "rectd": 0,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Sean Bennett",
+      "team": "NYG '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Ron Dayne",
+      "team": "NYG '02",
+      "stats": {
+        "ryds": 428,
+        "rtd": 3,
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Delvin Joyce",
+      "team": "NYG '02",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charles Stackhouse",
+      "team": "NYG '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 88,
+        "rectd": 3,
+        "rec": 13
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ike Hilliard",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 386,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 1343,
+        "rectd": 8,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Ron Dixon",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 377,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Tim Carter",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Daryl Jones",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Dan Campbell",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 175,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Marcellus Rivers",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 25,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '02",
+      "stats": {
+        "recyds": 894,
+        "rectd": 2,
+        "rec": 74
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '15",
+      "stats": {
+        "yds": 4432,
+        "td": 35,
+        "int": 14
+      }
+    },
+    {
+      "name": "Ryan Nassib",
+      "team": "NYG '15",
+      "stats": {
+        "yds": 68,
+        "td": 1,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rashad Jennings",
+      "team": "NYG '15",
+      "stats": {
+        "ryds": 863,
+        "rtd": 3,
+        "recyds": 296,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Shane Vereen",
+      "team": "NYG '15",
+      "stats": {
+        "ryds": 260,
+        "rtd": 0,
+        "recyds": 494,
+        "rectd": 4,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Orleans Darkwa",
+      "team": "NYG '15",
+      "stats": {
+        "ryds": 153,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Andre Williams",
+      "team": "NYG '15",
+      "stats": {
+        "ryds": 257,
+        "rtd": 1,
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Hakeem Nicks",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Preston Parker",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Dwayne Harris",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 396,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Rueben Randle",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 797,
+        "rectd": 8,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Myles White",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 88,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 1450,
+        "rectd": 13,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Geremy Davis",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Ben Edwards",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Daniel Fells",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Larry Donnell",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 223,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jerome Cunningham",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Matt LaCosse",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Will Tye",
+      "team": "NYG '15",
+      "stats": {
+        "recyds": 464,
+        "rectd": 3,
+        "rec": 42
+      }
+    }
+  ]
+}

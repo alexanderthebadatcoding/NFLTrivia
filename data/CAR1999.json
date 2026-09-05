@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Steve Beuerlein",
+      "team": "CAR '99",
+      "stats": {
+        "yds": 4436,
+        "td": 36,
+        "int": 15
+      }
+    },
+    {
+      "name": "Jeff Lewis",
+      "team": "CAR '99",
+      "stats": {
+        "yds": 11,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tim Biakabutuka",
+      "team": "CAR '99",
+      "stats": {
+        "ryds": 718,
+        "rtd": 6,
+        "recyds": 189,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "William Floyd",
+      "team": "CAR '99",
+      "stats": {
+        "ryds": 78,
+        "rtd": 3,
+        "recyds": 179,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Chris Hetherington",
+      "team": "CAR '99",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Anthony Johnson",
+      "team": "CAR '99",
+      "stats": {
+        "ryds": 72,
+        "rtd": 0,
+        "recyds": 103,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Fred Lane",
+      "team": "CAR '99",
+      "stats": {
+        "ryds": 475,
+        "rtd": 1,
+        "recyds": 163,
+        "rectd": 0,
+        "rec": 23
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Michael Bates",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Rae Carruth",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 200,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Donald Hayes",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 270,
+        "rectd": 2,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Patrick Jeffers",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 1082,
+        "rectd": 12,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Eric Metcalf",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 133,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Muhsin Muhammad",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 1253,
+        "rectd": 8,
+        "rec": 96
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brian Kinchen",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 45,
+        "rectd": 2,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kris Mangum",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Wesley Walls",
+      "team": "CAR '99",
+      "stats": {
+        "recyds": 822,
+        "rectd": 12,
+        "rec": 63
+      }
+    }
+  ]
+}

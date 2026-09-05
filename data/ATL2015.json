@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '15",
+      "stats": {
+        "yds": 4591,
+        "td": 21,
+        "int": 16
+      }
+    },
+    {
+      "name": "Sean Renfree",
+      "team": "ATL '15",
+      "stats": {
+        "yds": 11,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Patrick DiMarco",
+      "team": "ATL '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 110,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '15",
+      "stats": {
+        "ryds": 1056,
+        "rtd": 11,
+        "recyds": 578,
+        "rectd": 3,
+        "rec": 73
+      }
+    },
+    {
+      "name": "Terron Ward",
+      "team": "ATL '15",
+      "stats": {
+        "ryds": 95,
+        "rtd": 1,
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Tevin Coleman",
+      "team": "ATL '15",
+      "stats": {
+        "ryds": 392,
+        "rtd": 1,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roddy White",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 506,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 1871,
+        "rectd": 8,
+        "rec": 136
+      }
+    },
+    {
+      "name": "Leonard Hankerson",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 327,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Nick Williams",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 159,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Justin Hardy",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 194,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jacob Tamme",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 657,
+        "rectd": 1,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Tony Moeaki",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 58,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Levine Toilolo",
+      "team": "ATL '15",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "CIN '05",
+      "stats": {
+        "yds": 99,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Carson Palmer",
+      "team": "CIN '05",
+      "stats": {
+        "yds": 3836,
+        "td": 32,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rudi Johnson",
+      "team": "CIN '05",
+      "stats": {
+        "ryds": 1458,
+        "rtd": 12,
+        "recyds": 90,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jeremi Johnson",
+      "team": "CIN '05",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 65,
+        "rectd": 3,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Chris Perry",
+      "team": "CIN '05",
+      "stats": {
+        "ryds": 279,
+        "rtd": 0,
+        "recyds": 328,
+        "rectd": 2,
+        "rec": 51
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chad Johnson",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 1432,
+        "rectd": 9,
+        "rec": 97
+      }
+    },
+    {
+      "name": "T.J. Houshmandzadeh",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 956,
+        "rectd": 7,
+        "rec": 78
+      }
+    },
+    {
+      "name": "Kevin Walter",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Kelley Washington",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Henry",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 422,
+        "rectd": 6,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Tab Perry",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 21,
+        "rectd": 1,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Reggie Kelly",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 90,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Tony Stewart",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Matt Schobel",
+      "team": "CIN '05",
+      "stats": {
+        "recyds": 193,
+        "rectd": 1,
+        "rec": 18
+      }
+    }
+  ]
+}

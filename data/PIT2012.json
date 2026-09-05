@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "PIT '12",
+      "stats": {
+        "yds": 475,
+        "td": 1,
+        "int": 4
+      }
+    },
+    {
+      "name": "Byron Leftwich",
+      "team": "PIT '12",
+      "stats": {
+        "yds": 272,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '12",
+      "stats": {
+        "yds": 3265,
+        "td": 26,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rashard Mendenhall",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 182,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Isaac Redman",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 410,
+        "rtd": 2,
+        "recyds": 244,
+        "rectd": 0,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Jonathan Dwyer",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 623,
+        "rtd": 2,
+        "recyds": 106,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Baron Batch",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 49,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Will Johnson",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 7,
+        "rtd": 0,
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Chris Rainey",
+      "team": "PIT '12",
+      "stats": {
+        "ryds": 102,
+        "rtd": 2,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jerricho Cotchery",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 205,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Mike Wallace",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 836,
+        "rectd": 8,
+        "rec": 64
+      }
+    },
+    {
+      "name": "Emmanuel Sanders",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 626,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Antonio Brown",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 787,
+        "rectd": 5,
+        "rec": 66
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Heath Miller",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 816,
+        "rectd": 8,
+        "rec": 71
+      }
+    },
+    {
+      "name": "Leonard Pope",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 9,
+        "rectd": 2,
+        "rec": 3
+      }
+    },
+    {
+      "name": "David Paulson",
+      "team": "PIT '12",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "QB": [
+    {
+      "name": "Tim Couch",
+      "team": "CLE '00",
+      "stats": {
+        "yds": 1483,
+        "td": 7,
+        "int": 9
+      }
+    },
+    {
+      "name": "Doug Pederson",
+      "team": "CLE '00",
+      "stats": {
+        "yds": 1047,
+        "td": 2,
+        "int": 8
+      }
+    },
+    {
+      "name": "Kevin Thompson",
+      "team": "CLE '00",
+      "stats": {
+        "yds": 8,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Spergon Wynn",
+      "team": "CLE '00",
+      "stats": {
+        "yds": 167,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marc Edwards",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 128,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Chris Floyd",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": -1,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Errict Rhett",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": 258,
+        "rtd": 0,
+        "recyds": 78,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tarek Saleh",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jamel White",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": 145,
+        "rtd": 0,
+        "recyds": 100,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Travis Prentice",
+      "team": "CLE '00",
+      "stats": {
+        "ryds": 512,
+        "rtd": 7,
+        "recyds": 191,
+        "rectd": 1,
+        "rec": 37
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darrin Chiaverini",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 68,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Damon Dunn",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Lenzie Jackson",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Kevin Johnson",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 669,
+        "rectd": 0,
+        "rec": 57
+      }
+    },
+    {
+      "name": "David Patten",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 546,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Bobby Brown",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "JaJuan Dawson",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 97,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dennis Northcutt",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 422,
+        "rectd": 0,
+        "rec": 39
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Campbell",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Aaron Shea",
+      "team": "CLE '00",
+      "stats": {
+        "recyds": 302,
+        "rectd": 2,
+        "rec": 30
+      }
+    }
+  ]
+}

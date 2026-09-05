@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Matt Flynn",
+      "team": "SEA '12",
+      "stats": {
+        "yds": 68,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "SEA '12",
+      "stats": {
+        "yds": 3118,
+        "td": 26,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '12",
+      "stats": {
+        "ryds": 49,
+        "rtd": 0,
+        "recyds": 126,
+        "rectd": 2,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Leon Washington",
+      "team": "SEA '12",
+      "stats": {
+        "ryds": 83,
+        "rtd": 1,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "SEA '12",
+      "stats": {
+        "ryds": 1590,
+        "rtd": 11,
+        "recyds": 196,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Robert Turbin",
+      "team": "SEA '12",
+      "stats": {
+        "ryds": 354,
+        "rtd": 0,
+        "recyds": 181,
+        "rectd": 0,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Ben Obomanu",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 58,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Sidney Rice",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 748,
+        "rectd": 7,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Charly Martin",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 688,
+        "rectd": 7,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Doug Baldwin",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 366,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Jermaine Kearse",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Zach Miller",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 396,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Anthony McCoy",
+      "team": "SEA '12",
+      "stats": {
+        "recyds": 291,
+        "rectd": 3,
+        "rec": 18
+      }
+    }
+  ]
+}

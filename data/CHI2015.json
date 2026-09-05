@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jay Cutler",
+      "team": "CHI '15",
+      "stats": {
+        "yds": 3659,
+        "td": 21,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Matt Forte",
+      "team": "CHI '15",
+      "stats": {
+        "ryds": 898,
+        "rtd": 4,
+        "recyds": 389,
+        "rectd": 3,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Antone Smith",
+      "team": "CHI '15",
+      "stats": {
+        "ryds": 11,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "CHI '15",
+      "stats": {
+        "ryds": 41,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ka'Deem Carey",
+      "team": "CHI '15",
+      "stats": {
+        "ryds": 159,
+        "rtd": 2,
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jeremy Langford",
+      "team": "CHI '15",
+      "stats": {
+        "ryds": 537,
+        "rtd": 6,
+        "recyds": 279,
+        "rectd": 1,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Eddie Royal",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 238,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Marc Mariani",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 300,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Alshon Jeffery",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 807,
+        "rectd": 4,
+        "rec": 54
+      }
+    },
+    {
+      "name": "Josh Bellamy",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 224,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Deonte Thompson",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Marquess Wilson",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 464,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Cameron Meredith",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 120,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Martellus Bennett",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 439,
+        "rectd": 3,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Zach Miller",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 439,
+        "rectd": 5,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Rob Housler",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Khari Lee",
+      "team": "CHI '15",
+      "stats": {
+        "recyds": 7,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

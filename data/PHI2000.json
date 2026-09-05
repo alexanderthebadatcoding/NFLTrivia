@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Koy Detmer",
+      "team": "PHI '00",
+      "stats": {
+        "yds": 0,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Donovan McNabb",
+      "team": "PHI '00",
+      "stats": {
+        "yds": 3365,
+        "td": 21,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darnell Autry",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 334,
+        "rtd": 3,
+        "recyds": 275,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Amp Lee",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Cecil Martin",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 77,
+        "rtd": 0,
+        "recyds": 219,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Brian Mitchell",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 187,
+        "rtd": 2,
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Stanley Pritchett",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 225,
+        "rtd": 1,
+        "recyds": 193,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Duce Staley",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 344,
+        "rtd": 1,
+        "recyds": 201,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Chris Warren",
+      "team": "PHI '00",
+      "stats": {
+        "ryds": 296,
+        "rtd": 2,
+        "recyds": 303,
+        "rectd": 1,
+        "rec": 32
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Na Brown",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 80,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Dameane Douglas",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Charles Johnson",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 642,
+        "rectd": 7,
+        "rec": 56
+      }
+    },
+    {
+      "name": "Torrance Small",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 569,
+        "rectd": 3,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Alex Van Dyke",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Todd Pinkston",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 181,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Luther Broughton",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Chad Lewis",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 735,
+        "rectd": 3,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Jeff Thomason",
+      "team": "PHI '00",
+      "stats": {
+        "recyds": 46,
+        "rectd": 5,
+        "rec": 10
+      }
+    }
+  ]
+}

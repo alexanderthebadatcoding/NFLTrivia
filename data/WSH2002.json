@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Shane Matthews",
+      "team": "WSH '02",
+      "stats": {
+        "yds": 1251,
+        "td": 11,
+        "int": 6
+      }
+    },
+    {
+      "name": "Danny Wuerffel",
+      "team": "WSH '02",
+      "stats": {
+        "yds": 719,
+        "td": 3,
+        "int": 6
+      }
+    },
+    {
+      "name": "Patrick Ramsey",
+      "team": "WSH '02",
+      "stats": {
+        "yds": 1539,
+        "td": 9,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Stephen Davis",
+      "team": "WSH '02",
+      "stats": {
+        "ryds": 820,
+        "rtd": 7,
+        "recyds": 142,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Bryan Johnson",
+      "team": "WSH '02",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 114,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Kenny Watson",
+      "team": "WSH '02",
+      "stats": {
+        "ryds": 534,
+        "rtd": 1,
+        "recyds": 253,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Ladell Betts",
+      "team": "WSH '02",
+      "stats": {
+        "ryds": 307,
+        "rtd": 1,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Rock Cartwright",
+      "team": "WSH '02",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 121,
+        "rectd": 1,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Doering",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 192,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Willie Jackson",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 257,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Derrius Thompson",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 773,
+        "rectd": 4,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Darnerien McCants",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 256,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Rod Gardner",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 1006,
+        "rectd": 8,
+        "rec": 71
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Walter Rasby",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Leonard Stephens",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Zeron Flemister",
+      "team": "WSH '02",
+      "stats": {
+        "recyds": 146,
+        "rectd": 2,
+        "rec": 10
+      }
+    }
+  ]
+}

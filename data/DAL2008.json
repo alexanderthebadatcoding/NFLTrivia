@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Brad Johnson",
+      "team": "DAL '08",
+      "stats": {
+        "yds": 427,
+        "td": 2,
+        "int": 5
+      }
+    },
+    {
+      "name": "Tony Romo",
+      "team": "DAL '08",
+      "stats": {
+        "yds": 3448,
+        "td": 26,
+        "int": 14
+      }
+    },
+    {
+      "name": "Brooks Bollinger",
+      "team": "DAL '08",
+      "stats": {
+        "yds": 71,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Marion Barber",
+      "team": "DAL '08",
+      "stats": {
+        "ryds": 885,
+        "rtd": 7,
+        "recyds": 417,
+        "rectd": 2,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Deon Anderson",
+      "team": "DAL '08",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 7,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Felix Jones",
+      "team": "DAL '08",
+      "stats": {
+        "ryds": 266,
+        "rtd": 3,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tashard Choice",
+      "team": "DAL '08",
+      "stats": {
+        "ryds": 472,
+        "rtd": 2,
+        "recyds": 185,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 1052,
+        "rectd": 10,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Patrick Crayton",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 550,
+        "rectd": 4,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Roy Williams",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 430,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Miles Austin",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 278,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Isaiah Stanback",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jason Witten",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 952,
+        "rectd": 4,
+        "rec": 81
+      }
+    },
+    {
+      "name": "Tony Curtis",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Martellus Bennett",
+      "team": "DAL '08",
+      "stats": {
+        "recyds": 283,
+        "rectd": 4,
+        "rec": 20
+      }
+    }
+  ]
+}

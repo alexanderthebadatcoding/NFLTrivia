@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '10",
+      "stats": {
+        "yds": 4002,
+        "td": 31,
+        "int": 25
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '10",
+      "stats": {
+        "ryds": 823,
+        "rtd": 9,
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Madison Hedgecock",
+      "team": "NYG '10",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "D.J. Ware",
+      "team": "NYG '10",
+      "stats": {
+        "ryds": 73,
+        "rtd": 0,
+        "recyds": 67,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "NYG '10",
+      "stats": {
+        "ryds": 1235,
+        "rtd": 8,
+        "recyds": 314,
+        "rectd": 0,
+        "rec": 47
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Michael Clayton",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Derek Hagan",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 223,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 529,
+        "rectd": 3,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Mario Manningham",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 944,
+        "rectd": 9,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Ramses Barden",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 64,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Hakeem Nicks",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 1052,
+        "rectd": 11,
+        "rec": 79
+      }
+    },
+    {
+      "name": "Duke Calhoun",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kevin Boss",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 531,
+        "rectd": 5,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Bear Pascoe",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Travis Beckum",
+      "team": "NYG '10",
+      "stats": {
+        "recyds": 116,
+        "rectd": 2,
+        "rec": 13
+      }
+    }
+  ]
+}

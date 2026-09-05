@@ -1,0 +1,171 @@
+{
+  "QB": [
+    {
+      "name": "Seneca Wallace",
+      "team": "GB '13",
+      "stats": {
+        "yds": 139,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '13",
+      "stats": {
+        "yds": 2536,
+        "td": 17,
+        "int": 6
+      }
+    },
+    {
+      "name": "Matt Flynn",
+      "team": "GB '13",
+      "stats": {
+        "yds": 1392,
+        "td": 8,
+        "int": 5
+      }
+    },
+    {
+      "name": "Scott Tolzien",
+      "team": "GB '13",
+      "stats": {
+        "yds": 717,
+        "td": 1,
+        "int": 5
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "John Kuhn",
+      "team": "GB '13",
+      "stats": {
+        "ryds": 38,
+        "rtd": 1,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "James Starks",
+      "team": "GB '13",
+      "stats": {
+        "ryds": 493,
+        "rtd": 3,
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Johnathan Franklin",
+      "team": "GB '13",
+      "stats": {
+        "ryds": 107,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Eddie Lacy",
+      "team": "GB '13",
+      "stats": {
+        "ryds": 1178,
+        "rtd": 11,
+        "recyds": 257,
+        "rectd": 0,
+        "rec": 35
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "James Jones",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 817,
+        "rectd": 3,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 1314,
+        "rectd": 8,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Randall Cobb",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 433,
+        "rectd": 4,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Jarrett Boykin",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 681,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Myles White",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jermichael Finley",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 300,
+        "rectd": 3,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Andrew Quarless",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 312,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Ryan Taylor",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Brandon Bostick",
+      "team": "GB '13",
+      "stats": {
+        "recyds": 120,
+        "rectd": 1,
+        "rec": 7
+      }
+    }
+  ]
+}

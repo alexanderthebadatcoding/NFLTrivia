@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "NYJ '14",
+      "stats": {
+        "yds": 604,
+        "td": 3,
+        "int": 2
+      }
+    },
+    {
+      "name": "Matt Simms",
+      "team": "NYJ '14",
+      "stats": {
+        "yds": 39,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "NYJ '14",
+      "stats": {
+        "yds": 2525,
+        "td": 13,
+        "int": 13
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Johnson",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 663,
+        "rtd": 1,
+        "recyds": 151,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Chris Ivory",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 821,
+        "rtd": 6,
+        "recyds": 123,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "John Conner",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 141,
+        "rtd": 1,
+        "recyds": 92,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Tommy Bohanon",
+      "team": "NYJ '14",
+      "stats": {
+        "ryds": 3,
+        "rtd": 0,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Percy Harvin",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 483,
+        "rectd": 1,
+        "rec": 51
+      }
+    },
+    {
+      "name": "David Nelson",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 962,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Greg Salas",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Jeremy Kerley",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 409,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Chris Owusu",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Trevor Graham",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeff Cumberland",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 247,
+        "rectd": 3,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Zach Sudfeld",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 85,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jace Amaro",
+      "team": "NYJ '14",
+      "stats": {
+        "recyds": 345,
+        "rectd": 2,
+        "rec": 38
+      }
+    }
+  ]
+}

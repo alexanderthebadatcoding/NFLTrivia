@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Brian Griese",
+      "team": "CHI '06",
+      "stats": {
+        "yds": 220,
+        "td": 1,
+        "int": 2
+      }
+    },
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '06",
+      "stats": {
+        "yds": 3197,
+        "td": 23,
+        "int": 20
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Thomas Jones",
+      "team": "CHI '06",
+      "stats": {
+        "ryds": 1205,
+        "rtd": 6,
+        "recyds": 154,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Jason McKie",
+      "team": "CHI '06",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '06",
+      "stats": {
+        "ryds": 41,
+        "rtd": 2,
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Cedric Benson",
+      "team": "CHI '06",
+      "stats": {
+        "ryds": 647,
+        "rtd": 6,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Muhsin Muhammad",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 863,
+        "rectd": 5,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Justin Gage",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Bernard Berrian",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 775,
+        "rectd": 6,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Rashied Davis",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 307,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Mark Bradley",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 282,
+        "rectd": 3,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 626,
+        "rectd": 6,
+        "rec": 45
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 38,
+        "rectd": 2,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Gabe Reid",
+      "team": "CHI '06",
+      "stats": {
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

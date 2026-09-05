@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Jon Kitna",
+      "team": "CIN '01",
+      "stats": {
+        "yds": 3216,
+        "td": 12,
+        "int": 22
+      }
+    },
+    {
+      "name": "Scott Mitchell",
+      "team": "CIN '01",
+      "stats": {
+        "yds": 38,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Akili Smith",
+      "team": "CIN '01",
+      "stats": {
+        "yds": 37,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Brandon Bennett",
+      "team": "CIN '01",
+      "stats": {
+        "ryds": 232,
+        "rtd": 0,
+        "recyds": 150,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Corey Dillon",
+      "team": "CIN '01",
+      "stats": {
+        "ryds": 1315,
+        "rtd": 10,
+        "recyds": 228,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Lorenzo Neal",
+      "team": "CIN '01",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 101,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Curtis Keaton",
+      "team": "CIN '01",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Frank Moreau",
+      "team": "CIN '01",
+      "stats": {
+        "ryds": 27,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darnay Scott",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 819,
+        "rectd": 2,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Peter Warrick",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 667,
+        "rectd": 1,
+        "rec": 70
+      }
+    },
+    {
+      "name": "Danny Farmer",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 228,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Ron Dugans",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 251,
+        "rectd": 2,
+        "rec": 28
+      }
+    },
+    {
+      "name": "Chad Johnson",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 329,
+        "rectd": 1,
+        "rec": 28
+      }
+    },
+    {
+      "name": "T.J. Houshmandzadeh",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 228,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Damon Jones",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 140,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Tony McGee",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 148,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Kirk McMullen",
+      "team": "CIN '01",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

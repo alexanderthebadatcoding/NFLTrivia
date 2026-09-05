@@ -1,0 +1,204 @@
+{
+  "QB": [
+    {
+      "name": "Tim Hasselbeck",
+      "team": "WSH '03",
+      "stats": {
+        "yds": 1012,
+        "td": 5,
+        "int": 7
+      }
+    },
+    {
+      "name": "Patrick Ramsey",
+      "team": "WSH '03",
+      "stats": {
+        "yds": 2169,
+        "td": 14,
+        "int": 9
+      }
+    },
+    {
+      "name": "Gibran Hamdan",
+      "team": "WSH '03",
+      "stats": {
+        "yds": 7,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Bryan Johnson",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 71,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Chad Morton",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 213,
+        "rtd": 0,
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Trung Canidate",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 597,
+        "rtd": 1,
+        "recyds": 71,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "John Simon",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 21,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ladell Betts",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 255,
+        "rtd": 2,
+        "recyds": 167,
+        "rectd": 0,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Rock Cartwright",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 411,
+        "rtd": 4,
+        "recyds": 176,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Sultan McCullough",
+      "team": "WSH '03",
+      "stats": {
+        "ryds": 9,
+        "rtd": 0,
+        "recyds": 13,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Pat Johnson",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Laveranues Coles",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 1204,
+        "rectd": 6,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Darnerien McCants",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 360,
+        "rectd": 6,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Rod Gardner",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 600,
+        "rectd": 5,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Cliff Russell",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Taylor Jacobs",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 37,
+        "rectd": 1,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Byron Chamberlain",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 29,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Zeron Flemister",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 89,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Robert Royal",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kevin Ware",
+      "team": "WSH '03",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

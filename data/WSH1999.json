@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Brad Johnson",
+      "team": "WSH '99",
+      "stats": {
+        "yds": 4005,
+        "td": 24,
+        "int": 13
+      }
+    },
+    {
+      "name": "Rodney Peete",
+      "team": "WSH '99",
+      "stats": {
+        "yds": 107,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Larry Centers",
+      "team": "WSH '99",
+      "stats": {
+        "ryds": 51,
+        "rtd": 0,
+        "recyds": 544,
+        "rectd": 3,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Stephen Davis",
+      "team": "WSH '99",
+      "stats": {
+        "ryds": 1405,
+        "rtd": 17,
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Skip Hicks",
+      "team": "WSH '99",
+      "stats": {
+        "ryds": 257,
+        "rtd": 3,
+        "recyds": 72,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brian Mitchell",
+      "team": "WSH '99",
+      "stats": {
+        "ryds": 220,
+        "rtd": 1,
+        "recyds": 305,
+        "rectd": 0,
+        "rec": 31
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Albert Connell",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 1132,
+        "rectd": 7,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Irving Fryar",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 254,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "James Thrash",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 44,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Westbrook",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 1191,
+        "rectd": 9,
+        "rec": 65
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 324,
+        "rectd": 3,
+        "rec": 29
+      }
+    },
+    {
+      "name": "James Jenkins",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Mike Sellers",
+      "team": "WSH '99",
+      "stats": {
+        "recyds": 105,
+        "rectd": 2,
+        "rec": 7
+      }
+    }
+  ]
+}

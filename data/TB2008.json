@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "TB '08",
+      "stats": {
+        "yds": 2712,
+        "td": 12,
+        "int": 6
+      }
+    },
+    {
+      "name": "Brian Griese",
+      "team": "TB '08",
+      "stats": {
+        "yds": 1073,
+        "td": 5,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 786,
+        "rtd": 2,
+        "recyds": 330,
+        "rectd": 0,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Jameel Cook",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Earnest Graham",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 563,
+        "rtd": 4,
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "B.J. Askew",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 14,
+        "rtd": 2,
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Cadillac Williams",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 233,
+        "rtd": 4,
+        "recyds": 43,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Clifton Smith",
+      "team": "TB '08",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Joey Galloway",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 138,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Ike Hilliard",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 424,
+        "rectd": 4,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Antonio Bryant",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 1248,
+        "rectd": 7,
+        "rec": 83
+      }
+    },
+    {
+      "name": "Michael Clayton",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 484,
+        "rectd": 1,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Brian Clark",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Maurice Stovall",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jerramy Stevens",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 385,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "John Gilmore",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 159,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Alex Smith",
+      "team": "TB '08",
+      "stats": {
+        "recyds": 250,
+        "rectd": 3,
+        "rec": 21
+      }
+    }
+  ]
+}

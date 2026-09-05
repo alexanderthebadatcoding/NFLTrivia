@@ -340,7 +340,7 @@ def main():
     parser.add_argument("--teams", type=str, default=None, help="Comma-separated team abbreviations, e.g. 'GB,KC,DAL'")
     parser.add_argument("--quiet", action="store_true", help="Suppress progress output on stderr")
     parser.add_argument("--start", type=int, default=2025, help="Newest year for 'all' mode (default: 2025)")
-    parser.add_argument("--end", type=int, default=2016, help="Oldest year for 'all' mode (default: 2016)")
+    parser.add_argument("--end", type=int, default=1999, help="Oldest year for 'all' mode (default: 2016)")
     parser.add_argument("--out-dir", type=str, default="data", help="Directory to write output files to (default: data)")
     parser.add_argument("--top-n", type=int, default=None, metavar="N",
                          help="Also write a leaguewide '{YEAR}Stats.json'. By default N is the size of a "

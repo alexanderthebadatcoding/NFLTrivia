@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Chad Henne",
+      "team": "JAX '14",
+      "stats": {
+        "yds": 492,
+        "td": 3,
+        "int": 1
+      }
+    },
+    {
+      "name": "Blake Bortles",
+      "team": "JAX '14",
+      "stats": {
+        "yds": 2908,
+        "td": 11,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Will Ta'ufo'ou",
+      "team": "JAX '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Toby Gerhart",
+      "team": "JAX '14",
+      "stats": {
+        "ryds": 326,
+        "rtd": 2,
+        "recyds": 186,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jordan Todman",
+      "team": "JAX '14",
+      "stats": {
+        "ryds": 186,
+        "rtd": 1,
+        "recyds": 198,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Denard Robinson",
+      "team": "JAX '14",
+      "stats": {
+        "ryds": 582,
+        "rtd": 4,
+        "recyds": 124,
+        "rectd": 0,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Storm Johnson",
+      "team": "JAX '14",
+      "stats": {
+        "ryds": 86,
+        "rtd": 2,
+        "recyds": -4,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cecil Shorts",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 557,
+        "rectd": 1,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Mike Brown",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ace Sanders",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Allen Hurns",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 677,
+        "rectd": 6,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Allen Robinson",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 548,
+        "rectd": 2,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Marqise Lee",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 422,
+        "rectd": 1,
+        "rec": 37
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Marcedes Lewis",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 206,
+        "rectd": 2,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Clay Harbor",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 289,
+        "rectd": 1,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Nic Jacobs",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Marcel Jensen",
+      "team": "JAX '14",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ]
+}

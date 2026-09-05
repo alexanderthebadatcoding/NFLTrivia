@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '05",
+      "stats": {
+        "yds": 3455,
+        "td": 24,
+        "int": 10
+      }
+    },
+    {
+      "name": "Seneca Wallace",
+      "team": "SEA '05",
+      "stats": {
+        "yds": 173,
+        "td": 1,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mack Strong",
+      "team": "SEA '05",
+      "stats": {
+        "ryds": 78,
+        "rtd": 0,
+        "recyds": 166,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Shaun Alexander",
+      "team": "SEA '05",
+      "stats": {
+        "ryds": 1880,
+        "rtd": 27,
+        "recyds": 78,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Maurice Morris",
+      "team": "SEA '05",
+      "stats": {
+        "ryds": 288,
+        "rtd": 1,
+        "recyds": 48,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Leonard Weaver",
+      "team": "SEA '05",
+      "stats": {
+        "ryds": 80,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 774,
+        "rectd": 3,
+        "rec": 67
+      }
+    },
+    {
+      "name": "Joe Jurevicius",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 694,
+        "rectd": 10,
+        "rec": 55
+      }
+    },
+    {
+      "name": "Peter Warrick",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 180,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 482,
+        "rectd": 3,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Jerheme Urban",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 151,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "D.J. Hackett",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 400,
+        "rectd": 2,
+        "rec": 28
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jerramy Stevens",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 554,
+        "rectd": 5,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Ryan Hannam",
+      "team": "SEA '05",
+      "stats": {
+        "recyds": 89,
+        "rectd": 1,
+        "rec": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Aaron Rodgers",
+      "team": "GB '08",
+      "stats": {
+        "yds": 4038,
+        "td": 28,
+        "int": 13
+      }
+    },
+    {
+      "name": "Matt Flynn",
+      "team": "GB '08",
+      "stats": {
+        "yds": 6,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ryan Grant",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 1203,
+        "rtd": 4,
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "John Kuhn",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 10,
+        "rtd": 1,
+        "recyds": 21,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Brandon Jackson",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 248,
+        "rtd": 1,
+        "recyds": 185,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Korey Hall",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 38,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "DeShawn Wynn",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 110,
+        "rtd": 1,
+        "recyds": 30,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kregg Lumpkin",
+      "team": "GB '08",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 1012,
+        "rectd": 5,
+        "rec": 74
+      }
+    },
+    {
+      "name": "Ruvell Martin",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 149,
+        "rectd": 1,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Greg Jennings",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 1292,
+        "rectd": 9,
+        "rec": 80
+      }
+    },
+    {
+      "name": "James Jones",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 274,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jordy Nelson",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 366,
+        "rectd": 2,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Donald Lee",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 303,
+        "rectd": 5,
+        "rec": 39
+      }
+    },
+    {
+      "name": "Tory Humphrey",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 162,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Jermichael Finley",
+      "team": "GB '08",
+      "stats": {
+        "recyds": 74,
+        "rectd": 1,
+        "rec": 6
+      }
+    }
+  ]
+}

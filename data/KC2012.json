@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "KC '12",
+      "stats": {
+        "yds": 1796,
+        "td": 6,
+        "int": 12
+      }
+    },
+    {
+      "name": "Brady Quinn",
+      "team": "KC '12",
+      "stats": {
+        "yds": 1141,
+        "td": 2,
+        "int": 8
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jamaal Charles",
+      "team": "KC '12",
+      "stats": {
+        "ryds": 1509,
+        "rtd": 5,
+        "recyds": 236,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Peyton Hillis",
+      "team": "KC '12",
+      "stats": {
+        "ryds": 309,
+        "rtd": 1,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Shaun Draughn",
+      "team": "KC '12",
+      "stats": {
+        "ryds": 233,
+        "rtd": 2,
+        "recyds": 158,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Cyrus Gray",
+      "team": "KC '12",
+      "stats": {
+        "ryds": 44,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Nate Eachus",
+      "team": "KC '12",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrance Copper",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Dwayne Bowe",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 801,
+        "rectd": 3,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Steve Breaston",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 74,
+        "rectd": 0,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Dexter McCluster",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 452,
+        "rectd": 1,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Jon Baldwin",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 325,
+        "rectd": 1,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jamar Newsome",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 73,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Devon Wylie",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 53,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kevin Boss",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 65,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jake O'Connell",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Steve Maneri",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 51,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tony Moeaki",
+      "team": "KC '12",
+      "stats": {
+        "recyds": 453,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ]
+}

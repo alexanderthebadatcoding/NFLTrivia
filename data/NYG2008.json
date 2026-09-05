@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "David Carr",
+      "team": "NYG '08",
+      "stats": {
+        "yds": 115,
+        "td": 2,
+        "int": 0
+      }
+    },
+    {
+      "name": "Eli Manning",
+      "team": "NYG '08",
+      "stats": {
+        "yds": 3238,
+        "td": 21,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Derrick Ward",
+      "team": "NYG '08",
+      "stats": {
+        "ryds": 1025,
+        "rtd": 2,
+        "recyds": 384,
+        "rectd": 0,
+        "rec": 41
+      }
+    },
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '08",
+      "stats": {
+        "ryds": 1089,
+        "rtd": 15,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Madison Hedgecock",
+      "team": "NYG '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "D.J. Ware",
+      "team": "NYG '08",
+      "stats": {
+        "ryds": 15,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ahmad Bradshaw",
+      "team": "NYG '08",
+      "stats": {
+        "ryds": 355,
+        "rtd": 1,
+        "recyds": 42,
+        "rectd": 1,
+        "rec": 5
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 580,
+        "rectd": 4,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 454,
+        "rectd": 4,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Sinorice Moss",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 153,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Domenik Hixon",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 596,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Steve Smith",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 574,
+        "rectd": 1,
+        "rec": 57
+      }
+    },
+    {
+      "name": "Mario Manningham",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Darcy Johnson",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 46,
+        "rectd": 2,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Michael Matthews",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 26,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Kevin Boss",
+      "team": "NYG '08",
+      "stats": {
+        "recyds": 384,
+        "rectd": 6,
+        "rec": 33
+      }
+    }
+  ]
+}

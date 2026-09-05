@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Colt McCoy",
+      "team": "WSH '15",
+      "stats": {
+        "yds": 128,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Kirk Cousins",
+      "team": "WSH '15",
+      "stats": {
+        "yds": 4166,
+        "td": 29,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Pierre Thomas",
+      "team": "WSH '15",
+      "stats": {
+        "ryds": 64,
+        "rtd": 0,
+        "recyds": 84,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darrel Young",
+      "team": "WSH '15",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Alfred Morris",
+      "team": "WSH '15",
+      "stats": {
+        "ryds": 751,
+        "rtd": 1,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Chris Thompson",
+      "team": "WSH '15",
+      "stats": {
+        "ryds": 216,
+        "rtd": 0,
+        "recyds": 240,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Matt Jones",
+      "team": "WSH '15",
+      "stats": {
+        "ryds": 490,
+        "rtd": 3,
+        "recyds": 304,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "DeSean Jackson",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 528,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Pierre Garcon",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 777,
+        "rectd": 6,
+        "rec": 72
+      }
+    },
+    {
+      "name": "Andre Roberts",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Rashad Ross",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Ryan Grant",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 268,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jamison Crowder",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 604,
+        "rectd": 2,
+        "rec": 59
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Derek Carrier",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 141,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Jordan Reed",
+      "team": "WSH '15",
+      "stats": {
+        "recyds": 952,
+        "rectd": 11,
+        "rec": 87
+      }
+    }
+  ]
+}

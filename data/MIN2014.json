@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Matt Cassel",
+      "team": "MIN '14",
+      "stats": {
+        "yds": 425,
+        "td": 3,
+        "int": 4
+      }
+    },
+    {
+      "name": "Christian Ponder",
+      "team": "MIN '14",
+      "stats": {
+        "yds": 222,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "team": "MIN '14",
+      "stats": {
+        "yds": 2919,
+        "td": 14,
+        "int": 12
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Adrian Peterson",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 75,
+        "rtd": 0,
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jerome Felton",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 27,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Ben Tate",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 371,
+        "rtd": 4,
+        "recyds": 60,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Matt Asiata",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 570,
+        "rtd": 9,
+        "recyds": 312,
+        "rectd": 1,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Joe Banyard",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 88,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Jerick McKinnon",
+      "team": "MIN '14",
+      "stats": {
+        "ryds": 538,
+        "rtd": 0,
+        "recyds": 135,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Greg Jennings",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 742,
+        "rectd": 6,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Jarius Wright",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 588,
+        "rectd": 2,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Adam Thielen",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 137,
+        "rectd": 1,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Charles D. Johnson",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 475,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Cordarrelle Patterson",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 384,
+        "rectd": 1,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kyle Rudolph",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 231,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Chase Ford",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 258,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Rhett Ellison",
+      "team": "MIN '14",
+      "stats": {
+        "recyds": 208,
+        "rectd": 1,
+        "rec": 19
+      }
+    }
+  ]
+}

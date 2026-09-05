@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Jake Plummer",
+      "team": "DEN '05",
+      "stats": {
+        "yds": 3366,
+        "td": 18,
+        "int": 7
+      }
+    },
+    {
+      "name": "Bradlee Van Pelt",
+      "team": "DEN '05",
+      "stats": {
+        "yds": 7,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mike Anderson",
+      "team": "DEN '05",
+      "stats": {
+        "ryds": 1014,
+        "rtd": 12,
+        "recyds": 212,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Ron Dayne",
+      "team": "DEN '05",
+      "stats": {
+        "ryds": 270,
+        "rtd": 1,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Kyle Johnson",
+      "team": "DEN '05",
+      "stats": {
+        "ryds": 9,
+        "rtd": 1,
+        "recyds": 160,
+        "rectd": 5,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Cecil Sapp",
+      "team": "DEN '05",
+      "stats": {
+        "ryds": 21,
+        "rtd": 0,
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tatum Bell",
+      "team": "DEN '05",
+      "stats": {
+        "ryds": 921,
+        "rtd": 8,
+        "recyds": 104,
+        "rectd": 0,
+        "rec": 18
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Rod Smith",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 1105,
+        "rectd": 6,
+        "rec": 85
+      }
+    },
+    {
+      "name": "Charlie Adams",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 203,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Ashley Lelie",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 770,
+        "rectd": 1,
+        "rec": 42
+      }
+    },
+    {
+      "name": "Todd Devoe",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 87,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darius Watts",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Stephen Alexander",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 170,
+        "rectd": 1,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Jeb Putzier",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 481,
+        "rectd": 0,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Wesley Duke",
+      "team": "DEN '05",
+      "stats": {
+        "recyds": 22,
+        "rectd": 1,
+        "rec": 2
+      }
+    }
+  ]
+}

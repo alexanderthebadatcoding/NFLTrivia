@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '10",
+      "stats": {
+        "yds": 2998,
+        "td": 12,
+        "int": 17
+      }
+    },
+    {
+      "name": "Charlie Whitehurst",
+      "team": "SEA '10",
+      "stats": {
+        "yds": 507,
+        "td": 2,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Robinson",
+      "team": "SEA '10",
+      "stats": {
+        "ryds": 77,
+        "rtd": 0,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Leon Washington",
+      "team": "SEA '10",
+      "stats": {
+        "ryds": 100,
+        "rtd": 1,
+        "recyds": 79,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Marshawn Lynch",
+      "team": "SEA '10",
+      "stats": {
+        "ryds": 737,
+        "rtd": 6,
+        "recyds": 145,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Justin Forsett",
+      "team": "SEA '10",
+      "stats": {
+        "ryds": 523,
+        "rtd": 2,
+        "recyds": 249,
+        "rectd": 0,
+        "rec": 33
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Stokley",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 354,
+        "rectd": 0,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Ruvell Martin",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 158,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Mike Williams",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 751,
+        "rectd": 2,
+        "rec": 65
+      }
+    },
+    {
+      "name": "Ben Obomanu",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 494,
+        "rectd": 4,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Deon Butler",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 385,
+        "rectd": 4,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Golden Tate",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 227,
+        "rectd": 0,
+        "rec": 21
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Chris Baker",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "John Carlson",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 318,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Cameron Morrah",
+      "team": "SEA '10",
+      "stats": {
+        "recyds": 117,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ]
+}

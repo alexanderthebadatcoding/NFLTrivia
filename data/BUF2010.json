@@ -1,0 +1,191 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "BUF '10",
+      "stats": {
+        "yds": 2992,
+        "td": 23,
+        "int": 15
+      }
+    },
+    {
+      "name": "Brian Brohm",
+      "team": "BUF '10",
+      "stats": {
+        "yds": 106,
+        "td": 0,
+        "int": 3
+      }
+    },
+    {
+      "name": "Levi Brown",
+      "team": "BUF '10",
+      "stats": {
+        "yds": 24,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Corey McIntyre",
+      "team": "BUF '10",
+      "stats": {
+        "ryds": 5,
+        "rtd": 1,
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Fred Jackson",
+      "team": "BUF '10",
+      "stats": {
+        "ryds": 927,
+        "rtd": 5,
+        "recyds": 215,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Quinton Ganther",
+      "team": "BUF '10",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jehuu Caulcrick",
+      "team": "BUF '10",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "C.J. Spiller",
+      "team": "BUF '10",
+      "stats": {
+        "ryds": 283,
+        "rtd": 0,
+        "recyds": 157,
+        "rectd": 1,
+        "rec": 24
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Lee Evans",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 578,
+        "rectd": 4,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Roscoe Parrish",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 392,
+        "rectd": 2,
+        "rec": 33
+      }
+    },
+    {
+      "name": "Paul Hubbard",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Steve Johnson",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 1073,
+        "rectd": 10,
+        "rec": 82
+      }
+    },
+    {
+      "name": "Naaman Roosevelt",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 139,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "David Nelson",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 353,
+        "rectd": 3,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Donald Jones",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 213,
+        "rectd": 1,
+        "rec": 18
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "David Martin",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 43,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Scott Chandler",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Jonathan Stupar",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 111,
+        "rectd": 0,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Shawn Nelson",
+      "team": "BUF '10",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

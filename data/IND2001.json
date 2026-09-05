@@ -1,0 +1,133 @@
+{
+  "QB": [
+    {
+      "name": "Peyton Manning",
+      "team": "IND '01",
+      "stats": {
+        "yds": 4131,
+        "td": 26,
+        "int": 23
+      }
+    },
+    {
+      "name": "Mark Rypien",
+      "team": "IND '01",
+      "stats": {
+        "yds": 57,
+        "td": 0,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Edgerrin James",
+      "team": "IND '01",
+      "stats": {
+        "ryds": 662,
+        "rtd": 3,
+        "recyds": 193,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Kevin McDougal",
+      "team": "IND '01",
+      "stats": {
+        "ryds": 48,
+        "rtd": 0,
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Dominic Rhodes",
+      "team": "IND '01",
+      "stats": {
+        "ryds": 1104,
+        "rtd": 9,
+        "recyds": 224,
+        "rectd": 0,
+        "rec": 34
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marvin Harrison",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 1524,
+        "rectd": 15,
+        "rec": 109
+      }
+    },
+    {
+      "name": "Jerome Pathon",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 330,
+        "rectd": 2,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Tony Simmons",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Terrence Wilkins",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 332,
+        "rectd": 0,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Trevor Insley",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 165,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Reggie Wayne",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 345,
+        "rectd": 0,
+        "rec": 27
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Ken Dilger",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 343,
+        "rectd": 1,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Marcus Pollard",
+      "team": "IND '01",
+      "stats": {
+        "recyds": 739,
+        "rectd": 8,
+        "rec": 47
+      }
+    }
+  ]
+}

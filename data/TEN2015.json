@@ -1,0 +1,182 @@
+{
+  "QB": [
+    {
+      "name": "Alex Tanney",
+      "team": "TEN '15",
+      "stats": {
+        "yds": 99,
+        "td": 1,
+        "int": 0
+      }
+    },
+    {
+      "name": "Zach Mettenberger",
+      "team": "TEN '15",
+      "stats": {
+        "yds": 935,
+        "td": 4,
+        "int": 7
+      }
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "TEN '15",
+      "stats": {
+        "yds": 2818,
+        "td": 19,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Dexter McCluster",
+      "team": "TEN '15",
+      "stats": {
+        "ryds": 247,
+        "rtd": 1,
+        "recyds": 260,
+        "rectd": 1,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Antonio Andrews",
+      "team": "TEN '15",
+      "stats": {
+        "ryds": 520,
+        "rtd": 3,
+        "recyds": 174,
+        "rectd": 0,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Bishop Sankey",
+      "team": "TEN '15",
+      "stats": {
+        "ryds": 193,
+        "rtd": 1,
+        "recyds": 139,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jalston Fowler",
+      "team": "TEN '15",
+      "stats": {
+        "ryds": 13,
+        "rtd": 1,
+        "recyds": 44,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "David Cobb",
+      "team": "TEN '15",
+      "stats": {
+        "ryds": 146,
+        "rtd": 1,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Harry Douglas",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 411,
+        "rectd": 2,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Kendall Wright",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 408,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Justin Hunter",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 264,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Andrew Turzilli",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Tre McBride",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 8,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dorial Green-Beckham",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 549,
+        "rectd": 4,
+        "rec": 32
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Anthony Fasano",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 289,
+        "rectd": 2,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 1088,
+        "rectd": 6,
+        "rec": 94
+      }
+    },
+    {
+      "name": "Craig Stevens",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 121,
+        "rectd": 2,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Phillip Supernaw",
+      "team": "TEN '15",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ]
+}

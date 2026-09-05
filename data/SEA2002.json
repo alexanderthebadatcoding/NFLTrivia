@@ -1,0 +1,135 @@
+{
+  "QB": [
+    {
+      "name": "Trent Dilfer",
+      "team": "SEA '02",
+      "stats": {
+        "yds": 1182,
+        "td": 4,
+        "int": 6
+      }
+    },
+    {
+      "name": "Matt Hasselbeck",
+      "team": "SEA '02",
+      "stats": {
+        "yds": 3075,
+        "td": 15,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Mack Strong",
+      "team": "SEA '02",
+      "stats": {
+        "ryds": 94,
+        "rtd": 0,
+        "recyds": 120,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Shaun Alexander",
+      "team": "SEA '02",
+      "stats": {
+        "ryds": 1175,
+        "rtd": 16,
+        "recyds": 460,
+        "rectd": 2,
+        "rec": 59
+      }
+    },
+    {
+      "name": "Heath Evans",
+      "team": "SEA '02",
+      "stats": {
+        "ryds": 53,
+        "rtd": 0,
+        "recyds": 41,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Maurice Morris",
+      "team": "SEA '02",
+      "stats": {
+        "ryds": 153,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bobby Engram",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 619,
+        "rectd": 0,
+        "rec": 50
+      }
+    },
+    {
+      "name": "James Williams",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 99,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 877,
+        "rectd": 4,
+        "rec": 62
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 1240,
+        "rectd": 5,
+        "rec": 78
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Itula Mili",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 508,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Jerramy Stevens",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 252,
+        "rectd": 3,
+        "rec": 26
+      }
+    },
+    {
+      "name": "Ryan Hannam",
+      "team": "SEA '02",
+      "stats": {
+        "recyds": 16,
+        "rectd": 1,
+        "rec": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "QB": [
+    {
+      "name": "Eli Manning",
+      "team": "NYG '06",
+      "stats": {
+        "yds": 3244,
+        "td": 24,
+        "int": 18
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Tiki Barber",
+      "team": "NYG '06",
+      "stats": {
+        "ryds": 1662,
+        "rtd": 5,
+        "recyds": 465,
+        "rectd": 0,
+        "rec": 58
+      }
+    },
+    {
+      "name": "Jim Finn",
+      "team": "NYG '06",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 54,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Brandon Jacobs",
+      "team": "NYG '06",
+      "stats": {
+        "ryds": 423,
+        "rtd": 9,
+        "recyds": 149,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Amani Toomer",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 360,
+        "rectd": 3,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 988,
+        "rectd": 10,
+        "rec": 63
+      }
+    },
+    {
+      "name": "Mike Jennings",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 49,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Tim Carter",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 253,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "David Tyree",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 197,
+        "rectd": 2,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Sinorice Moss",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jeremy Shockey",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 623,
+        "rectd": 7,
+        "rec": 66
+      }
+    },
+    {
+      "name": "Visanthe Shiancoe",
+      "team": "NYG '06",
+      "stats": {
+        "recyds": 81,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ]
+}

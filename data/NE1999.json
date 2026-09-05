@@ -1,0 +1,168 @@
+{
+  "QB": [
+    {
+      "name": "Drew Bledsoe",
+      "team": "NE '99",
+      "stats": {
+        "yds": 3985,
+        "td": 19,
+        "int": 21
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Terry Allen",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 896,
+        "rtd": 8,
+        "recyds": 125,
+        "rectd": 1,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Tony Carter",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 26,
+        "rtd": 0,
+        "recyds": 108,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Jerry Ellison",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Kevin Faulk",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 227,
+        "rtd": 1,
+        "recyds": 98,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Chris Floyd",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Harold Shaw",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 23,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Lamont Warren",
+      "team": "NE '99",
+      "stats": {
+        "ryds": 120,
+        "rtd": 0,
+        "recyds": 262,
+        "rectd": 1,
+        "rec": 29
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Vincent Brisby",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 266,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Troy Brown",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 471,
+        "rectd": 1,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Terry Glenn",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 1147,
+        "rectd": 4,
+        "rec": 69
+      }
+    },
+    {
+      "name": "Shawn Jefferson",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 698,
+        "rectd": 6,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Tony Simmons",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 276,
+        "rectd": 2,
+        "rec": 19
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mike Bartrum",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 1,
+        "rectd": 1,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Ben Coates",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 370,
+        "rectd": 2,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Rod Rutledge",
+      "team": "NE '99",
+      "stats": {
+        "recyds": 66,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Matt Ryan",
+      "team": "ATL '14",
+      "stats": {
+        "yds": 4694,
+        "td": 28,
+        "int": 14
+      }
+    },
+    {
+      "name": "T.J. Yates",
+      "team": "ATL '14",
+      "stats": {
+        "yds": 64,
+        "td": 0,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Steven Jackson",
+      "team": "ATL '14",
+      "stats": {
+        "ryds": 707,
+        "rtd": 6,
+        "recyds": 148,
+        "rectd": 0,
+        "rec": 20
+      }
+    },
+    {
+      "name": "Antone Smith",
+      "team": "ATL '14",
+      "stats": {
+        "ryds": 144,
+        "rtd": 2,
+        "recyds": 222,
+        "rectd": 3,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "team": "ATL '14",
+      "stats": {
+        "ryds": 217,
+        "rtd": 1,
+        "recyds": 173,
+        "rectd": 1,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Patrick DiMarco",
+      "team": "ATL '14",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 62,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Devonta Freeman",
+      "team": "ATL '14",
+      "stats": {
+        "ryds": 248,
+        "rtd": 1,
+        "recyds": 225,
+        "rectd": 1,
+        "rec": 30
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Roddy White",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 921,
+        "rectd": 7,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Courtney Roby",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Devin Hester",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 504,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Eric Weems",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 102,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Harry Douglas",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 556,
+        "rectd": 2,
+        "rec": 51
+      }
+    },
+    {
+      "name": "Julio Jones",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 1593,
+        "rectd": 6,
+        "rec": 104
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bear Pascoe",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 3,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Levine Toilolo",
+      "team": "ATL '14",
+      "stats": {
+        "recyds": 238,
+        "rectd": 2,
+        "rec": 31
+      }
+    }
+  ]
+}

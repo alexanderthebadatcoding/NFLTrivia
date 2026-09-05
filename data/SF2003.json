@@ -1,0 +1,126 @@
+{
+  "QB": [
+    {
+      "name": "Jeff Garcia",
+      "team": "SF '03",
+      "stats": {
+        "yds": 2704,
+        "td": 18,
+        "int": 13
+      }
+    },
+    {
+      "name": "Tim Rattay",
+      "team": "SF '03",
+      "stats": {
+        "yds": 856,
+        "td": 7,
+        "int": 2
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Fred Beasley",
+      "team": "SF '03",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 184,
+        "rectd": 1,
+        "rec": 19
+      }
+    },
+    {
+      "name": "Garrison Hearst",
+      "team": "SF '03",
+      "stats": {
+        "ryds": 768,
+        "rtd": 3,
+        "recyds": 211,
+        "rectd": 1,
+        "rec": 25
+      }
+    },
+    {
+      "name": "Kevan Barlow",
+      "team": "SF '03",
+      "stats": {
+        "ryds": 1024,
+        "rtd": 6,
+        "recyds": 307,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Jamal Robertson",
+      "team": "SF '03",
+      "stats": {
+        "ryds": 136,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Terrell Owens",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 1102,
+        "rectd": 9,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Tai Streets",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 595,
+        "rectd": 7,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Cedrick Wilson",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 396,
+        "rectd": 2,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Brandon Lloyd",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 212,
+        "rectd": 2,
+        "rec": 14
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jed Weaver",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 437,
+        "rectd": 1,
+        "rec": 35
+      }
+    },
+    {
+      "name": "Aaron Walker",
+      "team": "SF '03",
+      "stats": {
+        "recyds": 116,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ]
+}

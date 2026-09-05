@@ -1,0 +1,186 @@
+{
+  "QB": [
+    {
+      "name": "Patrick Ramsey",
+      "team": "DEN '08",
+      "stats": {
+        "yds": 19,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jay Cutler",
+      "team": "DEN '08",
+      "stats": {
+        "yds": 4525,
+        "td": 25,
+        "int": 18
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Michael Pittman",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 321,
+        "rtd": 4,
+        "recyds": 112,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Tatum Bell",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 249,
+        "rtd": 2,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Andre Hall",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 144,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "P.J. Pope",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 130,
+        "rtd": 0,
+        "recyds": 24,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Selvin Young",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 303,
+        "rtd": 1,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Ryan Torain",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 69,
+        "rtd": 1,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Peyton Hillis",
+      "team": "DEN '08",
+      "stats": {
+        "ryds": 343,
+        "rtd": 5,
+        "recyds": 179,
+        "rectd": 1,
+        "rec": 14
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Stokley",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 528,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "Darrell Jackson",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 190,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Glenn Martinez",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 32,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Chad Jackson",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 19,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brandon Marshall",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 1265,
+        "rectd": 6,
+        "rec": 104
+      }
+    },
+    {
+      "name": "Eddie Royal",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 980,
+        "rectd": 5,
+        "rec": 91
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Nate Jackson",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 83,
+        "rectd": 1,
+        "rec": 11
+      }
+    },
+    {
+      "name": "Daniel Graham",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 389,
+        "rectd": 4,
+        "rec": 32
+      }
+    },
+    {
+      "name": "Tony Scheffler",
+      "team": "DEN '08",
+      "stats": {
+        "recyds": 645,
+        "rectd": 3,
+        "rec": 40
+      }
+    }
+  ]
+}

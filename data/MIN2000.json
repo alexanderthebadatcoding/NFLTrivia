@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Bubby Brister",
+      "team": "MIN '00",
+      "stats": {
+        "yds": 82,
+        "td": 0,
+        "int": 1
+      }
+    },
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '00",
+      "stats": {
+        "yds": 3937,
+        "td": 33,
+        "int": 16
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '00",
+      "stats": {
+        "ryds": 43,
+        "rtd": 0,
+        "recyds": 98,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Harold Morrow",
+      "team": "MIN '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "David Palmer",
+      "team": "MIN '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Robert Smith",
+      "team": "MIN '00",
+      "stats": {
+        "ryds": 1521,
+        "rtd": 7,
+        "recyds": 348,
+        "rectd": 3,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Moe Williams",
+      "team": "MIN '00",
+      "stats": {
+        "ryds": 67,
+        "rtd": 0,
+        "recyds": 31,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Cris Carter",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 1274,
+        "rectd": 9,
+        "rec": 96
+      }
+    },
+    {
+      "name": "Matt Hatchette",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 190,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Randy Moss",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 1437,
+        "rectd": 15,
+        "rec": 77
+      }
+    },
+    {
+      "name": "Chris Walsh",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 191,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Troy Walters",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "John Davis",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 202,
+        "rectd": 1,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Andrew Jordan",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 63,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Johnny McWilliams",
+      "team": "MIN '00",
+      "stats": {
+        "recyds": 180,
+        "rectd": 3,
+        "rec": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "QB": [
+    {
+      "name": "Brett Favre",
+      "team": "GB '04",
+      "stats": {
+        "yds": 4086,
+        "td": 30,
+        "int": 17
+      }
+    },
+    {
+      "name": "Doug Pederson",
+      "team": "GB '04",
+      "stats": {
+        "yds": 120,
+        "td": 0,
+        "int": 2
+      }
+    },
+    {
+      "name": "Craig Nall",
+      "team": "GB '04",
+      "stats": {
+        "yds": 314,
+        "td": 4,
+        "int": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Ahman Green",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 1163,
+        "rtd": 7,
+        "recyds": 275,
+        "rectd": 1,
+        "rec": 40
+      }
+    },
+    {
+      "name": "William Henderson",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 239,
+        "rectd": 3,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Nicolas Luchey",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 24,
+        "rtd": 0,
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "James Jackson",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 81,
+        "rtd": 0,
+        "recyds": 22,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Tony Fisher",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 224,
+        "rtd": 0,
+        "recyds": 277,
+        "rectd": 2,
+        "rec": 38
+      }
+    },
+    {
+      "name": "Najeh Davenport",
+      "team": "GB '04",
+      "stats": {
+        "ryds": 359,
+        "rtd": 2,
+        "recyds": 33,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Donald Driver",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 1208,
+        "rectd": 9,
+        "rec": 84
+      }
+    },
+    {
+      "name": "Antonio Chatman",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 246,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Robert Ferguson",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 367,
+        "rectd": 1,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Javon Walker",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 1380,
+        "rectd": 12,
+        "rec": 89
+      }
+    },
+    {
+      "name": "Andrae Thurman",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Bubba Franks",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 361,
+        "rectd": 7,
+        "rec": 34
+      }
+    },
+    {
+      "name": "Ben Steele",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 42,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "David Martin",
+      "team": "GB '04",
+      "stats": {
+        "recyds": 88,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

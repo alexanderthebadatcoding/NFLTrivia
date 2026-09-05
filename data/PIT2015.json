@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "PIT '15",
+      "stats": {
+        "yds": 371,
+        "td": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "team": "PIT '15",
+      "stats": {
+        "yds": 3938,
+        "td": 21,
+        "int": 16
+      }
+    },
+    {
+      "name": "Landry Jones",
+      "team": "PIT '15",
+      "stats": {
+        "yds": 513,
+        "td": 3,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeAngelo Williams",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 907,
+        "rtd": 11,
+        "recyds": 367,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Jordan Todman",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 22,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Will Johnson",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 7,
+        "rtd": 1,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Le'Veon Bell",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 556,
+        "rtd": 3,
+        "recyds": 136,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Roosevelt Nix",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Fitzgerald Toussaint",
+      "team": "PIT '15",
+      "stats": {
+        "ryds": 42,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darrius Heyward-Bey",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 314,
+        "rectd": 2,
+        "rec": 21
+      }
+    },
+    {
+      "name": "Antonio Brown",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 1834,
+        "rectd": 10,
+        "rec": 136
+      }
+    },
+    {
+      "name": "Markus Wheaton",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 749,
+        "rectd": 5,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Martavis Bryant",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 765,
+        "rectd": 6,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Tyler Murphy",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 16,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Sammie Coates",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Heath Miller",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 535,
+        "rectd": 2,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Matt Spaeth",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 10,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jesse James",
+      "team": "PIT '15",
+      "stats": {
+        "recyds": 56,
+        "rectd": 1,
+        "rec": 8
+      }
+    }
+  ]
+}

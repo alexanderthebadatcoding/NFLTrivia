@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Fitzpatrick",
+      "team": "NYJ '15",
+      "stats": {
+        "yds": 3905,
+        "td": 31,
+        "int": 15
+      }
+    },
+    {
+      "name": "Geno Smith",
+      "team": "NYJ '15",
+      "stats": {
+        "yds": 265,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Chris Ivory",
+      "team": "NYJ '15",
+      "stats": {
+        "ryds": 1070,
+        "rtd": 7,
+        "recyds": 217,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Stevan Ridley",
+      "team": "NYJ '15",
+      "stats": {
+        "ryds": 90,
+        "rtd": 0,
+        "recyds": -2,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Bilal Powell",
+      "team": "NYJ '15",
+      "stats": {
+        "ryds": 313,
+        "rtd": 1,
+        "recyds": 388,
+        "rectd": 2,
+        "rec": 47
+      }
+    },
+    {
+      "name": "Tommy Bohanon",
+      "team": "NYJ '15",
+      "stats": {
+        "ryds": 2,
+        "rtd": 0,
+        "recyds": 56,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Zac Stacy",
+      "team": "NYJ '15",
+      "stats": {
+        "ryds": 89,
+        "rtd": 1,
+        "recyds": 65,
+        "rectd": 0,
+        "rec": 9
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brandon Marshall",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 1502,
+        "rectd": 14,
+        "rec": 109
+      }
+    },
+    {
+      "name": "Eric Decker",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 1027,
+        "rectd": 12,
+        "rec": 80
+      }
+    },
+    {
+      "name": "Jeremy Kerley",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 152,
+        "rectd": 2,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Chris Owusu",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Kenbrell Thompkins",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 165,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Quincy Enunwa",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 315,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Devin Smith",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 115,
+        "rectd": 1,
+        "rec": 9
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Kellen Davis",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 18,
+        "rectd": 1,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jeff Cumberland",
+      "team": "NYJ '15",
+      "stats": {
+        "recyds": 77,
+        "rectd": 0,
+        "rec": 5
+      }
+    }
+  ]
+}

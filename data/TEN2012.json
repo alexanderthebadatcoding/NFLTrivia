@@ -1,0 +1,184 @@
+{
+  "QB": [
+    {
+      "name": "Matt Hasselbeck",
+      "team": "TEN '12",
+      "stats": {
+        "yds": 1367,
+        "td": 7,
+        "int": 5
+      }
+    },
+    {
+      "name": "Rusty Smith",
+      "team": "TEN '12",
+      "stats": {
+        "yds": 34,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Jake Locker",
+      "team": "TEN '12",
+      "stats": {
+        "yds": 2176,
+        "td": 10,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Darius Reynaud",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 33,
+        "rtd": 0,
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Chris Johnson",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 1243,
+        "rtd": 6,
+        "recyds": 232,
+        "rectd": 0,
+        "rec": 36
+      }
+    },
+    {
+      "name": "Quinn Johnson",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 5,
+        "rtd": 0,
+        "recyds": 40,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Javon Ringer",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 14,
+        "rtd": 0,
+        "recyds": 12,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Jamie Harper",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 30,
+        "rtd": 3,
+        "recyds": 8,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Collin Mooney",
+      "team": "TEN '12",
+      "stats": {
+        "ryds": 19,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Nate Washington",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 746,
+        "rectd": 4,
+        "rec": 46
+      }
+    },
+    {
+      "name": "Lavelle Hawkins",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kenny Britt",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 589,
+        "rectd": 4,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Damian Williams",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 324,
+        "rectd": 0,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Michael Preston",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 59,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Kendall Wright",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 626,
+        "rectd": 4,
+        "rec": 64
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Craig Stevens",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 275,
+        "rectd": 1,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Jared Cook",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 523,
+        "rectd": 4,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Taylor Thompson",
+      "team": "TEN '12",
+      "stats": {
+        "recyds": 46,
+        "rectd": 0,
+        "rec": 6
+      }
+    }
+  ]
+}

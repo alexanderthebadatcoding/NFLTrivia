@@ -1,0 +1,153 @@
+{
+  "QB": [
+    {
+      "name": "Daunte Culpepper",
+      "team": "MIN '05",
+      "stats": {
+        "yds": 1564,
+        "td": 6,
+        "int": 12
+      }
+    },
+    {
+      "name": "Brad Johnson",
+      "team": "MIN '05",
+      "stats": {
+        "yds": 1885,
+        "td": 12,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Moe Williams",
+      "team": "MIN '05",
+      "stats": {
+        "ryds": 20,
+        "rtd": 0,
+        "recyds": 52,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Michael Bennett",
+      "team": "MIN '05",
+      "stats": {
+        "ryds": 473,
+        "rtd": 3,
+        "recyds": 124,
+        "rectd": 2,
+        "rec": 27
+      }
+    },
+    {
+      "name": "Mewelde Moore",
+      "team": "MIN '05",
+      "stats": {
+        "ryds": 662,
+        "rtd": 1,
+        "recyds": 339,
+        "rectd": 2,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Ciatrick Fason",
+      "team": "MIN '05",
+      "stats": {
+        "ryds": 62,
+        "rtd": 4,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marcus Robinson",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 515,
+        "rectd": 5,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Travis Taylor",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 604,
+        "rectd": 4,
+        "rec": 50
+      }
+    },
+    {
+      "name": "Koren Robinson",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 347,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Nate Burleson",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 328,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Troy Williamson",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 372,
+        "rectd": 2,
+        "rec": 24
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jimmy Kleinsasser",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 171,
+        "rectd": 0,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jermaine Wiggins",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 568,
+        "rectd": 1,
+        "rec": 68
+      }
+    },
+    {
+      "name": "Richard Angulo",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 11,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Richard Owens",
+      "team": "MIN '05",
+      "stats": {
+        "recyds": 18,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "QB": [
+    {
+      "name": "Chris Chandler",
+      "team": "CHI '03",
+      "stats": {
+        "yds": 1050,
+        "td": 3,
+        "int": 7
+      }
+    },
+    {
+      "name": "Kordell Stewart",
+      "team": "CHI '03",
+      "stats": {
+        "yds": 1418,
+        "td": 7,
+        "int": 12
+      }
+    },
+    {
+      "name": "Rex Grossman",
+      "team": "CHI '03",
+      "stats": {
+        "yds": 437,
+        "td": 2,
+        "int": 1
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Rabih Abdullah",
+      "team": "CHI '03",
+      "stats": {
+        "ryds": 37,
+        "rtd": 0,
+        "recyds": 55,
+        "rectd": 0,
+        "rec": 8
+      }
+    },
+    {
+      "name": "Stanley Pritchett",
+      "team": "CHI '03",
+      "stats": {
+        "ryds": 93,
+        "rtd": 2,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Anthony Thomas",
+      "team": "CHI '03",
+      "stats": {
+        "ryds": 1024,
+        "rtd": 6,
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Adrian Peterson",
+      "team": "CHI '03",
+      "stats": {
+        "ryds": 70,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Brock Forsey",
+      "team": "CHI '03",
+      "stats": {
+        "ryds": 191,
+        "rtd": 2,
+        "recyds": 37,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Marty Booker",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 715,
+        "rectd": 4,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Ahmad Merritt",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 50,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Dez White",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 583,
+        "rectd": 3,
+        "rec": 49
+      }
+    },
+    {
+      "name": "David Terrell",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 361,
+        "rectd": 1,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Justin Gage",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 338,
+        "rectd": 2,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Bobby Wade",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 137,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Desmond Clark",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 433,
+        "rectd": 2,
+        "rec": 44
+      }
+    },
+    {
+      "name": "Dustin Lyman",
+      "team": "CHI '03",
+      "stats": {
+        "recyds": 80,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "QB": [
+    {
+      "name": "Jay Fiedler",
+      "team": "MIA '00",
+      "stats": {
+        "yds": 2260,
+        "td": 13,
+        "int": 13
+      }
+    },
+    {
+      "name": "Damon Huard",
+      "team": "MIA '00",
+      "stats": {
+        "yds": 318,
+        "td": 1,
+        "int": 3
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Autry Denson",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 103,
+        "rtd": 0,
+        "recyds": 102,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "J.J. Johnson",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 168,
+        "rtd": 1,
+        "recyds": 61,
+        "rectd": 0,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Rob Konrad",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 83,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Lamar Smith",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 1077,
+        "rtd": 14,
+        "recyds": 192,
+        "rectd": 2,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Thurman Thomas",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 112,
+        "rtd": 0,
+        "recyds": 91,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Deon Dyer",
+      "team": "MIA '00",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 14,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Bert Emanuel",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 97,
+        "rectd": 1,
+        "rec": 6
+      }
+    },
+    {
+      "name": "Oronde Gadsden",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 753,
+        "rectd": 6,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Tony Martin",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 382,
+        "rectd": 0,
+        "rec": 25
+      }
+    },
+    {
+      "name": "O.J. McDuffie",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 143,
+        "rectd": 0,
+        "rec": 14
+      }
+    },
+    {
+      "name": "Jeff Ogden",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 24,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Leslie Shepherd",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 425,
+        "rectd": 3,
+        "rec": 33
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Hunter Goodwin",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 32,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jed Weaver",
+      "team": "MIA '00",
+      "stats": {
+        "recyds": 179,
+        "rectd": 0,
+        "rec": 10
+      }
+    }
+  ]
+}

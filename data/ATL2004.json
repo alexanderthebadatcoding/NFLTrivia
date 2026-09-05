@@ -1,0 +1,159 @@
+{
+  "QB": [
+    {
+      "name": "Mike Vick",
+      "team": "ATL '04",
+      "stats": {
+        "yds": 2313,
+        "td": 14,
+        "int": 12
+      }
+    },
+    {
+      "name": "Matt Schaub",
+      "team": "ATL '04",
+      "stats": {
+        "yds": 329,
+        "td": 1,
+        "int": 4
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Warrick Dunn",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 1106,
+        "rtd": 9,
+        "recyds": 293,
+        "rectd": 0,
+        "rec": 29
+      }
+    },
+    {
+      "name": "Fred McCrary",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 23,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Stanley Pritchett",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 18,
+        "rtd": 0,
+        "recyds": 5,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "George Layne",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 12,
+        "rtd": 0,
+        "recyds": 6,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "T.J. Duckett",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 509,
+        "rtd": 8,
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Justin Griffith",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 39,
+        "rtd": 0,
+        "recyds": 220,
+        "rectd": 1,
+        "rec": 22
+      }
+    },
+    {
+      "name": "Jason Wright",
+      "team": "ATL '04",
+      "stats": {
+        "ryds": 10,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Brian Finneran",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 258,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Peerless Price",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 575,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Dez White",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 370,
+        "rectd": 2,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Michael Jenkins",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 119,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Alge Crumpler",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 774,
+        "rectd": 6,
+        "rec": 48
+      }
+    },
+    {
+      "name": "Dwayne Blakley",
+      "team": "ATL '04",
+      "stats": {
+        "recyds": 35,
+        "rectd": 0,
+        "rec": 4
+      }
+    }
+  ]
+}

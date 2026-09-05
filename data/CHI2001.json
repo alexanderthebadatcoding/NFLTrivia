@@ -1,0 +1,155 @@
+{
+  "QB": [
+    {
+      "name": "Shane Matthews",
+      "team": "CHI '01",
+      "stats": {
+        "yds": 694,
+        "td": 5,
+        "int": 6
+      }
+    },
+    {
+      "name": "Jim Miller",
+      "team": "CHI '01",
+      "stats": {
+        "yds": 2299,
+        "td": 13,
+        "int": 10
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "James Allen",
+      "team": "CHI '01",
+      "stats": {
+        "ryds": 469,
+        "rtd": 1,
+        "recyds": 203,
+        "rectd": 1,
+        "rec": 30
+      }
+    },
+    {
+      "name": "Autry Denson",
+      "team": "CHI '01",
+      "stats": {
+        "ryds": 4,
+        "rtd": 0,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 0
+      }
+    },
+    {
+      "name": "Leon Johnson",
+      "team": "CHI '01",
+      "stats": {
+        "ryds": 99,
+        "rtd": 4,
+        "recyds": 0,
+        "rectd": 0,
+        "rec": 1
+      }
+    },
+    {
+      "name": "Daimon Shelton",
+      "team": "CHI '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 76,
+        "rectd": 1,
+        "rec": 12
+      }
+    },
+    {
+      "name": "Anthony Thomas",
+      "team": "CHI '01",
+      "stats": {
+        "ryds": 1183,
+        "rtd": 7,
+        "recyds": 178,
+        "rectd": 0,
+        "rec": 22
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "D'Wayne Bates",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 160,
+        "rectd": 1,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Marty Booker",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 1071,
+        "rectd": 8,
+        "rec": 100
+      }
+    },
+    {
+      "name": "Marcus Robinson",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 269,
+        "rectd": 2,
+        "rec": 23
+      }
+    },
+    {
+      "name": "Ahmad Merritt",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 20,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Dez White",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 428,
+        "rectd": 0,
+        "rec": 45
+      }
+    },
+    {
+      "name": "David Terrell",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 415,
+        "rectd": 4,
+        "rec": 34
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Fred Baxter",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 148,
+        "rectd": 2,
+        "rec": 22
+      }
+    },
+    {
+      "name": "John Davis",
+      "team": "CHI '01",
+      "stats": {
+        "recyds": 68,
+        "rectd": 0,
+        "rec": 11
+      }
+    }
+  ]
+}

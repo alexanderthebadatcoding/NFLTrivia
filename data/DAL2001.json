@@ -1,0 +1,173 @@
+{
+  "QB": [
+    {
+      "name": "Ryan Leaf",
+      "team": "DAL '01",
+      "stats": {
+        "yds": 494,
+        "td": 1,
+        "int": 3
+      }
+    },
+    {
+      "name": "Anthony Wright",
+      "team": "DAL '01",
+      "stats": {
+        "yds": 529,
+        "td": 5,
+        "int": 5
+      }
+    },
+    {
+      "name": "Clint Stoerner",
+      "team": "DAL '01",
+      "stats": {
+        "yds": 314,
+        "td": 3,
+        "int": 5
+      }
+    },
+    {
+      "name": "Quincy Carter",
+      "team": "DAL '01",
+      "stats": {
+        "yds": 1072,
+        "td": 5,
+        "int": 7
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Emmitt Smith",
+      "team": "DAL '01",
+      "stats": {
+        "ryds": 1021,
+        "rtd": 3,
+        "recyds": 116,
+        "rectd": 0,
+        "rec": 17
+      }
+    },
+    {
+      "name": "Robert Thomas",
+      "team": "DAL '01",
+      "stats": {
+        "ryds": 40,
+        "rtd": 0,
+        "recyds": 19,
+        "rectd": 1,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Troy Hambrick",
+      "team": "DAL '01",
+      "stats": {
+        "ryds": 579,
+        "rtd": 2,
+        "recyds": 62,
+        "rectd": 0,
+        "rec": 4
+      }
+    },
+    {
+      "name": "Michael Wiley",
+      "team": "DAL '01",
+      "stats": {
+        "ryds": 247,
+        "rtd": 0,
+        "recyds": 99,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Terry Witherspoon",
+      "team": "DAL '01",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 9,
+        "rectd": 0,
+        "rec": 1
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Darrin Chiaverini",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 107,
+        "rectd": 2,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Joey Galloway",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 699,
+        "rectd": 3,
+        "rec": 52
+      }
+    },
+    {
+      "name": "Raghib Ismail",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 834,
+        "rectd": 2,
+        "rec": 53
+      }
+    },
+    {
+      "name": "Reggie Swinton",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 117,
+        "rectd": 1,
+        "rec": 7
+      }
+    },
+    {
+      "name": "Ken-Yon Rambo",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 28,
+        "rectd": 0,
+        "rec": 3
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Jackie Harris",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 141,
+        "rectd": 2,
+        "rec": 15
+      }
+    },
+    {
+      "name": "Mike Lucky",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 96,
+        "rectd": 1,
+        "rec": 13
+      }
+    },
+    {
+      "name": "J.J. Huggins",
+      "team": "DAL '01",
+      "stats": {
+        "recyds": 36,
+        "rectd": 0,
+        "rec": 8
+      }
+    }
+  ]
+}

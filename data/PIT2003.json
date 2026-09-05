@@ -1,0 +1,144 @@
+{
+  "QB": [
+    {
+      "name": "Charlie Batch",
+      "team": "PIT '03",
+      "stats": {
+        "yds": 47,
+        "td": 0,
+        "int": 0
+      }
+    },
+    {
+      "name": "Tommy Maddox",
+      "team": "PIT '03",
+      "stats": {
+        "yds": 3414,
+        "td": 18,
+        "int": 17
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "Jerome Bettis",
+      "team": "PIT '03",
+      "stats": {
+        "ryds": 811,
+        "rtd": 7,
+        "recyds": 86,
+        "rectd": 0,
+        "rec": 13
+      }
+    },
+    {
+      "name": "Amos Zereoue",
+      "team": "PIT '03",
+      "stats": {
+        "ryds": 433,
+        "rtd": 2,
+        "recyds": 310,
+        "rectd": 0,
+        "rec": 40
+      }
+    },
+    {
+      "name": "Dan Kreider",
+      "team": "PIT '03",
+      "stats": {
+        "ryds": 29,
+        "rtd": 1,
+        "recyds": 107,
+        "rectd": 0,
+        "rec": 9
+      }
+    },
+    {
+      "name": "Verron Haynes",
+      "team": "PIT '03",
+      "stats": {
+        "ryds": 63,
+        "rtd": 0,
+        "recyds": 57,
+        "rectd": 0,
+        "rec": 7
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Chris Doering",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 240,
+        "rectd": 1,
+        "rec": 18
+      }
+    },
+    {
+      "name": "Hines Ward",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 1163,
+        "rectd": 10,
+        "rec": 95
+      }
+    },
+    {
+      "name": "Plaxico Burress",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 860,
+        "rectd": 4,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Antwaan Randle El",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 364,
+        "rectd": 1,
+        "rec": 37
+      }
+    },
+    {
+      "name": "Lee Mays",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 17,
+        "rectd": 0,
+        "rec": 2
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Mark Bruener",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 12,
+        "rectd": 1,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Jay Riemersma",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 138,
+        "rectd": 1,
+        "rec": 10
+      }
+    },
+    {
+      "name": "Jerame Tuman",
+      "team": "PIT '03",
+      "stats": {
+        "recyds": 113,
+        "rectd": 0,
+        "rec": 12
+      }
+    }
+  ]
+}

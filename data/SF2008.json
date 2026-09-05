@@ -1,0 +1,162 @@
+{
+  "QB": [
+    {
+      "name": "Shaun Hill",
+      "team": "SF '08",
+      "stats": {
+        "yds": 2046,
+        "td": 13,
+        "int": 8
+      }
+    },
+    {
+      "name": "J.T. O'Sullivan",
+      "team": "SF '08",
+      "stats": {
+        "yds": 1678,
+        "td": 8,
+        "int": 11
+      }
+    }
+  ],
+  "RB": [
+    {
+      "name": "DeShaun Foster",
+      "team": "SF '08",
+      "stats": {
+        "ryds": 234,
+        "rtd": 1,
+        "recyds": 133,
+        "rectd": 1,
+        "rec": 16
+      }
+    },
+    {
+      "name": "Zak Keasey",
+      "team": "SF '08",
+      "stats": {
+        "ryds": 0,
+        "rtd": 0,
+        "recyds": 25,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Frank Gore",
+      "team": "SF '08",
+      "stats": {
+        "ryds": 1036,
+        "rtd": 6,
+        "recyds": 373,
+        "rectd": 2,
+        "rec": 43
+      }
+    },
+    {
+      "name": "Michael Robinson",
+      "team": "SF '08",
+      "stats": {
+        "ryds": 50,
+        "rtd": 0,
+        "recyds": 202,
+        "rectd": 0,
+        "rec": 17
+      }
+    }
+  ],
+  "WR": [
+    {
+      "name": "Isaac Bruce",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 833,
+        "rectd": 7,
+        "rec": 60
+      }
+    },
+    {
+      "name": "Arnaz Battle",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 318,
+        "rectd": 0,
+        "rec": 24
+      }
+    },
+    {
+      "name": "Bryant Johnson",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 546,
+        "rectd": 3,
+        "rec": 45
+      }
+    },
+    {
+      "name": "Dominique Zeigler",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 97,
+        "rectd": 0,
+        "rec": 5
+      }
+    },
+    {
+      "name": "Jason Hill",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 319,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Josh Morgan",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 319,
+        "rectd": 3,
+        "rec": 20
+      }
+    }
+  ],
+  "TE": [
+    {
+      "name": "Sean Ryan",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 15,
+        "rectd": 0,
+        "rec": 3
+      }
+    },
+    {
+      "name": "Billy Bajema",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 34,
+        "rectd": 0,
+        "rec": 2
+      }
+    },
+    {
+      "name": "Vernon Davis",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 358,
+        "rectd": 2,
+        "rec": 31
+      }
+    },
+    {
+      "name": "Delanie Walker",
+      "team": "SF '08",
+      "stats": {
+        "recyds": 155,
+        "rectd": 1,
+        "rec": 10
+      }
+    }
+  ]
+}
