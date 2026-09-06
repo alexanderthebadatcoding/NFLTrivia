@@ -123,6 +123,22 @@
         background: var(--gold);
         color: var(--turf-dark);
       }
+      .scoreboard button.share {
+        background: none;
+        border: 1px solid var(--line);
+        color: var(--line);
+        font-family: "Space Mono", monospace;
+        font-size: 12px;
+        padding: 6px 12px;
+        border-radius: 3px;
+        cursor: pointer;
+        margin-left: auto;
+        margin-right: 10px;
+      }
+      .scoreboard button.share:hover {
+        background: var(--line);
+        color: var(--turf-dark);
+      }
 
       main {
         max-width: 760px;
@@ -321,6 +337,7 @@
 
     <div class="scoreboard">
       <div class="picks" id="picksLabel">0 / 7 drafted</div>
+      <button class="share" id="shareChallenge">🔗 SHARE</button>
       <button class="reroll" id="rerollTop">🔀 NEW TWIST</button>
     </div>
 
@@ -1512,7 +1529,17 @@
         return "historical";
       }
 
-      async function startNewTwist() {
+      function setChallengeUrl(candidate) {
+        const url = new URL(window.location.href);
+        if (candidate && !candidate.live) {
+          url.searchParams.set("challenge", candidate.key);
+        } else {
+          url.searchParams.delete("challenge");
+        }
+        window.history.replaceState({}, "", url);
+      }
+
+      async function startNewTwist(requestedKey = null) {
         if (loadingTwist) return;
         loadingTwist = true;
         document.body.classList.remove("revealed");
@@ -1521,28 +1548,38 @@
         document.getElementById("slotsContainer").innerHTML = "";
         document.getElementById("rerollTop").disabled = true;
 
-        const availableTwists = TWISTS.filter((candidate) =>
-          candidate.live ? !lastTwistWasLive : candidate.key !== lastTwistKey,
-        );
-        const differentFamilyTwists = availableTwists.filter(
-          (candidate) => twistFamily(candidate) !== lastTwistFamily,
-        );
-        const familyPool =
-          differentFamilyTwists.length > 0
-            ? differentFamilyTwists
-            : availableTwists.length > 0
-              ? availableTwists
-              : TWISTS;
-        const families = [
-          ...new Set(familyPool.map((candidate) => twistFamily(candidate))),
-        ];
-        const chosenFamily =
-          families[Math.floor(Math.random() * families.length)];
-        const chosenPool = familyPool.filter(
-          (candidate) => twistFamily(candidate) === chosenFamily,
-        );
-        const chosen =
-          chosenPool[Math.floor(Math.random() * chosenPool.length)];
+        let chosen;
+        if (requestedKey) {
+          chosen = TWISTS.find(
+            (candidate) => candidate.key === requestedKey && !candidate.live,
+          );
+          if (!chosen) {
+            console.warn(`Challenge not found: ${requestedKey}`);
+          }
+        }
+        if (!chosen) {
+          const availableTwists = TWISTS.filter((candidate) =>
+            candidate.live ? !lastTwistWasLive : candidate.key !== lastTwistKey,
+          );
+          const differentFamilyTwists = availableTwists.filter(
+            (candidate) => twistFamily(candidate) !== lastTwistFamily,
+          );
+          const familyPool =
+            differentFamilyTwists.length > 0
+              ? differentFamilyTwists
+              : availableTwists.length > 0
+                ? availableTwists
+                : TWISTS;
+          const families = [
+            ...new Set(familyPool.map((candidate) => twistFamily(candidate))),
+          ];
+          const chosenFamily =
+            families[Math.floor(Math.random() * families.length)];
+          const chosenPool = familyPool.filter(
+            (candidate) => twistFamily(candidate) === chosenFamily,
+          );
+          chosen = chosenPool[Math.floor(Math.random() * chosenPool.length)];
+        }
         if (chosen.live) {
           try {
             twist = await buildLiveTwist();
@@ -1592,6 +1629,7 @@
         lastTwistKey = twist.key;
         lastTwistWasLive = !!twist.live;
         lastTwistFamily = twistFamily(twist);
+        setChallengeUrl(twist);
 
         picked = {};
         Object.keys(twist.need).forEach((pos) => {
@@ -1769,10 +1807,30 @@
       }
 
       document.getElementById("rerollTop").onclick = startNewTwist;
-      startNewTwist();
-      loadStaticRosterTwists().catch((error) => {
-        console.error("Could not load static challenge twists:", error);
-      });
+      document.getElementById("shareChallenge").onclick = async () => {
+        const shareButton = document.getElementById("shareChallenge");
+        try {
+          await navigator.clipboard.writeText(window.location.href);
+          shareButton.textContent = "✓ COPIED";
+          setTimeout(() => (shareButton.textContent = "🔗 SHARE"), 1600);
+        } catch (error) {
+          shareButton.textContent = "COPY FAILED";
+          setTimeout(() => (shareButton.textContent = "🔗 SHARE"), 1600);
+        }
+      };
+
+      async function boot() {
+        try {
+          await loadStaticRosterTwists();
+        } catch (error) {
+          console.error("Could not load static challenge twists:", error);
+        }
+        const requestedKey = new URL(window.location.href).searchParams.get(
+          "challenge",
+        );
+        await startNewTwist(requestedKey);
+      }
+      boot();
     </script>
   </body>
 </html>
