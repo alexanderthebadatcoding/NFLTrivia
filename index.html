@@ -623,6 +623,8 @@
       }
 
       const TWISTS = [
+        LIVE_TWIST_MARKER,
+      ]; /* Legacy inline challenges removed; JSON files are the source of truth.
         {
           key: "nfc_south_2019",
           name: "2019 NFC SOUTH",
@@ -633,6 +635,11 @@
                 name: "Jameis Winston",
                 team: "TB '19",
                 stats: { yds: 5109, td: 33, int: 30 },
+              },
+              {
+                name: "Cam Newton",
+                team: "CAR '19",
+                stats: { yds: 572, td: 0, int: 1 },
               },
               {
                 name: "Matt Ryan",
@@ -1150,7 +1157,20 @@
           .map(([position, amount]) => `${amount} ${position}`)
           .join(" · ");
       });
-      TWISTS.push(LIVE_TWIST_MARKER);
+      TWISTS.push(LIVE_TWIST_MARKER); */
+
+      function selectPlayersWithTeamDiversity(available, maximum) {
+        const selected = [];
+        const remaining = available.slice();
+        const teams = [
+          ...new Set(remaining.map((player) => player.team).filter(Boolean)),
+        ];
+        teams.slice(0, 3).forEach((team) => {
+          const index = remaining.findIndex((player) => player.team === team);
+          if (index !== -1) selected.push(remaining.splice(index, 1)[0]);
+        });
+        return selected.concat(remaining).slice(0, maximum);
+      }
 
       function rosterPositionPools(players) {
         const qb = Array.isArray(players.QB) ? players.QB : [];
@@ -1160,8 +1180,8 @@
 
         return {
           QB: qb,
-          RB: rb.slice(0, OPTIONS_PER_POSITION),
-          WR: wr.slice(0, OPTIONS_PER_POSITION),
+          RB: selectPlayersWithTeamDiversity(rb, OPTIONS_PER_POSITION),
+          WR: selectPlayersWithTeamDiversity(wr, OPTIONS_PER_POSITION),
           FLEX: [
             ...rb
               .slice(OPTIONS_PER_POSITION)
@@ -1205,6 +1225,17 @@
           scoringNote: DEFAULT_SCORING_NOTE,
           players: positionPools,
         };
+      }
+
+      function hasTeamDiversity(twist, minimumTeams = 3) {
+        return Object.keys(twist.need).every((position) => {
+          const teams = new Set(
+            twist.players[position]
+              .map((player) => player.team)
+              .filter(Boolean),
+          );
+          return teams.size >= minimumTeams;
+        });
       }
 
       async function loadManifest() {
@@ -1445,7 +1476,9 @@
             players: group.players,
             sourceLabel: "",
           });
-          allTwists.push(divisionTwist);
+          if (hasTeamDiversity(divisionTwist)) {
+            allTwists.push(divisionTwist);
+          }
         });
 
         const validTwists = allTwists.filter((twist) => {
@@ -1603,10 +1636,14 @@
 
         // Randomize the order players are dealt in for every slot, every twist
         Object.keys(twist.players).forEach((pos) => {
-          twist.players[pos] = shuffle(twist.players[pos]).slice(
-            0,
-            OPTIONS_PER_POSITION,
-          );
+          const shuffledPlayers = shuffle(twist.players[pos]);
+          const maximumOptions =
+            twist.key.startsWith("division_") && pos === "QB"
+              ? 4
+              : OPTIONS_PER_POSITION;
+          twist.players[pos] = twist.key.startsWith("division_")
+            ? selectPlayersWithTeamDiversity(shuffledPlayers, maximumOptions)
+            : shuffledPlayers.slice(0, maximumOptions);
         });
 
         // Final compatibility check: if anything about this twist (live or historical)
