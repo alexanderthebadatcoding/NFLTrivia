@@ -1159,20 +1159,24 @@
       });
       TWISTS.push(LIVE_TWIST_MARKER); */
 
-      function selectPlayersWithTeamDiversity(available, maximum) {
+      function selectPlayersWithTeamDiversity(
+        available,
+        maximum,
+        minimumTeams = 3,
+      ) {
         const selected = [];
         const remaining = available.slice();
         const teams = [
           ...new Set(remaining.map((player) => player.team).filter(Boolean)),
         ];
-        teams.slice(0, 3).forEach((team) => {
+        teams.slice(0, minimumTeams).forEach((team) => {
           const index = remaining.findIndex((player) => player.team === team);
           if (index !== -1) selected.push(remaining.splice(index, 1)[0]);
         });
         return selected.concat(remaining).slice(0, maximum);
       }
 
-      function rosterPositionPools(players) {
+      function rosterPositionPools(players, minimumTeams = 3) {
         const qb = Array.isArray(players.QB) ? players.QB : [];
         const rb = Array.isArray(players.RB) ? players.RB : [];
         const wr = Array.isArray(players.WR) ? players.WR : [];
@@ -1180,8 +1184,16 @@
 
         return {
           QB: qb,
-          RB: selectPlayersWithTeamDiversity(rb, OPTIONS_PER_POSITION),
-          WR: selectPlayersWithTeamDiversity(wr, OPTIONS_PER_POSITION),
+          RB: selectPlayersWithTeamDiversity(
+            rb,
+            OPTIONS_PER_POSITION,
+            minimumTeams,
+          ),
+          WR: selectPlayersWithTeamDiversity(
+            wr,
+            OPTIONS_PER_POSITION,
+            minimumTeams,
+          ),
           FLEX: [
             ...rb
               .slice(OPTIONS_PER_POSITION)
@@ -1198,6 +1210,7 @@
         const rbCount = Array.isArray(players.RB) ? players.RB.length : 0;
         const wrCount = Array.isArray(players.WR) ? players.WR.length : 0;
         const skillNeed = rbCount <= 2 || wrCount <= 2 ? 1 : 2;
+        const minimumTeams = key.startsWith("division_") ? 4 : 3;
         const requestedNeed = {
           QB: 1,
           RB: skillNeed,
@@ -1205,7 +1218,7 @@
           FLEX: 1,
         };
         const need = {};
-        const positionPools = rosterPositionPools(players);
+        const positionPools = rosterPositionPools(players, minimumTeams);
 
         Object.entries(requestedNeed).forEach(([position, amount]) => {
           const available = positionPools[position].length;
@@ -1637,12 +1650,19 @@
         // Randomize the order players are dealt in for every slot, every twist
         Object.keys(twist.players).forEach((pos) => {
           const shuffledPlayers = shuffle(twist.players[pos]);
+          const divisionMinimumTeams = twist.key.startsWith("division_")
+            ? 4
+            : 3;
           const maximumOptions =
             twist.key.startsWith("division_") && pos === "QB"
               ? 4
               : OPTIONS_PER_POSITION;
           twist.players[pos] = twist.key.startsWith("division_")
-            ? selectPlayersWithTeamDiversity(shuffledPlayers, maximumOptions)
+            ? selectPlayersWithTeamDiversity(
+                shuffledPlayers,
+                maximumOptions,
+                divisionMinimumTeams,
+              )
             : shuffledPlayers.slice(0, maximumOptions);
         });
 
