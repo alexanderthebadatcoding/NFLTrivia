@@ -370,7 +370,7 @@
     "College_ARKANSAS_Stats.json",
     "College_AUBURN_Stats.json",
     "College_BAYLOR_Stats.json",
-    "College_BOISE_Stats.json",
+    "College_BOISESTATE_Stats.json",
     "College_BOSTONCOLLEGE_Stats.json",
     "College_BYU_Stats.json",
     "College_CALIFORNIA_Stats.json",
@@ -378,7 +378,6 @@
     "College_CINCINNATI_Stats.json",
     "College_CLEMSON_Stats.json",
     "College_DUKE_Stats.json",
-    "College_ECU_Stats.json",
     "College_FLORIDAATLANTIC_Stats.json",
     "College_FLORIDASTATE_Stats.json",
     "College_FLORIDA_Stats.json",
@@ -404,7 +403,6 @@
     "College_MISSISSIPPI_Stats.json",
     "College_MISSOURI_Stats.json",
     "College_NEBRASKA_Stats.json",
-    "College_NEWMEXICOSTATE_Stats.json",
     "College_NEWMEXICO_Stats.json",
     "College_NORTHCAROLINASTATE_Stats.json",
     "College_NOTREDAME_Stats.json",
@@ -466,5 +464,12 @@
     "Rookie2024.json",
     "Rookie2025.json"
   ],
-  "draft_rounds": ["DraftRound1.json", "DraftRound2.json", "DraftRound3.json"]
+  "draft_rounds": [
+    "DraftRound1.json",
+    "DraftRound2.json",
+    "DraftRound3.json",
+    "DraftRound4.json",
+    "DraftRound5.json",
+    "DraftRound6.json"
+  ]
 }

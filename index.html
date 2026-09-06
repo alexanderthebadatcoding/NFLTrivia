@@ -1256,8 +1256,8 @@
                 });
               }
 
-              if (/^DraftRound[123]\.json$/.test(fileName)) {
-                const match = fileName.match(/^DraftRound([123])\.json$/);
+              if (/^DraftRound[123456]\.json$/.test(fileName)) {
+                const match = fileName.match(/^DraftRound([123456])\.json$/);
                 const round = match ? match[1] : "";
                 return buildRosterTwist({
                   key: `draft_round_${round}`,
