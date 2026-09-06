@@ -1267,6 +1267,7 @@
           ...(Array.isArray(manifest.year_stats) ? manifest.year_stats : []),
           ...(Array.isArray(manifest.team_season) ? manifest.team_season : []),
           ...(Array.isArray(manifest.college) ? manifest.college : []),
+          ...(Array.isArray(manifest.conference) ? manifest.conference : []),
           ...(Array.isArray(manifest.rookies) ? manifest.rookies : []),
           ...(Array.isArray(manifest.draft_rounds)
             ? manifest.draft_rounds
@@ -1383,6 +1384,33 @@
                   rule: `Only players that went to ${collegeName} and appeared in the NFL are eligible.`,
                   players,
                   sourceLabel: "",
+                });
+              }
+
+              if (/^Conference_.*_Stats\.json$/.test(fileName)) {
+                const match = fileName.match(/^Conference_(.+)_Stats\.json$/);
+                const conferenceSlug = match ? match[1] : fileName;
+                const conferenceNames = {
+                  ACC: "ACC",
+                  AMERICAN: "American Athletic Conference",
+                  BIG12: "Big 12",
+                  BIGSKY: "Big Sky Conference",
+                  BIGTEN: "Big Ten",
+                  IVY: "Ivy League",
+                  MAC: "Mid-American Conference",
+                  MOUNTAINWEST: "Mountain West Conference",
+                  PAC12: "Pac-12",
+                  SEC: "SEC",
+                  SUNBELT: "Sun Belt Conference",
+                };
+                const conferenceName =
+                  conferenceNames[conferenceSlug] || conferenceSlug;
+                return buildRosterTwist({
+                  key: `conference_${conferenceSlug}`,
+                  name: `Players from the ${conferenceName}`,
+                  rule: `Every player comes from the ${conferenceName}.`,
+                  players,
+                  sourceLabel: `/data/${fileName}`,
                 });
               }
 

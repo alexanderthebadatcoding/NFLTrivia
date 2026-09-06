@@ -435,6 +435,19 @@
     "College_WISCONSIN_Stats.json",
     "College_WYOMING_Stats.json"
   ],
+  "conference": [
+    "Conference_ACC_Stats.json",
+    "Conference_AMERICAN_Stats.json",
+    "Conference_BIG12_Stats.json",
+    "Conference_BIGSKY_Stats.json",
+    "Conference_BIGTEN_Stats.json",
+    "Conference_IVY_Stats.json",
+    "Conference_MAC_Stats.json",
+    "Conference_MOUNTAINWEST_Stats.json",
+    "Conference_PAC12_Stats.json",
+    "Conference_SEC_Stats.json",
+    "Conference_SUNBELT_Stats.json"
+  ],
   "rookies": [
     "Rookie1999.json",
     "Rookie2000.json",
