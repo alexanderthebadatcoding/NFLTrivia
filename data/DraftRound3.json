@@ -92,7 +92,7 @@
     },
     {
       "name": "Kevin O'Connell",
-      "team": "NWE '08",
+      "team": "NE '08",
       "stats": {
         "yds": 23,
         "td": 0,
@@ -110,7 +110,7 @@
     },
     {
       "name": "Ryan Mallett",
-      "team": "NWE '11",
+      "team": "NE '11",
       "stats": {
         "yds": 1835,
         "td": 9,
@@ -155,7 +155,7 @@
     },
     {
       "name": "Jacoby Brissett",
-      "team": "NWE '16",
+      "team": "NE '16",
       "stats": {
         "yds": 14766,
         "td": 76,
@@ -276,7 +276,7 @@
     },
     {
       "name": "J.R. Redmond",
-      "team": "NWE '00",
+      "team": "NE '00",
       "stats": {
         "ryds": 676,
         "rtd": 1,
@@ -584,7 +584,7 @@
     },
     {
       "name": "Stevan Ridley",
-      "team": "NWE '11",
+      "team": "NE '11",
       "stats": {
         "ryds": 3102,
         "rtd": 24,
@@ -837,7 +837,7 @@
     },
     {
       "name": "Damien Harris",
-      "team": "NWE '19",
+      "team": "NE '19",
       "stats": {
         "ryds": 2188,
         "rtd": 21,
@@ -1370,7 +1370,7 @@
     },
     {
       "name": "Brandon Tate",
-      "team": "NWE '09",
+      "team": "NE '09",
       "stats": {
         "recyds": 1099,
         "rectd": 7,
@@ -1478,7 +1478,7 @@
     },
     {
       "name": "Taylor Price",
-      "team": "NWE '10",
+      "team": "NE '10",
       "stats": {
         "recyds": 80,
         "rectd": 0,
@@ -2018,7 +2018,7 @@
     },
     {
       "name": "Kyle Williams",
-      "team": "NWE '25",
+      "team": "NE '25",
       "stats": {
         "recyds": 209,
         "rectd": 3,
@@ -2191,7 +2191,7 @@
     },
     {
       "name": "David Thomas",
-      "team": "NWE '06",
+      "team": "NE '06",
       "stats": {
         "recyds": 938,
         "rectd": 8,
@@ -2479,7 +2479,7 @@
     },
     {
       "name": "Devin Asiasi",
-      "team": "NWE '20",
+      "team": "NE '20",
       "stats": {
         "recyds": 44,
         "rectd": 1,
@@ -2497,7 +2497,7 @@
     },
     {
       "name": "Dalton Keene",
-      "team": "NWE '20",
+      "team": "NE '20",
       "stats": {
         "recyds": 16,
         "rectd": 0,
